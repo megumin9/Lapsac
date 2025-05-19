@@ -557,16 +557,16 @@ ConsistencyWrongPath more than 50NowTime: 0
 ConsistencyWrongPath more than 50NowTime: 0
 ConsistencyWrongPath more than 50NowTime: 0
 ConsistencyWrongPath more than 50NowTime: 0
-/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_40.cpp:32:9: warning: Violation of Consistency [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/testdataset/test-function/classification_results/filtered_files/test_40.cpp:32:9: warning: Violation of Consistency [CompareCheck.FunctionChecker]
    32 |         ConsistencyChecker();
       |         ^~~~~~~~~~~~~~~~~~~~
-/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_40.cpp:38:9: warning: Violation of Transitivity [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/testdataset/test-function/classification_results/filtered_files/test_40.cpp:38:9: warning: Violation of Transitivity [CompareCheck.FunctionChecker]
    38 |         TransiveChecker();
       |         ^~~~~~~~~~~~~~~~~
-/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_40.cpp:44:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/testdataset/test-function/classification_results/filtered_files/test_40.cpp:44:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
    44 |         SymmetryChecker();
       |         ^~~~~~~~~~~~~~~~~
-/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_40.cpp:50:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/testdataset/test-function/classification_results/filtered_files/test_40.cpp:50:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
    50 |         SymmetryChecker();
       |         ^~~~~~~~~~~~~~~~~
 4 warnings generated.

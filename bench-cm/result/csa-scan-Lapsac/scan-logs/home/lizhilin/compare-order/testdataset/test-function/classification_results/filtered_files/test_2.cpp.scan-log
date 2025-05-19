@@ -840,10 +840,10 @@ Now have compare
 Now have formatSortPriority
 
 
-/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_2.cpp:29:5: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/testdataset/test-function/classification_results/filtered_files/test_2.cpp:29:5: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
    29 |     SymmetryChecker();
       |     ^~~~~~~~~~~~~~~~~
-/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_2.cpp:35:5: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/testdataset/test-function/classification_results/filtered_files/test_2.cpp:35:5: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
    35 |     SymmetryChecker();
       |     ^~~~~~~~~~~~~~~~~
 2 warnings generated.

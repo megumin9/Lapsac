@@ -868,7 +868,7 @@ The Road is: x8989889
 
 The Road is: x8989889
 
-/home/lizhilin/compare-order/real-project/QGIS/test-lambda/classification_results/filtered_files/test_40.cpp:62:12: warning: Called C++ object pointer is null [core.CallAndMessage]
+/home/anonymous/compare-order/real-project/QGIS/test-lambda/classification_results/filtered_files/test_40.cpp:62:12: warning: Called C++ object pointer is null [core.CallAndMessage]
    62 |     return av->geometryType() > bv->geometryType();
       |            ^~~~~~~~~~~~~~~~~~
 1 warning generated.

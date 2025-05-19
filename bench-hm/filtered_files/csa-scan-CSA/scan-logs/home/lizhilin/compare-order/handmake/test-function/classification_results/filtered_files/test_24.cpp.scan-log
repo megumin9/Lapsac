@@ -33,10 +33,10 @@ NowTime: 0
 NowTime: 0
 NowTime: 0
 NowTime: 0
-/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_24.cpp:46:1: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/handmake/test-function/classification_results/filtered_files/test_24.cpp:46:1: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
    46 | SymmetryChecker();
       | ^~~~~~~~~~~~~~~~~
-/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_24.cpp:58:1: warning: Violation of Anti-Reflexivity [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/handmake/test-function/classification_results/filtered_files/test_24.cpp:58:1: warning: Violation of Anti-Reflexivity [CompareCheck.FunctionChecker]
    58 | ReflexivityChecker();
       | ^~~~~~~~~~~~~~~~~~~~
 2 warnings generated.

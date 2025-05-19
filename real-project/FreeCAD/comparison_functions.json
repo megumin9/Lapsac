@@ -1,5 +1,5 @@
 {
-    "/home/lizhilin/compare-order/real-project/FreeCAD/src/Mod/Import/App/dxf/ImpExpDxf.cpp": [
+    "/home/anonymous/compare-order/real-project/FreeCAD/src/Mod/Import/App/dxf/ImpExpDxf.cpp": [
         {
             "header": "bool ImpExpDxfWrite::gp_PntCompare",
             "params": "gp_Pnt p1, gp_Pnt p2",
@@ -7,7 +7,7 @@
             "body": "bool result = false;\n    if (!(p1.IsEqual(p2, Precision::Confusion()))) {              \n        if (!(fabs(p1.X() - p2.X()) < Precision::Confusion())) {  \n            result = p1.X() < p2.X();\n        }\n        else if (!(fabs(p1.Y() - p2.Y()) < Precision::Confusion())) {  \n            result = p1.Y() < p2.Y();\n        }\n        else {\n            result = p1.Z() < p2.Z();\n        }\n    }\n    return result;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/FreeCAD/src/Mod/TechDraw/App/DrawProjectSplit.cpp": [
+    "/home/anonymous/compare-order/real-project/FreeCAD/src/Mod/TechDraw/App/DrawProjectSplit.cpp": [
         {
             "header": "bool DrawProjectSplit::splitCompare",
             "params": "const splitPoint& p1, const splitPoint& p2",
@@ -21,7 +21,7 @@
             "body": "if (!((e1.start - e2.start).Length() < Precision::Confusion())) {  \n        if (DrawUtil::vectorLess(e1.start, e2.start)) {\n            return true;\n        }\n    } else if (!DrawUtil::fpCompare(e1.startAngle, e2.startAngle)) {\n        if (e1.startAngle < e2.startAngle) {\n            return true;\n        }\n    } else if (!DrawUtil::fpCompare(e1.endAngle, e2.endAngle)) {\n        if (e1.endAngle < e2.endAngle) {\n            return true;\n        }\n    } else if (e1.idx < e2.idx) {\n        return true;\n    }\n    return false;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/FreeCAD/src/Mod/TechDraw/App/DrawBrokenView.cpp": [
+    "/home/anonymous/compare-order/real-project/FreeCAD/src/Mod/TechDraw/App/DrawBrokenView.cpp": [
         {
             "header": "bool DrawBrokenView::breakLess",
             "params": "const BreakListEntry& entry0, const BreakListEntry& entry1",
@@ -29,7 +29,7 @@
             "body": "return (entry0.lowLimit < entry1.lowLimit);"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/FreeCAD/src/Mod/TechDraw/App/EdgeWalker.cpp": [
+    "/home/anonymous/compare-order/real-project/FreeCAD/src/Mod/TechDraw/App/EdgeWalker.cpp": [
         {
             "header": "bool EdgeWalker::wireCompare",
             "params": "const TopoDS_Wire& w1, const TopoDS_Wire& w2",

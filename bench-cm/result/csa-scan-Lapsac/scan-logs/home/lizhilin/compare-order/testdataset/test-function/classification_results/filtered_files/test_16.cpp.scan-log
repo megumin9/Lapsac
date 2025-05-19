@@ -2610,13 +2610,13 @@ Now have getRange
 Now have getContainingFile
 Now have getName
 
-/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_16.cpp:50:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/testdataset/test-function/classification_results/filtered_files/test_16.cpp:50:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
    50 |         SymmetryChecker();
       |         ^~~~~~~~~~~~~~~~~
-/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_16.cpp:56:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/testdataset/test-function/classification_results/filtered_files/test_16.cpp:56:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
    56 |         SymmetryChecker();
       |         ^~~~~~~~~~~~~~~~~
-/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_16.cpp:62:9: warning: Violation of Anti-Reflexivity [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/testdataset/test-function/classification_results/filtered_files/test_16.cpp:62:9: warning: Violation of Anti-Reflexivity [CompareCheck.FunctionChecker]
    62 |         ReflexivityChecker();
       |         ^~~~~~~~~~~~~~~~~~~~
 3 warnings generated.

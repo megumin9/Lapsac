@@ -1,5 +1,5 @@
 {
-    "/home/lizhilin/compare-order/real-project/assimp/code/AssetLib/Ogre/OgreXmlSerializer.cpp": [
+    "/home/anonymous/compare-order/real-project/assimp/code/AssetLib/Ogre/OgreXmlSerializer.cpp": [
         {
             "header": "bool BoneCompare",
             "params": "Bone *a, Bone *b",
@@ -7,7 +7,7 @@
             "body": "ai_assert(nullptr != a);\n    ai_assert(nullptr != b);\n\n    return (a->id < b->id);"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/assimp/code/AssetLib/M3D/m3d.h": [
+    "/home/anonymous/compare-order/real-project/assimp/code/AssetLib/M3D/m3d.h": [
         {
             "header": "int _m3d_facecmp",
             "params": "const void *a, const void *b",
@@ -45,7 +45,7 @@
             "body": "const m3dl_t *A = (const m3dl_t *)a, *B = (const m3dl_t *)b;\n    int c = _m3d_strcmp(A->lang, B->lang);\n    if (!c) c = _m3d_strcmp(A->name, B->name);\n    if (!c) c = _m3d_strcmp(A->text, B->text);\n    return c;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/assimp/contrib/poly2tri/poly2tri/common/shapes.h": [
+    "/home/anonymous/compare-order/real-project/assimp/contrib/poly2tri/poly2tri/common/shapes.h": [
         {
             "header": "bool cmp",
             "params": "const Point* a, const Point* b",

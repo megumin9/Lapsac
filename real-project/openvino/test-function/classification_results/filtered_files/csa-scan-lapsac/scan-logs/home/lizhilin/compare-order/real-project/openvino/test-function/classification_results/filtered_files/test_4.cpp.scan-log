@@ -235,13 +235,13 @@ The Road is: x9
 
 The Road is: x9
 
-/home/lizhilin/compare-order/real-project/openvino/test-function/classification_results/filtered_files/test_4.cpp:48:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/real-project/openvino/test-function/classification_results/filtered_files/test_4.cpp:48:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
    48 |         SymmetryChecker();
       |         ^~~~~~~~~~~~~~~~~
-/home/lizhilin/compare-order/real-project/openvino/test-function/classification_results/filtered_files/test_4.cpp:55:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/real-project/openvino/test-function/classification_results/filtered_files/test_4.cpp:55:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
    55 |         SymmetryChecker();
       |         ^~~~~~~~~~~~~~~~~
-/home/lizhilin/compare-order/real-project/openvino/test-function/classification_results/filtered_files/test_4.cpp:62:9: warning: Violation of Anti-Reflexivity [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/real-project/openvino/test-function/classification_results/filtered_files/test_4.cpp:62:9: warning: Violation of Anti-Reflexivity [CompareCheck.FunctionChecker]
    62 |         ReflexivityChecker();
       |         ^~~~~~~~~~~~~~~~~~~~
 3 warnings generated.

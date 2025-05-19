@@ -1,5 +1,5 @@
 {
-    "/home/lizhilin/compare-order/real-project/dolphin/Externals/libiconv-1.14/lib/iconv.c": [
+    "/home/anonymous/compare-order/real-project/dolphin/Externals/libiconv-1.14/lib/iconv.c": [
         {
             "header": "int compare_by_index",
             "params": "const void * arg1, const void * arg2",
@@ -13,7 +13,7 @@
             "body": "const char * name1 = *(const char **)arg1;\n  const char * name2 = *(const char **)arg2;\n  \n  int sign = strcmp(name1,name2);\n  if (sign != 0) {\n    sign = ((name1[0]=='C' && name1[1]=='S') - (name2[0]=='C' && name2[1]=='S'))\n           * 4 + (sign >= 0 ? 1 : -1);\n  }\n  return sign;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/dolphin/Externals/imgui/imgui_demo.cpp": [
+    "/home/anonymous/compare-order/real-project/dolphin/Externals/imgui/imgui_demo.cpp": [
         {
             "header": "int CompareItemsByValue",
             "params": "const void* lhs, const void* rhs",
@@ -27,7 +27,7 @@
             "body": "const MyItem* a = (const MyItem*)lhs;\n        const MyItem* b = (const MyItem*)rhs;\n        for (int n = 0; n < s_current_sort_specs->SpecsCount; n++)\n        {\n            \n            \n            const ImGuiTableColumnSortSpecs* sort_spec = &s_current_sort_specs->Specs[n];\n            int delta = 0;\n            switch (sort_spec->ColumnUserID)\n            {\n            case MyItemColumnID_ID:             delta = (a->ID - b->ID);                break;\n            case MyItemColumnID_Name:           delta = (strcmp(a->Name, b->Name));     break;\n            case MyItemColumnID_Quantity:       delta = (a->Quantity - b->Quantity);    break;\n            case MyItemColumnID_Description:    delta = (strcmp(a->Name, b->Name));     break;\n            default: IM_ASSERT(0); break;\n            }\n            if (delta > 0)\n                return (sort_spec->SortDirection == ImGuiSortDirection_Ascending) ? +1 : -1;\n            if (delta < 0)\n                return (sort_spec->SortDirection == ImGuiSortDirection_Ascending) ? -1 : +1;\n        }\n\n        \n        \n        \n        return (a->ID - b->ID);"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/dolphin/Source/Core/Core/DSP/DSPCodeUtil.cpp": [
+    "/home/anonymous/compare-order/real-project/dolphin/Source/Core/Core/DSP/DSPCodeUtil.cpp": [
         {
             "header": "bool Compare",
             "params": "const std::vector<u16>& code1, const std::vector<u16>& code2",

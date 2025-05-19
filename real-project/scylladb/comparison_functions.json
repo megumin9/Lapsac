@@ -1,5 +1,5 @@
 {
-    "/home/lizhilin/compare-order/real-project/scylladb/test/raft/randomized_nemesis_test.cc": [
+    "/home/anonymous/compare-order/real-project/scylladb/test/raft/randomized_nemesis_test.cc": [
         {
             "header": "bool cmp",
             "params": "const event& o1, const event& o2",

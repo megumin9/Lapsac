@@ -1,5 +1,5 @@
 {
-    "/home/lizhilin/compare-order/real-project/blender/intern/cycles/scene/light_tree.cpp": [
+    "/home/anonymous/compare-order/real-project/blender/intern/cycles/scene/light_tree.cpp": [
         {
             "header": "bool lambda0",
             "params": "const LightTreeEmitter &a, const LightTreeEmitter &b",
@@ -7,7 +7,7 @@
             "body": "return a.light_set_membership < b.light_set_membership;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/blender/source/blender/draw/intern/draw_command.cc": [
+    "/home/anonymous/compare-order/real-project/blender/source/blender/draw/intern/draw_command.cc": [
         {
             "header": "bool lambda0",
             "params": "const DrawPrototype &a, const DrawPrototype &b",
@@ -15,7 +15,7 @@
             "body": "return (a.group_id < b.group_id) ||\n               (a.group_id == b.group_id && a.res_handle > b.res_handle);"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/blender/source/blender/draw/engines/eevee_next/eevee_lightprobe_sphere.cc": [
+    "/home/anonymous/compare-order/real-project/blender/source/blender/draw/engines/eevee_next/eevee_lightprobe_sphere.cc": [
         {
             "header": "bool lambda0",
             "params": "const SphereProbe *a, const SphereProbe *b",
@@ -23,7 +23,7 @@
             "body": "if (a->volume != b->volume) {\n          \n          return a->volume < b->volume;\n        }\n        \n        float3 _a = a->location;\n        float3 _b = b->location;\n        if (_a.x != _b.x) {\n          return _a.x < _b.x;\n        }\n        if (_a.y != _b.y) {\n          return _a.y < _b.y;\n        }\n        if (_a.z != _b.z) {\n          return _a.z < _b.z;\n        }\n        \n        return a < b;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/blender/source/blender/draw/engines/eevee_next/eevee_lightprobe_volume.cc": [
+    "/home/anonymous/compare-order/real-project/blender/source/blender/draw/engines/eevee_next/eevee_lightprobe_volume.cc": [
         {
             "header": "bool lambda0",
             "params": "const VolumeProbe *a, const VolumeProbe *b",
@@ -31,7 +31,7 @@
             "body": "float volume_a = math::determinant(float3x3(a->object_to_world));\n          float volume_b = math::determinant(float3x3(b->object_to_world));\n          if (volume_a != volume_b) {\n            \n            return volume_a < volume_b;\n          }\n          \n          float3 _a = a->object_to_world.location();\n          float3 _b = b->object_to_world.location();\n          if (_a.x != _b.x) {\n            return _a.x < _b.x;\n          }\n          if (_a.y != _b.y) {\n            return _a.y < _b.y;\n          }\n          if (_a.z != _b.z) {\n            return _a.z < _b.z;\n          }\n          \n          return a < b;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/blender/source/blender/io/wavefront_obj/exporter/obj_export_file_writer.cc": [
+    "/home/anonymous/compare-order/real-project/blender/source/blender/io/wavefront_obj/exporter/obj_export_file_writer.cc": [
         {
             "header": "bool lambda0",
             "params": "const MTLMaterial &a, const MTLMaterial &b",
@@ -39,7 +39,7 @@
             "body": "return a.name < b.name;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/blender/source/blender/io/grease_pencil/intern/grease_pencil_io.cc": [
+    "/home/anonymous/compare-order/real-project/blender/source/blender/io/grease_pencil/intern/grease_pencil_io.cc": [
         {
             "header": "bool lambda0",
             "params": "const ObjectInfo &info1, const ObjectInfo &info2",
@@ -47,7 +47,7 @@
             "body": "return info1.depth < info2.depth;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/blender/source/blender/modifiers/intern/MOD_nodes.cc": [
+    "/home/anonymous/compare-order/real-project/blender/source/blender/modifiers/intern/MOD_nodes.cc": [
         {
             "header": "bool lambda0",
             "params": "const NameWithUsage &a, const NameWithUsage &b",
@@ -61,7 +61,7 @@
             "body": "const int severity_a = node_warning_type_severity(a->type);\n    const int severity_b = node_warning_type_severity(b->type);\n    if (severity_a > severity_b) {\n      return true;\n    }\n    if (severity_a < severity_b) {\n      return false;\n    }\n    return BLI_strcasecmp_natural(a->message.c_str(), b->message.c_str()) < 0;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/blender/source/blender/blenkernel/intern/screen.cc": [
+    "/home/anonymous/compare-order/real-project/blender/source/blender/blenkernel/intern/screen.cc": [
         {
             "header": "bool lambda0",
             "params": "const LayoutPanelState *a, const LayoutPanelState *b",
@@ -69,7 +69,7 @@
             "body": "return a->last_used < b->last_used;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/blender/source/blender/blenkernel/intern/mesh_validate.cc": [
+    "/home/anonymous/compare-order/real-project/blender/source/blender/blenkernel/intern/mesh_validate.cc": [
         {
             "header": "bool lambda0",
             "params": "const EdgeUUID &a, const EdgeUUID &b",
@@ -83,7 +83,7 @@
             "body": "return a.edval < b.edval;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/blender/source/blender/blenkernel/intern/node_runtime.cc": [
+    "/home/anonymous/compare-order/real-project/blender/source/blender/blenkernel/intern/node_runtime.cc": [
         {
             "header": "bool lambda0",
             "params": "const bNodeLink *a, const bNodeLink *b",
@@ -91,7 +91,7 @@
             "body": "return a->multi_input_sort_id > b->multi_input_sort_id;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/blender/source/blender/blenkernel/intern/blender_cli_command.cc": [
+    "/home/anonymous/compare-order/real-project/blender/source/blender/blenkernel/intern/blender_cli_command.cc": [
         {
             "header": "bool lambda0",
             "params": "const CommandHandlerPtr &a, const CommandHandlerPtr &b",
@@ -99,7 +99,7 @@
             "body": "return a->id < b->id;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/blender/source/blender/blenkernel/intern/bake_items_paths.cc": [
+    "/home/anonymous/compare-order/real-project/blender/source/blender/blenkernel/intern/bake_items_paths.cc": [
         {
             "header": "bool lambda0",
             "params": "const MetaFile &a, const MetaFile &b",
@@ -107,7 +107,7 @@
             "body": "return a.frame < b.frame;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/blender/source/blender/sequencer/intern/render.cc": [
+    "/home/anonymous/compare-order/real-project/blender/source/blender/sequencer/intern/render.cc": [
         {
             "header": "bool lambda0",
             "params": "const Strip *a, const Strip *b",
@@ -115,7 +115,7 @@
             "body": "return a->machine < b->machine;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/blender/source/blender/sequencer/intern/thumbnail_cache.cc": [
+    "/home/anonymous/compare-order/real-project/blender/source/blender/sequencer/intern/thumbnail_cache.cc": [
         {
             "header": "bool lambda0",
             "params": "const ThumbnailCache::Request &a, const ThumbnailCache::Request &b",
@@ -123,7 +123,7 @@
             "body": "if (a.file_path != b.file_path) {\n                  return a.file_path < b.file_path;\n                }\n                if (a.stream_index != b.stream_index) {\n                  return a.stream_index < b.stream_index;\n                }\n                return a.frame_index < b.frame_index;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/blender/source/blender/editors/space_sequencer/sequencer_select.cc": [
+    "/home/anonymous/compare-order/real-project/blender/source/blender/editors/space_sequencer/sequencer_select.cc": [
         {
             "header": "bool lambda0",
             "params": "const Strip *seq1, const Strip *seq2",
@@ -131,7 +131,7 @@
             "body": "return strip_to_frame_distance(scene, v2d, seq1, mouse_co[0]) <\n           strip_to_frame_distance(scene, v2d, seq2, mouse_co[0]);"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/blender/source/blender/editors/sculpt_paint/grease_pencil_erase.cc": [
+    "/home/anonymous/compare-order/real-project/blender/source/blender/editors/sculpt_paint/grease_pencil_erase.cc": [
         {
             "header": "bool lambda0",
             "params": "SegmentCircleIntersection a, SegmentCircleIntersection b",
@@ -139,7 +139,7 @@
             "body": "return a.factor < b.factor;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/blender/source/blender/editors/sculpt_paint/grease_pencil_interpolate.cc": [
+    "/home/anonymous/compare-order/real-project/blender/source/blender/editors/sculpt_paint/grease_pencil_interpolate.cc": [
         {
             "header": "bool lambda0",
             "params": "const int a, const int b",
@@ -147,7 +147,7 @@
             "body": "const int from_frame_a = curve_pairs.from_frames[a];\n    const int to_frame_a = curve_pairs.to_frames[a];\n    const int from_frame_b = curve_pairs.from_frames[b];\n    const int to_frame_b = curve_pairs.to_frames[b];\n    return from_frame_a < from_frame_b ||\n           (from_frame_a == from_frame_b && to_frame_a < to_frame_b);"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/blender/source/blender/editors/io/io_alembic.cc": [
+    "/home/anonymous/compare-order/real-project/blender/source/blender/editors/io/io_alembic.cc": [
         {
             "header": "bool lambda0",
             "params": "const CacheFrame &a, const CacheFrame &b",
@@ -155,7 +155,7 @@
             "body": "return a.framenr < b.framenr;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/blender/source/blender/editors/space_node/node_relationships.cc": [
+    "/home/anonymous/compare-order/real-project/blender/source/blender/editors/space_node/node_relationships.cc": [
         {
             "header": "bool lambda0",
             "params": "const LinkAndPosition a, const LinkAndPosition b",
@@ -175,7 +175,7 @@
             "body": "return a->location[0] < b->location[0];"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/blender/source/blender/editors/space_node/node_draw.cc": [
+    "/home/anonymous/compare-order/real-project/blender/source/blender/editors/space_node/node_draw.cc": [
         {
             "header": "bool lambda0",
             "params": "bNode *a, bNode *b",
@@ -207,7 +207,7 @@
             "body": "return get_zone_or_node_width(a) > get_zone_or_node_width(b);"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/blender/source/blender/editors/interface/interface_utils.cc": [
+    "/home/anonymous/compare-order/real-project/blender/source/blender/editors/interface/interface_utils.cc": [
         {
             "header": "bool lambda0",
             "params": "const std::unique_ptr<CollItemSearch> &a, const std::unique_ptr<CollItemSearch> &b",
@@ -215,7 +215,7 @@
             "body": "return BLI_strcasecmp_natural(a->name.c_str(), b->name.c_str()) < 0;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/blender/source/blender/gpu/vulkan/vk_backend.cc": [
+    "/home/anonymous/compare-order/real-project/blender/source/blender/gpu/vulkan/vk_backend.cc": [
         {
             "header": "bool lambda0",
             "params": "const GPUDevice &a, const GPUDevice &b",
@@ -223,7 +223,7 @@
             "body": "if (a.name == b.name) {\n      return a.index < b.index;\n    }\n    return a.name < b.name;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/blender/source/blender/blenlib/intern/convexhull_2d.cc": [
+    "/home/anonymous/compare-order/real-project/blender/source/blender/blenlib/intern/convexhull_2d.cc": [
         {
             "header": "bool lambda0",
             "params": "const int &a_index, const int &b_index",
@@ -231,7 +231,7 @@
             "body": "const float *a = points[a_index];\n    const float *b = points[b_index];\n    if (a[1] > b[1]) {\n      return false;\n    }\n    if (a[1] < b[1]) {\n      return true;\n    }\n\n    if (a[0] > b[0]) {\n      return false;\n    }\n    if (a[0] < b[0]) {\n      return true;\n    }\n    return false;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/blender/source/blender/blenlib/intern/string_search.cc": [
+    "/home/anonymous/compare-order/real-project/blender/source/blender/blenlib/intern/string_search.cc": [
         {
             "header": "bool lambda0",
             "params": "int a, int b",
@@ -239,7 +239,7 @@
             "body": "const SearchItem &item_a = items_[a];\n          const SearchItem &item_b = items_[b];\n          \n          return item_a.main_group_length < item_b.main_group_length ||\n                 (item_a.main_group_length == item_b.main_group_length &&\n                  item_a.total_length < item_b.total_length);"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/blender/source/blender/blenlib/intern/index_mask_expression.cc": [
+    "/home/anonymous/compare-order/real-project/blender/source/blender/blenlib/intern/index_mask_expression.cc": [
         {
             "header": "bool lambda0",
             "params": "const CourseBoundary &a, const CourseBoundary &b",
@@ -277,7 +277,7 @@
             "body": "return a.bounds.start() < b.bounds.start();"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/blender/source/blender/blenlib/tests/BLI_math_rotation_test.cc": [
+    "/home/anonymous/compare-order/real-project/blender/source/blender/blenlib/tests/BLI_math_rotation_test.cc": [
         {
             "header": "bool lambda0",
             "params": "const blender::float2 &a, const blender::float2 &b",
@@ -285,7 +285,7 @@
             "body": "float delta = b[0] - a[0];\n    if (delta == 0.0f) {\n      delta = b[1] - a[1];\n    }\n    return delta > 0.0f;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/blender/source/blender/nodes/geometry/nodes/node_geo_collection_info.cc": [
+    "/home/anonymous/compare-order/real-project/blender/source/blender/nodes/geometry/nodes/node_geo_collection_info.cc": [
         {
             "header": "bool lambda0",
             "params": "const InstanceListEntry &a, const InstanceListEntry &b",
@@ -293,7 +293,7 @@
             "body": "return BLI_strcasecmp_natural(a.name, b.name) < 0;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/blender/source/blender/nodes/intern/geometry_nodes_lazy_function.cc": [
+    "/home/anonymous/compare-order/real-project/blender/source/blender/nodes/intern/geometry_nodes_lazy_function.cc": [
         {
             "header": "bool lambda0",
             "params": "const int zone_a, const int zone_b",
@@ -307,7 +307,7 @@
             "body": "return a->runtime->toposort_right_to_left_index < b->runtime->toposort_right_to_left_index;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/blender/source/blender/nodes/intern/geometry_nodes_log.cc": [
+    "/home/anonymous/compare-order/real-project/blender/source/blender/nodes/intern/geometry_nodes_log.cc": [
         {
             "header": "bool lambda0",
             "params": "const FieldInput &a, const FieldInput &b",

@@ -289,10 +289,10 @@ size : &Element{SymRegion{reg_$9<testclass * c>},0 S64b,struct testclass}.var3
 
 
 
-/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_52.cpp:25:9: warning: Violation of Consistency [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/handmake/test-function/classification_results/filtered_files/test_52.cpp:25:9: warning: Violation of Consistency [CompareCheck.FunctionChecker]
    25 |         ConsistencyChecker();
       |         ^~~~~~~~~~~~~~~~~~~~
-/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_52.cpp:31:9: warning: Violation of Transitivity [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/handmake/test-function/classification_results/filtered_files/test_52.cpp:31:9: warning: Violation of Transitivity [CompareCheck.FunctionChecker]
    31 |         TransiveChecker();
       |         ^~~~~~~~~~~~~~~~~
 2 warnings generated.

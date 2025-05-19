@@ -1,5 +1,5 @@
 {
-    "/home/lizhilin/compare-order/real-project/scylladb/api/storage_service.cc": [
+    "/home/anonymous/compare-order/real-project/scylladb/api/storage_service.cc": [
         {
             "header": "bool lambda0",
             "params": "const ss::table_sstables& t1, const ss::table_sstables& t2",
@@ -7,7 +7,7 @@
             "body": "return t1.keyspace() < t2.keyspace() || (t1.keyspace() == t2.keyspace() && t1.table() < t2.table());"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/scylladb/lang/lua.cc": [
+    "/home/anonymous/compare-order/real-project/scylladb/lang/lua.cc": [
         {
             "header": "bool lambda0",
             "params": "const data_value& a, const data_value& b",
@@ -33,7 +33,7 @@
             "body": "return a.first < b.first;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/scylladb/service/tablet_allocator.cc": [
+    "/home/anonymous/compare-order/real-project/scylladb/service/tablet_allocator.cc": [
         {
             "header": "bool lambda0",
             "params": "const repair_plan& x, const repair_plan& y",
@@ -41,7 +41,7 @@
             "body": "return x.repair_time_diff > y.repair_time_diff;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/scylladb/db/virtual_tables.cc": [
+    "/home/anonymous/compare-order/real-project/scylladb/db/virtual_tables.cc": [
         {
             "header": "bool lambda0",
             "params": "const decorated_gid& l, const decorated_gid& r",
@@ -49,7 +49,7 @@
             "body": "return less(l.key, r.key);"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/scylladb/test/boost/row_cache_test.cc": [
+    "/home/anonymous/compare-order/real-project/scylladb/test/boost/row_cache_test.cc": [
         {
             "header": "bool lambda0",
             "params": "auto& dk1, auto& dk2",
@@ -57,7 +57,7 @@
             "body": "return dk1.less_compare(*s, dk2);"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/scylladb/test/boost/mutation_reader_test.cc": [
+    "/home/anonymous/compare-order/real-project/scylladb/test/boost/mutation_reader_test.cc": [
         {
             "header": "bool lambda0",
             "params": "const auto& pk1, const auto& pk2",
@@ -83,7 +83,7 @@
             "body": "return less(a.lower, b.lower);"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/scylladb/test/boost/tablets_test.cc": [
+    "/home/anonymous/compare-order/real-project/scylladb/test/boost/tablets_test.cc": [
         {
             "header": "bool lambda0",
             "params": "const auto& a, const auto& b",
@@ -91,7 +91,7 @@
             "body": "return !a.range.start() || b.range.before(a.range.start()->value(), cmp);"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/scylladb/test/boost/cdc_test.cc": [
+    "/home/anonymous/compare-order/real-project/scylladb/test/boost/cdc_test.cc": [
         {
             "header": "bool lambda0",
             "params": "const std::vector<bytes_opt>& a, const std::vector<bytes_opt>& b",
@@ -99,7 +99,7 @@
             "body": "return timeuuid_type->as_less_comparator()(*a[time_index], *b[time_index]);"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/scylladb/test/lib/mutation_source_test.cc": [
+    "/home/anonymous/compare-order/real-project/scylladb/test/lib/mutation_source_test.cc": [
         {
             "header": "bool lambda0",
             "params": "auto&& c1, auto&& c2",
@@ -107,7 +107,7 @@
             "body": "return timeuuid_type->as_less_comparator()(c1.first, c2.first);"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/scylladb/test/perf/perf.cc": [
+    "/home/anonymous/compare-order/real-project/scylladb/test/perf/perf.cc": [
         {
             "header": "bool lambda0",
             "params": "const perf_result& a, const perf_result& b",
@@ -115,7 +115,7 @@
             "body": "return get_stat(a) < get_stat(b);"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/scylladb/alternator/streams.cc": [
+    "/home/anonymous/compare-order/real-project/scylladb/alternator/streams.cc": [
         {
             "header": "bool lambda0",
             "params": "const data_dictionary::table& t1, const data_dictionary::table& t2",
@@ -123,7 +123,7 @@
             "body": "return t1.schema()->id().uuid() < t2.schema()->id().uuid();"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/scylladb/compaction/incremental_compaction_strategy.cc": [
+    "/home/anonymous/compare-order/real-project/scylladb/compaction/incremental_compaction_strategy.cc": [
         {
             "header": "bool lambda0",
             "params": "sstable_run_and_length& i, sstable_run_and_length& j",
@@ -137,7 +137,7 @@
             "body": "return dht::ring_position(a->get_first_decorated_key()).less_compare(*schema, dht::ring_position(b->get_first_decorated_key()));"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/scylladb/compaction/time_window_compaction_strategy.cc": [
+    "/home/anonymous/compare-order/real-project/scylladb/compaction/time_window_compaction_strategy.cc": [
         {
             "header": "bool lambda0",
             "params": "const shared_sstable& a, const shared_sstable& b",
@@ -145,7 +145,7 @@
             "body": "return dht::ring_position(a->get_first_decorated_key()).less_compare(*schema, dht::ring_position(b->get_first_decorated_key()));"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/scylladb/compaction/compaction_manager.cc": [
+    "/home/anonymous/compare-order/real-project/scylladb/compaction/compaction_manager.cc": [
         {
             "header": "bool lambda0",
             "params": "sstables::shared_sstable& a, sstables::shared_sstable& b",
@@ -153,7 +153,7 @@
             "body": "return a->data_size() > b->data_size();"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/scylladb/compaction/task_manager_module.cc": [
+    "/home/anonymous/compare-order/real-project/scylladb/compaction/task_manager_module.cc": [
         {
             "header": "bool lambda0",
             "params": "const sstables::foreign_sstable_open_info& a, const sstables::foreign_sstable_open_info& b",
@@ -161,7 +161,7 @@
             "body": "return a.uncompressed_data_size > b.uncompressed_data_size;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/scylladb/compaction/size_tiered_compaction_strategy.cc": [
+    "/home/anonymous/compare-order/real-project/scylladb/compaction/size_tiered_compaction_strategy.cc": [
         {
             "header": "bool lambda0",
             "params": "auto& i, auto& j",
@@ -175,7 +175,7 @@
             "body": "return dht::ring_position(a->get_first_decorated_key()).less_compare(*schema, dht::ring_position(b->get_first_decorated_key()));"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/scylladb/compaction/leveled_compaction_strategy.cc": [
+    "/home/anonymous/compare-order/real-project/scylladb/compaction/leveled_compaction_strategy.cc": [
         {
             "header": "bool lambda0",
             "params": "const shared_sstable& a, const shared_sstable& b",
@@ -183,7 +183,7 @@
             "body": "return dht::ring_position(a->get_first_decorated_key()).less_compare(*schema, dht::ring_position(b->get_first_decorated_key()));"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/scylladb/repair/row_level.cc": [
+    "/home/anonymous/compare-order/real-project/scylladb/repair/row_level.cc": [
         {
             "header": "bool lambda0",
             "params": "const auto& a, const auto& b",

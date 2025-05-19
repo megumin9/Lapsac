@@ -77,10 +77,10 @@ NowTime: 0
 NowTime: 0
 NowTime: 0
 NowTime: 0
-/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_31.cpp:36:1: warning: Violation of Consistency [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/handmake/test-function/classification_results/filtered_files/test_31.cpp:36:1: warning: Violation of Consistency [CompareCheck.FunctionChecker]
    36 | ConsistencyChecker();
       | ^~~~~~~~~~~~~~~~~~~~
-/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_31.cpp:48:1: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/handmake/test-function/classification_results/filtered_files/test_31.cpp:48:1: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
    48 | SymmetryChecker();
       | ^~~~~~~~~~~~~~~~~
 2 warnings generated.

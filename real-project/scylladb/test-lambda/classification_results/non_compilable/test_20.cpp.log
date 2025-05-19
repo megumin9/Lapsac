@@ -1,11 +1,11 @@
-/home/lizhilin/compare-order/real-project/scylladb/test-lambda/classification_results/non_compilable/test_20.cpp:1:1: error: unknown type name 'To'
+/home/anonymous/compare-order/real-project/scylladb/test-lambda/classification_results/non_compilable/test_20.cpp:1:1: error: unknown type name 'To'
     1 | To fix the code, the parameter type of `less_compare` in `dht::ring_position` must refer to the global `schema` class. This is done by using `::schema` to specify the global namespace.
       | ^
-/home/lizhilin/compare-order/real-project/scylladb/test-lambda/classification_results/non_compilable/test_20.cpp:1:7: error: expected ';' after top level declarator
+/home/anonymous/compare-order/real-project/scylladb/test-lambda/classification_results/non_compilable/test_20.cpp:1:7: error: expected ';' after top level declarator
     1 | To fix the code, the parameter type of `less_compare` in `dht::ring_position` must refer to the global `schema` class. This is done by using `::schema` to specify the global namespace.
       |       ^
       |       ;
-/home/lizhilin/compare-order/real-project/scylladb/test-lambda/classification_results/non_compilable/test_20.cpp:18:37: error: no class named 'schema' in the global namespace
+/home/anonymous/compare-order/real-project/scylladb/test-lambda/classification_results/non_compilable/test_20.cpp:18:37: error: no class named 'schema' in the global namespace
    18 |     bool less_compare(const class ::schema&, const ring_position&) const;
       |                                   ~~^
 3 errors generated.

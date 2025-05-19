@@ -923,10 +923,10 @@ compare : &a.osDateTime &c.osDateTime
 
 
 
-/home/lizhilin/compare-order/real-project/gdal/test-lambda/classification_results/filtered_files/test_8.cpp:23:5: warning: Violation of Consistency [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/real-project/gdal/test-lambda/classification_results/filtered_files/test_8.cpp:23:5: warning: Violation of Consistency [CompareCheck.FunctionChecker]
    23 |     ConsistencyChecker();
       |     ^~~~~~~~~~~~~~~~~~~~
-/home/lizhilin/compare-order/real-project/gdal/test-lambda/classification_results/filtered_files/test_8.cpp:29:5: warning: Violation of Transitivity [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/real-project/gdal/test-lambda/classification_results/filtered_files/test_8.cpp:29:5: warning: Violation of Transitivity [CompareCheck.FunctionChecker]
    29 |     TransiveChecker();
       |     ^~~~~~~~~~~~~~~~~
 2 warnings generated.

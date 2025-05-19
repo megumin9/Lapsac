@@ -92,10 +92,10 @@ NowTime: 0
 NowTime: 0
 
 
-/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_24.cpp:41:1: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/handmake/test-function/classification_results/filtered_files/test_24.cpp:41:1: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
    41 | SymmetryChecker();
       | ^~~~~~~~~~~~~~~~~
-/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_24.cpp:53:1: warning: Violation of Anti-Reflexivity [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/handmake/test-function/classification_results/filtered_files/test_24.cpp:53:1: warning: Violation of Anti-Reflexivity [CompareCheck.FunctionChecker]
    53 | ReflexivityChecker();
       | ^~~~~~~~~~~~~~~~~~~~
 2 warnings generated.

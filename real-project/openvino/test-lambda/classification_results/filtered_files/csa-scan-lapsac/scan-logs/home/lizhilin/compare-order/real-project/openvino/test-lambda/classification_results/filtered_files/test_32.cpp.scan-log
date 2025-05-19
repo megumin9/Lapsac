@@ -4622,13 +4622,13 @@ The Road is: x888889
 
 The Road is: x888889
 
-/home/lizhilin/compare-order/real-project/openvino/test-lambda/classification_results/filtered_files/test_32.cpp:65:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/real-project/openvino/test-lambda/classification_results/filtered_files/test_32.cpp:65:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
    65 |         SymmetryChecker();
       |         ^~~~~~~~~~~~~~~~~
-/home/lizhilin/compare-order/real-project/openvino/test-lambda/classification_results/filtered_files/test_32.cpp:71:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/real-project/openvino/test-lambda/classification_results/filtered_files/test_32.cpp:71:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
    71 |         SymmetryChecker();
       |         ^~~~~~~~~~~~~~~~~
-/home/lizhilin/compare-order/real-project/openvino/test-lambda/classification_results/filtered_files/test_32.cpp:77:9: warning: Violation of Anti-Reflexivity [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/real-project/openvino/test-lambda/classification_results/filtered_files/test_32.cpp:77:9: warning: Violation of Anti-Reflexivity [CompareCheck.FunctionChecker]
    77 |         ReflexivityChecker();
       |         ^~~~~~~~~~~~~~~~~~~~
 3 warnings generated.

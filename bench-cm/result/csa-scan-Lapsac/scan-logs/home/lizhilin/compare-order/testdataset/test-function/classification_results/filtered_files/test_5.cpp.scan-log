@@ -1318,10 +1318,10 @@ ConsistencyWrongPath more than 50NowTime: 1
 ConsistencyWrongPath more than 50NowTime: 1
 
 
-/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_5.cpp:59:1: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/testdataset/test-function/classification_results/filtered_files/test_5.cpp:59:1: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
    59 | SymmetryChecker();
       | ^~~~~~~~~~~~~~~~~
-/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_5.cpp:65:1: warning: Violation of Anti-Reflexivity [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/testdataset/test-function/classification_results/filtered_files/test_5.cpp:65:1: warning: Violation of Anti-Reflexivity [CompareCheck.FunctionChecker]
    65 | ReflexivityChecker();
       | ^~~~~~~~~~~~~~~~~~~~
 2 warnings generated.

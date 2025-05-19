@@ -1,5 +1,5 @@
 {
-    "/home/lizhilin/compare-order/real-project/gdal/alg/gdalwarpoperation.cpp": [
+    "/home/anonymous/compare-order/real-project/gdal/alg/gdalwarpoperation.cpp": [
         {
             "header": "bool lambda0",
             "params": "const GDALWarpChunk &a, const GDALWarpChunk &b",
@@ -7,7 +7,7 @@
             "body": "if (a.dy < b.dy)\n                          return true;\n                      if (a.dy > b.dy)\n                          return false;\n                      return a.dx < b.dx;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/gdal/port/cpl_vsil.cpp": [
+    "/home/anonymous/compare-order/real-project/gdal/port/cpl_vsil.cpp": [
         {
             "header": "bool lambda0",
             "params": "const std::string &a, const std::string &b",
@@ -15,7 +15,7 @@
             "body": "return a > b;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/gdal/port/cplstringlist.cpp": [
+    "/home/anonymous/compare-order/real-project/gdal/port/cplstringlist.cpp": [
         {
             "header": "bool lambda0",
             "params": "const char *a, const char *b",
@@ -23,7 +23,7 @@
             "body": "return CPLCompareKeyValueString(a, b) < 0;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/gdal/frmts/gti/gdaltileindexdataset.cpp": [
+    "/home/anonymous/compare-order/real-project/gdal/frmts/gti/gdaltileindexdataset.cpp": [
         {
             "header": "bool lambda0",
             "params": "const SourceDesc &a, const SourceDesc &b",
@@ -31,7 +31,7 @@
             "body": "const auto &poFeatureA = (m_bSortFieldAsc ? a : b).poFeature;\n            const auto &poFeatureB = (m_bSortFieldAsc ? b : a).poFeature;\n            if (m_nSortFieldIndex >= 0 &&\n                poFeatureA->IsFieldSetAndNotNull(m_nSortFieldIndex) &&\n                poFeatureB->IsFieldSetAndNotNull(m_nSortFieldIndex))\n            {\n                if (eFieldType == OFTString)\n                {\n                    const int nCmp =\n                        strcmp(poFeatureA->GetFieldAsString(m_nSortFieldIndex),\n                               poFeatureB->GetFieldAsString(m_nSortFieldIndex));\n                    if (nCmp < 0)\n                        return true;\n                    if (nCmp > 0)\n                        return false;\n                }\n                else if (eFieldType == OFTInteger || eFieldType == OFTInteger64)\n                {\n                    const auto nA =\n                        poFeatureA->GetFieldAsInteger64(m_nSortFieldIndex);\n                    const auto nB =\n                        poFeatureB->GetFieldAsInteger64(m_nSortFieldIndex);\n                    if (nA < nB)\n                        return true;\n                    if (nA > nB)\n                        return false;\n                }\n                else if (eFieldType == OFTReal)\n                {\n                    const auto dfA =\n                        poFeatureA->GetFieldAsDouble(m_nSortFieldIndex);\n                    const auto dfB =\n                        poFeatureB->GetFieldAsDouble(m_nSortFieldIndex);\n                    if (dfA < dfB)\n                        return true;\n                    if (dfA > dfB)\n                        return false;\n                }\n                else if (eFieldType == OFTDate || eFieldType == OFTDateTime)\n                {\n                    const auto poFieldA =\n                        poFeatureA->GetRawFieldRef(m_nSortFieldIndex);\n                    const auto poFieldB =\n                        poFeatureB->GetRawFieldRef(m_nSortFieldIndex);\n\n#define COMPARE_DATE_COMPONENT(comp)                                           \\\n    do                                                                         \\\n    {                                                                          \\\n        if (poFieldA->Date.comp < poFieldB->Date.comp)                         \\\n            return true;                                                       \\\n        if (poFieldA->Date.comp > poFieldB->Date.comp)                         \\\n            return false;                                                      \\\n    } while (0)\n\n                    COMPARE_DATE_COMPONENT(Year);\n                    COMPARE_DATE_COMPONENT(Month);\n                    COMPARE_DATE_COMPONENT(Day);\n                    COMPARE_DATE_COMPONENT(Hour);\n                    COMPARE_DATE_COMPONENT(Minute);\n                    COMPARE_DATE_COMPONENT(Second);\n                }\n                else\n                {\n                    CPLAssert(false);\n                }\n            }\n            return poFeatureA->GetFID() < poFeatureB->GetFID();"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/gdal/frmts/ogcapi/gdalogcapidataset.cpp": [
+    "/home/anonymous/compare-order/real-project/gdal/frmts/ogcapi/gdalogcapidataset.cpp": [
         {
             "header": "bool lambda0",
             "params": "const gdal::TileMatrixSet::TileMatrix::\n                                 VariableMatrixWidth &a,\n                             const gdal::TileMatrixSet::TileMatrix::\n                                 VariableMatrixWidth &b",
@@ -39,7 +39,7 @@
             "body": "return a.mMinTileRow < b.mMinTileRow;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/gdal/frmts/hdf5/bagdataset.cpp": [
+    "/home/anonymous/compare-order/real-project/gdal/frmts/hdf5/bagdataset.cpp": [
         {
             "header": "bool lambda0",
             "params": "int i1, int i2",
@@ -47,7 +47,7 @@
             "body": "return SQ(adfX[i1] - dfX) + SQ(adfY[i1] - dfY) <\n                                   SQ(adfX[i2] - dfX) + SQ(adfY[i2] - dfY);"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/gdal/frmts/pdf/pdfdataset.cpp": [
+    "/home/anonymous/compare-order/real-project/gdal/frmts/pdf/pdfdataset.cpp": [
         {
             "header": "bool lambda0",
             "params": "const LayerStruct &a, const LayerStruct &b",
@@ -55,7 +55,7 @@
             "body": "if (a.iPage < b.iPage)\n                      return true;\n                  if (a.iPage > b.iPage)\n                      return false;\n                  return a.nInsertIdx < b.nInsertIdx;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/gdal/frmts/stacit/stacitdataset.cpp": [
+    "/home/anonymous/compare-order/real-project/gdal/frmts/stacit/stacitdataset.cpp": [
         {
             "header": "bool lambda0",
             "params": "const AssetItem &a, const AssetItem &b",
@@ -63,7 +63,7 @@
             "body": "if (!a.osDateTime.empty() && !b.osDateTime.empty())\n                      return a.osDateTime < b.osDateTime;\n                  return &a < &b;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/gdal/apps/gdalwarp_lib.cpp": [
+    "/home/anonymous/compare-order/real-project/gdal/apps/gdalwarp_lib.cpp": [
         {
             "header": "bool lambda0",
             "params": "const std::pair<double, double> &oPair1,\n                         const std::pair<double, double> &oPair2",
@@ -77,7 +77,7 @@
             "body": "return oPair1.second < oPair2.second;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/gdal/apps/argparse/argparse.hpp": [
+    "/home/anonymous/compare-order/real-project/gdal/apps/argparse/argparse.hpp": [
         {
             "header": "bool lambda0",
             "params": "const auto &lhs, const auto &rhs",
@@ -85,7 +85,7 @@
             "body": "return lhs.size() == rhs.size() ? lhs < rhs : lhs.size() < rhs.size();"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/gdal/third_party/LercLib/Huffman.cpp": [
+    "/home/anonymous/compare-order/real-project/gdal/third_party/LercLib/Huffman.cpp": [
         {
             "header": "bool lambda0",
             "params": "const pair<int, unsigned int>& p0,\n       const pair<int, unsigned int>& p1",
@@ -93,7 +93,7 @@
             "body": "return p0.first > p1.first;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/gdal/third_party/LercLib/Lerc2.cpp": [
+    "/home/anonymous/compare-order/real-project/gdal/third_party/LercLib/Lerc2.cpp": [
         {
             "header": "bool lambda0",
             "params": "const pair<unsigned int, unsigned int>& p0,\n       const pair<unsigned int, unsigned int>& p1",
@@ -101,7 +101,7 @@
             "body": "return p0.first < p1.first;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/gdal/ogr/ogrsf_frmts/gml/gmlhandler.cpp": [
+    "/home/anonymous/compare-order/real-project/gdal/ogr/ogrsf_frmts/gml/gmlhandler.cpp": [
         {
             "header": "bool lambda0",
             "params": "const GeometryNamesStruct &a, const GeometryNamesStruct &b",
@@ -109,7 +109,7 @@
             "body": "return a.nHash < b.nHash;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/gdal/ogr/ogrsf_frmts/flatgeobuf/packedrtree.h": [
+    "/home/anonymous/compare-order/real-project/gdal/ogr/ogrsf_frmts/flatgeobuf/packedrtree.h": [
         {
             "header": "bool lambda0",
             "params": "const ITEM_TYPE &a, const ITEM_TYPE &b",
@@ -117,7 +117,7 @@
             "body": "uint32_t ha =\n                hilbert(a.nodeItem, HILBERT_MAX, minX, minY, width, height);\n            uint32_t hb =\n                hilbert(b.nodeItem, HILBERT_MAX, minX, minY, width, height);\n            return ha > hb;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/gdal/ogr/ogrsf_frmts/flatgeobuf/ogrflatgeobuflayer.cpp": [
+    "/home/anonymous/compare-order/real-project/gdal/ogr/ogrsf_frmts/flatgeobuf/ogrflatgeobuflayer.cpp": [
         {
             "header": "bool lambda0",
             "params": "const BatchItem &a, const BatchItem &b",
@@ -125,7 +125,7 @@
             "body": "return m_featureItems[a.featureIdx].offset <\n                                 m_featureItems[b.featureIdx].offset;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/gdal/ogr/ogrsf_frmts/flatgeobuf/packedrtree.cpp": [
+    "/home/anonymous/compare-order/real-project/gdal/ogr/ogrsf_frmts/flatgeobuf/packedrtree.cpp": [
         {
             "header": "bool lambda0",
             "params": "std::shared_ptr<Item> a,\n                                          std::shared_ptr<Item> b",
@@ -139,7 +139,7 @@
             "body": "uint32_t ha =\n                      hilbert(a, HILBERT_MAX, minX, minY, width, height);\n                  uint32_t hb =\n                      hilbert(b, HILBERT_MAX, minX, minY, width, height);\n                  return ha > hb;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/gdal/ogr/ogrsf_frmts/openfilegdb/filegdbindex_write.cpp": [
+    "/home/anonymous/compare-order/real-project/gdal/ogr/ogrsf_frmts/openfilegdb/filegdbindex_write.cpp": [
         {
             "header": "bool lambda0",
             "params": "const ValueOIDPair &a, const ValueOIDPair &b",
@@ -147,7 +147,7 @@
             "body": "return a.first < b.first ||\n                         (a.first == b.first && a.second < b.second);"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/gdal/ogr/ogrsf_frmts/pmtiles/ogrpmtilesfrommbtiles.cpp": [
+    "/home/anonymous/compare-order/real-project/gdal/ogr/ogrsf_frmts/pmtiles/ogrpmtilesfrommbtiles.cpp": [
         {
             "header": "bool lambda0",
             "params": "const TileEntry &a, const TileEntry &b",
@@ -155,7 +155,7 @@
             "body": "return a.nTileId < b.nTileId;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/gdal/ogr/ogrsf_frmts/sqlite/sqlite_rtree_bulk_load/sqlite_rtree_bulk_load.c": [
+    "/home/anonymous/compare-order/real-project/gdal/ogr/ogrsf_frmts/sqlite/sqlite_rtree_bulk_load/sqlite_rtree_bulk_load.c": [
         {
             "header": "bool lambda0",
             "params": "const SortType& a, const SortType& b",
@@ -169,7 +169,7 @@
             "body": "return nodeOri.rects[a.i].min[1] < nodeOri.rects[b.i].min[1] ||\n               (nodeOri.rects[a.i].min[1] == nodeOri.rects[b.i].min[1] &&\n                nodeOri.rects[a.i].max[1] < nodeOri.rects[b.i].max[1]);"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/gdal/ogr/ogrsf_frmts/shape/ogrshapedatasource.cpp": [
+    "/home/anonymous/compare-order/real-project/gdal/ogr/ogrsf_frmts/shape/ogrshapedatasource.cpp": [
         {
             "header": "bool lambda0",
             "params": "const CPLString &a, const CPLString &b",

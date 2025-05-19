@@ -1,4 +1,4 @@
-/home/lizhilin/compare-order/testdataset/test-function/test_27.cpp:4:24: error: declaration conflicts with target of using declaration already in scope
+/home/anonymous/compare-order/testdataset/test-function/test_27.cpp:4:24: error: declaration conflicts with target of using declaration already in scope
     4 | namespace std { size_t strlen(const char*); }
       |                        ^
 /usr/include/string.h:385:15: note: target of using declaration

@@ -6282,13 +6282,13 @@ TimeLimit
 
 
 
-/home/lizhilin/compare-order/real-project/colmap/test-lambda/classification_results/filtered_files/test_10.cpp:37:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/real-project/colmap/test-lambda/classification_results/filtered_files/test_10.cpp:37:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
    37 |         SymmetryChecker();
       |         ^~~~~~~~~~~~~~~~~
-/home/lizhilin/compare-order/real-project/colmap/test-lambda/classification_results/filtered_files/test_10.cpp:43:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/real-project/colmap/test-lambda/classification_results/filtered_files/test_10.cpp:43:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
    43 |         SymmetryChecker();
       |         ^~~~~~~~~~~~~~~~~
-/home/lizhilin/compare-order/real-project/colmap/test-lambda/classification_results/filtered_files/test_10.cpp:49:9: warning: Violation of Anti-Reflexivity [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/real-project/colmap/test-lambda/classification_results/filtered_files/test_10.cpp:49:9: warning: Violation of Anti-Reflexivity [CompareCheck.FunctionChecker]
    49 |         ReflexivityChecker();
       |         ^~~~~~~~~~~~~~~~~~~~
 3 warnings generated.

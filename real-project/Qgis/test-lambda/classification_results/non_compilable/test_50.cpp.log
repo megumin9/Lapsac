@@ -1,4 +1,4 @@
-/home/lizhilin/compare-order/real-project/QGIS/test-lambda/test_50.cpp:27:17: error: invalid operands to binary expression ('const QString' and 'const QString')
+/home/anonymous/compare-order/real-project/QGIS/test-lambda/test_50.cpp:27:17: error: invalid operands to binary expression ('const QString' and 'const QString')
    27 |     if ( a.name == b.name )
       |          ~~~~~~ ^  ~~~~~~
 1 error generated.

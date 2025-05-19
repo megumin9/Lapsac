@@ -507,10 +507,10 @@ The Road is: x28809
 Now have localeAwareCompare
 Now have localeAwareCompare
 
-/home/lizhilin/compare-order/real-project/QGIS/test-lambda/classification_results/filtered_files/test_50.cpp:47:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/real-project/QGIS/test-lambda/classification_results/filtered_files/test_50.cpp:47:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
    47 |         SymmetryChecker();
       |         ^~~~~~~~~~~~~~~~~
-/home/lizhilin/compare-order/real-project/QGIS/test-lambda/classification_results/filtered_files/test_50.cpp:53:9: warning: Violation of Anti-Reflexivity [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/real-project/QGIS/test-lambda/classification_results/filtered_files/test_50.cpp:53:9: warning: Violation of Anti-Reflexivity [CompareCheck.FunctionChecker]
    53 |         ReflexivityChecker();
       |         ^~~~~~~~~~~~~~~~~~~~
 2 warnings generated.

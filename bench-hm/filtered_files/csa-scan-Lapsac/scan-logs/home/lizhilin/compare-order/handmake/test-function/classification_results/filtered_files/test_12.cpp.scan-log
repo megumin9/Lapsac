@@ -241,7 +241,7 @@ insert:
 size : &Element{SymRegion{reg_$7<testclass * c>},0 S64b,struct testclass}.var3 
 
 
-/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_12.cpp:23:9: warning: Violation of Consistency [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/handmake/test-function/classification_results/filtered_files/test_12.cpp:23:9: warning: Violation of Consistency [CompareCheck.FunctionChecker]
    23 |         ConsistencyChecker();
       |         ^~~~~~~~~~~~~~~~~~~~
 1 warning generated.

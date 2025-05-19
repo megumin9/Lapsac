@@ -1,25 +1,25 @@
-/home/lizhilin/compare-order/real-project/tensorflow/test-function/test_4.cpp:26:3: error: use of undeclared identifier 'NewTest'
+/home/anonymous/compare-order/real-project/tensorflow/test-function/test_4.cpp:26:3: error: use of undeclared identifier 'NewTest'
    26 |   NewTest();
       |   ^
-/home/lizhilin/compare-order/real-project/tensorflow/test-function/test_4.cpp:28:5: error: use of undeclared identifier 'ConsistencyChecker'
+/home/anonymous/compare-order/real-project/tensorflow/test-function/test_4.cpp:28:5: error: use of undeclared identifier 'ConsistencyChecker'
    28 |     ConsistencyChecker();
       |     ^
-/home/lizhilin/compare-order/real-project/tensorflow/test-function/test_4.cpp:32:3: error: use of undeclared identifier 'NewTest'
+/home/anonymous/compare-order/real-project/tensorflow/test-function/test_4.cpp:32:3: error: use of undeclared identifier 'NewTest'
    32 |   NewTest();
       |   ^
-/home/lizhilin/compare-order/real-project/tensorflow/test-function/test_4.cpp:34:5: error: use of undeclared identifier 'TransiveChecker'
+/home/anonymous/compare-order/real-project/tensorflow/test-function/test_4.cpp:34:5: error: use of undeclared identifier 'TransiveChecker'
    34 |     TransiveChecker();
       |     ^
-/home/lizhilin/compare-order/real-project/tensorflow/test-function/test_4.cpp:38:3: error: use of undeclared identifier 'NewTest'
+/home/anonymous/compare-order/real-project/tensorflow/test-function/test_4.cpp:38:3: error: use of undeclared identifier 'NewTest'
    38 |   NewTest();
       |   ^
-/home/lizhilin/compare-order/real-project/tensorflow/test-function/test_4.cpp:40:5: error: use of undeclared identifier 'SymmetryChecker'
+/home/anonymous/compare-order/real-project/tensorflow/test-function/test_4.cpp:40:5: error: use of undeclared identifier 'SymmetryChecker'
    40 |     SymmetryChecker();
       |     ^
-/home/lizhilin/compare-order/real-project/tensorflow/test-function/test_4.cpp:44:3: error: use of undeclared identifier 'NewTest'
+/home/anonymous/compare-order/real-project/tensorflow/test-function/test_4.cpp:44:3: error: use of undeclared identifier 'NewTest'
    44 |   NewTest();
       |   ^
-/home/lizhilin/compare-order/real-project/tensorflow/test-function/test_4.cpp:46:5: error: use of undeclared identifier 'ReflexivityChecker'
+/home/anonymous/compare-order/real-project/tensorflow/test-function/test_4.cpp:46:5: error: use of undeclared identifier 'ReflexivityChecker'
    46 |     ReflexivityChecker();
       |     ^
 8 errors generated.

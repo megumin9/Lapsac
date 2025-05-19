@@ -1,5 +1,5 @@
 {
-    "/home/lizhilin/compare-order/testdataset/WrongCase/test3.cpp": [
+    "/home/anonymous/compare-order/testdataset/WrongCase/test3.cpp": [
         {
             "header": "int compare_3",
             "params": "const AuthChallenge& lhs, const AuthChallenge& rhs",
@@ -7,7 +7,7 @@
             "body": "if (lhs.rank != rhs.rank) {\n    return lhs.rank < rhs.rank ? 1 : -1;\n  }\n\n  if (lhs.rank != ChallengeRank::Digest) {\n    return 0;\n  }\n\n  if (lhs.algorithm == 0 || rhs.algorithm == 0) {\n    return 0;\n  }\n\n  return lhs.algorithm < rhs.algorithm ? 1 : -1;"
         }
     ],
-    "/home/lizhilin/compare-order/testdataset/WrongCase/test17.cpp": [
+    "/home/anonymous/compare-order/testdataset/WrongCase/test17.cpp": [
         {
             "header": "bool compare_17",
             "params": "const std::string &lhs, const std::string &rhs",
@@ -15,7 +15,7 @@
             "body": "return formatSortPriority(lhs) > formatSortPriority(rhs) || lhs < rhs;"
         }
     ],
-    "/home/lizhilin/compare-order/testdataset/WrongCase/test2.cpp": [
+    "/home/anonymous/compare-order/testdataset/WrongCase/test2.cpp": [
         {
             "header": "bool compare_2",
             "params": "const MyStruct& p1, const MyStruct& p2",
@@ -23,7 +23,7 @@
             "body": "return p1.first.compare(p2.first) <= 0;"
         }
     ],
-    "/home/lizhilin/compare-order/testdataset/WrongCase/test7.cpp": [
+    "/home/anonymous/compare-order/testdataset/WrongCase/test7.cpp": [
         {
             "header": "bool compare_7",
             "params": "const std::string& lesser, const std::string& greater",
@@ -31,7 +31,7 @@
             "body": "return !CModEntry::compareVersions(lesser, greater);"
         }
     ],
-    "/home/lizhilin/compare-order/testdataset/WrongCase/test8.cpp": [
+    "/home/anonymous/compare-order/testdataset/WrongCase/test8.cpp": [
         {
             "header": "int compare_8",
             "params": "const void *vh1, const void *vh2",
@@ -39,7 +39,7 @@
             "body": "CM_HIT *h1 = *((CM_HIT **) vh1);  \n  CM_HIT *h2 = *((CM_HIT **) vh2);\n \n  if      (h1->evalue > h2->evalue) return  1; \n  else if (h1->evalue < h2->evalue) return -1;\n  else { \n    if      (h1->score < h2->score) return  1; \n    else if (h1->score > h2->score) return -1;\n    else {\n      if      (h1->seq_idx > h2->seq_idx) return  1; \n      else if (h1->seq_idx < h2->seq_idx) return -1;\n      else {\n \t      if      (h1->start > h2->start) return  1; \n \t      else if (h1->start < h2->start) return -1;\n \t      else                            return  (h1->pass_idx < h2->pass_idx ? 1 : -1 ); \n      }\n    }\n  }"
         }
     ],
-    "/home/lizhilin/compare-order/testdataset/WrongCase/test38.cpp": [
+    "/home/anonymous/compare-order/testdataset/WrongCase/test38.cpp": [
         {
             "header": "int compare_38",
             "params": "Object &a, Object &b",
@@ -47,7 +47,7 @@
             "body": "if (a.hasPriority() && b.hasPriority()) {\n    return a.getPriority() - b.getPriority();\n  }\n  return   a.getClassName().compare((b.getClassName()));"
         }
     ],
-    "/home/lizhilin/compare-order/testdataset/WrongCase/test14.cpp": [
+    "/home/anonymous/compare-order/testdataset/WrongCase/test14.cpp": [
         {
             "header": "bool compare_14",
             "params": "const NewCollision &a, const NewCollision &b",
@@ -55,7 +55,7 @@
             "body": "return a.first < b.first || a.second < b.second || a.colldata < b.colldata;"
         }
     ],
-    "/home/lizhilin/compare-order/testdataset/WrongCase/test18.cpp": [
+    "/home/anonymous/compare-order/testdataset/WrongCase/test18.cpp": [
         {
             "header": "bool compare_18",
             "params": "const std::unique_ptr<Network>& a,\n                     const std::unique_ptr<Network>& b",
@@ -63,7 +63,7 @@
             "body": "if (a->prefix_length() == b->prefix_length()) {\n    if (a->name() == b->name()) {\n      return a->prefix() < b->prefix();\n    }\n  }\n  return a->name() < b->name();"
         }
     ],
-    "/home/lizhilin/compare-order/testdataset/WrongCase/test34.cpp": [
+    "/home/anonymous/compare-order/testdataset/WrongCase/test34.cpp": [
         {
             "header": "bool compare_34",
             "params": "ID* a, ID* b",
@@ -71,7 +71,7 @@
             "body": "int* order_a = id_order_get(a);\n    int* order_b = id_order_get(b);\n\n    if (order_a && order_b) {\n        if (*order_a < *order_b) {\n            return true;\n        }\n        if (*order_a > *order_b) {\n            return false;\n        }\n    }\n\n    return strcmp(a->name, b->name) < 0;"
         }
     ],
-    "/home/lizhilin/compare-order/testdataset/WrongCase/test20.cpp": [
+    "/home/anonymous/compare-order/testdataset/WrongCase/test20.cpp": [
         {
             "header": "bool compare_20",
             "params": "peer_connection const* lhs, peer_connection const* rhs",
@@ -79,7 +79,7 @@
             "body": "bool lhs_connecting = lhs->is_connecting() && !lhs->is_disconnecting();\n    bool rhs_connecting = rhs->is_connecting() && !rhs->is_disconnecting();\n\n    if (lhs_connecting > rhs_connecting) return false;\n\t\tif (lhs_connecting < rhs_connecting) return true;\n\n    return lhs->connected_time() >= rhs->connected_time();"
         }
     ],
-    "/home/lizhilin/compare-order/testdataset/WrongCase/test36.cpp": [
+    "/home/anonymous/compare-order/testdataset/WrongCase/test36.cpp": [
         {
             "header": "bool compare_36",
             "params": "OutputSectionBase *A, OutputSectionBase *B",
@@ -87,7 +87,7 @@
             "body": "if (A->getType() != B->getType())\n    return A->getType() != SHT_NOBITS && B->getType() == SHT_NOBITS;\n\n  return getPPC64SectionRank(A->getName()) < getPPC64SectionRank(B->getName());"
         }
     ],
-    "/home/lizhilin/compare-order/testdataset/WrongCase/test32.cpp": [
+    "/home/anonymous/compare-order/testdataset/WrongCase/test32.cpp": [
         {
             "header": "bool compare_32",
             "params": "Olap_Info_t const &a, Olap_Info_t const &b",
@@ -95,7 +95,7 @@
             "body": "if (a.b_iid < b.b_iid)      return(true);\n    if (a.b_iid > b.b_iid)      return(false);\n\n    if (a.a_iid < b.a_iid)      return(true);\n    if (a.a_iid > b.a_iid)      return(false);\n\n    \n    \n\n    return(a.innie != b.innie);"
         }
     ],
-    "/home/lizhilin/compare-order/testdataset/WrongCase/test29.cpp": [
+    "/home/anonymous/compare-order/testdataset/WrongCase/test29.cpp": [
         {
             "header": "bool compare_29",
             "params": "const SiPixelCluster& one, const SiPixelCluster& other",
@@ -103,7 +103,7 @@
             "body": "if (one.geographicalId() < other.geographicalId()) {\n        return true;\n    } else if (one.geographicalId() > other.geographicalId()) {\n        return false;\n    } else if (one.minPixelRow() < other.minPixelRow()) {\n        return true;\n    } else if (one.minPixelRow() > other.minPixelRow()) {\n        return false;\n    } else if (one.minPixelCol() <= other.minPixelCol()) {\n        return true;\n    } else {\n        return false;\n    }"
         }
     ],
-    "/home/lizhilin/compare-order/testdataset/WrongCase/test33.cpp": [
+    "/home/anonymous/compare-order/testdataset/WrongCase/test33.cpp": [
         {
             "header": "bool compare_33",
             "params": "const container_view_handle<Pointer>& x, const container_view_handle<Pointer>& y",
@@ -111,7 +111,7 @@
             "body": "if (x && y)\n      return *x < *y;\n    return false;"
         }
     ],
-    "/home/lizhilin/compare-order/testdataset/WrongCase/test35.cpp": [
+    "/home/anonymous/compare-order/testdataset/WrongCase/test35.cpp": [
         {
             "header": "bool compare_35",
             "params": "EdgeWeight X, EdgeWeight Y",
@@ -119,7 +119,7 @@
             "body": "if (X.second > Y.second) return true;\n  if (X.second < Y.second) return false;\n\n  if (const BasicBlock *BBX = dynamic_cast<const BasicBlock*>(X.first.first)) {\n  if (const BasicBlock *BBY = dynamic_cast<const BasicBlock*>(Y.first.first)) {\n      if (BBX->getsize() > BBY->getsize()) return true;\n      if (BBX->getsize() < BBY->getsize()) return false;\n    }\n  }\n\n  if (const BasicBlock *BBX = dynamic_cast<const BasicBlock*>(X.first.second)) {\n  if (const BasicBlock *BBY = dynamic_cast<const BasicBlock*>(Y.first.second)) {\n      if (BBX->getsize() > BBY->getsize()) return true;\n      if (BBX->getsize() < BBY->getsize()) return false;\n    }\n  }\n\n  return false;"
         }
     ],
-    "/home/lizhilin/compare-order/testdataset/WrongCase/test12.cpp": [
+    "/home/anonymous/compare-order/testdataset/WrongCase/test12.cpp": [
         {
             "header": "bool compare_12",
             "params": "const BlockScopePtr &b1, const BlockScopePtr &b2",
@@ -127,7 +127,7 @@
             "body": "if (auto d = b1->getStmt()->getRange().compare(b2->getStmt()->getRange())) {\n        return d; \n    }\n    return b1->getContainingFile()->getName() < b2->getContainingFile()->getName();"
         }
     ],
-    "/home/lizhilin/compare-order/testdataset/WrongCase/test23.cpp": [
+    "/home/anonymous/compare-order/testdataset/WrongCase/test23.cpp": [
         {
             "header": "bool compare_23",
             "params": "const PatchPrimaryKey& a, const PatchPrimaryKey& b",
@@ -135,7 +135,7 @@
             "body": "if (a.msb < b.msb) {\n\t\t\treturn true;\n\t\t} else if (a.msb == b.msb && a.lsb < b.lsb) {\n\t\t\treturn true;\n\t\t} else if (a.lsb == b.lsb && a.program_number < b.program_number) {\n\t\t\treturn true;\n\t\t}\n\n\t\treturn false;"
         }
     ],
-    "/home/lizhilin/compare-order/testdataset/WrongCase/test4.cpp": [
+    "/home/anonymous/compare-order/testdataset/WrongCase/test4.cpp": [
         {
             "header": "bool compare_4",
             "params": "cmXCodeObject* l, cmXCodeObject* r",
@@ -143,7 +143,7 @@
             "body": "std::string const& a = l->GetTarget()->GetName();\n    std::string const& b = r->GetTarget()->GetName();\n\n    if (a == \"ALL_BUILD\") {\n        return true;\n    }\n\n    if (b == \"ALL_BUILD\") {\n        return false;\n    }\n\n    return a < b;"
         }
     ],
-    "/home/lizhilin/compare-order/testdataset/WrongCase/test39.cpp": [
+    "/home/anonymous/compare-order/testdataset/WrongCase/test39.cpp": [
         {
             "header": "bool compare_39",
             "params": "const FileObject * fo1, const FileObject * fo2",
@@ -151,7 +151,7 @@
             "body": "int res = 0;\n\tif (fo1->isDir() != fo2->isDir()) {\n\t\tres = fo1->isDir()?false:true;\n\t} else {\n\t\tres = lstrcmpiA(fo1->GetPath(), fo2->GetPath());\n\t}\n\treturn (res < 0);"
         }
     ],
-    "/home/lizhilin/compare-order/testdataset/WrongCase/test26.cpp": [
+    "/home/anonymous/compare-order/testdataset/WrongCase/test26.cpp": [
         {
             "header": "bool compare_26",
             "params": "const ComputeProgramKey &a, const ComputeProgramKey &b",
@@ -159,7 +159,7 @@
             "body": "return (a.shader < b.shader) || (a.layout < b.layout);"
         }
     ],
-    "/home/lizhilin/compare-order/testdataset/WrongCase/test19.cpp": [
+    "/home/anonymous/compare-order/testdataset/WrongCase/test19.cpp": [
         {
             "header": "bool compare_19",
             "params": "const std::string& a, const std::string& b",
@@ -167,7 +167,7 @@
             "body": "if (a == \"COLD_START\" && b != \"COLD_START\") {\n        return true;\n    }\n    if (a == b) {\n        return false;\n    }\n\n    return a < b;"
         }
     ],
-    "/home/lizhilin/compare-order/testdataset/WrongCase/test28.cpp": [
+    "/home/anonymous/compare-order/testdataset/WrongCase/test28.cpp": [
         {
             "header": "bool compare_28",
             "params": "const SweepLineEvent *f, const SweepLineEvent *s",
@@ -175,7 +175,7 @@
             "body": "if (f->xValue < s->xValue) return true;\n  if (f->eventType < s->eventType) return true;\n  return false;"
         }
     ],
-    "/home/lizhilin/compare-order/testdataset/WrongCase/test24.cpp": [
+    "/home/anonymous/compare-order/testdataset/WrongCase/test24.cpp": [
         {
             "header": "bool compare_24",
             "params": "const rgba& x, const rgba& y",
@@ -183,7 +183,7 @@
             "body": "int t1 = (int)x.a + x.r + x.g + x.b;\n    int t2 = (int)y.a + y.r + y.g + y.b;\n    if (t1 != t2) return t1 < t2;\n\n    return (((int)x.a - y.a) >> 24) +\n        (((int)x.r - y.r) >> 16) +\n        (((int)x.g - y.g) >> 8) +\n        (((int)x.b - y.b));"
         }
     ],
-    "/home/lizhilin/compare-order/testdataset/WrongCase/test9.cpp": [
+    "/home/anonymous/compare-order/testdataset/WrongCase/test9.cpp": [
         {
             "header": "bool compare_9",
             "params": "const Candidate& left, const Candidate& right",
@@ -191,7 +191,7 @@
             "body": "return left.node != right.node && left.calls >= right.calls;"
         }
     ],
-    "/home/lizhilin/compare-order/testdataset/WrongCase/test5.cpp": [
+    "/home/anonymous/compare-order/testdataset/WrongCase/test5.cpp": [
         {
             "header": "bool compare_5",
             "params": "ID* a, ID* b",
@@ -199,7 +199,7 @@
             "body": "int* order_a = id_order_get(a);\n    int* order_b = id_order_get(b);\n\n    if (order_a && order_b) {\n        if (*order_a < *order_b) {\n            return true;\n        }\n        if (*order_a > *order_b) {\n            return false;\n        }\n    }\n\n    return strcmp(a->name, b->name) <= 0;"
         }
     ],
-    "/home/lizhilin/compare-order/testdataset/WrongCase/test30.cpp": [
+    "/home/anonymous/compare-order/testdataset/WrongCase/test30.cpp": [
         {
             "header": "int compare_30",
             "params": "HostedMethod* stub1, HostedMethod* stub2",
@@ -207,7 +207,7 @@
             "body": "std::shared_ptr<ResolvedJavaMethod> rm1 = CEntryPointCallStubSupport::singleton().getMethodForStub(stub1->wrapped.wrapped);\n    std::shared_ptr<ResolvedJavaMethod> rm2 = CEntryPointCallStubSupport::singleton().getMethodForStub(stub2->wrapped.wrapped);\n\n    int fileComparison = rm1->getDeclaringClass()->getSourceFileName().compare(rm2->getDeclaringClass()->getSourceFileName());\n    if (fileComparison != 0) {\n        return fileComparison;\n    } else if (rm1->getLineNumberTable() && rm2->getLineNumberTable()) {\n        return rm1->getLineNumberTable()->getLineNumber(0) - rm2->getLineNumberTable()->getLineNumber(0);\n    }\n    return 0;"
         }
     ],
-    "/home/lizhilin/compare-order/testdataset/WrongCase/test16.cpp": [
+    "/home/anonymous/compare-order/testdataset/WrongCase/test16.cpp": [
         {
             "header": "bool compare_16",
             "params": "const Object* left, const Object* right",
@@ -215,7 +215,7 @@
             "body": "return ::strncmp(left->id.name, right->id.name, std::strlen(left->id.name)) == 0;"
         }
     ],
-    "/home/lizhilin/compare-order/testdataset/WrongCase/test13.cpp": [
+    "/home/anonymous/compare-order/testdataset/WrongCase/test13.cpp": [
         {
             "header": "bool compare_13",
             "params": "const GroupSnapshotNamespace& a, const GroupSnapshotNamespace& b",
@@ -223,7 +223,7 @@
             "body": "if (a.group_pool < b.group_pool) {\n    return true;\n  } else if (a.group_id < b.group_id) {\n    return true;\n  } else {\n    return (a.group_snapshot_id < b.group_snapshot_id);\n  }\n  return false;"
         }
     ],
-    "/home/lizhilin/compare-order/testdataset/WrongCase/test6.cpp": [
+    "/home/anonymous/compare-order/testdataset/WrongCase/test6.cpp": [
         {
             "header": "bool compare_6",
             "params": "const SharedTerm* lhs, const SharedTerm* rhs",
@@ -231,7 +231,7 @@
             "body": "if (lhs->clozeBody.size() != rhs->clozeBody.size())\n    {\n        return lhs->clozeBody.size() > rhs->clozeBody.size();\n    }\n    if (lhs->expression.size() != rhs->expression.size())\n    {\n        return lhs->expression.size() > rhs->expression.size();\n    }\n    if (lhs->conjugationExplanation.size() != rhs->conjugationExplanation.size())\n    {\n        return lhs->conjugationExplanation.empty() || lhs->conjugationExplanation.size() > rhs->conjugationExplanation.size();\n    }\n    return lhs->score > rhs->score;"
         }
     ],
-    "/home/lizhilin/compare-order/testdataset/WrongCase/test40.cpp": [
+    "/home/anonymous/compare-order/testdataset/WrongCase/test40.cpp": [
         {
             "header": "int compare_40",
             "params": "Point a, Point b",
@@ -239,7 +239,7 @@
             "body": "if (a.x != b.x) {\n        return a.x - b.x;\n    }\n\n\n    if (a.ts != b.ts) {\n        return a.ts - b.ts;\n    }\n\n    if (!a.isStart) {\n        return -1; \n    }\n    return 1;"
         }
     ],
-    "/home/lizhilin/compare-order/testdataset/WrongCase/test11.cpp": [
+    "/home/anonymous/compare-order/testdataset/WrongCase/test11.cpp": [
         {
             "header": "bool compare_11",
             "params": "const Entry& a, const Entry& b",
@@ -247,7 +247,7 @@
             "body": "if (b.funcId == InvalidFuncId) return true;\n    return a.count >= b.count;"
         }
     ],
-    "/home/lizhilin/compare-order/testdataset/WrongCase/test31.cpp": [
+    "/home/anonymous/compare-order/testdataset/WrongCase/test31.cpp": [
         {
             "header": "int compare_31",
             "params": "const void* o1, const void* o2",
@@ -255,7 +255,7 @@
             "body": "if (o1 == o2) return 0;\n    if (o1 == &NullUsage::INSTANCE || o1 == nullptr) return -1;\n    if (o2 == &NullUsage::INSTANCE || o2 == nullptr) return 1;\n    \n    int c = compareByFileAndOffset(o1, o2);\n    if (c != 0) return c;\n\n    std::string str1 = *static_cast<const std::string*>(o1);\n    std::string str2 = *static_cast<const std::string*>(o2);\n    return str1.compare(str2);"
         }
     ],
-    "/home/lizhilin/compare-order/testdataset/WrongCase/test1.cpp": [
+    "/home/anonymous/compare-order/testdataset/WrongCase/test1.cpp": [
         {
             "header": "bool compare_1",
             "params": "const Accidental* acc1, const Accidental* acc2",
@@ -263,7 +263,7 @@
             "body": "return acc1->stackingOrder() <= acc2->stackingOrder();"
         }
     ],
-    "/home/lizhilin/compare-order/testdataset/WrongCase/test15.cpp": [
+    "/home/anonymous/compare-order/testdataset/WrongCase/test15.cpp": [
         {
             "header": "bool compare_15",
             "params": "const InstrumentTemplate* templ1, const InstrumentTemplate* templ2",
@@ -271,7 +271,7 @@
             "body": "int minMaxPitch; \n    const int diff1 = findMaxPitchDiff(minMaxPitch, templ1);\n    const int diff2 = findMaxPitchDiff(minMaxPitch, templ2);\n\n    if (diff1 != diff2) {\n        return diff1 < diff2;\n    }\n\n    if (templ1->drumset && !templ2->drumset) {\n        return true;\n    }\n\n    return templ1->genres.size() > templ2->genres.size();"
         }
     ],
-    "/home/lizhilin/compare-order/testdataset/WrongCase/test37.cpp": [
+    "/home/anonymous/compare-order/testdataset/WrongCase/test37.cpp": [
         {
             "header": "bool compare_37",
             "params": "GlobalExpr A, GlobalExpr B",
@@ -279,7 +279,7 @@
             "body": "if (A.Expr != B.Expr && A.Expr && B.Expr) {\n        auto FragmentA = A.Expr->getFragmentInfo();\n        auto FragmentB = B.Expr->getFragmentInfo();\n        if (FragmentA && FragmentB)\n            return FragmentA->OffsetInBits < FragmentB->OffsetInBits;\n    }\n    return false;"
         }
     ],
-    "/home/lizhilin/compare-order/testdataset/WrongCase/test21.cpp": [
+    "/home/anonymous/compare-order/testdataset/WrongCase/test21.cpp": [
         {
             "header": "bool compare_21",
             "params": "const CGPathNode * lhs, const CGPathNode * rhs",
@@ -287,7 +287,7 @@
             "body": "if (rhs->turns > lhs->turns)\n        return false;\n    if (rhs->turns == lhs->turns && rhs->moveRemains < lhs->moveRemains)\n        return false;\n\n    return true;"
         }
     ],
-    "/home/lizhilin/compare-order/testdataset/WrongCase/test10.cpp": [
+    "/home/anonymous/compare-order/testdataset/WrongCase/test10.cpp": [
         {
             "header": "bool compare_10",
             "params": "RESOLUTION_WHR i, RESOLUTION_WHR j",
@@ -295,7 +295,7 @@
             "body": "return (i.width < j.width\n            || (i.width == j.width && i.height < j.height)\n            || (i.width == j.width && i.height == j.height && i.flags != j.flags));"
         }
     ],
-    "/home/lizhilin/compare-order/testdataset/WrongCase/test25.cpp": [
+    "/home/anonymous/compare-order/testdataset/WrongCase/test25.cpp": [
         {
             "header": "bool compare_25",
             "params": "const UpdateItem &item1, const UpdateItem &item2",
@@ -303,7 +303,7 @@
             "body": "return (item1.priority - item2.priority < 0) ? false : true;"
         }
     ],
-    "/home/lizhilin/compare-order/testdataset/WrongCase/test22.cpp": [
+    "/home/anonymous/compare-order/testdataset/WrongCase/test22.cpp": [
         {
             "header": "bool compare_22",
             "params": "const TPartitionInfo& a, const TPartitionInfo& b",
@@ -311,7 +311,7 @@
             "body": "return !b.ToBound || (a.ToBound && *a.ToBound < *b.ToBound);"
         }
     ],
-    "/home/lizhilin/compare-order/testdataset/WrongCase/test27.cpp": [
+    "/home/anonymous/compare-order/testdataset/WrongCase/test27.cpp": [
         {
             "header": "int compare_27",
             "params": "const struct album *a, const struct album *b",

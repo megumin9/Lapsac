@@ -1,4 +1,4 @@
-In file included from /home/lizhilin/compare-order/real-project/colmap/test-lambda/test_3.cpp:1:
+In file included from /home/anonymous/compare-order/real-project/colmap/test-lambda/test_3.cpp:1:
 In file included from /usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/x86_64-linux-gnu/c++/10/bits/stdc++.h:41:
 In file included from /usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/cmath:1935:
 In file included from /usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/bits/specfun.h:45:
@@ -6,13 +6,13 @@ In file included from /usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/1
 /usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/bits/stl_pair.h:217:11: error: field has incomplete type 'TrackElement'
   217 |       _T1 first;                 ///< The first member
       |           ^
-/home/lizhilin/compare-order/real-project/colmap/test-lambda/test_3.cpp:11:19: note: in instantiation of template class 'std::pair<TrackElement, std::basic_string<char>>' requested here
+/home/anonymous/compare-order/real-project/colmap/test-lambda/test_3.cpp:11:19: note: in instantiation of template class 'std::pair<TrackElement, std::basic_string<char>>' requested here
    11 |   return track_el1.second < track_el2.second;
       |                   ^
-/home/lizhilin/compare-order/real-project/colmap/test-lambda/test_3.cpp:2:8: note: forward declaration of 'TrackElement'
+/home/anonymous/compare-order/real-project/colmap/test-lambda/test_3.cpp:2:8: note: forward declaration of 'TrackElement'
     2 | struct TrackElement;
       |        ^
-In file included from /home/lizhilin/compare-order/real-project/colmap/test-lambda/test_3.cpp:1:
+In file included from /home/anonymous/compare-order/real-project/colmap/test-lambda/test_3.cpp:1:
 In file included from /usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/x86_64-linux-gnu/c++/10/bits/stdc++.h:41:
 In file included from /usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/cmath:1935:
 In file included from /usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/bits/specfun.h:45:
@@ -28,10 +28,10 @@ In file included from /usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/1
 /usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/bits/stl_pair.h:391:3: note: in instantiation of template class 'std::__and_<std::is_copy_assignable<TrackElement>, std::is_copy_assignable<std::basic_string<char>>>' requested here
   391 |                 __and_<is_copy_assignable<_T1>,
       |                 ^
-/home/lizhilin/compare-order/real-project/colmap/test-lambda/test_3.cpp:11:19: note: in instantiation of template class 'std::pair<TrackElement, std::basic_string<char>>' requested here
+/home/anonymous/compare-order/real-project/colmap/test-lambda/test_3.cpp:11:19: note: in instantiation of template class 'std::pair<TrackElement, std::basic_string<char>>' requested here
    11 |   return track_el1.second < track_el2.second;
       |                   ^
-In file included from /home/lizhilin/compare-order/real-project/colmap/test-lambda/test_3.cpp:1:
+In file included from /home/anonymous/compare-order/real-project/colmap/test-lambda/test_3.cpp:1:
 In file included from /usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/x86_64-linux-gnu/c++/10/bits/stdc++.h:41:
 In file included from /usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/cmath:1935:
 In file included from /usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/bits/specfun.h:45:
@@ -47,7 +47,7 @@ In file included from /usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/1
 /usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/bits/stl_pair.h:402:3: note: in instantiation of template class 'std::__and_<std::is_move_assignable<TrackElement>, std::is_move_assignable<std::basic_string<char>>>' requested here
   402 |                 __and_<is_move_assignable<_T1>,
       |                 ^
-/home/lizhilin/compare-order/real-project/colmap/test-lambda/test_3.cpp:11:19: note: in instantiation of template class 'std::pair<TrackElement, std::basic_string<char>>' requested here
+/home/anonymous/compare-order/real-project/colmap/test-lambda/test_3.cpp:11:19: note: in instantiation of template class 'std::pair<TrackElement, std::basic_string<char>>' requested here
    11 |   return track_el1.second < track_el2.second;
       |                   ^
 3 errors generated.

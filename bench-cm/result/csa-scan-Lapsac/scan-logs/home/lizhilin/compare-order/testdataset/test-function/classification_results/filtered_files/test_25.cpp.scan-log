@@ -3354,19 +3354,19 @@ Now have strcmp
 insert:
 strcmp : &SymRegion{derived_$43{conj_$33{int, LC16, S6166765, #1},Element{SymRegion{reg_$4<ID * a>},0 S64b,struct ID}.name}} &SymRegion{derived_$44{conj_$38{int, LC16, S6166839, #1},Element{SymRegion{reg_$19<ID * c>},0 S64b,struct ID}.name}} 
 
-/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_25.cpp:34:9: warning: Violation of Consistency [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/testdataset/test-function/classification_results/filtered_files/test_25.cpp:34:9: warning: Violation of Consistency [CompareCheck.FunctionChecker]
    34 |         ConsistencyChecker();
       |         ^~~~~~~~~~~~~~~~~~~~
-/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_25.cpp:40:9: warning: Violation of Transitivity [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/testdataset/test-function/classification_results/filtered_files/test_25.cpp:40:9: warning: Violation of Transitivity [CompareCheck.FunctionChecker]
    40 |         TransiveChecker();
       |         ^~~~~~~~~~~~~~~~~
-/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_25.cpp:46:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/testdataset/test-function/classification_results/filtered_files/test_25.cpp:46:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
    46 |         SymmetryChecker();
       |         ^~~~~~~~~~~~~~~~~
-/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_25.cpp:52:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/testdataset/test-function/classification_results/filtered_files/test_25.cpp:52:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
    52 |         SymmetryChecker();
       |         ^~~~~~~~~~~~~~~~~
-/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_25.cpp:58:9: warning: Violation of Anti-Reflexivity [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/testdataset/test-function/classification_results/filtered_files/test_25.cpp:58:9: warning: Violation of Anti-Reflexivity [CompareCheck.FunctionChecker]
    58 |         ReflexivityChecker();
       |         ^~~~~~~~~~~~~~~~~~~~
 5 warnings generated.

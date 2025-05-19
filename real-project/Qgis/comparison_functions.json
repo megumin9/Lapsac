@@ -1,5 +1,5 @@
 {
-    "/home/lizhilin/compare-order/real-project/QGIS/external/poly2tri/common/shapes.h": [
+    "/home/anonymous/compare-order/real-project/QGIS/external/poly2tri/common/shapes.h": [
         {
             "header": "bool cmp",
             "params": "const Point* a, const Point* b",
@@ -7,7 +7,7 @@
             "body": "if (a->y < b->y) {\n        return true;\n    } else if (a->y == b->y) {\n        \n        if (a->x < b->x) {\n            return true;\n        }\n    }\n    return false;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/QGIS/src/core/qgis.cpp": [
+    "/home/anonymous/compare-order/real-project/QGIS/src/core/qgis.cpp": [
         {
             "header": "bool qgsVariantLessThan",
             "params": "const QVariant &lhs, const QVariant &rhs",
@@ -21,7 +21,7 @@
             "body": "return ! qgsVariantLessThan( lhs, rhs );"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/QGIS/src/core/qgscolorrampimpl.cpp": [
+    "/home/anonymous/compare-order/real-project/QGIS/src/core/qgscolorrampimpl.cpp": [
         {
             "header": "bool stopLessThan",
             "params": "const QgsGradientStop &s1, const QgsGradientStop &s2",
@@ -29,7 +29,7 @@
             "body": "return s1.offset < s2.offset;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/QGIS/src/core/symbology/qgsgraduatedsymbolrenderer.cpp": [
+    "/home/anonymous/compare-order/real-project/QGIS/src/core/symbology/qgsgraduatedsymbolrenderer.cpp": [
         {
             "header": "bool valueLessThan",
             "params": "const QgsRendererRange &r1, const QgsRendererRange &r2",
@@ -55,7 +55,7 @@
             "body": "return !labelLessThan( r1, r2 );"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/QGIS/src/core/symbology/qgscategorizedsymbolrenderer.cpp": [
+    "/home/anonymous/compare-order/real-project/QGIS/src/core/symbology/qgscategorizedsymbolrenderer.cpp": [
         {
             "header": "bool valueLessThan",
             "params": "const QgsRendererCategory &c1, const QgsRendererCategory &c2",
@@ -81,7 +81,7 @@
             "body": "return !labelLessThan( c1, c2 );"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/QGIS/src/core/vector/qgsvectordataprovider.cpp": [
+    "/home/anonymous/compare-order/real-project/QGIS/src/core/vector/qgsvectordataprovider.cpp": [
         {
             "header": "bool _compareEncodings",
             "params": "const QString &s1, const QString &s2",
@@ -89,7 +89,7 @@
             "body": "return s1.toLower() < s2.toLower();"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/QGIS/src/core/browser/qgsbrowsermodel.cpp": [
+    "/home/anonymous/compare-order/real-project/QGIS/src/core/browser/qgsbrowsermodel.cpp": [
         {
             "header": "bool cmpByDataItemName_",
             "params": "QgsDataItem *a, QgsDataItem *b",
@@ -97,7 +97,7 @@
             "body": "return QString::localeAwareCompare( a->name(), b->name() ) < 0;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/QGIS/src/core/simplify/effectivearea.cpp": [
+    "/home/anonymous/compare-order/real-project/QGIS/src/core/simplify/effectivearea.cpp": [
         {
             "header": "int cmpfunc",
             "params": "const void *a, const void *b",
@@ -105,7 +105,7 @@
             "body": "const double v1 = ( *( areanode ** )a )->area;\n  const double v2 = ( *( areanode ** )b )->area;\n\n  \n  if ( v1 == v2 )\n    return ( *( areanode ** )a ) - ( *( areanode ** )b );\n  else\n    return ( v1 > v2 ) ? 1 : -1;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/QGIS/src/app/qgisapp.cpp": [
+    "/home/anonymous/compare-order/real-project/QGIS/src/app/qgisapp.cpp": [
         {
             "header": "bool cmpByText_",
             "params": "QAction *a, QAction *b",
@@ -113,7 +113,7 @@
             "body": "return QString::localeAwareCompare( a->text(), b->text() ) < 0;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/QGIS/src/app/layout/qgslayoutdesignerdialog.cpp": [
+    "/home/anonymous/compare-order/real-project/QGIS/src/app/layout/qgslayoutdesignerdialog.cpp": [
         {
             "header": "bool cmpByText_",
             "params": "QAction *a, QAction *b",

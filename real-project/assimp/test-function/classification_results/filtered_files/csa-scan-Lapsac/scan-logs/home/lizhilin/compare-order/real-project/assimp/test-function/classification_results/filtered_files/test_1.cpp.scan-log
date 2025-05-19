@@ -226,10 +226,10 @@ The Road is: x88
 
 
 
-/home/lizhilin/compare-order/real-project/assimp/test-function/classification_results/filtered_files/test_1.cpp:17:13: warning: Access to field 'id' results in a dereference of a null pointer (loaded from variable 'a') [core.NullDereference]
+/home/anonymous/compare-order/real-project/assimp/test-function/classification_results/filtered_files/test_1.cpp:17:13: warning: Access to field 'id' results in a dereference of a null pointer (loaded from variable 'a') [core.NullDereference]
    17 |     return (a->id < b->id);
       |             ^~~~~
-/home/lizhilin/compare-order/real-project/assimp/test-function/classification_results/filtered_files/test_1.cpp:17:21: warning: Access to field 'id' results in a dereference of a null pointer (loaded from variable 'b') [core.NullDereference]
+/home/anonymous/compare-order/real-project/assimp/test-function/classification_results/filtered_files/test_1.cpp:17:21: warning: Access to field 'id' results in a dereference of a null pointer (loaded from variable 'b') [core.NullDereference]
    17 |     return (a->id < b->id);
       |                     ^~~~~
 2 warnings generated.

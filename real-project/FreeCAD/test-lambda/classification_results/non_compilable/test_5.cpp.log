@@ -1,19 +1,19 @@
-/home/lizhilin/compare-order/real-project/FreeCAD/test-lambda/test_5.cpp:9:43: error: base class has incomplete type
+/home/anonymous/compare-order/real-project/FreeCAD/test-lambda/test_5.cpp:9:43: error: base class has incomplete type
     9 | class ViewProviderDocumentObject : public ViewProvider {
       |                                    ~~~~~~~^~~~~~~~~~~~
-/home/lizhilin/compare-order/real-project/FreeCAD/test-lambda/test_5.cpp:8:7: note: forward declaration of 'Gui::ViewProvider'
+/home/anonymous/compare-order/real-project/FreeCAD/test-lambda/test_5.cpp:8:7: note: forward declaration of 'Gui::ViewProvider'
     8 | class ViewProvider;
       |       ^
-/home/lizhilin/compare-order/real-project/FreeCAD/test-lambda/test_5.cpp:28:44: error: 'Gui::ViewProvider' is an incomplete type
+/home/anonymous/compare-order/real-project/FreeCAD/test-lambda/test_5.cpp:28:44: error: 'Gui::ViewProvider' is an incomplete type
    28 |     Gui::ViewProviderDocumentObject* vpA = dynamic_cast<Gui::ViewProviderDocumentObject*>(Gui::Application::Instance->getViewProvider(a));
       |                                            ^                                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/home/lizhilin/compare-order/real-project/FreeCAD/test-lambda/test_5.cpp:8:7: note: forward declaration of 'Gui::ViewProvider'
+/home/anonymous/compare-order/real-project/FreeCAD/test-lambda/test_5.cpp:8:7: note: forward declaration of 'Gui::ViewProvider'
     8 | class ViewProvider;
       |       ^
-/home/lizhilin/compare-order/real-project/FreeCAD/test-lambda/test_5.cpp:29:44: error: 'Gui::ViewProvider' is an incomplete type
+/home/anonymous/compare-order/real-project/FreeCAD/test-lambda/test_5.cpp:29:44: error: 'Gui::ViewProvider' is an incomplete type
    29 |     Gui::ViewProviderDocumentObject* vpB = dynamic_cast<Gui::ViewProviderDocumentObject*>(Gui::Application::Instance->getViewProvider(b));
       |                                            ^                                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/home/lizhilin/compare-order/real-project/FreeCAD/test-lambda/test_5.cpp:8:7: note: forward declaration of 'Gui::ViewProvider'
+/home/anonymous/compare-order/real-project/FreeCAD/test-lambda/test_5.cpp:8:7: note: forward declaration of 'Gui::ViewProvider'
     8 | class ViewProvider;
       |       ^
 3 errors generated.

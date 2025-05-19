@@ -324,13 +324,13 @@ compare : &a.first &c.first
 
 
 
-/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_3.cpp:34:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/testdataset/test-function/classification_results/filtered_files/test_3.cpp:34:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
    34 |         SymmetryChecker();
       |         ^~~~~~~~~~~~~~~~~
-/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_3.cpp:40:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/testdataset/test-function/classification_results/filtered_files/test_3.cpp:40:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
    40 |         SymmetryChecker();
       |         ^~~~~~~~~~~~~~~~~
-/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_3.cpp:46:9: warning: Violation of Anti-Reflexivity [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/testdataset/test-function/classification_results/filtered_files/test_3.cpp:46:9: warning: Violation of Anti-Reflexivity [CompareCheck.FunctionChecker]
    46 |         ReflexivityChecker();
       |         ^~~~~~~~~~~~~~~~~~~~
 3 warnings generated.

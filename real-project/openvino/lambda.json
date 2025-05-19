@@ -1,5 +1,5 @@
 {
-    "/home/lizhilin/compare-order/real-project/openvino/src/core/src/pattern/matcher.cpp": [
+    "/home/anonymous/compare-order/real-project/openvino/src/core/src/pattern/matcher.cpp": [
         {
             "header": "bool lambda0",
             "params": "const ov::Output<ov::Node>& n1, const ov::Output<ov::Node>& n2",
@@ -7,7 +7,7 @@
             "body": "return n1 < n2;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/openvino/src/core/reference/include/openvino/reference/experimental_detectron_topk_rois.hpp": [
+    "/home/anonymous/compare-order/real-project/openvino/src/core/reference/include/openvino/reference/experimental_detectron_topk_rois.hpp": [
         {
             "header": "bool lambda0",
             "params": "size_t i1, size_t i2",
@@ -15,7 +15,7 @@
             "body": "return input_probs[i1] > input_probs[i2];"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/openvino/src/core/reference/include/openvino/reference/detection_output.hpp": [
+    "/home/anonymous/compare-order/real-project/openvino/src/core/reference/include/openvino/reference/detection_output.hpp": [
         {
             "header": "bool lambda0",
             "params": "const std::pair<dataType, std::pair<int, int>>& p1, const std::pair<dataType, std::pair<int, int>>& p2",
@@ -29,7 +29,7 @@
             "body": "return (p1.first > p2.first) ||\n                                     (p1.first == p2.first && p1.second.second < p2.second.second);"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/openvino/src/core/reference/src/op/experimental_detectron_roi_feature_extractor.cpp": [
+    "/home/anonymous/compare-order/real-project/openvino/src/core/reference/src/op/experimental_detectron_roi_feature_extractor.cpp": [
         {
             "header": "bool lambda0",
             "params": "int64_t i1, int64_t i2",
@@ -37,7 +37,7 @@
             "body": "return ranks[i1] < ranks[i2];"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/openvino/src/core/reference/src/op/matrix_nms.cpp": [
+    "/home/anonymous/compare-order/real-project/openvino/src/core/reference/src/op/matrix_nms.cpp": [
         {
             "header": "bool lambda0",
             "params": "const BoxInfo& l, const BoxInfo& r",
@@ -51,7 +51,7 @@
             "body": "return (l.class_index < r.class_index) ||\n                       (l.class_index == r.class_index && l.batch_index < r.batch_index) ||\n                       (l.class_index == r.class_index && l.batch_index == r.batch_index && l.score > r.score) ||\n                       (l.class_index == r.class_index && l.batch_index == r.batch_index && l.score == r.score &&\n                        l.index < r.index);"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/openvino/src/core/reference/src/op/multiclass_nms.cpp": [
+    "/home/anonymous/compare-order/real-project/openvino/src/core/reference/src/op/multiclass_nms.cpp": [
         {
             "header": "bool lambda0",
             "params": "const BoxInfo& l, const BoxInfo& r",
@@ -77,7 +77,7 @@
             "body": "return (l.class_index < r.class_index) ||\n                       (l.class_index == r.class_index && l.batch_index < r.batch_index) ||\n                       (l.class_index == r.class_index && l.batch_index == r.batch_index && l.score > r.score) ||\n                       (l.class_index == r.class_index && l.batch_index == r.batch_index && l.score == r.score &&\n                        l.index < r.index);"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/openvino/src/core/reference/src/op/non_max_suppression.cpp": [
+    "/home/anonymous/compare-order/real-project/openvino/src/core/reference/src/op/non_max_suppression.cpp": [
         {
             "header": "bool lambda0",
             "params": "const BoxInfo& l, const BoxInfo& r",
@@ -85,7 +85,7 @@
             "body": "bool is_score_equal = std::fabs(l.score - r.score) < 1e-6;\n            return (l.score > r.score) || (is_score_equal && l.batch_index < r.batch_index) ||\n                   (is_score_equal && l.batch_index == r.batch_index && l.class_index < r.class_index) ||\n                   (is_score_equal && l.batch_index == r.batch_index && l.class_index == r.class_index &&\n                    l.index < r.index);"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/openvino/src/tests/functional/plugin/conformance/subgraphs_dumper/src/matchers/subgraph/repeat_pattern.cpp": [
+    "/home/anonymous/compare-order/real-project/openvino/src/tests/functional/plugin/conformance/subgraphs_dumper/src/matchers/subgraph/repeat_pattern.cpp": [
         {
             "header": "bool lambda0",
             "params": "const ov::NodeVector& a, const ov::NodeVector& b",
@@ -93,7 +93,7 @@
             "body": "return a.size() > b.size();"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/openvino/src/tests/functional/plugin/conformance/subgraphs_dumper/src/utils/model_comparator.cpp": [
+    "/home/anonymous/compare-order/real-project/openvino/src/tests/functional/plugin/conformance/subgraphs_dumper/src/utils/model_comparator.cpp": [
         {
             "header": "bool lambda0",
             "params": "const std::vector<size_t>& a, const std::vector<size_t>& b",
@@ -101,7 +101,7 @@
             "body": "return a.size() > b.size();"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/openvino/src/plugins/intel_npu/tools/single-image-test/yolo_helpers.cpp": [
+    "/home/anonymous/compare-order/real-project/openvino/src/plugins/intel_npu/tools/single-image-test/yolo_helpers.cpp": [
         {
             "header": "bool lambda0",
             "params": "const sortableYoloBBox& a, const sortableYoloBBox& b",
@@ -109,7 +109,7 @@
             "body": "float diff = a.probs[a.index][b.cclass] - b.probs[b.index][b.cclass];\n            return diff > 0;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/openvino/src/plugins/intel_npu/tools/single-image-test/main.cpp": [
+    "/home/anonymous/compare-order/real-project/openvino/src/plugins/intel_npu/tools/single-image-test/main.cpp": [
         {
             "header": "bool lambda0",
             "params": "const std::pair<int, float>& a, const std::pair<int, float>& b",
@@ -117,7 +117,7 @@
             "body": "return a.second > b.second;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/openvino/src/plugins/intel_npu/tests/unit/npuw/online_partitioning.cpp": [
+    "/home/anonymous/compare-order/real-project/openvino/src/plugins/intel_npu/tests/unit/npuw/online_partitioning.cpp": [
         {
             "header": "bool lambda0",
             "params": "const ov::npuw::Group& g1, const ov::npuw::Group& g2",
@@ -143,7 +143,7 @@
             "body": "return *a.front().begin() < *b.front().begin();"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/openvino/src/plugins/intel_npu/src/plugin/npuw/partitioning/partitioning.cpp": [
+    "/home/anonymous/compare-order/real-project/openvino/src/plugins/intel_npu/src/plugin/npuw/partitioning/partitioning.cpp": [
         {
             "header": "bool lambda0",
             "params": "const PairNodePtr& p1, const PairNodePtr& p2",
@@ -151,7 +151,7 @@
             "body": "NPUW_ASSERT(p1.first->get_friendly_name() != p2.first->get_friendly_name());\n                      return p1.first->get_friendly_name() < p2.first->get_friendly_name();"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/openvino/src/plugins/intel_npu/src/plugin/npuw/partitioning/online/snapshot.cpp": [
+    "/home/anonymous/compare-order/real-project/openvino/src/plugins/intel_npu/src/plugin/npuw/partitioning/online/snapshot.cpp": [
         {
             "header": "bool lambda0",
             "params": "const own::ade::NodeHandle& nh1, const own::ade::NodeHandle& nh2",
@@ -189,7 +189,7 @@
             "body": "if (a.size() == b.size()) {\n            if (a.empty()) {\n                return false;  \n            }\n            \n            \n            \n            \n            \n            \n            return a.at(0).first->getId() > b.at(0).first->getId();\n        }\n        \n        \n        return a.size() > b.size();"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/openvino/src/plugins/intel_npu/src/plugin/npuw/partitioning/online/graph.cpp": [
+    "/home/anonymous/compare-order/real-project/openvino/src/plugins/intel_npu/src/plugin/npuw/partitioning/online/graph.cpp": [
         {
             "header": "bool lambda0",
             "params": "const own::ade::NodeHandle& a, const own::ade::NodeHandle& b",
@@ -215,7 +215,7 @@
             "body": "return this->meta(a).get<detail::CreateIdx>().m_idx < this->meta(b).get<detail::CreateIdx>().m_idx;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/openvino/src/plugins/intel_gpu/src/graph/program.cpp": [
+    "/home/anonymous/compare-order/real-project/openvino/src/plugins/intel_gpu/src/graph/program.cpp": [
         {
             "header": "bool lambda0",
             "params": "std::shared_ptr<program_node> const& lhs, std::shared_ptr<program_node> const& rhs",
@@ -229,7 +229,7 @@
             "body": "return (lhs->get_output_layout().bytes_count() > rhs->get_output_layout().bytes_count());"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/openvino/src/plugins/intel_gpu/src/graph/graph_optimizer/oooq_memory_dependencies.cpp": [
+    "/home/anonymous/compare-order/real-project/openvino/src/plugins/intel_gpu/src/graph/graph_optimizer/oooq_memory_dependencies.cpp": [
         {
             "header": "bool lambda0",
             "params": "const std::pair<cldnn::program_node*, unsigned int>& a, const std::pair<cldnn::program_node*, unsigned int>& b",
@@ -237,7 +237,7 @@
             "body": "return a.second < b.second;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/openvino/src/plugins/intel_gpu/src/graph/impls/onednn/utils.cpp": [
+    "/home/anonymous/compare-order/real-project/openvino/src/plugins/intel_gpu/src/graph/impls/onednn/utils.cpp": [
         {
             "header": "bool lambda0",
             "params": "size_t ind_l, size_t ind_r",
@@ -251,7 +251,7 @@
             "body": "return first.first > second.first;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/openvino/src/plugins/intel_gpu/src/graph/impls/cpu/non_max_suppression.cpp": [
+    "/home/anonymous/compare-order/real-project/openvino/src/plugins/intel_gpu/src/graph/impls/cpu/non_max_suppression.cpp": [
         {
             "header": "bool lambda0",
             "params": "const result_indices& l, const result_indices& r",
@@ -259,7 +259,7 @@
             "body": "return (l.score > r.score) || (l.score == r.score && l.batch_index < r.batch_index) ||\n                   (l.score == r.score && l.batch_index == r.batch_index && l.class_index < r.class_index) ||\n                   (l.score == r.score && l.batch_index == r.batch_index && l.class_index == r.class_index &&\n                    l.box_index < r.box_index);"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/openvino/src/plugins/intel_cpu/tests/functional/custom/subgraph_tests/src/common/concat_multiple_query_sdp.cpp": [
+    "/home/anonymous/compare-order/real-project/openvino/src/plugins/intel_cpu/tests/functional/custom/subgraph_tests/src/common/concat_multiple_query_sdp.cpp": [
         {
             "header": "bool lambda0",
             "params": "VariableState& a, VariableState& b",
@@ -267,7 +267,7 @@
             "body": "return a.get_name() > b.get_name();"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/openvino/src/plugins/intel_cpu/tests/functional/custom/subgraph_tests/src/common/concat_transpose_sdp_transpose.cpp": [
+    "/home/anonymous/compare-order/real-project/openvino/src/plugins/intel_cpu/tests/functional/custom/subgraph_tests/src/common/concat_transpose_sdp_transpose.cpp": [
         {
             "header": "bool lambda0",
             "params": "VariableState& a, VariableState& b",
@@ -275,7 +275,7 @@
             "body": "return a.get_name() > b.get_name();"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/openvino/src/plugins/intel_cpu/src/memory_desc/dnnl_blocked_memory_desc.cpp": [
+    "/home/anonymous/compare-order/real-project/openvino/src/plugins/intel_cpu/src/memory_desc/dnnl_blocked_memory_desc.cpp": [
         {
             "header": "bool lambda0",
             "params": "size_t ind_l, size_t ind_r",
@@ -295,7 +295,7 @@
             "body": "return (refStrides[ind_l] > refStrides[ind_r]) ||\n                   (refStrides[ind_l] == refStrides[ind_r] && outer_block_dims[ind_l] > outer_block_dims[ind_r]);"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/openvino/src/plugins/intel_cpu/src/nodes/experimental_detectron_roifeatureextractor.cpp": [
+    "/home/anonymous/compare-order/real-project/openvino/src/plugins/intel_cpu/src/nodes/experimental_detectron_roifeatureextractor.cpp": [
         {
             "header": "bool lambda0",
             "params": "size_t i1, size_t i2",
@@ -303,7 +303,7 @@
             "body": "return ranks[i1] < ranks[i2];"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/openvino/src/plugins/proxy/src/plugin.cpp": [
+    "/home/anonymous/compare-order/real-project/openvino/src/plugins/proxy/src/plugin.cpp": [
         {
             "header": "bool lambda0",
             "params": "const std::pair<std::string, size_t>& v1, const std::pair<std::string, size_t>& v2",
@@ -311,7 +311,7 @@
             "body": "return v1.second < v2.second;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/openvino/src/frontends/onnx/frontend/src/core/model.cpp": [
+    "/home/anonymous/compare-order/real-project/openvino/src/frontends/onnx/frontend/src/core/model.cpp": [
         {
             "header": "bool lambda0",
             "params": "const OperatorSetIdProto& lhs, const OperatorSetIdProto& rhs",
@@ -319,7 +319,7 @@
             "body": "return lhs.version() > rhs.version();"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/openvino/src/inference/dev_api/openvino/runtime/memory_solver.hpp": [
+    "/home/anonymous/compare-order/real-project/openvino/src/inference/dev_api/openvino/runtime/memory_solver.hpp": [
         {
             "header": "bool lambda0",
             "params": "const Box& l, const Box& r",
@@ -327,7 +327,7 @@
             "body": "return l.size > r.size;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/openvino/src/common/transformations/src/transformations/common_optimizations/interpolate_sequence_fusion.cpp": [
+    "/home/anonymous/compare-order/real-project/openvino/src/common/transformations/src/transformations/common_optimizations/interpolate_sequence_fusion.cpp": [
         {
             "header": "bool lambda0",
             "params": "const std::pair<int64_t, int64_t>& a, const std::pair<int64_t, int64_t>& b",
@@ -341,7 +341,7 @@
             "body": "return a.first < b.first;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/openvino/src/common/transformations/src/transformations/common_optimizations/shared_ops_optimization.cpp": [
+    "/home/anonymous/compare-order/real-project/openvino/src/common/transformations/src/transformations/common_optimizations/shared_ops_optimization.cpp": [
         {
             "header": "bool lambda0",
             "params": "const std::shared_ptr<ov::Node>& a, const std::shared_ptr<ov::Node>& b",
@@ -349,7 +349,7 @@
             "body": "return index_map[a] < index_map[b];"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/openvino/src/common/transformations/src/transformations/common_optimizations/optimize_strided_slice.cpp": [
+    "/home/anonymous/compare-order/real-project/openvino/src/common/transformations/src/transformations/common_optimizations/optimize_strided_slice.cpp": [
         {
             "header": "bool lambda0",
             "params": "OutputToPatrition lhs, OutputToPatrition rhs",
@@ -363,7 +363,7 @@
             "body": "if (lhs.attrs.start == rhs.attrs.start)\n                return lhs.attrs.stop < rhs.attrs.stop;\n            return lhs.attrs.start < rhs.attrs.start;"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/openvino/src/common/snippets/src/lowered/loop_info.cpp": [
+    "/home/anonymous/compare-order/real-project/openvino/src/common/snippets/src/lowered/loop_info.cpp": [
         {
             "header": "bool lambda0",
             "params": "size_t l, size_t r",
@@ -371,7 +371,7 @@
             "body": "const auto& expr_port_l = ports[l].get_expr_port();\n            const auto& expr_port_r = ports[r].get_expr_port();\n            if (expr_port_l->get_expr() == expr_port_r->get_expr())\n                return expr_port_l->get_index() < expr_port_r->get_index();\n            return expr_port_l->get_expr()->get_exec_num() < expr_port_r->get_expr()->get_exec_num();"
         }
     ],
-    "/home/lizhilin/compare-order/real-project/openvino/src/common/snippets/src/lowered/pass/set_buffer_reg_group.cpp": [
+    "/home/anonymous/compare-order/real-project/openvino/src/common/snippets/src/lowered/pass/set_buffer_reg_group.cpp": [
         {
             "header": "bool lambda0",
             "params": "const BufferExpressionPtr& lhs, const BufferExpressionPtr& rhs",

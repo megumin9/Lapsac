@@ -5044,10 +5044,10 @@ The Road is: x988928989289889
 -----------------
 Now have strcmp
 
-/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_40.cpp:32:9: warning: Violation of Consistency [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/testdataset/test-function/classification_results/filtered_files/test_40.cpp:32:9: warning: Violation of Consistency [CompareCheck.FunctionChecker]
    32 |         ConsistencyChecker();
       |         ^~~~~~~~~~~~~~~~~~~~
-/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_40.cpp:38:9: warning: Violation of Transitivity [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/testdataset/test-function/classification_results/filtered_files/test_40.cpp:38:9: warning: Violation of Transitivity [CompareCheck.FunctionChecker]
    38 |         TransiveChecker();
       |         ^~~~~~~~~~~~~~~~~
 2 warnings generated.

@@ -81,48 +81,48 @@ NowTime: 0
 The Road is: x
 
 The Road is: x
-clang-check: /home/lizhilin/compare-order/llvm/clang/lib/StaticAnalyzer/Checkers/InnerPointerChecker.cpp:245: void {anonymous}::InnerPointerChecker::checkPostCall(const clang::ento::CallEvent&, clang::ento::CheckerContext&) const: Assertion `C.wasInlined || !Set.contains(Sym)' failed.
- #0 0x00007f7459a2c4e0 llvm::sys::PrintStackTrace(llvm::raw_ostream&, int) /home/lizhilin/compare-order/llvm/llvm/lib/Support/Unix/Signals.inc:723:22
- #1 0x00007f7459a2c8f6 PrintStackTraceSignalHandler(void*) /home/lizhilin/compare-order/llvm/llvm/lib/Support/Unix/Signals.inc:798:1
- #2 0x00007f7459a29e7c llvm::sys::RunSignalHandlers() /home/lizhilin/compare-order/llvm/llvm/lib/Support/Signals.cpp:105:20
- #3 0x00007f7459a2bd9a SignalHandler(int) /home/lizhilin/compare-order/llvm/llvm/lib/Support/Unix/Signals.inc:413:1
+clang-check: /home/anonymous/compare-order/llvm/clang/lib/StaticAnalyzer/Checkers/InnerPointerChecker.cpp:245: void {anonymous}::InnerPointerChecker::checkPostCall(const clang::ento::CallEvent&, clang::ento::CheckerContext&) const: Assertion `C.wasInlined || !Set.contains(Sym)' failed.
+ #0 0x00007f7459a2c4e0 llvm::sys::PrintStackTrace(llvm::raw_ostream&, int) /home/anonymous/compare-order/llvm/llvm/lib/Support/Unix/Signals.inc:723:22
+ #1 0x00007f7459a2c8f6 PrintStackTraceSignalHandler(void*) /home/anonymous/compare-order/llvm/llvm/lib/Support/Unix/Signals.inc:798:1
+ #2 0x00007f7459a29e7c llvm::sys::RunSignalHandlers() /home/anonymous/compare-order/llvm/llvm/lib/Support/Signals.cpp:105:20
+ #3 0x00007f7459a2bd9a SignalHandler(int) /home/anonymous/compare-order/llvm/llvm/lib/Support/Unix/Signals.inc:413:1
  #4 0x00007f7459224090 (/lib/x86_64-linux-gnu/libc.so.6+0x43090)
  #5 0x00007f745922400b raise /build/glibc-FcRMwW/glibc-2.31/signal/../sysdeps/unix/sysv/linux/raise.c:51:1
  #6 0x00007f7459203859 abort /build/glibc-FcRMwW/glibc-2.31/stdlib/abort.c:81:7
  #7 0x00007f7459203729 get_sysdep_segment_value /build/glibc-FcRMwW/glibc-2.31/intl/loadmsgcat.c:509:8
  #8 0x00007f7459203729 _nl_load_domain /build/glibc-FcRMwW/glibc-2.31/intl/loadmsgcat.c:970:34
  #9 0x00007f7459214fd6 (/lib/x86_64-linux-gnu/libc.so.6+0x33fd6)
-#10 0x00007f74508d32ff (anonymous namespace)::InnerPointerChecker::checkPostCall(clang::ento::CallEvent const&, clang::ento::CheckerContext&) const /home/lizhilin/compare-order/llvm/clang/lib/StaticAnalyzer/Checkers/InnerPointerChecker.cpp:246:18
-#11 0x00007f74508d4cfe void clang::ento::check::PostCall::_checkCall<(anonymous namespace)::InnerPointerChecker>(void*, clang::ento::CallEvent const&, clang::ento::CheckerContext&) /home/lizhilin/compare-order/llvm/clang/include/clang/StaticAnalyzer/Core/Checker.h:184:3
-#12 0x00007f744fb8fb48 clang::ento::CheckerFn<void (clang::ento::CallEvent const&, clang::ento::CheckerContext&)>::operator()(clang::ento::CallEvent const&, clang::ento::CheckerContext&) const /home/lizhilin/compare-order/llvm/clang/include/clang/StaticAnalyzer/Core/CheckerManager.h:72:29
-#13 0x00007f744fb880d2 (anonymous namespace)::CheckCallContext::runChecker(clang::ento::CheckerFn<void (clang::ento::CallEvent const&, clang::ento::CheckerContext&)>, clang::ento::NodeBuilder&, clang::ento::ExplodedNode*) /home/lizhilin/compare-order/llvm/clang/lib/StaticAnalyzer/Core/CheckerManager.cpp:293:35
-#14 0x00007f744fb8b90c void expandGraphWithCheckers<(anonymous namespace)::CheckCallContext>((anonymous namespace)::CheckCallContext, clang::ento::ExplodedNodeSet&, clang::ento::ExplodedNodeSet const&) /home/lizhilin/compare-order/llvm/clang/lib/StaticAnalyzer/Core/CheckerManager.cpp:138:5
-#15 0x00007f744fb881ad clang::ento::CheckerManager::runCheckersForCallEvent(bool, clang::ento::ExplodedNodeSet&, clang::ento::ExplodedNodeSet const&, clang::ento::CallEvent const&, clang::ento::ExprEngine&, bool) /home/lizhilin/compare-order/llvm/clang/lib/StaticAnalyzer/Core/CheckerManager.cpp:310:26
-#16 0x00007f744fc3ffd8 clang::ento::CheckerManager::runCheckersForPostCall(clang::ento::ExplodedNodeSet&, clang::ento::ExplodedNodeSet const&, clang::ento::CallEvent const&, clang::ento::ExprEngine&, bool) /home/lizhilin/compare-order/llvm/clang/include/clang/StaticAnalyzer/Core/CheckerManager.h:319:28
-#17 0x00007f744fc477bc clang::ento::ExprEngine::evalCall(clang::ento::ExplodedNodeSet&, clang::ento::ExplodedNode*, clang::ento::CallEvent const&) /home/lizhilin/compare-order/llvm/clang/lib/StaticAnalyzer/Core/ExprEngineCallAndReturn.cpp:710:41
-#18 0x00007f744fc46f7d clang::ento::ExprEngine::VisitCallExpr(clang::CallExpr const*, clang::ento::ExplodedNode*, clang::ento::ExplodedNodeSet&) /home/lizhilin/compare-order/llvm/clang/lib/StaticAnalyzer/Core/ExprEngineCallAndReturn.cpp:617:3
-#19 0x00007f744fbecfb9 clang::ento::ExprEngine::Visit(clang::Stmt const*, clang::ento::ExplodedNode*, clang::ento::ExplodedNodeSet&) /home/lizhilin/compare-order/llvm/clang/lib/StaticAnalyzer/Core/ExprEngine.cpp:2186:20
-#20 0x00007f744fbe77c8 clang::ento::ExprEngine::ProcessStmt(clang::Stmt const*, clang::ento::ExplodedNode*) /home/lizhilin/compare-order/llvm/clang/lib/StaticAnalyzer/Core/ExprEngine.cpp:1171:15
-#21 0x00007f744fbe6a31 clang::ento::ExprEngine::processCFGElement(clang::CFGElement, clang::ento::ExplodedNode*, unsigned int, clang::ento::NodeBuilderContext*) /home/lizhilin/compare-order/llvm/clang/lib/StaticAnalyzer/Core/ExprEngine.cpp:1015:18
-#22 0x00007f744fbad783 clang::ento::CoreEngine::HandlePostStmt(clang::CFGBlock const*, unsigned int, clang::ento::ExplodedNode*) /home/lizhilin/compare-order/llvm/clang/lib/StaticAnalyzer/Core/CoreEngine.cpp:500:1
-#23 0x00007f744fbac268 clang::ento::CoreEngine::dispatchWorkItem(clang::ento::ExplodedNode*, clang::ProgramPoint, clang::ento::WorkListUnit const&) /home/lizhilin/compare-order/llvm/clang/lib/StaticAnalyzer/Core/CoreEngine.cpp:223:7
-#24 0x00007f744fbab9cb clang::ento::CoreEngine::ExecuteWorkList(clang::LocationContext const*, unsigned int, llvm::IntrusiveRefCntPtr<clang::ento::ProgramState const>)::'lambda'(unsigned int)::operator()(unsigned int) const /home/lizhilin/compare-order/llvm/clang/lib/StaticAnalyzer/Core/CoreEngine.cpp:161:23
-#25 0x00007f744fbabdc8 clang::ento::CoreEngine::ExecuteWorkList(clang::LocationContext const*, unsigned int, llvm::IntrusiveRefCntPtr<clang::ento::ProgramState const>) /home/lizhilin/compare-order/llvm/clang/lib/StaticAnalyzer/Core/CoreEngine.cpp:165:41
-#26 0x00007f745d9467c4 clang::ento::ExprEngine::ExecuteWorkList(clang::LocationContext const*, unsigned int) /home/lizhilin/compare-order/llvm/clang/include/clang/StaticAnalyzer/Core/PathSensitive/ExprEngine.h:190:34
-#27 0x00007f745d8b6e75 (anonymous namespace)::AnalysisConsumer::RunPathSensitiveChecks(clang::Decl*, clang::ento::ExprEngine::InliningModes, llvm::DenseSet<clang::Decl const*, llvm::DenseMapInfo<clang::Decl const*, void>>*) /home/lizhilin/compare-order/llvm/clang/lib/StaticAnalyzer/Frontend/AnalysisConsumer.cpp:729:22
-#28 0x00007f745d8b6bc8 (anonymous namespace)::AnalysisConsumer::HandleCode(clang::Decl*, unsigned int, clang::ento::ExprEngine::InliningModes, llvm::DenseSet<clang::Decl const*, llvm::DenseMapInfo<clang::Decl const*, void>>*) /home/lizhilin/compare-order/llvm/clang/lib/StaticAnalyzer/Frontend/AnalysisConsumer.cpp:698:5
-#29 0x00007f745d8b5c1c (anonymous namespace)::AnalysisConsumer::HandleDeclsCallGraph(unsigned int) /home/lizhilin/compare-order/llvm/clang/lib/StaticAnalyzer/Frontend/AnalysisConsumer.cpp:490:31
-#30 0x00007f745d8b6197 (anonymous namespace)::AnalysisConsumer::runAnalysisOnTranslationUnit(clang::ASTContext&) /home/lizhilin/compare-order/llvm/clang/lib/StaticAnalyzer/Frontend/AnalysisConsumer.cpp:560:48
-#31 0x00007f745d8b6506 (anonymous namespace)::AnalysisConsumer::HandleTranslationUnit(clang::ASTContext&) /home/lizhilin/compare-order/llvm/clang/lib/StaticAnalyzer/Frontend/AnalysisConsumer.cpp:615:74
-#32 0x00007f744e196c85 clang::ParseAST(clang::Sema&, bool, bool) /home/lizhilin/compare-order/llvm/clang/lib/Parse/ParseAST.cpp:183:14
-#33 0x00007f745cfcb706 clang::ASTFrontendAction::ExecuteAction() /home/lizhilin/compare-order/llvm/clang/lib/Frontend/FrontendAction.cpp:1183:11
-#34 0x00007f745cfcafc0 clang::FrontendAction::Execute() /home/lizhilin/compare-order/llvm/clang/lib/Frontend/FrontendAction.cpp:1073:38
-#35 0x00007f745cebbbd9 clang::CompilerInstance::ExecuteAction(clang::FrontendAction&) /home/lizhilin/compare-order/llvm/clang/lib/Frontend/CompilerInstance.cpp:1057:42
-#36 0x00007f745d76d3db clang::tooling::FrontendActionFactory::runInvocation(std::shared_ptr<clang::CompilerInvocation>, clang::FileManager*, std::shared_ptr<clang::PCHContainerOperations>, clang::DiagnosticConsumer*) /home/lizhilin/compare-order/llvm/clang/lib/Tooling/Tooling.cpp:465:46
-#37 0x00007f745d76d206 clang::tooling::ToolInvocation::runInvocation(char const*, clang::driver::Compilation*, std::shared_ptr<clang::CompilerInvocation>, std::shared_ptr<clang::PCHContainerOperations>) /home/lizhilin/compare-order/llvm/clang/lib/Tooling/Tooling.cpp:440:31
-#38 0x00007f745d76d010 clang::tooling::ToolInvocation::run() /home/lizhilin/compare-order/llvm/clang/lib/Tooling/Tooling.cpp:425:23
-#39 0x00007f745d76e9b9 clang::tooling::ClangTool::run(clang::tooling::ToolAction*) /home/lizhilin/compare-order/llvm/clang/lib/Tooling/Tooling.cpp:623:11
-#40 0x000055ccef9ad618 main /home/lizhilin/compare-order/llvm/clang/tools/clang-check/ClangCheck.cpp:259:18
+#10 0x00007f74508d32ff (anonymous namespace)::InnerPointerChecker::checkPostCall(clang::ento::CallEvent const&, clang::ento::CheckerContext&) const /home/anonymous/compare-order/llvm/clang/lib/StaticAnalyzer/Checkers/InnerPointerChecker.cpp:246:18
+#11 0x00007f74508d4cfe void clang::ento::check::PostCall::_checkCall<(anonymous namespace)::InnerPointerChecker>(void*, clang::ento::CallEvent const&, clang::ento::CheckerContext&) /home/anonymous/compare-order/llvm/clang/include/clang/StaticAnalyzer/Core/Checker.h:184:3
+#12 0x00007f744fb8fb48 clang::ento::CheckerFn<void (clang::ento::CallEvent const&, clang::ento::CheckerContext&)>::operator()(clang::ento::CallEvent const&, clang::ento::CheckerContext&) const /home/anonymous/compare-order/llvm/clang/include/clang/StaticAnalyzer/Core/CheckerManager.h:72:29
+#13 0x00007f744fb880d2 (anonymous namespace)::CheckCallContext::runChecker(clang::ento::CheckerFn<void (clang::ento::CallEvent const&, clang::ento::CheckerContext&)>, clang::ento::NodeBuilder&, clang::ento::ExplodedNode*) /home/anonymous/compare-order/llvm/clang/lib/StaticAnalyzer/Core/CheckerManager.cpp:293:35
+#14 0x00007f744fb8b90c void expandGraphWithCheckers<(anonymous namespace)::CheckCallContext>((anonymous namespace)::CheckCallContext, clang::ento::ExplodedNodeSet&, clang::ento::ExplodedNodeSet const&) /home/anonymous/compare-order/llvm/clang/lib/StaticAnalyzer/Core/CheckerManager.cpp:138:5
+#15 0x00007f744fb881ad clang::ento::CheckerManager::runCheckersForCallEvent(bool, clang::ento::ExplodedNodeSet&, clang::ento::ExplodedNodeSet const&, clang::ento::CallEvent const&, clang::ento::ExprEngine&, bool) /home/anonymous/compare-order/llvm/clang/lib/StaticAnalyzer/Core/CheckerManager.cpp:310:26
+#16 0x00007f744fc3ffd8 clang::ento::CheckerManager::runCheckersForPostCall(clang::ento::ExplodedNodeSet&, clang::ento::ExplodedNodeSet const&, clang::ento::CallEvent const&, clang::ento::ExprEngine&, bool) /home/anonymous/compare-order/llvm/clang/include/clang/StaticAnalyzer/Core/CheckerManager.h:319:28
+#17 0x00007f744fc477bc clang::ento::ExprEngine::evalCall(clang::ento::ExplodedNodeSet&, clang::ento::ExplodedNode*, clang::ento::CallEvent const&) /home/anonymous/compare-order/llvm/clang/lib/StaticAnalyzer/Core/ExprEngineCallAndReturn.cpp:710:41
+#18 0x00007f744fc46f7d clang::ento::ExprEngine::VisitCallExpr(clang::CallExpr const*, clang::ento::ExplodedNode*, clang::ento::ExplodedNodeSet&) /home/anonymous/compare-order/llvm/clang/lib/StaticAnalyzer/Core/ExprEngineCallAndReturn.cpp:617:3
+#19 0x00007f744fbecfb9 clang::ento::ExprEngine::Visit(clang::Stmt const*, clang::ento::ExplodedNode*, clang::ento::ExplodedNodeSet&) /home/anonymous/compare-order/llvm/clang/lib/StaticAnalyzer/Core/ExprEngine.cpp:2186:20
+#20 0x00007f744fbe77c8 clang::ento::ExprEngine::ProcessStmt(clang::Stmt const*, clang::ento::ExplodedNode*) /home/anonymous/compare-order/llvm/clang/lib/StaticAnalyzer/Core/ExprEngine.cpp:1171:15
+#21 0x00007f744fbe6a31 clang::ento::ExprEngine::processCFGElement(clang::CFGElement, clang::ento::ExplodedNode*, unsigned int, clang::ento::NodeBuilderContext*) /home/anonymous/compare-order/llvm/clang/lib/StaticAnalyzer/Core/ExprEngine.cpp:1015:18
+#22 0x00007f744fbad783 clang::ento::CoreEngine::HandlePostStmt(clang::CFGBlock const*, unsigned int, clang::ento::ExplodedNode*) /home/anonymous/compare-order/llvm/clang/lib/StaticAnalyzer/Core/CoreEngine.cpp:500:1
+#23 0x00007f744fbac268 clang::ento::CoreEngine::dispatchWorkItem(clang::ento::ExplodedNode*, clang::ProgramPoint, clang::ento::WorkListUnit const&) /home/anonymous/compare-order/llvm/clang/lib/StaticAnalyzer/Core/CoreEngine.cpp:223:7
+#24 0x00007f744fbab9cb clang::ento::CoreEngine::ExecuteWorkList(clang::LocationContext const*, unsigned int, llvm::IntrusiveRefCntPtr<clang::ento::ProgramState const>)::'lambda'(unsigned int)::operator()(unsigned int) const /home/anonymous/compare-order/llvm/clang/lib/StaticAnalyzer/Core/CoreEngine.cpp:161:23
+#25 0x00007f744fbabdc8 clang::ento::CoreEngine::ExecuteWorkList(clang::LocationContext const*, unsigned int, llvm::IntrusiveRefCntPtr<clang::ento::ProgramState const>) /home/anonymous/compare-order/llvm/clang/lib/StaticAnalyzer/Core/CoreEngine.cpp:165:41
+#26 0x00007f745d9467c4 clang::ento::ExprEngine::ExecuteWorkList(clang::LocationContext const*, unsigned int) /home/anonymous/compare-order/llvm/clang/include/clang/StaticAnalyzer/Core/PathSensitive/ExprEngine.h:190:34
+#27 0x00007f745d8b6e75 (anonymous namespace)::AnalysisConsumer::RunPathSensitiveChecks(clang::Decl*, clang::ento::ExprEngine::InliningModes, llvm::DenseSet<clang::Decl const*, llvm::DenseMapInfo<clang::Decl const*, void>>*) /home/anonymous/compare-order/llvm/clang/lib/StaticAnalyzer/Frontend/AnalysisConsumer.cpp:729:22
+#28 0x00007f745d8b6bc8 (anonymous namespace)::AnalysisConsumer::HandleCode(clang::Decl*, unsigned int, clang::ento::ExprEngine::InliningModes, llvm::DenseSet<clang::Decl const*, llvm::DenseMapInfo<clang::Decl const*, void>>*) /home/anonymous/compare-order/llvm/clang/lib/StaticAnalyzer/Frontend/AnalysisConsumer.cpp:698:5
+#29 0x00007f745d8b5c1c (anonymous namespace)::AnalysisConsumer::HandleDeclsCallGraph(unsigned int) /home/anonymous/compare-order/llvm/clang/lib/StaticAnalyzer/Frontend/AnalysisConsumer.cpp:490:31
+#30 0x00007f745d8b6197 (anonymous namespace)::AnalysisConsumer::runAnalysisOnTranslationUnit(clang::ASTContext&) /home/anonymous/compare-order/llvm/clang/lib/StaticAnalyzer/Frontend/AnalysisConsumer.cpp:560:48
+#31 0x00007f745d8b6506 (anonymous namespace)::AnalysisConsumer::HandleTranslationUnit(clang::ASTContext&) /home/anonymous/compare-order/llvm/clang/lib/StaticAnalyzer/Frontend/AnalysisConsumer.cpp:615:74
+#32 0x00007f744e196c85 clang::ParseAST(clang::Sema&, bool, bool) /home/anonymous/compare-order/llvm/clang/lib/Parse/ParseAST.cpp:183:14
+#33 0x00007f745cfcb706 clang::ASTFrontendAction::ExecuteAction() /home/anonymous/compare-order/llvm/clang/lib/Frontend/FrontendAction.cpp:1183:11
+#34 0x00007f745cfcafc0 clang::FrontendAction::Execute() /home/anonymous/compare-order/llvm/clang/lib/Frontend/FrontendAction.cpp:1073:38
+#35 0x00007f745cebbbd9 clang::CompilerInstance::ExecuteAction(clang::FrontendAction&) /home/anonymous/compare-order/llvm/clang/lib/Frontend/CompilerInstance.cpp:1057:42
+#36 0x00007f745d76d3db clang::tooling::FrontendActionFactory::runInvocation(std::shared_ptr<clang::CompilerInvocation>, clang::FileManager*, std::shared_ptr<clang::PCHContainerOperations>, clang::DiagnosticConsumer*) /home/anonymous/compare-order/llvm/clang/lib/Tooling/Tooling.cpp:465:46
+#37 0x00007f745d76d206 clang::tooling::ToolInvocation::runInvocation(char const*, clang::driver::Compilation*, std::shared_ptr<clang::CompilerInvocation>, std::shared_ptr<clang::PCHContainerOperations>) /home/anonymous/compare-order/llvm/clang/lib/Tooling/Tooling.cpp:440:31
+#38 0x00007f745d76d010 clang::tooling::ToolInvocation::run() /home/anonymous/compare-order/llvm/clang/lib/Tooling/Tooling.cpp:425:23
+#39 0x00007f745d76e9b9 clang::tooling::ClangTool::run(clang::tooling::ToolAction*) /home/anonymous/compare-order/llvm/clang/lib/Tooling/Tooling.cpp:623:11
+#40 0x000055ccef9ad618 main /home/anonymous/compare-order/llvm/clang/tools/clang-check/ClangCheck.cpp:259:18
 #41 0x00007f7459205083 __libc_start_main /build/glibc-FcRMwW/glibc-2.31/csu/../csu/libc-start.c:342:3
-#42 0x000055ccef9ac9ee _start (/home/lizhilin/compare-order/llvm/build/bin/clang-check+0x149ee)
+#42 0x000055ccef9ac9ee _start (/home/anonymous/compare-order/llvm/build/bin/clang-check+0x149ee)
 timeout: the monitored command dumped core

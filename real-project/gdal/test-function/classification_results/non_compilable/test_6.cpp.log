@@ -1,4 +1,4 @@
-/home/lizhilin/compare-order/real-project/gdal/test-function/test_6.cpp:21:28: error: use of undeclared identifier 'MRGanglecoplanar'
+/home/anonymous/compare-order/real-project/gdal/test-function/test_6.cpp:21:28: error: use of undeclared identifier 'MRGanglecoplanar'
    21 |   else if (a->mergetype == MRGanglecoplanar)
       |                            ^
 1 error generated.

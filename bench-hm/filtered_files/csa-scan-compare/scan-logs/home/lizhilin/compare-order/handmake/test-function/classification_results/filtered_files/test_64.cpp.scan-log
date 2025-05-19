@@ -984,10 +984,10 @@ The Road is: x929998929998999
 -----------------
 Now have strcmp
 
-/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_64.cpp:33:1: warning: Violation of Consistency [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/handmake/test-function/classification_results/filtered_files/test_64.cpp:33:1: warning: Violation of Consistency [CompareCheck.FunctionChecker]
    33 | ConsistencyChecker();
       | ^~~~~~~~~~~~~~~~~~~~
-/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_64.cpp:45:1: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/handmake/test-function/classification_results/filtered_files/test_64.cpp:45:1: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
    45 | SymmetryChecker();
       | ^~~~~~~~~~~~~~~~~
 2 warnings generated.

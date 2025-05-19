@@ -1,5 +1,5 @@
 {
-    "/home/lizhilin/compare-order/real-project/colmap/src/colmap/util/cuda.cc": [
+    "/home/anonymous/compare-order/real-project/colmap/src/colmap/util/cuda.cc": [
         {
             "header": "bool CompareCudaDevice",
             "params": "const cudaDeviceProp& d1, const cudaDeviceProp& d2",

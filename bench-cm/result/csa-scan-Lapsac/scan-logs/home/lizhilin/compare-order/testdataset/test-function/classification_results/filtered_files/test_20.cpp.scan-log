@@ -97,10 +97,10 @@ NowTime: 0
 
 
 
-/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_20.cpp:34:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/testdataset/test-function/classification_results/filtered_files/test_20.cpp:34:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
    34 |         SymmetryChecker();
       |         ^~~~~~~~~~~~~~~~~
-/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_20.cpp:40:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/testdataset/test-function/classification_results/filtered_files/test_20.cpp:40:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
    40 |         SymmetryChecker();
       |         ^~~~~~~~~~~~~~~~~
 2 warnings generated.

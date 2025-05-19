@@ -276,7 +276,7 @@ The Road is: x89898
 
 
 
-/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_6.cpp:27:1: warning: Violation of Consistency [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/handmake/test-function/classification_results/filtered_files/test_6.cpp:27:1: warning: Violation of Consistency [CompareCheck.FunctionChecker]
    27 | ConsistencyChecker();
       | ^~~~~~~~~~~~~~~~~~~~
 1 warning generated.

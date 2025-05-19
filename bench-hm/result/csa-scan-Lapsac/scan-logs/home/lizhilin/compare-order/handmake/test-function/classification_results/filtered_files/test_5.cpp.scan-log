@@ -401,7 +401,7 @@ strcmp : &SymRegion{reg_$13<char * Element{SymRegion{reg_$4<testclass * a>},0 S6
 
 
 
-/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_5.cpp:21:1: warning: Violation of Consistency [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/handmake/test-function/classification_results/filtered_files/test_5.cpp:21:1: warning: Violation of Consistency [CompareCheck.FunctionChecker]
    21 | ConsistencyChecker();
       | ^~~~~~~~~~~~~~~~~~~~
 1 warning generated.

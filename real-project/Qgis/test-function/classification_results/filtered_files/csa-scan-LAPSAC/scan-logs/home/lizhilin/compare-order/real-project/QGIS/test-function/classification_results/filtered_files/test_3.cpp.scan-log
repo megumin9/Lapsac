@@ -215,13 +215,13 @@ qgsVariantLessThan : &SymRegion{reg_$4<const QVariant & a>} &SymRegion{reg_$7<co
 
 
 
-/home/lizhilin/compare-order/real-project/QGIS/test-function/classification_results/filtered_files/test_3.cpp:31:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/real-project/QGIS/test-function/classification_results/filtered_files/test_3.cpp:31:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
    31 |         SymmetryChecker();
       |         ^~~~~~~~~~~~~~~~~
-/home/lizhilin/compare-order/real-project/QGIS/test-function/classification_results/filtered_files/test_3.cpp:37:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/real-project/QGIS/test-function/classification_results/filtered_files/test_3.cpp:37:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
    37 |         SymmetryChecker();
       |         ^~~~~~~~~~~~~~~~~
-/home/lizhilin/compare-order/real-project/QGIS/test-function/classification_results/filtered_files/test_3.cpp:43:9: warning: Violation of Anti-Reflexivity [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/real-project/QGIS/test-function/classification_results/filtered_files/test_3.cpp:43:9: warning: Violation of Anti-Reflexivity [CompareCheck.FunctionChecker]
    43 |         ReflexivityChecker();
       |         ^~~~~~~~~~~~~~~~~~~~
 3 warnings generated.

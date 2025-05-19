@@ -720,10 +720,10 @@ strcmp : &SymRegion{reg_$16<char * Element{SymRegion{reg_$4<testclass * a>},0 S6
 
 
 
-/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_24.cpp:29:9: warning: Violation of Consistency [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/handmake/test-function/classification_results/filtered_files/test_24.cpp:29:9: warning: Violation of Consistency [CompareCheck.FunctionChecker]
    29 |         ConsistencyChecker();
       |         ^~~~~~~~~~~~~~~~~~~~
-/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_24.cpp:35:9: warning: Violation of Transitivity [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/handmake/test-function/classification_results/filtered_files/test_24.cpp:35:9: warning: Violation of Transitivity [CompareCheck.FunctionChecker]
    35 |         TransiveChecker();
       |         ^~~~~~~~~~~~~~~~~
 2 warnings generated.

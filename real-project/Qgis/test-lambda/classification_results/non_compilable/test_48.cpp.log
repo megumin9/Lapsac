@@ -1,4 +1,4 @@
-/home/lizhilin/compare-order/real-project/QGIS/test-lambda/classification_results/non_compilable/test_48.cpp:2:10: fatal error: 'QtCore/QVariant' file not found
+/home/anonymous/compare-order/real-project/QGIS/test-lambda/classification_results/non_compilable/test_48.cpp:2:10: fatal error: 'QtCore/QVariant' file not found
     2 | #include <QtCore/QVariant>
       |          ^~~~~~~~~~~~~~~~~
 1 error generated.

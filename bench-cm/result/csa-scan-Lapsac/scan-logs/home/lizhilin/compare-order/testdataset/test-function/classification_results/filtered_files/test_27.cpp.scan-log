@@ -467,13 +467,13 @@ Now have strncmp
 insert:
 strncmp : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>} &SymRegion{reg_$11<const char * Element{SymRegion{reg_$10<Object * c>},0 S64b,struct Object}.id.name>} meta_$8{SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>},unsigned long} 
 
-/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_27.cpp:35:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/testdataset/test-function/classification_results/filtered_files/test_27.cpp:35:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
    35 |         SymmetryChecker();
       |         ^~~~~~~~~~~~~~~~~
-/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_27.cpp:41:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/testdataset/test-function/classification_results/filtered_files/test_27.cpp:41:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
    41 |         SymmetryChecker();
       |         ^~~~~~~~~~~~~~~~~
-/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_27.cpp:47:9: warning: Violation of Anti-Reflexivity [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/testdataset/test-function/classification_results/filtered_files/test_27.cpp:47:9: warning: Violation of Anti-Reflexivity [CompareCheck.FunctionChecker]
    47 |         ReflexivityChecker();
       |         ^~~~~~~~~~~~~~~~~~~~
 3 warnings generated.

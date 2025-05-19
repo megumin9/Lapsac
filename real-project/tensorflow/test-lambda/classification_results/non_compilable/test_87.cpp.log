@@ -1,13 +1,13 @@
-/home/lizhilin/compare-order/real-project/tensorflow/test-lambda/test_87.cpp:20:58: error: member access into incomplete type 'HloInstruction'
+/home/anonymous/compare-order/real-project/tensorflow/test-lambda/test_87.cpp:20:58: error: member access into incomplete type 'HloInstruction'
    20 |         ShapeUtil::ElementsIn(GetOutputsOfFusible(*op)[0]->shape()),
       |                                                          ^
-/home/lizhilin/compare-order/real-project/tensorflow/test-lambda/test_87.cpp:2:7: note: forward declaration of 'HloInstruction'
+/home/anonymous/compare-order/real-project/tensorflow/test-lambda/test_87.cpp:2:7: note: forward declaration of 'HloInstruction'
     2 | class HloInstruction;
       |       ^
-/home/lizhilin/compare-order/real-project/tensorflow/test-lambda/test_87.cpp:21:11: error: member access into incomplete type 'const HloInstruction'
+/home/anonymous/compare-order/real-project/tensorflow/test-lambda/test_87.cpp:21:11: error: member access into incomplete type 'const HloInstruction'
    21 |         op->unique_id()};
       |           ^
-/home/lizhilin/compare-order/real-project/tensorflow/test-lambda/test_87.cpp:2:7: note: forward declaration of 'HloInstruction'
+/home/anonymous/compare-order/real-project/tensorflow/test-lambda/test_87.cpp:2:7: note: forward declaration of 'HloInstruction'
     2 | class HloInstruction;
       |       ^
 2 errors generated.

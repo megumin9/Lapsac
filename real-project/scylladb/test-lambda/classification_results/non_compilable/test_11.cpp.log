@@ -1,13 +1,13 @@
-/home/lizhilin/compare-order/real-project/scylladb/test-lambda/test_11.cpp:16:12: error: reference to 'less' is ambiguous
+/home/anonymous/compare-order/real-project/scylladb/test-lambda/test_11.cpp:16:12: error: reference to 'less' is ambiguous
    16 |     return less(a.lower, b.lower);
       |            ^
-/home/lizhilin/compare-order/real-project/scylladb/test-lambda/test_11.cpp:8:6: note: candidate found by name lookup is 'less'
+/home/anonymous/compare-order/real-project/scylladb/test-lambda/test_11.cpp:8:6: note: candidate found by name lookup is 'less'
     8 | bool less(int, int);
       |      ^
 /usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/bits/stl_function.h:381:12: note: candidate found by name lookup is 'std::less'
   381 |     struct less : public binary_function<_Tp, _Tp, bool>
       |            ^
-/home/lizhilin/compare-order/real-project/scylladb/test-lambda/test_11.cpp:16:12: error: no viable constructor or deduction guide for deduction of template arguments of 'less'
+/home/anonymous/compare-order/real-project/scylladb/test-lambda/test_11.cpp:16:12: error: no viable constructor or deduction guide for deduction of template arguments of 'less'
    16 |     return less(a.lower, b.lower);
       |            ^
 /usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/bits/stl_function.h:381:12: note: candidate function template not viable: requires 1 argument, but 2 were provided

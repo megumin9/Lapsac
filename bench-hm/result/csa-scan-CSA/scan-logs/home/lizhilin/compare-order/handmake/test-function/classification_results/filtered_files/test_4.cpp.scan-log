@@ -104,7 +104,7 @@ NowTime: 0
 NowTime: 0
 NowTime: 0
 NowTime: 0
-/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_4.cpp:27:1: warning: Violation of Consistency [CompareCheck.FunctionChecker]
+/home/anonymous/compare-order/handmake/test-function/classification_results/filtered_files/test_4.cpp:27:1: warning: Violation of Consistency [CompareCheck.FunctionChecker]
    27 | ConsistencyChecker();
       | ^~~~~~~~~~~~~~~~~~~~
 1 warning generated.
