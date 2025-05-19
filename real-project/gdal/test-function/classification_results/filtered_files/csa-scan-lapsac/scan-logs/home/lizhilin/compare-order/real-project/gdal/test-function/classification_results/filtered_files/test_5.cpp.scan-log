@@ -1,0 +1,135 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+
+The Error Road is: x998898898
+
+
+
+
+
+NowTime: 0
+
+
+
+The Error Road is: x898998898
+
+NowTime: 0
+
+
+
+The Error Road is: x898898998
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+
+
+
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+
+
+
+
+
+
+/home/lizhilin/compare-order/real-project/gdal/test-function/classification_results/filtered_files/test_5.cpp:46:1: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   46 | SymmetryChecker();
+      | ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/real-project/gdal/test-function/classification_results/filtered_files/test_5.cpp:52:1: warning: Violation of Anti-Reflexivity [CompareCheck.FunctionChecker]
+   52 | ReflexivityChecker();
+      | ^~~~~~~~~~~~~~~~~~~~
+2 warnings generated.
+Total paths analyzed: 3
+Total paths analyzed: 5
+Total paths analyzed: 4
+Total paths analyzed: 13
+Total paths analyzed: 13

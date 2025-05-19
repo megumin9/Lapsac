@@ -1,0 +1,76 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+output_type : &SymRegion{reg_$4<Node * a>} 0 S32b NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+name : &SymRegion{reg_$4<Node * a>} NowTime: 0
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+tie : &a_is_resource &a_name NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+tie : &b_is_resource &b_name NowTime: 0
+NowTime: 0
+
+The Road is: x
+
+The Road is: x0
+-----------------
+Now have output_type
+Now have name
+Now have tie
+Now have tie
+insert:
+__less : &temp_object{tuple<_Bool &, basic_string_view<char, char_traits<char> > &>, S6218065} &temp_object{tuple<_Bool &, basic_string_view<char, char_traits<char> > &>, S6218137} 
+
+The Road is: x1
+-----------------
+Now have output_type
+Now have name
+Now have tie
+Now have tie
+insert:
+__less : &temp_object{tuple<_Bool &, basic_string_view<char, char_traits<char> > &>, S6218065} &temp_object{tuple<_Bool &, basic_string_view<char, char_traits<char> > &>, S6218137} 
+
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x

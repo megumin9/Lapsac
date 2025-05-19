@@ -1,0 +1,2390 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+is_connecting : &SymRegion{reg_$4<const peer_connection * a>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x9999
+
+The Road is: x9999
+insert:
+connected_time : &SymRegion{reg_$4<const peer_connection * a>} NowTime: 0
+
+The Road is: x9999
+
+The Road is: x9999
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+is_disconnecting : &SymRegion{reg_$4<const peer_connection * a>} NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x8899
+
+The Road is: x8899
+insert:
+connected_time : &SymRegion{reg_$4<const peer_connection * a>} NowTime: 0
+
+The Road is: x8899
+
+The Road is: x8899
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x8899
+
+The Road is: x8899
+NowTime: 0
+
+The Road is: x8899
+
+The Road is: x8899
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+is_connecting : &SymRegion{reg_$4<const peer_connection * a>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+is_connecting : &SymRegion{reg_$5<const peer_connection * b>} NowTime: 0
+
+The Road is: x9999
+
+The Road is: x9999
+insert:
+connected_time : &SymRegion{reg_$4<const peer_connection * a>} NowTime: 0
+
+The Road is: x9999
+
+The Road is: x9999
+insert:
+connected_time : &SymRegion{reg_$5<const peer_connection * b>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x99998
+
+The Road is: x99998
+NowTime: 0
+
+The Road is: x999989
+
+The Road is: x999989
+NowTime: 0
+
+The Road is: x999989999
+
+The Road is: x999989999
+NowTime: 0
+
+The Road is: x999989999
+
+The Road is: x999989999
+
+
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+insert:
+is_disconnecting : &SymRegion{reg_$5<const peer_connection * b>} NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+is_disconnecting : &SymRegion{reg_$4<const peer_connection * a>} NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+is_connecting : &SymRegion{reg_$5<const peer_connection * b>} NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+is_disconnecting : &SymRegion{reg_$5<const peer_connection * b>} NowTime: 0
+
+The Road is: x9899
+
+The Road is: x9899
+insert:
+connected_time : &SymRegion{reg_$4<const peer_connection * a>} NowTime: 0
+
+The Road is: x9899
+
+The Road is: x9899
+insert:
+connected_time : &SymRegion{reg_$5<const peer_connection * b>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98998
+
+The Road is: x98998
+NowTime: 0
+
+The Road is: x989988
+
+The Road is: x989988
+NowTime: 0
+
+The Road is: x989988
+
+The Road is: x989988
+NowTime: 0
+
+The Road is: x989988999
+
+The Road is: x989988999
+NowTime: 0
+
+The Road is: x989988999
+
+The Road is: x989988999
+
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98988
+
+The Road is: x98988
+NowTime: 0
+
+The Road is: x989888
+
+The Road is: x989888
+NowTime: 0
+
+The Road is: x989888
+
+The Road is: x989888
+
+NowTime: 0
+
+The Road is: x8999
+
+The Road is: x8999
+insert:
+connected_time : &SymRegion{reg_$4<const peer_connection * a>} NowTime: 0
+
+The Road is: x8999
+
+The Road is: x8999
+insert:
+connected_time : &SymRegion{reg_$5<const peer_connection * b>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x89998
+
+The Road is: x89998
+NowTime: 0
+
+The Road is: x899989
+
+The Road is: x899989
+NowTime: 0
+
+The Road is: x8999898
+
+The Road is: x8999898
+NowTime: 0
+
+The Road is: x899989899
+
+The Road is: x899989899
+NowTime: 0
+
+The Road is: x899989899
+
+The Road is: x899989899
+
+
+NowTime: 0
+
+The Road is: x8899
+
+The Road is: x8899
+insert:
+connected_time : &SymRegion{reg_$4<const peer_connection * a>} NowTime: 0
+
+The Road is: x8899
+
+The Road is: x8899
+insert:
+connected_time : &SymRegion{reg_$5<const peer_connection * b>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88998
+
+The Road is: x88998
+NowTime: 0
+
+The Road is: x889988
+
+The Road is: x889988
+NowTime: 0
+
+The Road is: x889988
+
+The Road is: x889988
+NowTime: 0
+
+The Road is: x8899888
+
+The Road is: x8899888
+NowTime: 0
+
+The Road is: x889988899
+
+The Road is: x889988899
+NowTime: 0
+
+The Road is: x889988899
+
+The Road is: x889988899
+
+
+
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x88988
+
+The Road is: x88988
+NowTime: 1
+
+The Road is: x889888
+
+The Road is: x889888
+NowTime: 1
+
+The Road is: x889888
+
+The Road is: x889888
+NowTime: 1
+
+The Road is: x8898888
+
+The Road is: x8898888
+
+
+
+NowTime: 1
+
+The Road is: x8899
+
+The Road is: x8899
+NowTime: 1
+
+The Road is: x8899
+
+The Road is: x8899
+
+
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x88998
+
+The Road is: x88998
+NowTime: 1
+
+The Road is: x889988
+
+The Road is: x889988
+NowTime: 2
+
+The Road is: x889988
+
+The Road is: x889988
+NowTime: 2
+
+The Road is: x8899888
+
+The Road is: x8899888
+NowTime: 3
+
+The Road is: x889988899
+
+The Road is: x889988899
+NowTime: 4
+
+The Road is: x889988899
+
+The Road is: x889988899
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+is_connecting : &SymRegion{reg_$4<const peer_connection * a>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+is_connecting : &SymRegion{reg_$5<const peer_connection * b>} NowTime: 0
+
+The Road is: x9999
+
+The Road is: x9999
+insert:
+connected_time : &SymRegion{reg_$4<const peer_connection * a>} NowTime: 0
+
+The Road is: x9999
+
+The Road is: x9999
+insert:
+connected_time : &SymRegion{reg_$5<const peer_connection * b>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x99998
+
+The Road is: x99998
+NowTime: 0
+
+The Road is: x999989
+
+The Road is: x999989
+NowTime: 0
+
+The Road is: x999989999
+
+The Road is: x999989999
+NowTime: 0
+
+The Road is: x999989999
+
+The Road is: x999989999
+
+
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+insert:
+is_disconnecting : &SymRegion{reg_$5<const peer_connection * b>} NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+is_disconnecting : &SymRegion{reg_$4<const peer_connection * a>} NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+is_connecting : &SymRegion{reg_$5<const peer_connection * b>} NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+is_disconnecting : &SymRegion{reg_$5<const peer_connection * b>} NowTime: 0
+
+The Road is: x9899
+
+The Road is: x9899
+insert:
+connected_time : &SymRegion{reg_$4<const peer_connection * a>} NowTime: 0
+
+The Road is: x9899
+
+The Road is: x9899
+insert:
+connected_time : &SymRegion{reg_$5<const peer_connection * b>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98998
+
+The Road is: x98998
+NowTime: 0
+
+The Road is: x989988
+
+The Road is: x989988
+NowTime: 0
+
+The Road is: x989988
+
+The Road is: x989988
+NowTime: 0
+
+The Road is: x989988999
+
+The Road is: x989988999
+NowTime: 0
+
+The Road is: x989988999
+
+The Road is: x989988999
+
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98988
+
+The Road is: x98988
+NowTime: 0
+
+The Road is: x989888
+
+The Road is: x989888
+NowTime: 0
+
+The Road is: x989888
+
+The Road is: x989888
+
+NowTime: 0
+
+The Road is: x8999
+
+The Road is: x8999
+insert:
+connected_time : &SymRegion{reg_$4<const peer_connection * a>} NowTime: 0
+
+The Road is: x8999
+
+The Road is: x8999
+insert:
+connected_time : &SymRegion{reg_$5<const peer_connection * b>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x89998
+
+The Road is: x89998
+NowTime: 0
+
+The Road is: x899989
+
+The Road is: x899989
+NowTime: 0
+
+The Road is: x8999898
+
+The Road is: x8999898
+NowTime: 0
+
+The Road is: x899989899
+
+The Road is: x899989899
+NowTime: 0
+
+The Road is: x899989899
+
+The Road is: x899989899
+
+
+NowTime: 0
+
+The Road is: x8899
+
+The Road is: x8899
+insert:
+connected_time : &SymRegion{reg_$4<const peer_connection * a>} NowTime: 0
+
+The Road is: x8899
+
+The Road is: x8899
+insert:
+connected_time : &SymRegion{reg_$5<const peer_connection * b>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88998
+
+The Road is: x88998
+NowTime: 0
+
+The Road is: x889988
+
+The Road is: x889988
+NowTime: 0
+
+The Road is: x889988
+
+The Road is: x889988
+NowTime: 0
+
+The Road is: x8899888
+
+The Road is: x8899888
+NowTime: 0
+
+The Road is: x889988899
+
+The Road is: x889988899
+NowTime: 0
+
+The Road is: x889988899
+
+The Road is: x889988899
+
+
+
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x88988
+
+The Road is: x88988
+NowTime: 1
+
+The Road is: x889888
+
+The Road is: x889888
+NowTime: 1
+
+The Road is: x889888
+
+The Road is: x889888
+NowTime: 1
+
+The Road is: x8898888
+
+The Road is: x8898888
+
+
+
+NowTime: 1
+
+The Road is: x8899
+
+The Road is: x8899
+NowTime: 1
+
+The Road is: x8899
+
+The Road is: x8899
+
+
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x88998
+
+The Road is: x88998
+NowTime: 1
+
+The Road is: x889988
+
+The Road is: x889988
+NowTime: 1
+
+The Road is: x889988
+
+The Road is: x889988
+NowTime: 2
+
+The Road is: x8899888
+
+The Road is: x8899888
+NowTime: 3
+
+The Road is: x889988899
+
+The Road is: x889988899
+NowTime: 4
+
+The Road is: x889988899
+
+The Road is: x889988899
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+is_connecting : &SymRegion{reg_$4<const peer_connection * a>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+is_connecting : &SymRegion{reg_$5<const peer_connection * b>} NowTime: 0
+
+The Road is: x9999
+
+The Road is: x9999
+insert:
+connected_time : &SymRegion{reg_$4<const peer_connection * a>} NowTime: 0
+
+The Road is: x9999
+
+The Road is: x9999
+insert:
+connected_time : &SymRegion{reg_$5<const peer_connection * b>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x99998
+
+The Road is: x99998
+NowTime: 0
+
+The Road is: x999989
+
+The Road is: x999989
+insert:
+is_connecting : &SymRegion{reg_$22<const peer_connection * c>} NowTime: 0
+
+The Road is: x999989999
+
+The Road is: x999989999
+NowTime: 0
+
+The Road is: x999989999
+
+The Road is: x999989999
+insert:
+connected_time : &SymRegion{reg_$22<const peer_connection * c>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9999899998
+
+The Road is: x9999899998
+NowTime: 0
+
+The Road is: x99998999989
+
+The Road is: x99998999989
+NowTime: 0
+
+The Road is: x99998999989999
+
+The Road is: x99998999989999
+NowTime: 0
+
+The Road is: x99998999989999
+
+The Road is: x99998999989999
+
+
+NowTime: 0
+
+The Road is: x9999898
+
+The Road is: x9999898
+insert:
+is_disconnecting : &SymRegion{reg_$22<const peer_connection * c>} NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+insert:
+is_disconnecting : &SymRegion{reg_$5<const peer_connection * b>} NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+is_disconnecting : &SymRegion{reg_$4<const peer_connection * a>} NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+is_connecting : &SymRegion{reg_$5<const peer_connection * b>} NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+is_disconnecting : &SymRegion{reg_$5<const peer_connection * b>} NowTime: 0
+
+The Road is: x9899
+
+The Road is: x9899
+insert:
+connected_time : &SymRegion{reg_$4<const peer_connection * a>} NowTime: 0
+
+The Road is: x9899
+
+The Road is: x9899
+insert:
+connected_time : &SymRegion{reg_$5<const peer_connection * b>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98998
+
+The Road is: x98998
+NowTime: 0
+
+The Road is: x989988
+
+The Road is: x989988
+NowTime: 0
+
+The Road is: x989988
+
+The Road is: x989988
+insert:
+is_connecting : &SymRegion{reg_$22<const peer_connection * c>} NowTime: 0
+
+The Road is: x9899888
+
+The Road is: x9899888
+insert:
+is_disconnecting : &SymRegion{reg_$22<const peer_connection * c>} NowTime: 0
+
+The Road is: x999989899
+
+The Road is: x999989899
+NowTime: 0
+
+The Road is: x999989899
+
+The Road is: x999989899
+insert:
+connected_time : &SymRegion{reg_$22<const peer_connection * c>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9999898998
+
+The Road is: x9999898998
+NowTime: 0
+
+The Road is: x99998989988
+
+The Road is: x99998989988
+NowTime: 0
+
+The Road is: x99998989988
+
+The Road is: x99998989988
+NowTime: 1
+
+The Road is: x99998989988999
+
+The Road is: x99998989988999
+NowTime: 1
+
+The Road is: x99998989988999
+
+The Road is: x99998989988999
+
+
+NowTime: 1
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 1
+
+The Road is: x88
+
+The Road is: x88
+
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x98988
+
+The Road is: x98988
+NowTime: 1
+
+The Road is: x989888
+
+The Road is: x989888
+NowTime: 1
+
+The Road is: x989888
+
+The Road is: x989888
+insert:
+is_connecting : &SymRegion{reg_$22<const peer_connection * c>} NowTime: 1
+
+The Road is: x9898888
+
+The Road is: x9898888
+insert:
+is_disconnecting : &SymRegion{reg_$22<const peer_connection * c>} 
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x9999898988
+
+The Road is: x9999898988
+NowTime: 1
+
+The Road is: x99998989888
+
+The Road is: x99998989888
+NowTime: 1
+
+The Road is: x99998989888
+
+The Road is: x99998989888
+
+NowTime: 1
+
+The Road is: x989988999
+
+The Road is: x989988999
+NowTime: 1
+
+The Road is: x989988999
+
+The Road is: x989988999
+insert:
+connected_time : &SymRegion{reg_$22<const peer_connection * c>} 
+
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x9899889998
+
+The Road is: x9899889998
+NowTime: 2
+
+The Road is: x98998899989
+
+The Road is: x98998899989
+NowTime: 2
+
+The Road is: x98998899989999
+
+The Road is: x98998899989999
+NowTime: 2
+
+The Road is: x98998899989999
+
+The Road is: x98998899989999
+
+
+NowTime: 2
+
+The Road is: x8999
+
+The Road is: x8999
+insert:
+connected_time : &SymRegion{reg_$4<const peer_connection * a>} NowTime: 2
+
+The Road is: x8999
+
+The Road is: x8999
+insert:
+connected_time : &SymRegion{reg_$5<const peer_connection * b>} 
+
+NowTime: 2
+
+NowTime: 2
+
+The Road is: x89998
+
+The Road is: x89998
+NowTime: 2
+
+The Road is: x899989
+
+The Road is: x899989
+insert:
+is_connecting : &SymRegion{reg_$22<const peer_connection * c>} NowTime: 2
+
+The Road is: x8999898
+
+The Road is: x8999898
+insert:
+is_disconnecting : &SymRegion{reg_$22<const peer_connection * c>} NowTime: 2
+
+The Road is: x989988899
+
+The Road is: x989988899
+NowTime: 3
+
+The Road is: x989988899
+
+The Road is: x989988899
+insert:
+connected_time : &SymRegion{reg_$22<const peer_connection * c>} 
+
+NowTime: 3
+
+NowTime: 3
+
+The Road is: x9899888998
+
+The Road is: x9899888998
+NowTime: 3
+
+The Road is: x98998889988
+
+The Road is: x98998889988
+NowTime: 3
+
+The Road is: x98998889988
+
+The Road is: x98998889988
+NowTime: 3
+
+The Road is: x98998889988999
+
+The Road is: x98998889988999
+NowTime: 3
+
+The Road is: x98998889988999
+
+The Road is: x98998889988999
+
+
+NowTime: 4
+
+The Road is: x8899
+
+The Road is: x8899
+insert:
+connected_time : &SymRegion{reg_$4<const peer_connection * a>} NowTime: 4
+
+The Road is: x8899
+
+The Road is: x8899
+insert:
+connected_time : &SymRegion{reg_$5<const peer_connection * b>} 
+
+NowTime: 4
+
+NowTime: 4
+
+The Road is: x88998
+
+The Road is: x88998
+NowTime: 4
+
+The Road is: x889988
+
+The Road is: x889988
+NowTime: 4
+
+The Road is: x889988
+
+The Road is: x889988
+insert:
+is_connecting : &SymRegion{reg_$22<const peer_connection * c>} NowTime: 4
+
+The Road is: x8899888
+
+The Road is: x8899888
+insert:
+is_disconnecting : &SymRegion{reg_$22<const peer_connection * c>} 
+NowTime: 4
+
+NowTime: 4
+
+The Road is: x9899888988
+
+The Road is: x9899888988
+NowTime: 4
+
+The Road is: x98998889888
+
+The Road is: x98998889888
+NowTime: 4
+
+The Road is: x98998889888
+
+The Road is: x98998889888
+
+
+NowTime: 4
+
+NowTime: 4
+
+The Road is: x88988
+
+The Road is: x88988
+NowTime: 4
+
+The Road is: x889888
+
+The Road is: x889888
+NowTime: 4
+
+The Road is: x889888
+
+The Road is: x889888
+insert:
+is_connecting : &SymRegion{reg_$22<const peer_connection * c>} NowTime: 4
+
+The Road is: x8898888
+
+The Road is: x8898888
+insert:
+is_disconnecting : &SymRegion{reg_$22<const peer_connection * c>} 
+
+
+
+NowTime: 4
+
+The Road is: x989888899
+
+The Road is: x989888899
+insert:
+connected_time : &SymRegion{reg_$5<const peer_connection * b>} NowTime: 4
+
+The Road is: x989888899
+
+The Road is: x989888899
+insert:
+connected_time : &SymRegion{reg_$22<const peer_connection * c>} 
+
+NowTime: 4
+
+NowTime: 4
+
+The Road is: x9898888998
+
+The Road is: x9898888998
+NowTime: 4
+
+The Road is: x98988889988
+
+The Road is: x98988889988
+NowTime: 4
+
+The Road is: x98988889988
+
+The Road is: x98988889988
+
+NowTime: 4
+
+The Road is: x8899
+
+The Road is: x8899
+NowTime: 4
+
+The Road is: x8899
+
+The Road is: x8899
+
+
+NowTime: 4
+
+NowTime: 4
+
+The Road is: x88998
+
+The Road is: x88998
+NowTime: 4
+
+The Road is: x889988
+
+The Road is: x889988
+NowTime: 5
+
+The Road is: x889988
+
+The Road is: x889988
+NowTime: 5
+
+The Road is: x8899888
+
+The Road is: x8899888
+NowTime: 5
+
+The Road is: x899989999
+
+The Road is: x899989999
+NowTime: 5
+
+The Road is: x899989999
+
+The Road is: x899989999
+insert:
+connected_time : &SymRegion{reg_$22<const peer_connection * c>} 
+
+NowTime: 5
+
+NowTime: 5
+
+The Road is: x8999899998
+
+The Road is: x8999899998
+NowTime: 5
+
+The Road is: x89998999989
+
+The Road is: x89998999989
+NowTime: 5
+
+The Road is: x899989999898
+
+The Road is: x899989999898
+NowTime: 6
+
+The Road is: x89998999989899
+
+The Road is: x89998999989899
+NowTime: 6
+
+The Road is: x89998999989899
+
+The Road is: x89998999989899
+
+
+NowTime: 7
+
+The Road is: x899989899
+
+The Road is: x899989899
+NowTime: 7
+
+The Road is: x899989899
+
+The Road is: x899989899
+insert:
+connected_time : &SymRegion{reg_$22<const peer_connection * c>} 
+
+NowTime: 7
+
+NowTime: 7
+
+The Road is: x8999898998
+
+The Road is: x8999898998
+NowTime: 7
+
+The Road is: x89998989988
+
+The Road is: x89998989988
+NowTime: 7
+
+The Road is: x89998989988
+
+The Road is: x89998989988
+NowTime: 7
+
+The Road is: x899989899888
+
+The Road is: x899989899888
+NowTime: 8
+
+The Road is: x89998989988899
+
+The Road is: x89998989988899
+NowTime: 8
+
+The Road is: x89998989988899
+
+The Road is: x89998989988899
+
+
+
+NowTime: 8
+
+NowTime: 8
+
+The Road is: x8999898988
+
+The Road is: x8999898988
+NowTime: 9
+
+The Road is: x89998989888
+
+The Road is: x89998989888
+NowTime: 9
+
+The Road is: x89998989888
+
+The Road is: x89998989888
+NowTime: 9
+
+The Road is: x899989898888
+
+The Road is: x899989898888
+
+NowTime: 9
+
+The Road is: x889988999
+
+The Road is: x889988999
+NowTime: 10
+
+The Road is: x889988999
+
+The Road is: x889988999
+insert:
+connected_time : &SymRegion{reg_$22<const peer_connection * c>} 
+
+NowTime: 10
+
+NowTime: 10
+
+The Road is: x8899889998
+
+The Road is: x8899889998
+NowTime: 10
+
+The Road is: x88998899989
+
+The Road is: x88998899989
+NowTime: 11
+
+The Road is: x889988999898
+
+The Road is: x889988999898
+NowTime: 13
+
+The Road is: x88998899989899
+
+The Road is: x88998899989899
+NowTime: 14
+
+The Road is: x88998899989899
+
+The Road is: x88998899989899
+
+
+NowTime: 15
+
+The Road is: x889988899
+
+The Road is: x889988899
+NowTime: 16
+
+The Road is: x889988899
+
+The Road is: x889988899
+insert:
+connected_time : &SymRegion{reg_$22<const peer_connection * c>} 
+
+NowTime: 16
+
+NowTime: 16
+
+The Road is: x8899888998
+
+The Road is: x8899888998
+NowTime: 16
+
+The Road is: x88998889988
+
+The Road is: x88998889988
+NowTime: 17
+
+The Road is: x88998889988
+
+The Road is: x88998889988
+NowTime: 18
+
+The Road is: x889988899888
+
+The Road is: x889988899888
+NowTime: 20
+
+The Road is: x88998889988899
+
+The Road is: x88998889988899
+NowTime: 21
+
+The Road is: x88998889988899
+
+The Road is: x88998889988899
+
+
+
+NowTime: 22
+
+NowTime: 22
+
+The Road is: x8899888988
+
+The Road is: x8899888988
+NowTime: 23
+
+The Road is: x88998889888
+
+The Road is: x88998889888
+NowTime: 23
+
+The Road is: x88998889888
+
+The Road is: x88998889888
+NowTime: 24
+
+The Road is: x889988898888
+
+The Road is: x889988898888
+
+
+
+NowTime: 24
+
+The Road is: x889888899
+
+The Road is: x889888899
+insert:
+connected_time : &SymRegion{reg_$5<const peer_connection * b>} NowTime: 24
+
+The Road is: x889888899
+
+The Road is: x889888899
+insert:
+connected_time : &SymRegion{reg_$22<const peer_connection * c>} 
+
+NowTime: 25
+
+NowTime: 25
+
+The Road is: x8898888998
+
+The Road is: x8898888998
+NowTime: 25
+
+The Road is: x88988889988
+
+The Road is: x88988889988
+NowTime: 25
+
+The Road is: x88988889988
+
+The Road is: x88988889988
+NowTime: 25
+
+The Road is: x889888899888
+
+The Road is: x889888899888
+
+
+
+NowTime: 26
+
+The Road is: x889988899
+
+The Road is: x889988899
+NowTime: 27
+
+The Road is: x889988899
+
+The Road is: x889988899
+
+
+NowTime: 27
+
+NowTime: 27
+
+The Road is: x8899888998
+
+The Road is: x8899888998
+NowTime: 28
+
+The Road is: x88998889988
+
+The Road is: x88998889988
+NowTime: 33
+
+The Road is: x88998889988
+
+The Road is: x88998889988
+NowTime: 35
+
+The Road is: x889988899888
+
+The Road is: x889988899888
+NowTime: 42
+
+The Road is: x88998889988899
+
+The Road is: x88998889988899
+NowTime: 46
+
+The Road is: x88998889988899
+
+The Road is: x88998889988899
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+is_connecting : &SymRegion{reg_$4<const peer_connection * a>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+is_connecting : &SymRegion{reg_$5<const peer_connection * b>} NowTime: 0
+
+The Road is: x9999
+
+The Road is: x9999
+insert:
+connected_time : &SymRegion{reg_$4<const peer_connection * a>} NowTime: 0
+
+The Road is: x9999
+
+The Road is: x9999
+insert:
+connected_time : &SymRegion{reg_$5<const peer_connection * b>} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x99998
+
+The Road is: x99998
+NowTime: 0
+
+The Road is: x999989
+
+The Road is: x999989
+insert:
+is_connecting : &SymRegion{reg_$22<const peer_connection * c>} NowTime: 0
+
+The Road is: x999989999
+
+The Road is: x999989999
+NowTime: 0
+
+The Road is: x999989999
+
+The Road is: x999989999
+insert:
+connected_time : &SymRegion{reg_$22<const peer_connection * c>} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9999899998
+
+The Road is: x9999899998
+NowTime: 0
+
+The Road is: x99998999989
+
+The Road is: x99998999989
+NowTime: 0
+
+The Road is: x99998999989999
+
+The Road is: x99998999989999
+NowTime: 0
+
+The Road is: x99998999989999
+
+The Road is: x99998999989999
+
+
+
+NowTime: 0
+
+The Road is: x9999898
+
+The Road is: x9999898
+insert:
+is_disconnecting : &SymRegion{reg_$22<const peer_connection * c>} 
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+insert:
+is_disconnecting : &SymRegion{reg_$5<const peer_connection * b>} NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+is_disconnecting : &SymRegion{reg_$4<const peer_connection * a>} NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+is_connecting : &SymRegion{reg_$5<const peer_connection * b>} NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+is_disconnecting : &SymRegion{reg_$5<const peer_connection * b>} NowTime: 0
+
+The Road is: x9899
+
+The Road is: x9899
+insert:
+connected_time : &SymRegion{reg_$4<const peer_connection * a>} NowTime: 0
+
+The Road is: x9899
+
+The Road is: x9899
+insert:
+connected_time : &SymRegion{reg_$5<const peer_connection * b>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98998
+
+The Road is: x98998
+NowTime: 0
+
+The Road is: x989988
+
+The Road is: x989988
+NowTime: 0
+
+The Road is: x989988
+
+The Road is: x989988
+insert:
+is_connecting : &SymRegion{reg_$22<const peer_connection * c>} NowTime: 0
+
+The Road is: x9899888
+
+The Road is: x9899888
+insert:
+is_disconnecting : &SymRegion{reg_$22<const peer_connection * c>} NowTime: 0
+
+The Road is: x999989899
+
+The Road is: x999989899
+NowTime: 0
+
+The Road is: x999989899
+
+The Road is: x999989899
+insert:
+connected_time : &SymRegion{reg_$22<const peer_connection * c>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9999898998
+
+The Road is: x9999898998
+NowTime: 0
+
+The Road is: x99998989989
+
+The Road is: x99998989989
+NowTime: 0
+
+The Road is: x999989899898
+
+The Road is: x999989899898
+NowTime: 0
+
+The Road is: x99998989989899
+
+The Road is: x99998989989899
+NowTime: 1
+
+The Road is: x99998989989899
+
+The Road is: x99998989989899
+
+
+NowTime: 1
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 1
+
+The Road is: x88
+
+The Road is: x88
+
+
+NowTime: 1
+
+The Road is: x989988999
+
+The Road is: x989988999
+NowTime: 1
+
+The Road is: x989988999
+
+The Road is: x989988999
+insert:
+connected_time : &SymRegion{reg_$22<const peer_connection * c>} 
+
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x9899889998
+
+The Road is: x9899889998
+NowTime: 1
+
+The Road is: x98998899989
+
+The Road is: x98998899989
+NowTime: 1
+
+The Road is: x98998899989999
+
+The Road is: x98998899989999
+NowTime: 1
+
+The Road is: x98998899989999
+
+The Road is: x98998899989999
+
+
+NowTime: 1
+
+The Road is: x8999
+
+The Road is: x8999
+insert:
+connected_time : &SymRegion{reg_$4<const peer_connection * a>} NowTime: 1
+
+The Road is: x8999
+
+The Road is: x8999
+insert:
+connected_time : &SymRegion{reg_$5<const peer_connection * b>} 
+
+NowTime: 2
+
+NowTime: 2
+
+The Road is: x89998
+
+The Road is: x89998
+NowTime: 2
+
+The Road is: x899989
+
+The Road is: x899989
+insert:
+is_connecting : &SymRegion{reg_$22<const peer_connection * c>} NowTime: 2
+
+The Road is: x8999898
+
+The Road is: x8999898
+insert:
+is_disconnecting : &SymRegion{reg_$22<const peer_connection * c>} NowTime: 2
+
+The Road is: x989988899
+
+The Road is: x989988899
+NowTime: 2
+
+The Road is: x989988899
+
+The Road is: x989988899
+insert:
+connected_time : &SymRegion{reg_$22<const peer_connection * c>} 
+
+NowTime: 2
+
+NowTime: 2
+
+The Road is: x9899888998
+
+The Road is: x9899888998
+NowTime: 2
+
+The Road is: x98998889989
+
+The Road is: x98998889989
+NowTime: 2
+
+The Road is: x989988899898
+
+The Road is: x989988899898
+NowTime: 2
+
+The Road is: x98998889989899
+
+The Road is: x98998889989899
+NowTime: 2
+
+The Road is: x98998889989899
+
+The Road is: x98998889989899
+
+
+NowTime: 2
+
+The Road is: x8899
+
+The Road is: x8899
+insert:
+connected_time : &SymRegion{reg_$4<const peer_connection * a>} NowTime: 2
+
+The Road is: x8899
+
+The Road is: x8899
+insert:
+connected_time : &SymRegion{reg_$5<const peer_connection * b>} 
+
+NowTime: 3
+
+NowTime: 3
+
+The Road is: x88998
+
+The Road is: x88998
+NowTime: 3
+
+The Road is: x889988
+
+The Road is: x889988
+NowTime: 3
+
+The Road is: x889988
+
+The Road is: x889988
+insert:
+is_connecting : &SymRegion{reg_$22<const peer_connection * c>} NowTime: 3
+
+The Road is: x8899888
+
+The Road is: x8899888
+insert:
+is_disconnecting : &SymRegion{reg_$22<const peer_connection * c>} 
+
+NowTime: 3
+
+The Road is: x899989999
+
+The Road is: x899989999
+NowTime: 3
+
+The Road is: x899989999
+
+The Road is: x899989999
+insert:
+connected_time : &SymRegion{reg_$22<const peer_connection * c>} 
+
+NowTime: 3
+
+NowTime: 3
+
+The Road is: x8999899998
+
+The Road is: x8999899998
+NowTime: 3
+
+The Road is: x89998999988
+
+The Road is: x89998999988
+NowTime: 3
+
+The Road is: x89998999988
+
+The Road is: x89998999988
+NowTime: 3
+
+The Road is: x89998999988999
+
+The Road is: x89998999988999
+NowTime: 3
+
+The Road is: x89998999988999
+
+The Road is: x89998999988999
+
+
+
+NowTime: 4
+
+NowTime: 4
+
+The Road is: x8988
+
+The Road is: x8988
+NowTime: 4
+
+The Road is: x89889
+
+The Road is: x89889
+insert:
+is_connecting : &SymRegion{reg_$22<const peer_connection * c>} NowTime: 4
+
+The Road is: x898898
+
+The Road is: x898898
+insert:
+is_disconnecting : &SymRegion{reg_$22<const peer_connection * c>} NowTime: 4
+
+The Road is: x899989899
+
+The Road is: x899989899
+NowTime: 4
+
+The Road is: x899989899
+
+The Road is: x899989899
+insert:
+connected_time : &SymRegion{reg_$22<const peer_connection * c>} 
+
+NowTime: 4
+
+NowTime: 4
+
+The Road is: x8999898998
+
+The Road is: x8999898998
+NowTime: 4
+
+The Road is: x89998989988
+
+The Road is: x89998989988
+NowTime: 4
+
+The Road is: x89998989988
+
+The Road is: x89998989988
+NowTime: 4
+
+The Road is: x899989899888
+
+The Road is: x899989899888
+NowTime: 4
+
+The Road is: x89998989988899
+
+The Road is: x89998989988899
+NowTime: 5
+
+The Road is: x89998989988899
+
+The Road is: x89998989988899
+
+
+
+NowTime: 5
+
+NowTime: 5
+
+The Road is: x8888
+
+The Road is: x8888
+NowTime: 5
+
+The Road is: x88888
+
+The Road is: x88888
+NowTime: 5
+
+The Road is: x88888
+
+The Road is: x88888
+insert:
+is_connecting : &SymRegion{reg_$22<const peer_connection * c>} NowTime: 5
+
+The Road is: x888888
+
+The Road is: x888888
+insert:
+is_disconnecting : &SymRegion{reg_$22<const peer_connection * c>} 
+NowTime: 5
+
+The Road is: x8899
+
+The Road is: x8899
+NowTime: 5
+
+The Road is: x8899
+
+The Road is: x8899
+
+
+NowTime: 5
+
+NowTime: 5
+
+The Road is: x88998
+
+The Road is: x88998
+NowTime: 5
+
+The Road is: x889988
+
+The Road is: x889988
+NowTime: 5
+
+The Road is: x889988
+
+The Road is: x889988
+NowTime: 6
+
+The Road is: x8899888
+
+The Road is: x8899888
+NowTime: 6
+
+The Road is: x889988999
+
+The Road is: x889988999
+NowTime: 7
+
+The Road is: x889988999
+
+The Road is: x889988999
+insert:
+connected_time : &SymRegion{reg_$22<const peer_connection * c>} 
+
+NowTime: 7
+
+NowTime: 7
+
+The Road is: x8899889998
+
+The Road is: x8899889998
+NowTime: 7
+
+The Road is: x88998899988
+
+The Road is: x88998899988
+NowTime: 7
+
+The Road is: x88998899988
+
+The Road is: x88998899988
+NowTime: 9
+
+The Road is: x88998899988999
+
+The Road is: x88998899988999
+NowTime: 9
+
+The Road is: x88998899988999
+
+The Road is: x88998899988999
+
+
+NowTime: 11
+
+The Road is: x889988899
+
+The Road is: x889988899
+NowTime: 11
+
+The Road is: x889988899
+
+The Road is: x889988899
+insert:
+connected_time : &SymRegion{reg_$22<const peer_connection * c>} 
+
+NowTime: 11
+
+NowTime: 11
+
+The Road is: x8899888998
+
+The Road is: x8899888998
+NowTime: 12
+
+The Road is: x88998889988
+
+The Road is: x88998889988
+NowTime: 12
+
+The Road is: x88998889988
+
+The Road is: x88998889988
+NowTime: 13
+
+The Road is: x889988899888
+
+The Road is: x889988899888
+NowTime: 14
+
+The Road is: x88998889988899
+
+The Road is: x88998889988899
+NowTime: 15
+
+The Road is: x88998889988899
+
+The Road is: x88998889988899
+
+
+
+NowTime: 16
+
+The Road is: x89889999
+
+The Road is: x89889999
+insert:
+connected_time : &SymRegion{reg_$5<const peer_connection * b>} NowTime: 16
+
+The Road is: x89889999
+
+The Road is: x89889999
+insert:
+connected_time : &SymRegion{reg_$22<const peer_connection * c>} 
+
+NowTime: 16
+
+NowTime: 16
+
+The Road is: x898899998
+
+The Road is: x898899998
+NowTime: 16
+
+The Road is: x8988999988
+
+The Road is: x8988999988
+NowTime: 16
+
+The Road is: x8988999988
+
+The Road is: x8988999988
+
+NowTime: 17
+
+The Road is: x89889899
+
+The Road is: x89889899
+insert:
+connected_time : &SymRegion{reg_$5<const peer_connection * b>} NowTime: 17
+
+The Road is: x89889899
+
+The Road is: x89889899
+insert:
+connected_time : &SymRegion{reg_$22<const peer_connection * c>} 
+
+NowTime: 17
+
+NowTime: 17
+
+The Road is: x898898998
+
+The Road is: x898898998
+NowTime: 17
+
+The Road is: x8988989988
+
+The Road is: x8988989988
+NowTime: 17
+
+The Road is: x8988989988
+
+The Road is: x8988989988
+NowTime: 17
+
+The Road is: x89889899888
+
+The Road is: x89889899888
+
+
+NowTime: 17
+
+The Road is: x88888999
+
+The Road is: x88888999
+insert:
+connected_time : &SymRegion{reg_$5<const peer_connection * b>} NowTime: 17
+
+The Road is: x88888999
+
+The Road is: x88888999
+insert:
+connected_time : &SymRegion{reg_$22<const peer_connection * c>} 
+
+NowTime: 17
+
+NowTime: 17
+
+The Road is: x888889998
+
+The Road is: x888889998
+NowTime: 17
+
+The Road is: x8888899988
+
+The Road is: x8888899988
+NowTime: 17
+
+The Road is: x8888899988
+
+The Road is: x8888899988
+
+NowTime: 18
+
+The Road is: x88888899
+
+The Road is: x88888899
+insert:
+connected_time : &SymRegion{reg_$5<const peer_connection * b>} NowTime: 18
+
+The Road is: x88888899
+
+The Road is: x88888899
+insert:
+connected_time : &SymRegion{reg_$22<const peer_connection * c>} 
+
+NowTime: 18
+
+NowTime: 18
+
+The Road is: x888888998
+
+The Road is: x888888998
+NowTime: 18
+
+The Road is: x8888889988
+
+The Road is: x8888889988
+NowTime: 18
+
+The Road is: x8888889988
+
+The Road is: x8888889988
+NowTime: 18
+
+The Road is: x88888899888
+
+The Road is: x88888899888
+
+
+
+NowTime: 18
+
+NowTime: 18
+
+The Road is: x889988988
+
+The Road is: x889988988
+NowTime: 18
+
+The Road is: x8899889888
+
+The Road is: x8899889888
+NowTime: 19
+
+The Road is: x8899889888
+
+The Road is: x8899889888
+
+
+NowTime: 19
+
+NowTime: 19
+
+The Road is: x889988888
+
+The Road is: x889988888
+NowTime: 19
+
+The Road is: x8899888888
+
+The Road is: x8899888888
+NowTime: 20
+
+The Road is: x8899888888
+
+The Road is: x8899888888
+NowTime: 20
+
+The Road is: x88998888888
+
+The Road is: x88998888888
+
+NowTime: 21
+
+The Road is: x889988899
+
+The Road is: x889988899
+NowTime: 22
+
+The Road is: x889988899
+
+The Road is: x889988899
+
+
+NowTime: 23
+
+NowTime: 23
+
+The Road is: x8899888998
+
+The Road is: x8899888998
+NowTime: 23
+
+The Road is: x88998889988
+
+The Road is: x88998889988
+NowTime: 28
+
+The Road is: x88998889988
+
+The Road is: x88998889988
+NowTime: 29
+
+The Road is: x889988899888
+
+The Road is: x889988899888
+NowTime: 35
+
+The Road is: x88998889988899
+
+The Road is: x88998889988899
+NowTime: 38
+
+The Road is: x88998889988899
+
+The Road is: x88998889988899
+
+
+/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_10.cpp:40:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   40 |         SymmetryChecker();
+      |         ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_10.cpp:46:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   46 |         SymmetryChecker();
+      |         ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_10.cpp:52:9: warning: Violation of Anti-Reflexivity [CompareCheck.FunctionChecker]
+   52 |         ReflexivityChecker();
+      |         ^~~~~~~~~~~~~~~~~~~~
+3 warnings generated.
+Total paths analyzed: 3
+Total paths analyzed: 5
+Total paths analyzed: 5
+Total paths analyzed: 9
+Total paths analyzed: 9

@@ -1,0 +1,187 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+toInt : &SymRegion{reg_$4<const QString & a>} 0 (Loc) 10 S32b NowTime: 0
+
+The Road is: x
+
+The Road is: x
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+toInt : &SymRegion{reg_$4<const QString & a>} 0 (Loc) 10 S32b NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+toInt : &SymRegion{reg_$5<const QString & b>} 0 (Loc) 10 S32b 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+toInt : &SymRegion{reg_$4<const QString & a>} 0 (Loc) 10 S32b NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+toInt : &SymRegion{reg_$5<const QString & b>} 0 (Loc) 10 S32b 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+toInt : &SymRegion{reg_$4<const QString & a>} 0 (Loc) 10 S32b NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+toInt : &SymRegion{reg_$5<const QString & b>} 0 (Loc) 10 S32b 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+toInt : &SymRegion{reg_$14<const QString & c>} 0 (Loc) 10 S32b 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+toInt : &SymRegion{reg_$4<const QString & a>} 0 (Loc) 10 S32b NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+toInt : &SymRegion{reg_$5<const QString & b>} 0 (Loc) 10 S32b 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+toInt : &SymRegion{reg_$14<const QString & c>} 0 (Loc) 10 S32b 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+
+
+
+Total paths analyzed: 0
+Total paths analyzed: 0
+Total paths analyzed: 0
+Total paths analyzed: 1
+Total paths analyzed: 1

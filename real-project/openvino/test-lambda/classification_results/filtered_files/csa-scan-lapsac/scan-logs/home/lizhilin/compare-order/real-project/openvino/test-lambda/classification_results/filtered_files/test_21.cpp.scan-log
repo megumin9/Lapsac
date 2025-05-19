@@ -1,0 +1,68 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get_friendly_name : &SymRegion{reg_$5<struct Node * Element{SymRegion{reg_$4<const PairNodePtr & a>},0 S64b,struct std::pair<struct Node *, struct Node *>}.first>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+NowTime: 0
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &temp_object{std::string, S882003} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+data : &temp_object{std::string, S882003} NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+-----------------
+Now have get_friendly_name
+Now have size
+Now have data
+insert:
+compare : &SymRegion{conj_$22{const char *, LC4, S971049, #1}} &SymRegion{conj_$22{const char *, LC4, S971049, #1}} conj_$16{size_type, LC4, S970960, #1} 
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+NPUW_ASSERT : 0 U1b NowTime: 0
+
+The Road is: x8
+
+The Road is: x8

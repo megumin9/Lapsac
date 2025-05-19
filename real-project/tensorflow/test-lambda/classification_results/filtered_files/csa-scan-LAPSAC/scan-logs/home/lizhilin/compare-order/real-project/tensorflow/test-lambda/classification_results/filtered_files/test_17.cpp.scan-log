@@ -1,0 +1,480 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+name : &SymRegion{reg_$4<const NodeDef * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+-----------------
+Now have name
+insert:
+compare : &SymRegion{conj_$8{const string &, LC2, S6166712, #1}} &SymRegion{conj_$8{const string &, LC2, S6166712, #1}} 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+name : &SymRegion{reg_$4<const NodeDef * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+name : &SymRegion{reg_$5<const NodeDef * b>} NowTime: 0
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+Now have name
+Now have name
+insert:
+compare : &SymRegion{conj_$9{const string &, LC5, S6166712, #1}} &SymRegion{conj_$13{const string &, LC5, S6166755, #1}} 
+
+The Road is: x2
+-----------------
+Now have name
+Now have name
+insert:
+compare : &SymRegion{conj_$9{const string &, LC5, S6166712, #1}} &SymRegion{conj_$13{const string &, LC5, S6166755, #1}} 
+
+The Road is: x1
+-----------------
+Now have name
+Now have name
+insert:
+compare : &SymRegion{conj_$9{const string &, LC5, S6166712, #1}} &SymRegion{conj_$13{const string &, LC5, S6166755, #1}} 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+NowTime: 0
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+-----------------
+Now have name
+Now have name
+Now have compare
+insert:
+compare : &SymRegion{conj_$13{const string &, LC5, S6166755, #1}} &SymRegion{conj_$9{const string &, LC5, S6166712, #1}} 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+name : &SymRegion{reg_$4<const NodeDef * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+name : &SymRegion{reg_$5<const NodeDef * b>} NowTime: 0
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+Now have name
+Now have name
+insert:
+compare : &SymRegion{conj_$9{const string &, LC10, S6166712, #1}} &SymRegion{conj_$13{const string &, LC10, S6166755, #1}} 
+
+The Road is: x2
+-----------------
+Now have name
+Now have name
+insert:
+compare : &SymRegion{conj_$9{const string &, LC10, S6166712, #1}} &SymRegion{conj_$13{const string &, LC10, S6166755, #1}} 
+
+The Road is: x1
+-----------------
+Now have name
+Now have name
+insert:
+compare : &SymRegion{conj_$9{const string &, LC10, S6166712, #1}} &SymRegion{conj_$13{const string &, LC10, S6166755, #1}} 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+insert:
+name : &SymRegion{reg_$15<const NodeDef * c>} NowTime: 0
+NowTime: 0
+
+The Road is: x08
+The road length:2
+The road length:2
+The road length:2
+
+The Road is: x080
+-----------------
+Now have name
+Now have name
+Now have compare
+Now have name
+insert:
+compare : &SymRegion{conj_$13{const string &, LC10, S6166755, #1}} &SymRegion{conj_$23{const string &, LC12, S6166755, #1}} 
+
+The Road is: x082
+-----------------
+Now have name
+Now have name
+Now have compare
+Now have name
+insert:
+compare : &SymRegion{conj_$13{const string &, LC10, S6166755, #1}} &SymRegion{conj_$23{const string &, LC12, S6166755, #1}} 
+
+The Road is: x081
+-----------------
+Now have name
+Now have name
+Now have compare
+Now have name
+insert:
+compare : &SymRegion{conj_$13{const string &, LC10, S6166755, #1}} &SymRegion{conj_$23{const string &, LC12, S6166755, #1}} 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x0808
+
+The Road is: x0808
+NowTime: 0
+
+The Road is: x0808
+
+The Road is: x0808
+NowTime: 0
+NowTime: 0
+
+The Road is: x0808
+
+The Road is: x0808
+-----------------
+Now have name
+Now have name
+Now have compare
+Now have name
+Now have compare
+insert:
+compare : &SymRegion{conj_$23{const string &, LC12, S6166755, #1}} &SymRegion{conj_$9{const string &, LC10, S6166712, #1}} 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+name : &SymRegion{reg_$4<const NodeDef * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+name : &SymRegion{reg_$5<const NodeDef * b>} NowTime: 0
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+Now have name
+Now have name
+insert:
+compare : &SymRegion{conj_$9{const string &, LC17, S6166712, #1}} &SymRegion{conj_$13{const string &, LC17, S6166755, #1}} 
+
+The Road is: x2
+-----------------
+Now have name
+Now have name
+insert:
+compare : &SymRegion{conj_$9{const string &, LC17, S6166712, #1}} &SymRegion{conj_$13{const string &, LC17, S6166755, #1}} 
+
+The Road is: x1
+-----------------
+Now have name
+Now have name
+insert:
+compare : &SymRegion{conj_$9{const string &, LC17, S6166712, #1}} &SymRegion{conj_$13{const string &, LC17, S6166755, #1}} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+insert:
+name : &SymRegion{reg_$15<const NodeDef * c>} NowTime: 0
+NowTime: 0
+
+The Road is: x18
+The road length:2
+The road length:2
+The road length:2
+
+The Road is: x180
+-----------------
+Now have name
+Now have name
+Now have compare
+Now have name
+insert:
+compare : &SymRegion{conj_$13{const string &, LC17, S6166755, #1}} &SymRegion{conj_$23{const string &, LC19, S6166755, #1}} 
+
+The Road is: x182
+-----------------
+Now have name
+Now have name
+Now have compare
+Now have name
+insert:
+compare : &SymRegion{conj_$13{const string &, LC17, S6166755, #1}} &SymRegion{conj_$23{const string &, LC19, S6166755, #1}} 
+
+The Road is: x181
+-----------------
+Now have name
+Now have name
+Now have compare
+Now have name
+insert:
+compare : &SymRegion{conj_$13{const string &, LC17, S6166755, #1}} &SymRegion{conj_$23{const string &, LC19, S6166755, #1}} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x1818
+
+The Road is: x1818
+NowTime: 0
+
+The Road is: x1818
+
+The Road is: x1818
+NowTime: 0
+NowTime: 0
+
+The Road is: x1818
+
+The Road is: x1818
+-----------------
+Now have name
+Now have name
+Now have compare
+Now have name
+Now have compare
+insert:
+compare : &SymRegion{conj_$9{const string &, LC17, S6166712, #1}} &SymRegion{conj_$23{const string &, LC19, S6166755, #1}} 
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x28
+
+The Road is: x28
+NowTime: 0
+
+The Road is: x28
+
+The Road is: x28
+insert:
+name : &SymRegion{reg_$15<const NodeDef * c>} NowTime: 0
+NowTime: 0
+
+The Road is: x28
+The road length:2
+The road length:2
+The road length:2
+
+The Road is: x280
+-----------------
+Now have name
+Now have name
+Now have compare
+Now have name
+insert:
+compare : &SymRegion{conj_$13{const string &, LC17, S6166755, #1}} &SymRegion{conj_$23{const string &, LC19, S6166755, #1}} 
+
+The Road is: x282
+-----------------
+Now have name
+Now have name
+Now have compare
+Now have name
+
+The Road is: x281
+-----------------
+Now have name
+Now have name
+Now have compare
+Now have name
+insert:
+compare : &SymRegion{conj_$13{const string &, LC17, S6166755, #1}} &SymRegion{conj_$23{const string &, LC19, S6166755, #1}} 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x1828
+
+The Road is: x1828
+NowTime: 0
+
+The Road is: x1828
+
+The Road is: x1828
+NowTime: 0
+NowTime: 0
+
+The Road is: x1828
+
+The Road is: x1828
+-----------------
+Now have name
+Now have name
+Now have compare
+Now have name
+Now have compare
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x2818
+
+The Road is: x2818
+NowTime: 0
+
+The Road is: x2818
+
+The Road is: x2818
+NowTime: 0
+NowTime: 0
+
+The Road is: x2818
+
+The Road is: x2818
+-----------------
+Now have name
+Now have name
+Now have compare
+Now have name
+Now have compare
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x2828
+
+The Road is: x2828
+NowTime: 0
+
+The Road is: x2828
+
+The Road is: x2828
+NowTime: 1
+NowTime: 1
+
+The Road is: x2828
+
+The Road is: x2828
+-----------------
+Now have name
+Now have name
+Now have compare
+Now have name
+
+Total paths analyzed: 0
+Total paths analyzed: 0
+Total paths analyzed: 0
+Total paths analyzed: 0

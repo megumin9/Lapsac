@@ -1,0 +1,879 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{enum Qgis::LayerType, S6168325} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{int, S6168335} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{enum Qgis::LayerType, S6168357} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{int, S6168363} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{enum Qgis::LayerType, S6168386} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{int, S6168392} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{enum Qgis::LayerType, S6168415} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{int, S6168421} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{enum Qgis::LayerType, S6168444} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{int, S6168450} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{enum Qgis::LayerType, S6168473} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{int, S6168479} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{enum Qgis::LayerType, S6168502} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{int, S6168508} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{enum Qgis::LayerType, S6168531} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{int, S6168537} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+type : &SymRegion{reg_$4<QgsMapLayer * a>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+value : &layerTypeOrdering &temp_object{Qgis::LayerType, S6240954} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+value : &layerTypeOrdering &temp_object{Qgis::LayerType, S6240995} 
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+qobject_cast : &Base{SymRegion{reg_$4<QgsMapLayer * a>},QObject} NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{enum Qgis::LayerType, S6168325} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{int, S6168335} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{enum Qgis::LayerType, S6168357} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{int, S6168363} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{enum Qgis::LayerType, S6168386} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{int, S6168392} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{enum Qgis::LayerType, S6168415} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{int, S6168421} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{enum Qgis::LayerType, S6168444} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{int, S6168450} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{enum Qgis::LayerType, S6168473} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{int, S6168479} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{enum Qgis::LayerType, S6168502} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{int, S6168508} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{enum Qgis::LayerType, S6168531} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{int, S6168537} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+type : &SymRegion{reg_$4<QgsMapLayer * a>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+value : &layerTypeOrdering &temp_object{Qgis::LayerType, S6240954} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+type : &SymRegion{reg_$5<QgsMapLayer * b>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+value : &layerTypeOrdering &temp_object{Qgis::LayerType, S6240995} 
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+type : &SymRegion{reg_$5<QgsMapLayer * b>} NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+qobject_cast : &Base{SymRegion{reg_$4<QgsMapLayer * a>},QObject} NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+qobject_cast : &Base{SymRegion{reg_$5<QgsMapLayer * b>},QObject} NowTime: 0
+NowTime: 0
+
+The Road is: x89
+
+The Road is: x89
+NowTime: 0
+
+The Road is: x89
+
+The Road is: x89
+insert:
+value : &layerTypeOrdering &temp_object{Qgis::LayerType, S6240954} NowTime: 0
+
+The Road is: x89
+
+The Road is: x89
+NowTime: 0
+
+The Road is: x89
+
+The Road is: x89
+insert:
+value : &layerTypeOrdering &temp_object{Qgis::LayerType, S6240995} 
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{enum Qgis::LayerType, S6168325} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{int, S6168335} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{enum Qgis::LayerType, S6168357} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{int, S6168363} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{enum Qgis::LayerType, S6168386} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{int, S6168392} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{enum Qgis::LayerType, S6168415} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{int, S6168421} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{enum Qgis::LayerType, S6168444} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{int, S6168450} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{enum Qgis::LayerType, S6168473} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{int, S6168479} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{enum Qgis::LayerType, S6168502} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{int, S6168508} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{enum Qgis::LayerType, S6168531} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{int, S6168537} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+type : &SymRegion{reg_$4<QgsMapLayer * a>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+value : &layerTypeOrdering &temp_object{Qgis::LayerType, S6240954} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+type : &SymRegion{reg_$5<QgsMapLayer * b>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+value : &layerTypeOrdering &temp_object{Qgis::LayerType, S6240995} 
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+type : &SymRegion{reg_$5<QgsMapLayer * b>} NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+qobject_cast : &Base{SymRegion{reg_$4<QgsMapLayer * a>},QObject} NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+qobject_cast : &Base{SymRegion{reg_$5<QgsMapLayer * b>},QObject} NowTime: 0
+NowTime: 0
+
+The Road is: x89
+
+The Road is: x89
+NowTime: 0
+
+The Road is: x89
+
+The Road is: x89
+insert:
+value : &layerTypeOrdering &temp_object{Qgis::LayerType, S6240954} NowTime: 0
+
+The Road is: x89
+
+The Road is: x89
+NowTime: 0
+
+The Road is: x89
+
+The Road is: x89
+insert:
+value : &layerTypeOrdering &temp_object{Qgis::LayerType, S6240995} 
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{enum Qgis::LayerType, S6168325} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{int, S6168335} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{enum Qgis::LayerType, S6168357} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{int, S6168363} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{enum Qgis::LayerType, S6168386} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{int, S6168392} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{enum Qgis::LayerType, S6168415} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{int, S6168421} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{enum Qgis::LayerType, S6168444} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{int, S6168450} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{enum Qgis::LayerType, S6168473} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{int, S6168479} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{enum Qgis::LayerType, S6168502} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{int, S6168508} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{enum Qgis::LayerType, S6168531} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{int, S6168537} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+type : &SymRegion{reg_$4<QgsMapLayer * a>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+value : &layerTypeOrdering &temp_object{Qgis::LayerType, S6240954} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+type : &SymRegion{reg_$5<QgsMapLayer * b>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+value : &layerTypeOrdering &temp_object{Qgis::LayerType, S6240995} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+insert:
+type : &SymRegion{reg_$19<QgsMapLayer * c>} NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9898
+
+The Road is: x9898
+NowTime: 0
+
+The Road is: x98989
+
+The Road is: x98989
+NowTime: 0
+
+The Road is: x98989
+
+The Road is: x98989
+NowTime: 0
+
+The Road is: x98989
+
+The Road is: x98989
+NowTime: 0
+
+The Road is: x98989
+
+The Road is: x98989
+
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+insert:
+type : &SymRegion{reg_$19<QgsMapLayer * c>} NowTime: 0
+
+The Road is: x9888
+
+The Road is: x9888
+insert:
+qobject_cast : &Base{SymRegion{reg_$5<QgsMapLayer * b>},QObject} NowTime: 0
+
+The Road is: x9888
+
+The Road is: x9888
+insert:
+qobject_cast : &Base{SymRegion{reg_$19<QgsMapLayer * c>},QObject} NowTime: 0
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+type : &SymRegion{reg_$5<QgsMapLayer * b>} NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+qobject_cast : &Base{SymRegion{reg_$4<QgsMapLayer * a>},QObject} NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+qobject_cast : &Base{SymRegion{reg_$5<QgsMapLayer * b>},QObject} NowTime: 0
+NowTime: 0
+
+The Road is: x89
+
+The Road is: x89
+NowTime: 0
+
+The Road is: x89
+
+The Road is: x89
+insert:
+value : &layerTypeOrdering &temp_object{Qgis::LayerType, S6240954} NowTime: 0
+
+The Road is: x89
+
+The Road is: x89
+NowTime: 0
+
+The Road is: x89
+
+The Road is: x89
+insert:
+value : &layerTypeOrdering &temp_object{Qgis::LayerType, S6240995} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x898
+
+The Road is: x898
+NowTime: 0
+
+The Road is: x9889
+
+The Road is: x9889
+NowTime: 0
+
+The Road is: x9889
+
+The Road is: x9889
+NowTime: 0
+
+The Road is: x9889
+
+The Road is: x9889
+NowTime: 0
+
+The Road is: x9889
+
+The Road is: x9889
+
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x98898
+
+The Road is: x98898
+NowTime: 1
+
+The Road is: x988989
+
+The Road is: x988989
+NowTime: 1
+
+The Road is: x988989
+
+The Road is: x988989
+NowTime: 1
+
+The Road is: x988989
+
+The Road is: x988989
+NowTime: 1
+
+The Road is: x988989
+
+The Road is: x988989
+
+NowTime: 2
+
+The Road is: x8989
+
+The Road is: x8989
+NowTime: 2
+
+The Road is: x8989
+
+The Road is: x8989
+NowTime: 2
+
+The Road is: x8989
+
+The Road is: x8989
+insert:
+type : &SymRegion{reg_$19<QgsMapLayer * c>} NowTime: 2
+
+The Road is: x8989
+
+The Road is: x8989
+
+NowTime: 2
+
+NowTime: 2
+
+The Road is: x89898
+
+The Road is: x89898
+NowTime: 2
+
+The Road is: x898988
+
+The Road is: x898988
+NowTime: 2
+
+The Road is: x8989888
+
+The Road is: x8989888
+insert:
+qobject_cast : &Base{SymRegion{reg_$4<QgsMapLayer * a>},QObject} NowTime: 2
+
+The Road is: x8989888
+
+The Road is: x8989888
+insert:
+qobject_cast : &Base{SymRegion{reg_$19<QgsMapLayer * c>},QObject} NowTime: 2
+NowTime: 2
+
+The Road is: x8989889
+
+The Road is: x8989889
+NowTime: 3
+
+The Road is: x8989889
+
+The Road is: x8989889
+NowTime: 3
+
+The Road is: x8989889
+
+The Road is: x8989889
+NowTime: 4
+
+The Road is: x8989889
+
+The Road is: x8989889
+
+/home/lizhilin/compare-order/real-project/QGIS/test-lambda/classification_results/filtered_files/test_40.cpp:62:12: warning: Called C++ object pointer is null [core.CallAndMessage]
+   62 |     return av->geometryType() > bv->geometryType();
+      |            ^~~~~~~~~~~~~~~~~~
+1 warning generated.
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 3
+Total paths analyzed: 0

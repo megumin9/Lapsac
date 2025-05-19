@@ -1,0 +1,10 @@
+{
+    "/home/lizhilin/compare-order/real-project/colmap/src/colmap/util/cuda.cc": [
+        {
+            "header": "bool CompareCudaDevice",
+            "params": "const cudaDeviceProp& d1, const cudaDeviceProp& d2",
+            "is_const": false,
+            "body": "bool result = (d1.major > d2.major) ||\n                ((d1.major == d2.major) && (d1.minor > d2.minor)) ||\n                ((d1.major == d2.major) && (d1.minor == d2.minor) &&\n                 (d1.multiProcessorCount > d2.multiProcessorCount));\n  return result;"
+        }
+    ]
+}

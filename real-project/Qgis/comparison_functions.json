@@ -1,0 +1,124 @@
+{
+    "/home/lizhilin/compare-order/real-project/QGIS/external/poly2tri/common/shapes.h": [
+        {
+            "header": "bool cmp",
+            "params": "const Point* a, const Point* b",
+            "is_const": false,
+            "body": "if (a->y < b->y) {\n        return true;\n    } else if (a->y == b->y) {\n        \n        if (a->x < b->x) {\n            return true;\n        }\n    }\n    return false;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/QGIS/src/core/qgis.cpp": [
+        {
+            "header": "bool qgsVariantLessThan",
+            "params": "const QVariant &lhs, const QVariant &rhs",
+            "is_const": false,
+            "body": "if ( !lhs.isValid() )\n    return rhs.isValid();\n  else if ( lhs.isNull() )\n    return rhs.isValid() && !rhs.isNull();\n  else if ( !rhs.isValid() || rhs.isNull() )\n    return false;\n\n  switch ( lhs.userType() )\n  {\n    case QMetaType::Type::Int:\n      return lhs.toInt() < rhs.toInt();\n    case QMetaType::Type::UInt:\n      return lhs.toUInt() < rhs.toUInt();\n    case QMetaType::Type::LongLong:\n      return lhs.toLongLong() < rhs.toLongLong();\n    case QMetaType::Type::ULongLong:\n      return lhs.toULongLong() < rhs.toULongLong();\n    case QMetaType::Type::Double:\n      return lhs.toDouble() < rhs.toDouble();\n    case QMetaType::Type::QChar:\n      return lhs.toChar() < rhs.toChar();\n    case QMetaType::Type::QDate:\n      return lhs.toDate() < rhs.toDate();\n    case QMetaType::Type::QTime:\n      return lhs.toTime() < rhs.toTime();\n    case QMetaType::Type::QDateTime:\n      return lhs.toDateTime() < rhs.toDateTime();\n    case QMetaType::Type::Bool:\n      return lhs.toBool() < rhs.toBool();\n\n    case QMetaType::Type::QVariantList:\n    {\n      const QList<QVariant> &lhsl = lhs.toList();\n      const QList<QVariant> &rhsl = rhs.toList();\n\n      int i, n = std::min( lhsl.size(), rhsl.size() );\n      for ( i = 0; i < n && lhsl[i].userType() == rhsl[i].userType() && qgsVariantEqual( lhsl[i], rhsl[i] ); i++ )\n        ;\n\n      if ( i == n )\n        return lhsl.size() < rhsl.size();\n      else\n        return qgsVariantLessThan( lhsl[i], rhsl[i] );\n    }\n\n    case QMetaType::Type::QStringList:\n    {\n      const QStringList &lhsl = lhs.toStringList();\n      const QStringList &rhsl = rhs.toStringList();\n\n      int i, n = std::min( lhsl.size(), rhsl.size() );\n      for ( i = 0; i < n && lhsl[i] == rhsl[i]; i++ )\n        ;\n\n      if ( i == n )\n        return lhsl.size() < rhsl.size();\n      else\n        return lhsl[i] < rhsl[i];\n    }\n\n    default:\n      return QString::localeAwareCompare( lhs.toString(), rhs.toString() ) < 0;\n  }"
+        },
+        {
+            "header": "bool qgsVariantGreaterThan",
+            "params": "const QVariant &lhs, const QVariant &rhs",
+            "is_const": false,
+            "body": "return ! qgsVariantLessThan( lhs, rhs );"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/QGIS/src/core/qgscolorrampimpl.cpp": [
+        {
+            "header": "bool stopLessThan",
+            "params": "const QgsGradientStop &s1, const QgsGradientStop &s2",
+            "is_const": false,
+            "body": "return s1.offset < s2.offset;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/QGIS/src/core/symbology/qgsgraduatedsymbolrenderer.cpp": [
+        {
+            "header": "bool valueLessThan",
+            "params": "const QgsRendererRange &r1, const QgsRendererRange &r2",
+            "is_const": false,
+            "body": "return r1 < r2;"
+        },
+        {
+            "header": "bool valueGreaterThan",
+            "params": "const QgsRendererRange &r1, const QgsRendererRange &r2",
+            "is_const": false,
+            "body": "return !valueLessThan( r1, r2 );"
+        },
+        {
+            "header": "bool labelLessThan",
+            "params": "const QgsRendererRange &r1, const QgsRendererRange &r2",
+            "is_const": false,
+            "body": "return QString::localeAwareCompare( r1.label(), r2.label() ) < 0;"
+        },
+        {
+            "header": "bool labelGreaterThan",
+            "params": "const QgsRendererRange &r1, const QgsRendererRange &r2",
+            "is_const": false,
+            "body": "return !labelLessThan( r1, r2 );"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/QGIS/src/core/symbology/qgscategorizedsymbolrenderer.cpp": [
+        {
+            "header": "bool valueLessThan",
+            "params": "const QgsRendererCategory &c1, const QgsRendererCategory &c2",
+            "is_const": false,
+            "body": "return qgsVariantLessThan( c1.value(), c2.value() );"
+        },
+        {
+            "header": "bool valueGreaterThan",
+            "params": "const QgsRendererCategory &c1, const QgsRendererCategory &c2",
+            "is_const": false,
+            "body": "return qgsVariantGreaterThan( c1.value(), c2.value() );"
+        },
+        {
+            "header": "bool labelLessThan",
+            "params": "const QgsRendererCategory &c1, const QgsRendererCategory &c2",
+            "is_const": false,
+            "body": "return QString::localeAwareCompare( c1.label(), c2.label() ) < 0;"
+        },
+        {
+            "header": "bool labelGreaterThan",
+            "params": "const QgsRendererCategory &c1, const QgsRendererCategory &c2",
+            "is_const": false,
+            "body": "return !labelLessThan( c1, c2 );"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/QGIS/src/core/vector/qgsvectordataprovider.cpp": [
+        {
+            "header": "bool _compareEncodings",
+            "params": "const QString &s1, const QString &s2",
+            "is_const": false,
+            "body": "return s1.toLower() < s2.toLower();"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/QGIS/src/core/browser/qgsbrowsermodel.cpp": [
+        {
+            "header": "bool cmpByDataItemName_",
+            "params": "QgsDataItem *a, QgsDataItem *b",
+            "is_const": false,
+            "body": "return QString::localeAwareCompare( a->name(), b->name() ) < 0;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/QGIS/src/core/simplify/effectivearea.cpp": [
+        {
+            "header": "int cmpfunc",
+            "params": "const void *a, const void *b",
+            "is_const": false,
+            "body": "const double v1 = ( *( areanode ** )a )->area;\n  const double v2 = ( *( areanode ** )b )->area;\n\n  \n  if ( v1 == v2 )\n    return ( *( areanode ** )a ) - ( *( areanode ** )b );\n  else\n    return ( v1 > v2 ) ? 1 : -1;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/QGIS/src/app/qgisapp.cpp": [
+        {
+            "header": "bool cmpByText_",
+            "params": "QAction *a, QAction *b",
+            "is_const": false,
+            "body": "return QString::localeAwareCompare( a->text(), b->text() ) < 0;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/QGIS/src/app/layout/qgslayoutdesignerdialog.cpp": [
+        {
+            "header": "bool cmpByText_",
+            "params": "QAction *a, QAction *b",
+            "is_const": false,
+            "body": "return QString::localeAwareCompare( a->text(), b->text() ) < 0;"
+        }
+    ]
+}

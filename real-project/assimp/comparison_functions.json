@@ -1,0 +1,56 @@
+{
+    "/home/lizhilin/compare-order/real-project/assimp/code/AssetLib/Ogre/OgreXmlSerializer.cpp": [
+        {
+            "header": "bool BoneCompare",
+            "params": "Bone *a, Bone *b",
+            "is_const": false,
+            "body": "ai_assert(nullptr != a);\n    ai_assert(nullptr != b);\n\n    return (a->id < b->id);"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/assimp/code/AssetLib/M3D/m3d.h": [
+        {
+            "header": "int _m3d_facecmp",
+            "params": "const void *a, const void *b",
+            "is_const": false,
+            "body": "const m3dfsave_t *A = (const m3dfsave_t *)a, *B = (const m3dfsave_t *)b;\n    return A->group != B->group ? A->group - B->group : (A->opacity != B->opacity ? (int)B->opacity - (int)A->opacity : (int)A->data.materialid - (int)B->data.materialid);"
+        },
+        {
+            "header": "int _m3d_grpcmp",
+            "params": "const void *a, const void *b",
+            "is_const": false,
+            "body": "return *((uint32_t *)a) - *((uint32_t *)b);"
+        },
+        {
+            "header": "int _m3d_ticmp",
+            "params": "const void *a, const void *b",
+            "is_const": false,
+            "body": "return memcmp(a, b, sizeof(m3dti_t));"
+        },
+        {
+            "header": "int _m3d_skincmp",
+            "params": "const void *a, const void *b",
+            "is_const": false,
+            "body": "return memcmp(a, b, sizeof(m3ds_t));"
+        },
+        {
+            "header": "int _m3d_vrtxcmp",
+            "params": "const void *a, const void *b",
+            "is_const": false,
+            "body": "int c = memcmp(a, b, 3 * sizeof(M3D_FLOAT));\n    if (c) return c;\n    c = ((m3dvsave_t *)a)->norm - ((m3dvsave_t *)b)->norm;\n    if (c) return c;\n    return memcmp(a, b, sizeof(m3dv_t));"
+        },
+        {
+            "header": "int _m3d_lblcmp",
+            "params": "const void *a, const void *b",
+            "is_const": false,
+            "body": "const m3dl_t *A = (const m3dl_t *)a, *B = (const m3dl_t *)b;\n    int c = _m3d_strcmp(A->lang, B->lang);\n    if (!c) c = _m3d_strcmp(A->name, B->name);\n    if (!c) c = _m3d_strcmp(A->text, B->text);\n    return c;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/assimp/contrib/poly2tri/poly2tri/common/shapes.h": [
+        {
+            "header": "bool cmp",
+            "params": "const Point* a, const Point* b",
+            "is_const": false,
+            "body": "if (a->y < b->y) {\n    return true;\n  } else if (a->y == b->y) {\n    \n    if (a->x < b->x) {\n      return true;\n    }\n  }\n  return false;"
+        }
+    ]
+}

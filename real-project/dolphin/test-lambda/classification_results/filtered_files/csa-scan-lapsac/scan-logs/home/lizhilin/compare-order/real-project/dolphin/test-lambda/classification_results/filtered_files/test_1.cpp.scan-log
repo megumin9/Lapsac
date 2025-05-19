@@ -1,0 +1,485 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+-----------------
+insert:
+compare : &Element{SymRegion{reg_$6<struct Test * Element{SymRegion{reg_$4<const hashedTest & a>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name &Element{SymRegion{reg_$6<struct Test * Element{SymRegion{reg_$4<const hashedTest & a>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x8
+The road length:1
+The road length:1
+The road length:1
+
+The Road is: x80
+-----------------
+insert:
+compare : &Element{SymRegion{reg_$8<struct Test * Element{SymRegion{reg_$4<const hashedTest & a>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name &Element{SymRegion{reg_$9<struct Test * Element{SymRegion{reg_$5<const hashedTest & b>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name 
+
+The Road is: x82
+-----------------
+insert:
+compare : &Element{SymRegion{reg_$8<struct Test * Element{SymRegion{reg_$4<const hashedTest & a>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name &Element{SymRegion{reg_$9<struct Test * Element{SymRegion{reg_$5<const hashedTest & b>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name 
+
+The Road is: x81
+-----------------
+insert:
+compare : &Element{SymRegion{reg_$8<struct Test * Element{SymRegion{reg_$4<const hashedTest & a>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name &Element{SymRegion{reg_$9<struct Test * Element{SymRegion{reg_$5<const hashedTest & b>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name 
+
+
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x8088
+
+The Road is: x8088
+-----------------
+Now have compare
+insert:
+compare : &Element{SymRegion{reg_$9<struct Test * Element{SymRegion{reg_$5<const hashedTest & b>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name &Element{SymRegion{reg_$8<struct Test * Element{SymRegion{reg_$4<const hashedTest & a>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x8
+The road length:1
+The road length:1
+The road length:1
+
+The Road is: x80
+-----------------
+insert:
+compare : &Element{SymRegion{reg_$8<struct Test * Element{SymRegion{reg_$4<const hashedTest & a>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name &Element{SymRegion{reg_$9<struct Test * Element{SymRegion{reg_$5<const hashedTest & b>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name 
+
+The Road is: x82
+-----------------
+insert:
+compare : &Element{SymRegion{reg_$8<struct Test * Element{SymRegion{reg_$4<const hashedTest & a>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name &Element{SymRegion{reg_$9<struct Test * Element{SymRegion{reg_$5<const hashedTest & b>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name 
+
+The Road is: x81
+-----------------
+insert:
+compare : &Element{SymRegion{reg_$8<struct Test * Element{SymRegion{reg_$4<const hashedTest & a>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name &Element{SymRegion{reg_$9<struct Test * Element{SymRegion{reg_$5<const hashedTest & b>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name 
+
+
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x8088
+
+The Road is: x8088
+-----------------
+Now have compare
+insert:
+compare : &Element{SymRegion{reg_$9<struct Test * Element{SymRegion{reg_$5<const hashedTest & b>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name &Element{SymRegion{reg_$8<struct Test * Element{SymRegion{reg_$4<const hashedTest & a>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x98988
+The road length:5
+The road length:5
+The road length:5
+
+The Road is: x989880
+-----------------
+insert:
+compare : &Element{SymRegion{reg_$10<struct Test * Element{SymRegion{reg_$8<const hashedTest & c>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name &Element{SymRegion{reg_$11<struct Test * Element{SymRegion{reg_$4<const hashedTest & a>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name 
+
+The Road is: x989882
+-----------------
+insert:
+compare : &Element{SymRegion{reg_$10<struct Test * Element{SymRegion{reg_$8<const hashedTest & c>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name &Element{SymRegion{reg_$11<struct Test * Element{SymRegion{reg_$4<const hashedTest & a>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name 
+
+The Road is: x989881
+-----------------
+insert:
+compare : &Element{SymRegion{reg_$10<struct Test * Element{SymRegion{reg_$8<const hashedTest & c>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name &Element{SymRegion{reg_$11<struct Test * Element{SymRegion{reg_$4<const hashedTest & a>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name 
+
+
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x988
+The road length:3
+The road length:3
+The road length:3
+
+The Road is: x9880
+-----------------
+insert:
+compare : &Element{SymRegion{reg_$13<struct Test * Element{SymRegion{reg_$5<const hashedTest & b>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name &Element{SymRegion{reg_$10<struct Test * Element{SymRegion{reg_$8<const hashedTest & c>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name 
+
+The Road is: x9882
+-----------------
+insert:
+compare : &Element{SymRegion{reg_$13<struct Test * Element{SymRegion{reg_$5<const hashedTest & b>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name &Element{SymRegion{reg_$10<struct Test * Element{SymRegion{reg_$8<const hashedTest & c>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name 
+
+The Road is: x9881
+-----------------
+insert:
+compare : &Element{SymRegion{reg_$13<struct Test * Element{SymRegion{reg_$5<const hashedTest & b>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name &Element{SymRegion{reg_$10<struct Test * Element{SymRegion{reg_$8<const hashedTest & c>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name 
+
+
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x8
+The road length:1
+The road length:1
+The road length:1
+
+The Road is: x80
+-----------------
+insert:
+compare : &Element{SymRegion{reg_$11<struct Test * Element{SymRegion{reg_$4<const hashedTest & a>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name &Element{SymRegion{reg_$13<struct Test * Element{SymRegion{reg_$5<const hashedTest & b>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name 
+
+The Road is: x82
+-----------------
+insert:
+compare : &Element{SymRegion{reg_$11<struct Test * Element{SymRegion{reg_$4<const hashedTest & a>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name &Element{SymRegion{reg_$13<struct Test * Element{SymRegion{reg_$5<const hashedTest & b>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name 
+
+The Road is: x81
+-----------------
+insert:
+compare : &Element{SymRegion{reg_$11<struct Test * Element{SymRegion{reg_$4<const hashedTest & a>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name &Element{SymRegion{reg_$13<struct Test * Element{SymRegion{reg_$5<const hashedTest & b>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name 
+
+
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x8088
+The road length:4
+The road length:4
+The road length:4
+
+The Road is: x80880
+-----------------
+Now have compare
+insert:
+compare : &Element{SymRegion{reg_$13<struct Test * Element{SymRegion{reg_$5<const hashedTest & b>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name &Element{SymRegion{reg_$10<struct Test * Element{SymRegion{reg_$8<const hashedTest & c>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name 
+
+The Road is: x80882
+-----------------
+Now have compare
+insert:
+compare : &Element{SymRegion{reg_$13<struct Test * Element{SymRegion{reg_$5<const hashedTest & b>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name &Element{SymRegion{reg_$10<struct Test * Element{SymRegion{reg_$8<const hashedTest & c>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name 
+
+The Road is: x80881
+-----------------
+Now have compare
+insert:
+compare : &Element{SymRegion{reg_$13<struct Test * Element{SymRegion{reg_$5<const hashedTest & b>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name &Element{SymRegion{reg_$10<struct Test * Element{SymRegion{reg_$8<const hashedTest & c>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name 
+
+
+
+
+
+NowTime: 0
+
+
+
+The Error Road is: x9898808
+The Error Road is: x9880898
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x8088088
+
+The Road is: x8088088
+-----------------
+Now have compare
+Now have compare
+insert:
+compare : &Element{SymRegion{reg_$10<struct Test * Element{SymRegion{reg_$8<const hashedTest & c>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name &Element{SymRegion{reg_$11<struct Test * Element{SymRegion{reg_$4<const hashedTest & a>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name 
+
+NowTime: 0
+
+
+
+The Error Road is: x8089898
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x98988
+The road length:5
+The road length:5
+The road length:5
+
+The Road is: x989880
+-----------------
+insert:
+compare : &Element{SymRegion{reg_$10<struct Test * Element{SymRegion{reg_$4<const hashedTest & a>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name &Element{SymRegion{reg_$11<struct Test * Element{SymRegion{reg_$8<const hashedTest & c>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name 
+
+The Road is: x989882
+-----------------
+insert:
+compare : &Element{SymRegion{reg_$10<struct Test * Element{SymRegion{reg_$4<const hashedTest & a>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name &Element{SymRegion{reg_$11<struct Test * Element{SymRegion{reg_$8<const hashedTest & c>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name 
+
+The Road is: x989881
+-----------------
+insert:
+compare : &Element{SymRegion{reg_$10<struct Test * Element{SymRegion{reg_$4<const hashedTest & a>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name &Element{SymRegion{reg_$11<struct Test * Element{SymRegion{reg_$8<const hashedTest & c>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name 
+
+
+
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x988
+The road length:3
+The road length:3
+The road length:3
+
+The Road is: x9880
+-----------------
+insert:
+compare : &Element{SymRegion{reg_$13<struct Test * Element{SymRegion{reg_$5<const hashedTest & b>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name &Element{SymRegion{reg_$11<struct Test * Element{SymRegion{reg_$8<const hashedTest & c>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name 
+
+The Road is: x9882
+-----------------
+insert:
+compare : &Element{SymRegion{reg_$13<struct Test * Element{SymRegion{reg_$5<const hashedTest & b>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name &Element{SymRegion{reg_$11<struct Test * Element{SymRegion{reg_$8<const hashedTest & c>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name 
+
+The Road is: x9881
+-----------------
+insert:
+compare : &Element{SymRegion{reg_$13<struct Test * Element{SymRegion{reg_$5<const hashedTest & b>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name &Element{SymRegion{reg_$11<struct Test * Element{SymRegion{reg_$8<const hashedTest & c>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name 
+
+
+
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x8
+The road length:1
+The road length:1
+The road length:1
+
+The Road is: x80
+-----------------
+insert:
+compare : &Element{SymRegion{reg_$10<struct Test * Element{SymRegion{reg_$4<const hashedTest & a>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name &Element{SymRegion{reg_$13<struct Test * Element{SymRegion{reg_$5<const hashedTest & b>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name 
+
+The Road is: x82
+-----------------
+insert:
+compare : &Element{SymRegion{reg_$10<struct Test * Element{SymRegion{reg_$4<const hashedTest & a>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name &Element{SymRegion{reg_$13<struct Test * Element{SymRegion{reg_$5<const hashedTest & b>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name 
+
+The Road is: x81
+-----------------
+insert:
+compare : &Element{SymRegion{reg_$10<struct Test * Element{SymRegion{reg_$4<const hashedTest & a>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name &Element{SymRegion{reg_$13<struct Test * Element{SymRegion{reg_$5<const hashedTest & b>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name 
+
+
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x8188
+The road length:4
+The road length:4
+The road length:4
+
+The Road is: x81880
+-----------------
+Now have compare
+insert:
+compare : &Element{SymRegion{reg_$13<struct Test * Element{SymRegion{reg_$5<const hashedTest & b>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name &Element{SymRegion{reg_$11<struct Test * Element{SymRegion{reg_$8<const hashedTest & c>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name 
+
+The Road is: x81882
+-----------------
+Now have compare
+insert:
+compare : &Element{SymRegion{reg_$13<struct Test * Element{SymRegion{reg_$5<const hashedTest & b>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name &Element{SymRegion{reg_$11<struct Test * Element{SymRegion{reg_$8<const hashedTest & c>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name 
+
+The Road is: x81881
+-----------------
+Now have compare
+insert:
+compare : &Element{SymRegion{reg_$13<struct Test * Element{SymRegion{reg_$5<const hashedTest & b>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name &Element{SymRegion{reg_$11<struct Test * Element{SymRegion{reg_$8<const hashedTest & c>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name 
+
+
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x8288
+The road length:4
+The road length:4
+The road length:4
+
+The Road is: x82880
+-----------------
+Now have compare
+insert:
+compare : &Element{SymRegion{reg_$13<struct Test * Element{SymRegion{reg_$5<const hashedTest & b>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name &Element{SymRegion{reg_$11<struct Test * Element{SymRegion{reg_$8<const hashedTest & c>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name 
+
+The Road is: x82882
+-----------------
+Now have compare
+
+The Road is: x82881
+-----------------
+Now have compare
+insert:
+compare : &Element{SymRegion{reg_$13<struct Test * Element{SymRegion{reg_$5<const hashedTest & b>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name &Element{SymRegion{reg_$11<struct Test * Element{SymRegion{reg_$8<const hashedTest & c>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name 
+
+
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x8188188
+
+The Road is: x8188188
+-----------------
+Now have compare
+Now have compare
+insert:
+compare : &Element{SymRegion{reg_$10<struct Test * Element{SymRegion{reg_$4<const hashedTest & a>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name &Element{SymRegion{reg_$11<struct Test * Element{SymRegion{reg_$8<const hashedTest & c>},0 S64b,struct std::pair<unsigned long, struct Test *>}.second>},0 S64b,struct Test}.name 
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x8188288
+
+The Road is: x8188288
+-----------------
+Now have compare
+Now have compare
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x8288188
+
+The Road is: x8288188
+-----------------
+Now have compare
+Now have compare
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x8288288
+
+The Road is: x8288288
+-----------------
+Now have compare
+
+NowTime: 1
+
+
+
+Total paths analyzed: 1
+Total paths analyzed: 2
+Total paths analyzed: 2
+Total paths analyzed: 11
+Total paths analyzed: 14

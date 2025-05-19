@@ -1,0 +1,195 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+strlen : &SymRegion{reg_$5<char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var4>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+strlen : &SymRegion{reg_$6<char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var4>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+strlen : &SymRegion{reg_$8<char * Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var4>} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+strlen : &SymRegion{reg_$6<char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var4>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+strlen : &SymRegion{reg_$8<char * Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var4>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+strlen : &SymRegion{reg_$6<char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var4>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+strlen : &SymRegion{reg_$8<char * Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var4>} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+insert:
+strlen : &SymRegion{reg_$11<char * Element{SymRegion{reg_$10<testclass * c>},0 S64b,struct testclass}.var4>} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9898
+
+The Road is: x9898
+NowTime: 0
+
+The Road is: x9898
+
+The Road is: x9898
+
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+strlen : &SymRegion{reg_$6<char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var4>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+strlen : &SymRegion{reg_$8<char * Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var4>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+strlen : &SymRegion{reg_$11<char * Element{SymRegion{reg_$10<testclass * c>},0 S64b,struct testclass}.var4>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+
+
+/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_11.cpp:42:1: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   42 | SymmetryChecker();
+      | ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_11.cpp:48:1: warning: Violation of Anti-Reflexivity [CompareCheck.FunctionChecker]
+   48 | ReflexivityChecker();
+      | ^~~~~~~~~~~~~~~~~~~~
+2 warnings generated.
+Total paths analyzed: 3
+Total paths analyzed: 5
+Total paths analyzed: 4
+Total paths analyzed: 7
+Total paths analyzed: 7

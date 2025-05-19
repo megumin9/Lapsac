@@ -1,0 +1,1146 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+findMaxPitchDiff : &minMaxPitch &SymRegion{reg_$4<const InstrumentTemplate * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+size : &Element{SymRegion{reg_$4<const InstrumentTemplate * a>},0 S64b,struct InstrumentTemplate}.genres NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+
+NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+insert:
+size : &Element{SymRegion{reg_$4<const InstrumentTemplate * a>},0 S64b,struct InstrumentTemplate}.genres NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+findMaxPitchDiff : &minMaxPitch &SymRegion{reg_$4<const InstrumentTemplate * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+findMaxPitchDiff : &minMaxPitch &SymRegion{reg_$5<const InstrumentTemplate * b>} NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+size : &Element{SymRegion{reg_$4<const InstrumentTemplate * a>},0 S64b,struct InstrumentTemplate}.genres NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+size : &Element{SymRegion{reg_$5<const InstrumentTemplate * b>},0 S64b,struct InstrumentTemplate}.genres 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x998
+
+The Road is: x998
+NowTime: 0
+
+The Road is: x998
+
+The Road is: x998
+NowTime: 0
+
+The Road is: x99899
+
+The Road is: x99899
+NowTime: 0
+
+The Road is: x99899
+
+The Road is: x99899
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9888
+
+The Road is: x9888
+NowTime: 0
+
+The Road is: x9888
+
+The Road is: x9888
+NowTime: 0
+
+The Road is: x988899
+
+The Road is: x988899
+insert:
+size : &Element{SymRegion{reg_$5<const InstrumentTemplate * b>},0 S64b,struct InstrumentTemplate}.genres NowTime: 0
+
+The Road is: x988899
+
+The Road is: x988899
+insert:
+size : &Element{SymRegion{reg_$4<const InstrumentTemplate * a>},0 S64b,struct InstrumentTemplate}.genres 
+
+NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+insert:
+size : &Element{SymRegion{reg_$4<const InstrumentTemplate * a>},0 S64b,struct InstrumentTemplate}.genres NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+insert:
+size : &Element{SymRegion{reg_$5<const InstrumentTemplate * b>},0 S64b,struct InstrumentTemplate}.genres 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9898
+
+The Road is: x9898
+NowTime: 0
+
+The Road is: x9898
+
+The Road is: x9898
+NowTime: 0
+
+The Road is: x9898989
+
+The Road is: x9898989
+NowTime: 0
+
+The Road is: x9898989
+
+The Road is: x9898989
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+findMaxPitchDiff : &minMaxPitch &SymRegion{reg_$4<const InstrumentTemplate * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+findMaxPitchDiff : &minMaxPitch &SymRegion{reg_$5<const InstrumentTemplate * b>} NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+size : &Element{SymRegion{reg_$4<const InstrumentTemplate * a>},0 S64b,struct InstrumentTemplate}.genres NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+size : &Element{SymRegion{reg_$5<const InstrumentTemplate * b>},0 S64b,struct InstrumentTemplate}.genres 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x998
+
+The Road is: x998
+NowTime: 0
+
+The Road is: x998
+
+The Road is: x998
+NowTime: 0
+
+The Road is: x99899
+
+The Road is: x99899
+NowTime: 0
+
+The Road is: x99899
+
+The Road is: x99899
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9888
+
+The Road is: x9888
+NowTime: 0
+
+The Road is: x9888
+
+The Road is: x9888
+NowTime: 0
+
+The Road is: x988899
+
+The Road is: x988899
+insert:
+size : &Element{SymRegion{reg_$5<const InstrumentTemplate * b>},0 S64b,struct InstrumentTemplate}.genres NowTime: 0
+
+The Road is: x988899
+
+The Road is: x988899
+insert:
+size : &Element{SymRegion{reg_$4<const InstrumentTemplate * a>},0 S64b,struct InstrumentTemplate}.genres 
+
+NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+insert:
+size : &Element{SymRegion{reg_$4<const InstrumentTemplate * a>},0 S64b,struct InstrumentTemplate}.genres NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+insert:
+size : &Element{SymRegion{reg_$5<const InstrumentTemplate * b>},0 S64b,struct InstrumentTemplate}.genres 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9898
+
+The Road is: x9898
+NowTime: 0
+
+The Road is: x9898
+
+The Road is: x9898
+NowTime: 0
+
+The Road is: x9898989
+
+The Road is: x9898989
+NowTime: 0
+
+The Road is: x9898989
+
+The Road is: x9898989
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+findMaxPitchDiff : &minMaxPitch &SymRegion{reg_$4<const InstrumentTemplate * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+findMaxPitchDiff : &minMaxPitch &SymRegion{reg_$5<const InstrumentTemplate * b>} NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+size : &Element{SymRegion{reg_$4<const InstrumentTemplate * a>},0 S64b,struct InstrumentTemplate}.genres NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+size : &Element{SymRegion{reg_$5<const InstrumentTemplate * b>},0 S64b,struct InstrumentTemplate}.genres 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x998
+
+The Road is: x998
+NowTime: 0
+
+The Road is: x998
+
+The Road is: x998
+insert:
+findMaxPitchDiff : &minMaxPitch &SymRegion{reg_$23<const InstrumentTemplate * c>} NowTime: 0
+
+The Road is: x99899
+
+The Road is: x99899
+NowTime: 0
+
+The Road is: x99899
+
+The Road is: x99899
+insert:
+size : &Element{SymRegion{reg_$23<const InstrumentTemplate * c>},0 S64b,struct InstrumentTemplate}.genres 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x998998
+
+The Road is: x998998
+NowTime: 0
+
+The Road is: x998998
+
+The Road is: x998998
+NowTime: 0
+
+The Road is: x99899899
+
+The Road is: x99899899
+NowTime: 0
+
+The Road is: x99899899
+
+The Road is: x99899899
+
+
+
+
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9888
+
+The Road is: x9888
+NowTime: 0
+
+The Road is: x9888
+
+The Road is: x9888
+insert:
+findMaxPitchDiff : &minMaxPitch &SymRegion{reg_$23<const InstrumentTemplate * c>} 
+
+NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+insert:
+size : &Element{SymRegion{reg_$4<const InstrumentTemplate * a>},0 S64b,struct InstrumentTemplate}.genres NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+insert:
+size : &Element{SymRegion{reg_$5<const InstrumentTemplate * b>},0 S64b,struct InstrumentTemplate}.genres 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9989888
+
+The Road is: x9989888
+NowTime: 0
+
+The Road is: x9989888
+
+The Road is: x9989888
+NowTime: 0
+
+The Road is: x998988899
+
+The Road is: x998988899
+insert:
+size : &Element{SymRegion{reg_$23<const InstrumentTemplate * c>},0 S64b,struct InstrumentTemplate}.genres NowTime: 0
+
+The Road is: x998988899
+
+The Road is: x998988899
+
+
+NowTime: 0
+
+The Road is: x998989
+
+The Road is: x998989
+NowTime: 0
+
+The Road is: x998989
+
+The Road is: x998989
+insert:
+size : &Element{SymRegion{reg_$23<const InstrumentTemplate * c>},0 S64b,struct InstrumentTemplate}.genres 
+
+The Error Road is: x9989989888
+The Error Road is: x9989888998
+NowTime: 0
+
+The Road is: x988899
+
+The Road is: x988899
+insert:
+size : &Element{SymRegion{reg_$5<const InstrumentTemplate * b>},0 S64b,struct InstrumentTemplate}.genres NowTime: 0
+
+The Road is: x988899
+
+The Road is: x988899
+insert:
+size : &Element{SymRegion{reg_$23<const InstrumentTemplate * c>},0 S64b,struct InstrumentTemplate}.genres 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+findMaxPitchDiff : &minMaxPitch &SymRegion{reg_$23<const InstrumentTemplate * c>} 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x99888
+
+The Road is: x99888
+NowTime: 0
+
+The Road is: x99888
+
+The Road is: x99888
+
+
+The Error Road is: x9988888
+NowTime: 0
+
+The Road is: x8899
+
+The Road is: x8899
+insert:
+size : &Element{SymRegion{reg_$5<const InstrumentTemplate * b>},0 S64b,struct InstrumentTemplate}.genres NowTime: 0
+
+The Road is: x8899
+
+The Road is: x8899
+insert:
+size : &Element{SymRegion{reg_$23<const InstrumentTemplate * c>},0 S64b,struct InstrumentTemplate}.genres 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9898
+
+The Road is: x9898
+NowTime: 0
+
+The Road is: x9898
+
+The Road is: x9898
+insert:
+findMaxPitchDiff : &minMaxPitch &SymRegion{reg_$23<const InstrumentTemplate * c>} 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x988888
+
+The Road is: x988888
+NowTime: 0
+
+The Road is: x988888
+
+The Road is: x988888
+
+
+The Error Road is: x98888888
+NowTime: 0
+
+The Road is: x88989
+
+The Road is: x88989
+insert:
+size : &Element{SymRegion{reg_$5<const InstrumentTemplate * b>},0 S64b,struct InstrumentTemplate}.genres NowTime: 0
+
+The Road is: x88989
+
+The Road is: x88989
+insert:
+size : &Element{SymRegion{reg_$23<const InstrumentTemplate * c>},0 S64b,struct InstrumentTemplate}.genres 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9989898
+
+The Road is: x9989898
+NowTime: 0
+
+The Road is: x9989898
+
+The Road is: x9989898
+
+The Error Road is: x99898989888
+NowTime: 0
+
+The Road is: x9898989
+
+The Road is: x9898989
+NowTime: 0
+
+The Road is: x9898989
+
+The Road is: x9898989
+insert:
+size : &Element{SymRegion{reg_$23<const InstrumentTemplate * c>},0 S64b,struct InstrumentTemplate}.genres 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9888998
+
+The Road is: x9888998
+NowTime: 0
+
+The Road is: x9888998
+
+The Road is: x9888998
+NowTime: 0
+
+The Road is: x988899899
+
+The Road is: x988899899
+NowTime: 0
+
+The Road is: x988899899
+
+The Road is: x988899899
+insert:
+size : &Element{SymRegion{reg_$4<const InstrumentTemplate * a>},0 S64b,struct InstrumentTemplate}.genres 
+
+NowTime: 0
+
+The Road is: x9888998989
+
+The Road is: x9888998989
+NowTime: 0
+
+The Road is: x9888998989
+
+The Road is: x9888998989
+insert:
+size : &Element{SymRegion{reg_$4<const InstrumentTemplate * a>},0 S64b,struct InstrumentTemplate}.genres 
+
+The Error Road is: x9888998998
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+
+
+
+NowTime: 0
+
+The Road is: x888899
+
+The Road is: x888899
+insert:
+size : &Element{SymRegion{reg_$23<const InstrumentTemplate * c>},0 S64b,struct InstrumentTemplate}.genres NowTime: 0
+
+The Road is: x888899
+
+The Road is: x888899
+insert:
+size : &Element{SymRegion{reg_$4<const InstrumentTemplate * a>},0 S64b,struct InstrumentTemplate}.genres 
+
+NowTime: 0
+
+The Road is: x8888989
+
+The Road is: x8888989
+insert:
+size : &Element{SymRegion{reg_$23<const InstrumentTemplate * c>},0 S64b,struct InstrumentTemplate}.genres NowTime: 0
+
+The Road is: x8888989
+
+The Road is: x8888989
+insert:
+size : &Element{SymRegion{reg_$4<const InstrumentTemplate * a>},0 S64b,struct InstrumentTemplate}.genres 
+
+The Error Road is: x98889989898
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x889888
+
+The Road is: x889888
+NowTime: 0
+
+The Road is: x889888
+
+The Road is: x889888
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88998
+
+The Road is: x88998
+NowTime: 1
+
+The Road is: x88998
+
+The Road is: x88998
+
+
+The Error Road is: x88889888
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x989888
+
+The Road is: x989888
+NowTime: 1
+
+The Road is: x989888
+
+The Road is: x989888
+
+
+The Error Road is: x8888998
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x98989888
+
+The Road is: x98989888
+NowTime: 1
+
+The Road is: x98989888
+
+The Road is: x98989888
+NowTime: 1
+
+The Road is: x9898988899
+
+The Road is: x9898988899
+insert:
+size : &Element{SymRegion{reg_$23<const InstrumentTemplate * c>},0 S64b,struct InstrumentTemplate}.genres NowTime: 1
+
+The Road is: x9898988899
+
+The Road is: x9898988899
+
+
+The Error Road is: x88889898
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x889898
+
+The Road is: x889898
+NowTime: 1
+
+The Road is: x889898
+
+The Road is: x889898
+
+
+The Error Road is: x88988888
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x98989898
+
+The Road is: x98989898
+NowTime: 1
+
+The Road is: x98989898
+
+The Road is: x98989898
+NowTime: 1
+
+The Road is: x98989898989
+
+The Road is: x98989898989
+NowTime: 1
+
+The Road is: x98989898989
+
+The Road is: x98989898989
+
+
+The Error Road is: x8899888
+The Error Road is: x98988888
+The Error Road is: x98989888998
+The Error Road is: x88989888
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+findMaxPitchDiff : &minMaxPitch &SymRegion{reg_$4<const InstrumentTemplate * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+findMaxPitchDiff : &minMaxPitch &SymRegion{reg_$5<const InstrumentTemplate * b>} NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+size : &Element{SymRegion{reg_$4<const InstrumentTemplate * a>},0 S64b,struct InstrumentTemplate}.genres NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+size : &Element{SymRegion{reg_$5<const InstrumentTemplate * b>},0 S64b,struct InstrumentTemplate}.genres 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x998
+
+The Road is: x998
+NowTime: 0
+
+The Road is: x998
+
+The Road is: x998
+insert:
+findMaxPitchDiff : &minMaxPitch &SymRegion{reg_$23<const InstrumentTemplate * c>} NowTime: 0
+
+The Road is: x99899
+
+The Road is: x99899
+NowTime: 0
+
+The Road is: x99899
+
+The Road is: x99899
+insert:
+size : &Element{SymRegion{reg_$23<const InstrumentTemplate * c>},0 S64b,struct InstrumentTemplate}.genres 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x998998
+
+The Road is: x998998
+NowTime: 0
+
+The Road is: x998998
+
+The Road is: x998998
+NowTime: 0
+
+The Road is: x99899899
+
+The Road is: x99899899
+NowTime: 0
+
+The Road is: x99899899
+
+The Road is: x99899899
+
+
+
+
+
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+findMaxPitchDiff : &minMaxPitch &SymRegion{reg_$23<const InstrumentTemplate * c>} 
+
+
+NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+insert:
+size : &Element{SymRegion{reg_$4<const InstrumentTemplate * a>},0 S64b,struct InstrumentTemplate}.genres NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+insert:
+size : &Element{SymRegion{reg_$5<const InstrumentTemplate * b>},0 S64b,struct InstrumentTemplate}.genres 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x99888
+
+The Road is: x99888
+NowTime: 0
+
+The Road is: x99888
+
+The Road is: x99888
+
+
+NowTime: 0
+
+The Road is: x998989
+
+The Road is: x998989
+NowTime: 0
+
+The Road is: x998989
+
+The Road is: x998989
+insert:
+size : &Element{SymRegion{reg_$23<const InstrumentTemplate * c>},0 S64b,struct InstrumentTemplate}.genres 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9898
+
+The Road is: x9898
+NowTime: 0
+
+The Road is: x9898
+
+The Road is: x9898
+insert:
+findMaxPitchDiff : &minMaxPitch &SymRegion{reg_$23<const InstrumentTemplate * c>} 
+
+
+NowTime: 0
+
+The Road is: x8899
+
+The Road is: x8899
+insert:
+size : &Element{SymRegion{reg_$5<const InstrumentTemplate * b>},0 S64b,struct InstrumentTemplate}.genres NowTime: 0
+
+The Road is: x8899
+
+The Road is: x8899
+insert:
+size : &Element{SymRegion{reg_$23<const InstrumentTemplate * c>},0 S64b,struct InstrumentTemplate}.genres 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+
+
+
+NowTime: 0
+
+The Road is: x888899
+
+The Road is: x888899
+insert:
+size : &Element{SymRegion{reg_$4<const InstrumentTemplate * a>},0 S64b,struct InstrumentTemplate}.genres NowTime: 0
+
+The Road is: x888899
+
+The Road is: x888899
+insert:
+size : &Element{SymRegion{reg_$23<const InstrumentTemplate * c>},0 S64b,struct InstrumentTemplate}.genres 
+
+NowTime: 0
+
+The Road is: x8888989
+
+The Road is: x8888989
+insert:
+size : &Element{SymRegion{reg_$4<const InstrumentTemplate * a>},0 S64b,struct InstrumentTemplate}.genres NowTime: 0
+
+The Road is: x8888989
+
+The Road is: x8888989
+insert:
+size : &Element{SymRegion{reg_$23<const InstrumentTemplate * c>},0 S64b,struct InstrumentTemplate}.genres 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9989898
+
+The Road is: x9989898
+NowTime: 0
+
+The Road is: x9989898
+
+The Road is: x9989898
+NowTime: 0
+
+The Road is: x998989899
+
+The Road is: x998989899
+NowTime: 0
+
+The Road is: x998989899
+
+The Road is: x998989899
+
+
+NowTime: 0
+
+The Road is: x88989
+
+The Road is: x88989
+insert:
+size : &Element{SymRegion{reg_$5<const InstrumentTemplate * b>},0 S64b,struct InstrumentTemplate}.genres NowTime: 0
+
+The Road is: x88989
+
+The Road is: x88989
+insert:
+size : &Element{SymRegion{reg_$23<const InstrumentTemplate * c>},0 S64b,struct InstrumentTemplate}.genres 
+
+NowTime: 0
+
+The Road is: x9898989
+
+The Road is: x9898989
+NowTime: 0
+
+The Road is: x9898989
+
+The Road is: x9898989
+insert:
+size : &Element{SymRegion{reg_$23<const InstrumentTemplate * c>},0 S64b,struct InstrumentTemplate}.genres 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x989888
+
+The Road is: x989888
+NowTime: 0
+
+The Road is: x989888
+
+The Road is: x989888
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88998
+
+The Road is: x88998
+NowTime: 0
+
+The Road is: x88998
+
+The Road is: x88998
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x889898
+
+The Road is: x889898
+NowTime: 0
+
+The Road is: x889898
+
+The Road is: x889898
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98989898
+
+The Road is: x98989898
+NowTime: 0
+
+The Road is: x98989898
+
+The Road is: x98989898
+NowTime: 0
+
+The Road is: x98989898989
+
+The Road is: x98989898989
+NowTime: 1
+
+The Road is: x98989898989
+
+The Road is: x98989898989
+
+
+/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_34.cpp:40:9: warning: Violation of Transitivity [CompareCheck.FunctionChecker]
+   40 |         TransiveChecker();
+      |         ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_34.cpp:46:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   46 |         SymmetryChecker();
+      |         ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_34.cpp:52:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   52 |         SymmetryChecker();
+      |         ^~~~~~~~~~~~~~~~~
+3 warnings generated.
+Total paths analyzed: 1
+Total paths analyzed: 4
+Total paths analyzed: 4
+Total paths analyzed: 26
+Total paths analyzed: 19

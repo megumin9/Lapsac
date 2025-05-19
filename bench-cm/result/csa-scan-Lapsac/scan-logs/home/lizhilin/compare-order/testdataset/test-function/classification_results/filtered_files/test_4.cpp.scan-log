@@ -1,0 +1,232 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+-----------------
+insert:
+compareVersions : &SymRegion{reg_$4<const std::string & a>} &SymRegion{reg_$4<const std::string & a>} 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x0
+-----------------
+insert:
+compareVersions : &SymRegion{reg_$4<const std::string & a>} &SymRegion{reg_$5<const std::string & b>} 
+
+The Road is: x1
+-----------------
+insert:
+compareVersions : &SymRegion{reg_$4<const std::string & a>} &SymRegion{reg_$5<const std::string & b>} 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x080
+-----------------
+Now have compareVersions
+insert:
+compareVersions : &SymRegion{reg_$5<const std::string & b>} &SymRegion{reg_$4<const std::string & a>} 
+
+The Road is: x081
+-----------------
+Now have compareVersions
+insert:
+compareVersions : &SymRegion{reg_$5<const std::string & b>} &SymRegion{reg_$4<const std::string & a>} 
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x0
+-----------------
+insert:
+compareVersions : &SymRegion{reg_$4<const std::string & a>} &SymRegion{reg_$5<const std::string & b>} 
+
+The Road is: x1
+-----------------
+insert:
+compareVersions : &SymRegion{reg_$4<const std::string & a>} &SymRegion{reg_$5<const std::string & b>} 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x080
+-----------------
+Now have compareVersions
+insert:
+compareVersions : &SymRegion{reg_$5<const std::string & b>} &SymRegion{reg_$4<const std::string & a>} 
+
+The Road is: x081
+-----------------
+Now have compareVersions
+insert:
+compareVersions : &SymRegion{reg_$5<const std::string & b>} &SymRegion{reg_$4<const std::string & a>} 
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x0
+-----------------
+insert:
+compareVersions : &SymRegion{reg_$4<const std::string & a>} &SymRegion{reg_$5<const std::string & b>} 
+
+The Road is: x1
+-----------------
+insert:
+compareVersions : &SymRegion{reg_$4<const std::string & a>} &SymRegion{reg_$5<const std::string & b>} 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x080
+-----------------
+Now have compareVersions
+insert:
+compareVersions : &SymRegion{reg_$5<const std::string & b>} &SymRegion{reg_$7<const std::string & c>} 
+
+The Road is: x081
+-----------------
+Now have compareVersions
+insert:
+compareVersions : &SymRegion{reg_$5<const std::string & b>} &SymRegion{reg_$7<const std::string & c>} 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x0808
+
+The Road is: x08080
+-----------------
+Now have compareVersions
+Now have compareVersions
+insert:
+compareVersions : &SymRegion{reg_$7<const std::string & c>} &SymRegion{reg_$4<const std::string & a>} 
+
+The Road is: x08081
+-----------------
+Now have compareVersions
+Now have compareVersions
+insert:
+compareVersions : &SymRegion{reg_$7<const std::string & c>} &SymRegion{reg_$4<const std::string & a>} 
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x0
+-----------------
+insert:
+compareVersions : &SymRegion{reg_$4<const std::string & a>} &SymRegion{reg_$5<const std::string & b>} 
+
+The Road is: x1
+-----------------
+insert:
+compareVersions : &SymRegion{reg_$4<const std::string & a>} &SymRegion{reg_$5<const std::string & b>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x180
+-----------------
+Now have compareVersions
+insert:
+compareVersions : &SymRegion{reg_$5<const std::string & b>} &SymRegion{reg_$7<const std::string & c>} 
+
+The Road is: x181
+-----------------
+Now have compareVersions
+insert:
+compareVersions : &SymRegion{reg_$5<const std::string & b>} &SymRegion{reg_$7<const std::string & c>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x1818
+
+The Road is: x18180
+-----------------
+Now have compareVersions
+Now have compareVersions
+insert:
+compareVersions : &SymRegion{reg_$4<const std::string & a>} &SymRegion{reg_$7<const std::string & c>} 
+
+The Road is: x18181
+-----------------
+Now have compareVersions
+Now have compareVersions
+insert:
+compareVersions : &SymRegion{reg_$4<const std::string & a>} &SymRegion{reg_$7<const std::string & c>} 
+
+
+
+
+/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_4.cpp:33:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   33 |         SymmetryChecker();
+      |         ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_4.cpp:39:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   39 |         SymmetryChecker();
+      |         ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_4.cpp:45:9: warning: Violation of Anti-Reflexivity [CompareCheck.FunctionChecker]
+   45 |         ReflexivityChecker();
+      |         ^~~~~~~~~~~~~~~~~~~~
+3 warnings generated.
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 1

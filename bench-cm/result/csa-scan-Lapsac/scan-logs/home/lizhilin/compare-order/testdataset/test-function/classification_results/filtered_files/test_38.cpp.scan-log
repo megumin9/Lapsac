@@ -1,0 +1,78 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+
+/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_38.cpp:33:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   33 |         SymmetryChecker();
+      |         ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_38.cpp:39:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   39 |         SymmetryChecker();
+      |         ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_38.cpp:45:9: warning: Violation of Anti-Reflexivity [CompareCheck.FunctionChecker]
+   45 |         ReflexivityChecker();
+      |         ^~~~~~~~~~~~~~~~~~~~
+3 warnings generated.
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 1

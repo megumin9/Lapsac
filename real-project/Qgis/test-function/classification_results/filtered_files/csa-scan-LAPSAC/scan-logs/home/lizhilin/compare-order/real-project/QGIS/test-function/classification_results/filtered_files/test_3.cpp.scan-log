@@ -1,0 +1,232 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+-----------------
+insert:
+qgsVariantLessThan : &SymRegion{reg_$4<const QVariant & a>} &SymRegion{reg_$4<const QVariant & a>} 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x0
+-----------------
+insert:
+qgsVariantLessThan : &SymRegion{reg_$4<const QVariant & a>} &SymRegion{reg_$5<const QVariant & b>} 
+
+The Road is: x1
+-----------------
+insert:
+qgsVariantLessThan : &SymRegion{reg_$4<const QVariant & a>} &SymRegion{reg_$5<const QVariant & b>} 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x080
+-----------------
+Now have qgsVariantLessThan
+insert:
+qgsVariantLessThan : &SymRegion{reg_$5<const QVariant & b>} &SymRegion{reg_$4<const QVariant & a>} 
+
+The Road is: x081
+-----------------
+Now have qgsVariantLessThan
+insert:
+qgsVariantLessThan : &SymRegion{reg_$5<const QVariant & b>} &SymRegion{reg_$4<const QVariant & a>} 
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x0
+-----------------
+insert:
+qgsVariantLessThan : &SymRegion{reg_$4<const QVariant & a>} &SymRegion{reg_$5<const QVariant & b>} 
+
+The Road is: x1
+-----------------
+insert:
+qgsVariantLessThan : &SymRegion{reg_$4<const QVariant & a>} &SymRegion{reg_$5<const QVariant & b>} 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x080
+-----------------
+Now have qgsVariantLessThan
+insert:
+qgsVariantLessThan : &SymRegion{reg_$5<const QVariant & b>} &SymRegion{reg_$4<const QVariant & a>} 
+
+The Road is: x081
+-----------------
+Now have qgsVariantLessThan
+insert:
+qgsVariantLessThan : &SymRegion{reg_$5<const QVariant & b>} &SymRegion{reg_$4<const QVariant & a>} 
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x0
+-----------------
+insert:
+qgsVariantLessThan : &SymRegion{reg_$4<const QVariant & a>} &SymRegion{reg_$5<const QVariant & b>} 
+
+The Road is: x1
+-----------------
+insert:
+qgsVariantLessThan : &SymRegion{reg_$4<const QVariant & a>} &SymRegion{reg_$5<const QVariant & b>} 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x080
+-----------------
+Now have qgsVariantLessThan
+insert:
+qgsVariantLessThan : &SymRegion{reg_$5<const QVariant & b>} &SymRegion{reg_$7<const QVariant & c>} 
+
+The Road is: x081
+-----------------
+Now have qgsVariantLessThan
+insert:
+qgsVariantLessThan : &SymRegion{reg_$5<const QVariant & b>} &SymRegion{reg_$7<const QVariant & c>} 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x0808
+
+The Road is: x08080
+-----------------
+Now have qgsVariantLessThan
+Now have qgsVariantLessThan
+insert:
+qgsVariantLessThan : &SymRegion{reg_$7<const QVariant & c>} &SymRegion{reg_$4<const QVariant & a>} 
+
+The Road is: x08081
+-----------------
+Now have qgsVariantLessThan
+Now have qgsVariantLessThan
+insert:
+qgsVariantLessThan : &SymRegion{reg_$7<const QVariant & c>} &SymRegion{reg_$4<const QVariant & a>} 
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x0
+-----------------
+insert:
+qgsVariantLessThan : &SymRegion{reg_$4<const QVariant & a>} &SymRegion{reg_$5<const QVariant & b>} 
+
+The Road is: x1
+-----------------
+insert:
+qgsVariantLessThan : &SymRegion{reg_$4<const QVariant & a>} &SymRegion{reg_$5<const QVariant & b>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x180
+-----------------
+Now have qgsVariantLessThan
+insert:
+qgsVariantLessThan : &SymRegion{reg_$5<const QVariant & b>} &SymRegion{reg_$7<const QVariant & c>} 
+
+The Road is: x181
+-----------------
+Now have qgsVariantLessThan
+insert:
+qgsVariantLessThan : &SymRegion{reg_$5<const QVariant & b>} &SymRegion{reg_$7<const QVariant & c>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x1818
+
+The Road is: x18180
+-----------------
+Now have qgsVariantLessThan
+Now have qgsVariantLessThan
+insert:
+qgsVariantLessThan : &SymRegion{reg_$4<const QVariant & a>} &SymRegion{reg_$7<const QVariant & c>} 
+
+The Road is: x18181
+-----------------
+Now have qgsVariantLessThan
+Now have qgsVariantLessThan
+insert:
+qgsVariantLessThan : &SymRegion{reg_$4<const QVariant & a>} &SymRegion{reg_$7<const QVariant & c>} 
+
+
+
+
+/home/lizhilin/compare-order/real-project/QGIS/test-function/classification_results/filtered_files/test_3.cpp:31:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   31 |         SymmetryChecker();
+      |         ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/real-project/QGIS/test-function/classification_results/filtered_files/test_3.cpp:37:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   37 |         SymmetryChecker();
+      |         ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/real-project/QGIS/test-function/classification_results/filtered_files/test_3.cpp:43:9: warning: Violation of Anti-Reflexivity [CompareCheck.FunctionChecker]
+   43 |         ReflexivityChecker();
+      |         ^~~~~~~~~~~~~~~~~~~~
+3 warnings generated.
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 1

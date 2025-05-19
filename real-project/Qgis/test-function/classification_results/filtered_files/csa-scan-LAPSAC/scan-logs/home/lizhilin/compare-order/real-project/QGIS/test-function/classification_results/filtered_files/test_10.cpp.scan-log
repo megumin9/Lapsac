@@ -1,0 +1,290 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+value : &SymRegion{reg_$4<const QgsRendererCategory & a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+-----------------
+Now have value
+insert:
+qgsVariantGreaterThan : conj_$8{int, LC2, S6166776, #1} conj_$8{int, LC2, S6166776, #1} 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+value : &SymRegion{reg_$4<const QgsRendererCategory & a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+value : &SymRegion{reg_$5<const QgsRendererCategory & b>} NowTime: 0
+
+The Road is: x
+
+The Road is: x0
+-----------------
+Now have value
+Now have value
+insert:
+qgsVariantGreaterThan : conj_$9{int, LC3, S6166776, #1} conj_$13{int, LC3, S6166822, #1} 
+
+The Road is: x1
+-----------------
+Now have value
+Now have value
+insert:
+qgsVariantGreaterThan : conj_$9{int, LC3, S6166776, #1} conj_$13{int, LC3, S6166822, #1} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+-----------------
+Now have value
+Now have value
+Now have qgsVariantGreaterThan
+insert:
+qgsVariantGreaterThan : conj_$13{int, LC3, S6166822, #1} conj_$9{int, LC3, S6166776, #1} 
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+value : &SymRegion{reg_$4<const QgsRendererCategory & a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+value : &SymRegion{reg_$5<const QgsRendererCategory & b>} NowTime: 0
+
+The Road is: x
+
+The Road is: x0
+-----------------
+Now have value
+Now have value
+insert:
+qgsVariantGreaterThan : conj_$9{int, LC6, S6166776, #1} conj_$13{int, LC6, S6166822, #1} 
+
+The Road is: x1
+-----------------
+Now have value
+Now have value
+insert:
+qgsVariantGreaterThan : conj_$9{int, LC6, S6166776, #1} conj_$13{int, LC6, S6166822, #1} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+insert:
+value : &SymRegion{reg_$15<const QgsRendererCategory & c>} NowTime: 0
+
+The Road is: x18
+
+The Road is: x180
+-----------------
+Now have value
+Now have value
+Now have qgsVariantGreaterThan
+Now have value
+insert:
+qgsVariantGreaterThan : conj_$13{int, LC6, S6166822, #1} conj_$23{int, LC7, S6166822, #1} 
+
+The Road is: x181
+-----------------
+Now have value
+Now have value
+Now have qgsVariantGreaterThan
+Now have value
+insert:
+qgsVariantGreaterThan : conj_$13{int, LC6, S6166822, #1} conj_$23{int, LC7, S6166822, #1} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x1818
+
+The Road is: x1818
+NowTime: 0
+
+The Road is: x1818
+
+The Road is: x1818
+NowTime: 0
+
+The Road is: x1818
+
+The Road is: x1818
+-----------------
+Now have value
+Now have value
+Now have qgsVariantGreaterThan
+Now have value
+Now have qgsVariantGreaterThan
+insert:
+qgsVariantGreaterThan : conj_$23{int, LC7, S6166822, #1} conj_$9{int, LC6, S6166776, #1} 
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+value : &SymRegion{reg_$4<const QgsRendererCategory & a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+value : &SymRegion{reg_$5<const QgsRendererCategory & b>} NowTime: 0
+
+The Road is: x
+
+The Road is: x0
+-----------------
+Now have value
+Now have value
+insert:
+qgsVariantGreaterThan : conj_$9{int, LC9, S6166776, #1} conj_$13{int, LC9, S6166822, #1} 
+
+The Road is: x1
+-----------------
+Now have value
+Now have value
+insert:
+qgsVariantGreaterThan : conj_$9{int, LC9, S6166776, #1} conj_$13{int, LC9, S6166822, #1} 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+insert:
+value : &SymRegion{reg_$15<const QgsRendererCategory & c>} NowTime: 0
+
+The Road is: x08
+
+The Road is: x080
+-----------------
+Now have value
+Now have value
+Now have qgsVariantGreaterThan
+Now have value
+insert:
+qgsVariantGreaterThan : conj_$13{int, LC9, S6166822, #1} conj_$23{int, LC10, S6166822, #1} 
+
+The Road is: x081
+-----------------
+Now have value
+Now have value
+Now have qgsVariantGreaterThan
+Now have value
+insert:
+qgsVariantGreaterThan : conj_$13{int, LC9, S6166822, #1} conj_$23{int, LC10, S6166822, #1} 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x0808
+
+The Road is: x0808
+NowTime: 0
+
+The Road is: x0808
+
+The Road is: x0808
+NowTime: 0
+
+The Road is: x0808
+
+The Road is: x0808
+-----------------
+Now have value
+Now have value
+Now have qgsVariantGreaterThan
+Now have value
+Now have qgsVariantGreaterThan
+insert:
+qgsVariantGreaterThan : conj_$9{int, LC9, S6166776, #1} conj_$23{int, LC10, S6166822, #1} 
+
+Total paths analyzed: 0
+Total paths analyzed: 0
+Total paths analyzed: 0
+Total paths analyzed: 0

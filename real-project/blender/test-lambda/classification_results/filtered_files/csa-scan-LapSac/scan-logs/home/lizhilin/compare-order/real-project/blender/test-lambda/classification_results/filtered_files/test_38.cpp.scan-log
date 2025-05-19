@@ -1,0 +1,126 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+start : &Element{SymRegion{reg_$4<const EvaluatedSegment & a>},0 S64b,struct EvaluatedSegment}.bounds NowTime: 0
+
+The Road is: x
+
+The Road is: x
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+start : &Element{SymRegion{reg_$4<const EvaluatedSegment & a>},0 S64b,struct EvaluatedSegment}.bounds NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+start : &Element{SymRegion{reg_$5<const EvaluatedSegment & b>},0 S64b,struct EvaluatedSegment}.bounds 
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+start : &Element{SymRegion{reg_$4<const EvaluatedSegment & a>},0 S64b,struct EvaluatedSegment}.bounds NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+start : &Element{SymRegion{reg_$5<const EvaluatedSegment & b>},0 S64b,struct EvaluatedSegment}.bounds 
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+start : &Element{SymRegion{reg_$4<const EvaluatedSegment & a>},0 S64b,struct EvaluatedSegment}.bounds NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+start : &Element{SymRegion{reg_$5<const EvaluatedSegment & b>},0 S64b,struct EvaluatedSegment}.bounds 
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+start : &Element{SymRegion{reg_$4<const EvaluatedSegment & a>},0 S64b,struct EvaluatedSegment}.bounds NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+start : &Element{SymRegion{reg_$5<const EvaluatedSegment & b>},0 S64b,struct EvaluatedSegment}.bounds 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+start : &Element{SymRegion{reg_$6<const EvaluatedSegment & c>},0 S64b,struct EvaluatedSegment}.bounds 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+Total paths analyzed: 0
+Total paths analyzed: 0
+Total paths analyzed: 0
+Total paths analyzed: 0
+Total paths analyzed: 0

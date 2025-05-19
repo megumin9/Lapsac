@@ -1,0 +1,173 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+
+
+
+
+
+
+
+
+/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_7.cpp:35:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   35 |         SymmetryChecker();
+      |         ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_7.cpp:41:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   41 |         SymmetryChecker();
+      |         ^~~~~~~~~~~~~~~~~
+2 warnings generated.
+Total paths analyzed: 0
+Total paths analyzed: 6
+Total paths analyzed: 6
+Total paths analyzed: 27
+Total paths analyzed: 3

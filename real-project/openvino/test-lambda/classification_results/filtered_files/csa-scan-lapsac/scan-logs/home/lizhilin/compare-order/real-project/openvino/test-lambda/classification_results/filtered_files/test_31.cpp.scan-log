@@ -1,0 +1,304 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+meta : &SymRegion{reg_$0<class MyClass * this>} &SymRegion{reg_$5<const own::ade::NodeHandle & a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &temp_object{MetaType, S6167561} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &temp_object{MetaType, S6167877} 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+meta : &SymRegion{reg_$0<class MyClass * this>} &SymRegion{reg_$5<const own::ade::NodeHandle & a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &temp_object{MetaType, S6167561} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+meta : &SymRegion{reg_$0<class MyClass * this>} &SymRegion{reg_$6<const own::ade::NodeHandle & b>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &temp_object{MetaType, S6167877} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+meta : &SymRegion{reg_$0<class MyClass * this>} &SymRegion{reg_$5<const own::ade::NodeHandle & a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &temp_object{MetaType, S6167561} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+meta : &SymRegion{reg_$0<class MyClass * this>} &SymRegion{reg_$6<const own::ade::NodeHandle & b>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &temp_object{MetaType, S6167877} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+meta : &SymRegion{reg_$0<class MyClass * this>} &SymRegion{reg_$5<const own::ade::NodeHandle & a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &temp_object{MetaType, S6167561} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+meta : &SymRegion{reg_$0<class MyClass * this>} &SymRegion{reg_$6<const own::ade::NodeHandle & b>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &temp_object{MetaType, S6167877} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+meta : &SymRegion{reg_$0<class MyClass * this>} &SymRegion{reg_$25<const own::ade::NodeHandle & c>} NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+meta : &SymRegion{reg_$0<class MyClass * this>} &SymRegion{reg_$5<const own::ade::NodeHandle & a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &temp_object{MetaType, S6167561} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+meta : &SymRegion{reg_$0<class MyClass * this>} &SymRegion{reg_$6<const own::ade::NodeHandle & b>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &temp_object{MetaType, S6167877} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+meta : &SymRegion{reg_$0<class MyClass * this>} &SymRegion{reg_$25<const own::ade::NodeHandle & c>} NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 0

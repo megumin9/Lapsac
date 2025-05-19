@@ -1,0 +1,409 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+src_output : &SymRegion{reg_$4<const Edge * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+src : &SymRegion{reg_$4<const Edge * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+name : &SymRegion{conj_$16{const Node *, LC2, S6166974, #1}} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+tie : &a_src_output &a_name NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+tie : &b_src_output &b_name NowTime: 0
+NowTime: 0
+
+The Road is: x
+
+The Road is: x0
+-----------------
+Now have src_output
+Now have src
+Now have name
+Now have tie
+Now have tie
+insert:
+__less : &temp_object{tuple<int &, basic_string_view<char, char_traits<char> > &>, S6218389} &temp_object{tuple<int &, basic_string_view<char, char_traits<char> > &>, S6218462} 
+
+The Road is: x1
+-----------------
+Now have src_output
+Now have src
+Now have name
+Now have tie
+Now have tie
+insert:
+__less : &temp_object{tuple<int &, basic_string_view<char, char_traits<char> > &>, S6218389} &temp_object{tuple<int &, basic_string_view<char, char_traits<char> > &>, S6218462} 
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+src_output : &SymRegion{reg_$4<const Edge * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+src_output : &SymRegion{reg_$5<const Edge * b>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+src : &SymRegion{reg_$4<const Edge * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+name : &SymRegion{conj_$17{const Node *, LC17, S6166974, #1}} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+src : &SymRegion{reg_$5<const Edge * b>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+name : &SymRegion{conj_$25{const Node *, LC17, S6167062, #1}} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+tie : &a_src_output &a_name NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+tie : &b_src_output &b_name NowTime: 0
+NowTime: 0
+
+The Road is: x
+
+The Road is: x0
+-----------------
+Now have src_output
+Now have src_output
+Now have src
+Now have name
+Now have src
+Now have name
+Now have tie
+Now have tie
+insert:
+__less : &temp_object{tuple<int &, basic_string_view<char, char_traits<char> > &>, S6218389} &temp_object{tuple<int &, basic_string_view<char, char_traits<char> > &>, S6218462} 
+
+The Road is: x1
+-----------------
+Now have src_output
+Now have src_output
+Now have src
+Now have name
+Now have src
+Now have name
+Now have tie
+Now have tie
+insert:
+__less : &temp_object{tuple<int &, basic_string_view<char, char_traits<char> > &>, S6218389} &temp_object{tuple<int &, basic_string_view<char, char_traits<char> > &>, S6218462} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+-----------------
+Now have src_output
+Now have src_output
+Now have src
+Now have name
+Now have src
+Now have name
+Now have tie
+Now have tie
+Now have __less
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+src_output : &SymRegion{reg_$4<const Edge * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+src_output : &SymRegion{reg_$5<const Edge * b>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+src : &SymRegion{reg_$4<const Edge * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+name : &SymRegion{conj_$17{const Node *, LC46, S6166974, #1}} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+src : &SymRegion{reg_$5<const Edge * b>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+name : &SymRegion{conj_$25{const Node *, LC46, S6167062, #1}} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+tie : &a_src_output &a_name NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+tie : &b_src_output &b_name NowTime: 0
+NowTime: 0
+
+The Road is: x
+
+The Road is: x0
+-----------------
+Now have src_output
+Now have src_output
+Now have src
+Now have name
+Now have src
+Now have name
+Now have tie
+Now have tie
+insert:
+__less : &temp_object{tuple<int &, basic_string_view<char, char_traits<char> > &>, S6218389} &temp_object{tuple<int &, basic_string_view<char, char_traits<char> > &>, S6218462} 
+
+The Road is: x1
+-----------------
+Now have src_output
+Now have src_output
+Now have src
+Now have name
+Now have src
+Now have name
+Now have tie
+Now have tie
+insert:
+__less : &temp_object{tuple<int &, basic_string_view<char, char_traits<char> > &>, S6218389} &temp_object{tuple<int &, basic_string_view<char, char_traits<char> > &>, S6218462} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+insert:
+src_output : &SymRegion{reg_$31<const Edge * c>} NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+insert:
+src : &SymRegion{reg_$31<const Edge * c>} NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+insert:
+name : &SymRegion{conj_$51{const Node *, LC60, S6167062, #1}} NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+-----------------
+Now have src_output
+Now have src_output
+Now have src
+Now have name
+Now have src
+Now have name
+Now have tie
+Now have tie
+Now have __less
+Now have src_output
+Now have src
+Now have name
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 0
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 0
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 0
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 0
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 0
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 0
+
+The Road is: x188
+
+The Road is: x188

@@ -1,0 +1,295 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+CPLGetBasenameSafe : &SymRegion{reg_$4<const CPLString & a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+c_str : &temp_object{CPLString, S6216677} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+find : &oMapLayerOrder &temp_object{const char *, S6216699} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+end : &oMapLayerOrder NowTime: 0
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+find : &oMapLayerOrder &temp_object{const char *, S6233896} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+NowTime: 0
+NowTime: 0
+
+The Road is: x99999
+
+The Road is: x99999
+-----------------
+Now have CPLGetBasenameSafe
+Now have c_str
+Now have find
+Now have end
+Now have find
+insert:
+compare : &SymRegion{reg_$4<const CPLString & a>} &SymRegion{reg_$4<const CPLString & a>} 
+
+NowTime: 0
+NowTime: 0
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+find : &oMapLayerOrder &temp_object{const char *, S6233896} NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x98999
+
+The Road is: x98999
+-----------------
+Now have CPLGetBasenameSafe
+Now have c_str
+Now have find
+Now have end
+Now have find
+insert:
+compare : &SymRegion{reg_$4<const CPLString & a>} &SymRegion{reg_$4<const CPLString & a>} 
+
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x89999
+
+The Road is: x89999
+-----------------
+Now have CPLGetBasenameSafe
+Now have c_str
+Now have find
+Now have end
+Now have find
+insert:
+compare : &SymRegion{reg_$4<const CPLString & a>} &SymRegion{reg_$4<const CPLString & a>} 
+
+
+
+NowTime: 0
+
+The Road is: x88998
+
+The Road is: x88998
+insert:
+CPLGetExtensionSafe : &SymRegion{reg_$4<const CPLString & a>} NowTime: 0
+
+The Road is: x88998
+
+The Road is: x88998
+insert:
+c_str : &temp_object{CPLString, S6235385} NowTime: 0
+
+The Road is: x88998
+
+The Road is: x88998
+insert:
+EQUAL : &SymRegion{conj_$62{const char *, LC2, S6235407, #1}} &Element{"shp",0 S64b,char} NowTime: 0
+
+The Road is: x889989
+
+The Road is: x889989
+NowTime: 0
+
+The Road is: x889989
+
+The Road is: x889989
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x88999
+
+The Road is: x88999
+-----------------
+Now have CPLGetBasenameSafe
+Now have c_str
+Now have find
+Now have end
+Now have find
+insert:
+compare : &SymRegion{reg_$4<const CPLString & a>} &SymRegion{reg_$4<const CPLString & a>} 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+CPLGetBasenameSafe : &SymRegion{reg_$4<const CPLString & a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+c_str : &temp_object{CPLString, S6216677} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+find : &oMapLayerOrder &temp_object{const char *, S6216699} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+end : &oMapLayerOrder NowTime: 0
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+CPLGetBasenameSafe : &SymRegion{reg_$5<const CPLString & b>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+c_str : &temp_object{CPLString, S6233874} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+find : &oMapLayerOrder &temp_object{const char *, S6233896} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+NowTime: 0
+NowTime: 0
+
+The Road is: x99999
+The road length:5
+The road length:5
+The road length:5
+
+The Road is: x999990
+-----------------
+Now have CPLGetBasenameSafe
+Now have c_str
+Now have find
+Now have end
+Now have CPLGetBasenameSafe
+Now have c_str
+Now have find
+insert:
+compare : &SymRegion{reg_$4<const CPLString & a>} &SymRegion{reg_$5<const CPLString & b>} 
+
+The Road is: x999992
+-----------------
+Now have CPLGetBasenameSafe
+Now have c_str
+Now have find
+Now have end
+Now have CPLGetBasenameSafe
+Now have c_str
+Now have find
+insert:
+compare : &SymRegion{reg_$4<const CPLString & a>} &SymRegion{reg_$5<const CPLString & b>} 
+
+The Road is: x999991
+-----------------
+Now have CPLGetBasenameSafe
+Now have c_str
+Now have find
+Now have end
+Now have CPLGetBasenameSafe
+Now have c_str
+Now have find
+insert:
+compare : &SymRegion{reg_$4<const CPLString & a>} &SymRegion{reg_$5<const CPLString & b>} 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9999908
+
+The Road is: x9999908
+NowTime: 0
+
+The Road is: x9999908
+
+The Road is: x9999908
+NowTime: 0
+
+The Road is: x9999908
+
+The Road is: x9999908
+NowTime: 0
+
+The Road is: x9999908
+
+The Road is: x9999908

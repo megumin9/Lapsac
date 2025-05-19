@@ -1,0 +1,69 @@
+NewTest: 
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NewTest: 
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NewTest: 
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NewTest: 
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NewTest: 
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_8.cpp:24:5: warning: Violation of Consistency [CompareCheck.FunctionChecker]
+   24 |     ConsistencyChecker();
+      |     ^~~~~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_8.cpp:30:5: warning: Violation of Transitivity [CompareCheck.FunctionChecker]
+   30 |     TransiveChecker();
+      |     ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_8.cpp:36:5: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   36 |     SymmetryChecker();
+      |     ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_8.cpp:42:5: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   42 |     SymmetryChecker();
+      |     ^~~~~~~~~~~~~~~~~
+4 warnings generated.
+Total paths analyzed: 2
+Total paths analyzed: 5
+Total paths analyzed: 5
+Total paths analyzed: 7
+Total paths analyzed: 19

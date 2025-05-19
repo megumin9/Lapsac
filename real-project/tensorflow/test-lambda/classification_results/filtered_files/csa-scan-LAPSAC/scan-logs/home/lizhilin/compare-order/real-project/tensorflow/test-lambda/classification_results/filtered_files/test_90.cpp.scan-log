@@ -1,0 +1,155 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+job_name : &a NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+NowTime: 0
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &temp_object{std::string, S854723} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+data : &temp_object{std::string, S854723} NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+-----------------
+Now have job_name
+Now have size
+Now have data
+insert:
+compare : &SymRegion{conj_$20{const char *, LC4, S943771, #1}} &SymRegion{conj_$20{const char *, LC4, S943771, #1}} conj_$14{size_type, LC4, S943682, #1} 
+NowTime: 0
+
+The Road is: x89
+
+The Road is: x89
+insert:
+task_id : &a NowTime: 0
+
+The Road is: x89
+
+The Road is: x89
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+job_name : &a NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+job_name : &b NowTime: 0
+NowTime: 0
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &temp_object{std::string, S854723} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &temp_object{std::string, S854775} NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+NowTime: 0
+NowTime: 0
+
+The Road is: x98
+The road length:2
+The road length:2
+The road length:2
+
+The Road is: x980
+-----------------
+Now have job_name
+Now have job_name
+Now have size
+Now have size
+insert:
+compare : &temp_object{std::string, S855149} &temp_object{std::string, S855168} 
+
+The Road is: x982
+-----------------
+Now have job_name
+Now have job_name
+Now have size
+Now have size
+insert:
+compare : &temp_object{std::string, S855149} &temp_object{std::string, S855168} 
+
+The Road is: x981
+-----------------
+Now have job_name
+Now have job_name
+Now have size
+Now have size
+insert:
+compare : &temp_object{std::string, S855149} &temp_object{std::string, S855168} 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9808
+
+The Road is: x9808

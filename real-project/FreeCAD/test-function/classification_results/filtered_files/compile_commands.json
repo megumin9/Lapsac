@@ -1,0 +1,26 @@
+[
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-std=c++17",
+            "-o",
+            "/home/lizhilin/compare-order/real-project/FreeCAD/test-function/classification_results/filtered_files/test_4.o",
+            "/home/lizhilin/compare-order/real-project/FreeCAD/test-function/classification_results/filtered_files/test_4.cpp"
+        ],
+        "directory": "/home/lizhilin/compare-order/real-project/FreeCAD/test-function/classification_results/filtered_files",
+        "file": "/home/lizhilin/compare-order/real-project/FreeCAD/test-function/classification_results/filtered_files/test_4.cpp"
+    },
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-std=c++17",
+            "-o",
+            "/home/lizhilin/compare-order/real-project/FreeCAD/test-function/classification_results/filtered_files/test_2.o",
+            "/home/lizhilin/compare-order/real-project/FreeCAD/test-function/classification_results/filtered_files/test_2.cpp"
+        ],
+        "directory": "/home/lizhilin/compare-order/real-project/FreeCAD/test-function/classification_results/filtered_files",
+        "file": "/home/lizhilin/compare-order/real-project/FreeCAD/test-function/classification_results/filtered_files/test_2.cpp"
+    }
+]

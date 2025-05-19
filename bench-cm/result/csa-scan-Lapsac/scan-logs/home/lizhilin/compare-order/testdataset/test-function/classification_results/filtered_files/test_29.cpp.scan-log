@@ -1,0 +1,810 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &Element{SymRegion{reg_$4<const SharedTerm * a>},0 S64b,struct SharedTerm}.clozeBody NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &Element{SymRegion{reg_$4<const SharedTerm * a>},0 S64b,struct SharedTerm}.clozeBody NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &Element{SymRegion{reg_$5<const SharedTerm * b>},0 S64b,struct SharedTerm}.clozeBody NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9998
+
+The Road is: x9998
+NowTime: 0
+
+The Road is: x9998
+
+The Road is: x9998
+NowTime: 0
+
+The Road is: x99989
+
+The Road is: x99989
+NowTime: 0
+
+The Road is: x99989
+
+The Road is: x99989
+NowTime: 0
+
+The Road is: x999899
+
+The Road is: x999899
+NowTime: 0
+
+The Road is: x999899
+
+The Road is: x999899
+
+NowTime: 1
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 1
+
+The Road is: x8
+
+The Road is: x8
+
+
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 1
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 1
+
+The Road is: x888
+
+The Road is: x888
+NowTime: 1
+
+The Road is: x888
+
+The Road is: x888
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &Element{SymRegion{reg_$4<const SharedTerm * a>},0 S64b,struct SharedTerm}.clozeBody NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &Element{SymRegion{reg_$5<const SharedTerm * b>},0 S64b,struct SharedTerm}.clozeBody NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9998
+
+The Road is: x9998
+NowTime: 0
+
+The Road is: x9998
+
+The Road is: x9998
+NowTime: 0
+
+The Road is: x99989
+
+The Road is: x99989
+NowTime: 0
+
+The Road is: x99989
+
+The Road is: x99989
+NowTime: 0
+
+The Road is: x999899
+
+The Road is: x999899
+NowTime: 0
+
+The Road is: x999899
+
+The Road is: x999899
+
+NowTime: 1
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 1
+
+The Road is: x8
+
+The Road is: x8
+
+
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 1
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 1
+
+The Road is: x888
+
+The Road is: x888
+NowTime: 1
+
+The Road is: x888
+
+The Road is: x888
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &Element{SymRegion{reg_$4<const SharedTerm * a>},0 S64b,struct SharedTerm}.clozeBody NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &Element{SymRegion{reg_$5<const SharedTerm * b>},0 S64b,struct SharedTerm}.clozeBody NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9998
+
+The Road is: x9998
+NowTime: 0
+
+The Road is: x9998
+
+The Road is: x9998
+insert:
+size : &Element{SymRegion{reg_$26<const SharedTerm * c>},0 S64b,struct SharedTerm}.clozeBody NowTime: 0
+
+The Road is: x99989
+
+The Road is: x99989
+NowTime: 0
+
+The Road is: x99989
+
+The Road is: x99989
+NowTime: 0
+
+The Road is: x999899
+
+The Road is: x999899
+NowTime: 0
+
+The Road is: x999899
+
+The Road is: x999899
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x99989998
+
+The Road is: x99989998
+NowTime: 1
+
+The Road is: x99989998
+
+The Road is: x99989998
+NowTime: 1
+
+The Road is: x999899989
+
+The Road is: x999899989
+NowTime: 1
+
+The Road is: x999899989
+
+The Road is: x999899989
+NowTime: 2
+
+The Road is: x9998999899
+
+The Road is: x9998999899
+NowTime: 2
+
+The Road is: x9998999899
+
+The Road is: x9998999899
+
+
+NowTime: 3
+
+The Road is: x99988
+
+The Road is: x99988
+NowTime: 3
+
+The Road is: x99988
+
+The Road is: x99988
+
+
+NowTime: 3
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 3
+
+The Road is: x8
+
+The Road is: x8
+
+
+NowTime: 3
+
+NowTime: 3
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 3
+
+The Road is: x88
+
+The Road is: x88
+insert:
+size : &Element{SymRegion{reg_$26<const SharedTerm * c>},0 S64b,struct SharedTerm}.clozeBody NowTime: 3
+
+The Road is: x888
+
+The Road is: x888
+NowTime: 3
+
+The Road is: x888
+
+The Road is: x888
+
+
+NowTime: 3
+
+The Road is: x889
+
+The Road is: x889
+NowTime: 4
+
+The Road is: x889
+
+The Road is: x889
+NowTime: 4
+
+The Road is: x8899
+
+The Road is: x8899
+NowTime: 4
+
+The Road is: x8899
+
+The Road is: x8899
+
+
+NowTime: 4
+
+NowTime: 4
+
+The Road is: x999888
+
+The Road is: x999888
+NowTime: 4
+
+The Road is: x999888
+
+The Road is: x999888
+NowTime: 4
+
+The Road is: x9998888
+
+The Road is: x9998888
+NowTime: 4
+
+The Road is: x9998888
+
+The Road is: x9998888
+
+
+The Error Road is: x99988888
+NowTime: 5
+
+NowTime: 5
+
+The Road is: x8888
+
+The Road is: x8888
+NowTime: 5
+
+The Road is: x8888
+
+The Road is: x8888
+NowTime: 5
+
+The Road is: x88888
+
+The Road is: x88888
+NowTime: 5
+
+The Road is: x88888
+
+The Road is: x88888
+
+
+NowTime: 5
+
+The Road is: x88889
+
+The Road is: x88889
+NowTime: 5
+
+The Road is: x88889
+
+The Road is: x88889
+NowTime: 6
+
+The Road is: x888899
+
+The Road is: x888899
+NowTime: 6
+
+The Road is: x888899
+
+The Road is: x888899
+
+
+The Error Road is: x88889998
+NowTime: 6
+
+NowTime: 6
+
+The Road is: x889998
+
+The Road is: x889998
+NowTime: 7
+
+The Road is: x889998
+
+The Road is: x889998
+NowTime: 7
+
+The Road is: x8899988
+
+The Road is: x8899988
+NowTime: 7
+
+The Road is: x8899988
+
+The Road is: x8899988
+
+
+The Error Road is: x88999888
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &Element{SymRegion{reg_$4<const SharedTerm * a>},0 S64b,struct SharedTerm}.clozeBody NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &Element{SymRegion{reg_$5<const SharedTerm * b>},0 S64b,struct SharedTerm}.clozeBody NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9998
+
+The Road is: x9998
+NowTime: 0
+
+The Road is: x9998
+
+The Road is: x9998
+insert:
+size : &Element{SymRegion{reg_$26<const SharedTerm * c>},0 S64b,struct SharedTerm}.clozeBody NowTime: 0
+
+The Road is: x99989
+
+The Road is: x99989
+NowTime: 0
+
+The Road is: x99989
+
+The Road is: x99989
+NowTime: 0
+
+The Road is: x999899
+
+The Road is: x999899
+NowTime: 0
+
+The Road is: x999899
+
+The Road is: x999899
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x99989998
+
+The Road is: x99989998
+NowTime: 1
+
+The Road is: x99989998
+
+The Road is: x99989998
+NowTime: 1
+
+The Road is: x999899989
+
+The Road is: x999899989
+NowTime: 1
+
+The Road is: x999899989
+
+The Road is: x999899989
+NowTime: 2
+
+The Road is: x9998999899
+
+The Road is: x9998999899
+NowTime: 2
+
+The Road is: x9998999899
+
+The Road is: x9998999899
+
+
+
+NowTime: 3
+
+The Road is: x99988
+
+The Road is: x99988
+NowTime: 3
+
+The Road is: x99988
+
+The Road is: x99988
+
+
+
+NowTime: 3
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 3
+
+The Road is: x8
+
+The Road is: x8
+
+
+NowTime: 3
+
+NowTime: 3
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 3
+
+The Road is: x88
+
+The Road is: x88
+insert:
+size : &Element{SymRegion{reg_$26<const SharedTerm * c>},0 S64b,struct SharedTerm}.clozeBody NowTime: 3
+
+The Road is: x888
+
+The Road is: x888
+NowTime: 3
+
+The Road is: x888
+
+The Road is: x888
+
+
+NowTime: 3
+
+The Road is: x889
+
+The Road is: x889
+NowTime: 3
+
+The Road is: x889
+
+The Road is: x889
+NowTime: 4
+
+The Road is: x8899
+
+The Road is: x8899
+NowTime: 4
+
+The Road is: x8899
+
+The Road is: x8899
+
+
+NowTime: 4
+
+NowTime: 4
+
+The Road is: x999888
+
+The Road is: x999888
+NowTime: 4
+
+The Road is: x999888
+
+The Road is: x999888
+NowTime: 4
+
+The Road is: x9998888
+
+The Road is: x9998888
+NowTime: 4
+
+The Road is: x9998888
+
+The Road is: x9998888
+
+
+NowTime: 5
+
+NowTime: 5
+
+The Road is: x8888
+
+The Road is: x8888
+NowTime: 5
+
+The Road is: x8888
+
+The Road is: x8888
+NowTime: 5
+
+The Road is: x88888
+
+The Road is: x88888
+NowTime: 5
+
+The Road is: x88888
+
+The Road is: x88888
+
+
+NowTime: 5
+
+The Road is: x88889
+
+The Road is: x88889
+NowTime: 5
+
+The Road is: x88889
+
+The Road is: x88889
+NowTime: 6
+
+The Road is: x888899
+
+The Road is: x888899
+NowTime: 6
+
+The Road is: x888899
+
+The Road is: x888899
+
+
+NowTime: 6
+
+NowTime: 6
+
+The Road is: x889998
+
+The Road is: x889998
+NowTime: 6
+
+The Road is: x889998
+
+The Road is: x889998
+NowTime: 7
+
+The Road is: x8899988
+
+The Road is: x8899988
+NowTime: 7
+
+The Road is: x8899988
+
+The Road is: x8899988
+
+
+Total paths analyzed: 0
+Total paths analyzed: 0
+Total paths analyzed: 0
+Total paths analyzed: 5
+Total paths analyzed: 5

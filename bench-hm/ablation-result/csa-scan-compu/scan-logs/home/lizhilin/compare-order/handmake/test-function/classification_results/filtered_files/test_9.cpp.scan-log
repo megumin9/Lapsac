@@ -1,0 +1,252 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+strlen : &SymRegion{reg_$4<char * Element{SymRegion{reg_$2<testclass * a>},0 S64b,struct testclass}.var4>} NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+strlen : &SymRegion{reg_$6<char * Element{SymRegion{reg_$2<testclass * a>},0 S64b,struct testclass}.var4>} NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+strlen : &SymRegion{reg_$8<char * Element{SymRegion{reg_$3<testclass * b>},0 S64b,struct testclass}.var4>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88888
+
+The Road is: x88888
+NowTime: 0
+
+The Road is: x88888
+
+The Road is: x88888
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+strlen : &SymRegion{reg_$6<char * Element{SymRegion{reg_$2<testclass * a>},0 S64b,struct testclass}.var4>} NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+strlen : &SymRegion{reg_$8<char * Element{SymRegion{reg_$3<testclass * b>},0 S64b,struct testclass}.var4>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88888
+
+The Road is: x88888
+NowTime: 0
+
+The Road is: x88888
+
+The Road is: x88888
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+strlen : &SymRegion{reg_$6<char * Element{SymRegion{reg_$2<testclass * a>},0 S64b,struct testclass}.var4>} NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+strlen : &SymRegion{reg_$8<char * Element{SymRegion{reg_$3<testclass * b>},0 S64b,struct testclass}.var4>} 
+
+NowTime: 0
+
+
+NowTime: 0
+
+The Road is: x88888
+
+The Road is: x88888
+NowTime: 0
+
+The Road is: x88888
+
+The Road is: x88888
+insert:
+strlen : &SymRegion{reg_$12<char * Element{SymRegion{reg_$10<testclass * c>},0 S64b,struct testclass}.var4>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88888888
+
+The Road is: x88888888
+NowTime: 0
+
+The Road is: x88888888
+
+The Road is: x88888888
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+The Road is: x9888
+
+The Road is: x9888
+insert:
+strlen : &SymRegion{reg_$8<char * Element{SymRegion{reg_$3<testclass * b>},0 S64b,struct testclass}.var4>} NowTime: 0
+
+The Road is: x9888
+
+The Road is: x9888
+insert:
+strlen : &SymRegion{reg_$10<char * Element{SymRegion{reg_$5<testclass * c>},0 S64b,struct testclass}.var4>} 
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+strlen : &SymRegion{reg_$12<char * Element{SymRegion{reg_$2<testclass * a>},0 S64b,struct testclass}.var4>} NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+strlen : &SymRegion{reg_$8<char * Element{SymRegion{reg_$3<testclass * b>},0 S64b,struct testclass}.var4>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88888
+
+The Road is: x88888
+NowTime: 0
+
+The Road is: x88888
+
+The Road is: x88888
+insert:
+strlen : &SymRegion{reg_$10<char * Element{SymRegion{reg_$5<testclass * c>},0 S64b,struct testclass}.var4>} 
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88888888
+
+The Road is: x88888888
+NowTime: 0
+
+The Road is: x88888888
+
+The Road is: x88888888
+
+
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8989888
+
+The Road is: x8989888
+insert:
+strlen : &SymRegion{reg_$12<char * Element{SymRegion{reg_$2<testclass * a>},0 S64b,struct testclass}.var4>} NowTime: 0
+
+The Road is: x8989888
+
+The Road is: x8989888
+insert:
+strlen : &SymRegion{reg_$10<char * Element{SymRegion{reg_$5<testclass * c>},0 S64b,struct testclass}.var4>} 
+
+
+/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_9.cpp:24:5: warning: Violation of Consistency [CompareCheck.FunctionChecker]
+   24 |     ConsistencyChecker();
+      |     ^~~~~~~~~~~~~~~~~~~~
+1 warning generated.
+Total paths analyzed: 2
+Total paths analyzed: 4
+Total paths analyzed: 4
+Total paths analyzed: 7
+Total paths analyzed: 15

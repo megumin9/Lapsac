@@ -1,0 +1,328 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+serialize_nonnull : &Element{SymRegion{reg_$4<const map_pair & a>},0 S64b,struct map_pair}.first NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x0
+-----------------
+Now have serialize_nonnull
+insert:
+less : &SymRegion{derived_$5{conj_$2{int, LC1, S6167844, #1},key_type}} conj_$9{int, LC2, S6166962, #1} conj_$9{int, LC2, S6166962, #1} 
+
+The Road is: x1
+-----------------
+Now have serialize_nonnull
+insert:
+less : &SymRegion{derived_$5{conj_$2{int, LC1, S6167844, #1},key_type}} conj_$9{int, LC2, S6166962, #1} conj_$9{int, LC2, S6166962, #1} 
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+serialize_nonnull : &Element{SymRegion{reg_$4<const map_pair & a>},0 S64b,struct map_pair}.first NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+serialize_nonnull : &Element{SymRegion{reg_$5<const map_pair & b>},0 S64b,struct map_pair}.first NowTime: 0
+
+The Road is: x
+
+The Road is: x0
+-----------------
+Now have serialize_nonnull
+Now have serialize_nonnull
+insert:
+less : &SymRegion{derived_$6{conj_$2{int, LC3, S6167673, #1},key_type}} conj_$10{int, LC4, S6166962, #1} conj_$14{int, LC4, S6167014, #1} 
+
+The Road is: x1
+-----------------
+Now have serialize_nonnull
+Now have serialize_nonnull
+insert:
+less : &SymRegion{derived_$6{conj_$2{int, LC3, S6167673, #1},key_type}} conj_$10{int, LC4, S6166962, #1} conj_$14{int, LC4, S6167014, #1} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x180
+-----------------
+Now have serialize_nonnull
+Now have serialize_nonnull
+Now have less
+insert:
+less : &SymRegion{derived_$16{conj_$12{int, LC4, S6167014, #1},key_type}} conj_$14{int, LC4, S6167014, #1} conj_$10{int, LC4, S6166962, #1} 
+
+The Road is: x181
+-----------------
+Now have serialize_nonnull
+Now have serialize_nonnull
+Now have less
+insert:
+less : &SymRegion{derived_$16{conj_$12{int, LC4, S6167014, #1},key_type}} conj_$14{int, LC4, S6167014, #1} conj_$10{int, LC4, S6166962, #1} 
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+serialize_nonnull : &Element{SymRegion{reg_$4<const map_pair & a>},0 S64b,struct map_pair}.first NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+serialize_nonnull : &Element{SymRegion{reg_$5<const map_pair & b>},0 S64b,struct map_pair}.first NowTime: 0
+
+The Road is: x
+
+The Road is: x0
+-----------------
+Now have serialize_nonnull
+Now have serialize_nonnull
+insert:
+less : &SymRegion{derived_$6{conj_$2{int, LC1, S6167449, #1},key_type}} conj_$10{int, LC6, S6166962, #1} conj_$14{int, LC6, S6167014, #1} 
+
+The Road is: x1
+-----------------
+Now have serialize_nonnull
+Now have serialize_nonnull
+insert:
+less : &SymRegion{derived_$6{conj_$2{int, LC1, S6167449, #1},key_type}} conj_$10{int, LC6, S6166962, #1} conj_$14{int, LC6, S6167014, #1} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+insert:
+serialize_nonnull : &Element{SymRegion{reg_$16<const map_pair & c>},0 S64b,struct map_pair}.first NowTime: 0
+
+The Road is: x18
+
+The Road is: x180
+-----------------
+Now have serialize_nonnull
+Now have serialize_nonnull
+Now have less
+Now have serialize_nonnull
+insert:
+less : &SymRegion{derived_$17{conj_$12{int, LC6, S6167014, #1},key_type}} conj_$14{int, LC6, S6167014, #1} conj_$25{int, LC7, S6167014, #1} 
+
+The Road is: x181
+-----------------
+Now have serialize_nonnull
+Now have serialize_nonnull
+Now have less
+Now have serialize_nonnull
+insert:
+less : &SymRegion{derived_$17{conj_$12{int, LC6, S6167014, #1},key_type}} conj_$14{int, LC6, S6167014, #1} conj_$25{int, LC7, S6167014, #1} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x1818
+
+The Road is: x1818
+NowTime: 0
+
+The Road is: x1818
+
+The Road is: x1818
+NowTime: 0
+
+The Road is: x1818
+
+The Road is: x18180
+-----------------
+Now have serialize_nonnull
+Now have serialize_nonnull
+Now have less
+Now have serialize_nonnull
+Now have less
+insert:
+less : &SymRegion{derived_$27{conj_$23{int, LC7, S6167014, #1},key_type}} conj_$25{int, LC7, S6167014, #1} conj_$10{int, LC6, S6166962, #1} 
+
+The Road is: x18181
+-----------------
+Now have serialize_nonnull
+Now have serialize_nonnull
+Now have less
+Now have serialize_nonnull
+Now have less
+insert:
+less : &SymRegion{derived_$27{conj_$23{int, LC7, S6167014, #1},key_type}} conj_$25{int, LC7, S6167014, #1} conj_$10{int, LC6, S6166962, #1} 
+
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+serialize_nonnull : &Element{SymRegion{reg_$4<const map_pair & a>},0 S64b,struct map_pair}.first NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+serialize_nonnull : &Element{SymRegion{reg_$5<const map_pair & b>},0 S64b,struct map_pair}.first NowTime: 0
+
+The Road is: x
+
+The Road is: x0
+-----------------
+Now have serialize_nonnull
+Now have serialize_nonnull
+insert:
+less : &SymRegion{derived_$6{conj_$2{int, LC9, S6167178, #1},key_type}} conj_$10{int, LC10, S6166962, #1} conj_$14{int, LC10, S6167014, #1} 
+
+The Road is: x1
+-----------------
+Now have serialize_nonnull
+Now have serialize_nonnull
+insert:
+less : &SymRegion{derived_$6{conj_$2{int, LC9, S6167178, #1},key_type}} conj_$10{int, LC10, S6166962, #1} conj_$14{int, LC10, S6167014, #1} 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+insert:
+serialize_nonnull : &Element{SymRegion{reg_$16<const map_pair & c>},0 S64b,struct map_pair}.first NowTime: 0
+
+The Road is: x08
+
+The Road is: x080
+-----------------
+Now have serialize_nonnull
+Now have serialize_nonnull
+Now have less
+Now have serialize_nonnull
+insert:
+less : &SymRegion{derived_$17{conj_$12{int, LC10, S6167014, #1},key_type}} conj_$14{int, LC10, S6167014, #1} conj_$25{int, LC11, S6167014, #1} 
+
+The Road is: x081
+-----------------
+Now have serialize_nonnull
+Now have serialize_nonnull
+Now have less
+Now have serialize_nonnull
+insert:
+less : &SymRegion{derived_$17{conj_$12{int, LC10, S6167014, #1},key_type}} conj_$14{int, LC10, S6167014, #1} conj_$25{int, LC11, S6167014, #1} 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x0808
+
+The Road is: x0808
+NowTime: 0
+
+The Road is: x0808
+
+The Road is: x0808
+NowTime: 0
+
+The Road is: x0808
+
+The Road is: x08080
+-----------------
+Now have serialize_nonnull
+Now have serialize_nonnull
+Now have less
+Now have serialize_nonnull
+Now have less
+insert:
+less : &SymRegion{derived_$27{conj_$23{int, LC11, S6167014, #1},key_type}} conj_$10{int, LC10, S6166962, #1} conj_$25{int, LC11, S6167014, #1} 
+
+The Road is: x08081
+-----------------
+Now have serialize_nonnull
+Now have serialize_nonnull
+Now have less
+Now have serialize_nonnull
+Now have less
+insert:
+less : &SymRegion{derived_$27{conj_$23{int, LC11, S6167014, #1},key_type}} conj_$10{int, LC10, S6166962, #1} conj_$25{int, LC11, S6167014, #1} 
+
+
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 1

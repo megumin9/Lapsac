@@ -1,0 +1,937 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+empty : &a.osDateTime 
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+-----------------
+Now have empty
+insert:
+compare : &a.osDateTime &a.osDateTime 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+empty : &a.osDateTime 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+empty : &b.osDateTime 
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+empty : &b.osDateTime NowTime: 0
+NowTime: 0
+
+The Road is: x88
+The road length:2
+The road length:2
+The road length:2
+
+The Road is: x880
+-----------------
+Now have empty
+Now have empty
+insert:
+compare : &a.osDateTime &b.osDateTime 
+
+The Road is: x882
+-----------------
+Now have empty
+Now have empty
+insert:
+compare : &a.osDateTime &b.osDateTime 
+
+The Road is: x881
+-----------------
+Now have empty
+Now have empty
+insert:
+compare : &a.osDateTime &b.osDateTime 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8808
+
+The Road is: x8808
+NowTime: 0
+
+The Road is: x88088
+
+The Road is: x88088
+NowTime: 0
+NowTime: 0
+
+The Road is: x880888
+
+The Road is: x880888
+-----------------
+Now have empty
+Now have empty
+Now have compare
+insert:
+compare : &b.osDateTime &a.osDateTime 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x89
+
+The Road is: x89
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+empty : &a.osDateTime 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+empty : &b.osDateTime 
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+empty : &b.osDateTime NowTime: 0
+NowTime: 0
+
+The Road is: x88
+The road length:2
+The road length:2
+The road length:2
+
+The Road is: x880
+-----------------
+Now have empty
+Now have empty
+insert:
+compare : &a.osDateTime &b.osDateTime 
+
+The Road is: x882
+-----------------
+Now have empty
+Now have empty
+insert:
+compare : &a.osDateTime &b.osDateTime 
+
+The Road is: x881
+-----------------
+Now have empty
+Now have empty
+insert:
+compare : &a.osDateTime &b.osDateTime 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8808
+
+The Road is: x8808
+NowTime: 0
+
+The Road is: x88088
+
+The Road is: x88088
+NowTime: 0
+NowTime: 0
+
+The Road is: x880888
+
+The Road is: x880888
+-----------------
+Now have empty
+Now have empty
+Now have compare
+insert:
+compare : &b.osDateTime &a.osDateTime 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x89
+
+The Road is: x89
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+empty : &a.osDateTime 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+empty : &b.osDateTime 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+empty : &c.osDateTime 
+NowTime: 0
+
+The Road is: x998
+
+The Road is: x998
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+insert:
+empty : &c.osDateTime NowTime: 0
+NowTime: 0
+
+The Road is: x988
+The road length:3
+The road length:3
+The road length:3
+
+The Road is: x9880
+-----------------
+Now have empty
+Now have empty
+Now have empty
+insert:
+compare : &b.osDateTime &c.osDateTime 
+
+The Road is: x9882
+-----------------
+Now have empty
+Now have empty
+Now have empty
+insert:
+compare : &b.osDateTime &c.osDateTime 
+
+The Road is: x9881
+-----------------
+Now have empty
+Now have empty
+Now have empty
+insert:
+compare : &b.osDateTime &c.osDateTime 
+
+
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+empty : &b.osDateTime NowTime: 0
+NowTime: 0
+
+The Road is: x88
+The road length:2
+The road length:2
+The road length:2
+
+The Road is: x880
+-----------------
+Now have empty
+Now have empty
+insert:
+compare : &a.osDateTime &b.osDateTime 
+
+The Road is: x882
+-----------------
+Now have empty
+Now have empty
+insert:
+compare : &a.osDateTime &b.osDateTime 
+
+The Road is: x881
+-----------------
+Now have empty
+Now have empty
+insert:
+compare : &a.osDateTime &b.osDateTime 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8808
+
+The Road is: x8808
+NowTime: 0
+
+The Road is: x88088
+
+The Road is: x88088
+insert:
+empty : &c.osDateTime NowTime: 0
+NowTime: 0
+
+The Road is: x880888
+The road length:6
+The road length:6
+The road length:6
+
+The Road is: x8808880
+-----------------
+Now have empty
+Now have empty
+Now have compare
+Now have empty
+insert:
+compare : &b.osDateTime &c.osDateTime 
+
+The Road is: x8808882
+-----------------
+Now have empty
+Now have empty
+Now have compare
+Now have empty
+insert:
+compare : &b.osDateTime &c.osDateTime 
+
+The Road is: x8808881
+-----------------
+Now have empty
+Now have empty
+Now have compare
+Now have empty
+insert:
+compare : &b.osDateTime &c.osDateTime 
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98808
+
+The Road is: x98808
+NowTime: 0
+
+The Road is: x988088
+
+The Road is: x988088
+
+
+
+The Error Road is: x9880889
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x89
+
+The Road is: x89
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88088808
+
+The Road is: x88088808
+NowTime: 0
+
+The Road is: x880888088
+
+The Road is: x880888088
+NowTime: 0
+NowTime: 0
+
+The Road is: x8808880888
+
+The Road is: x8808880888
+-----------------
+Now have empty
+Now have empty
+Now have compare
+Now have empty
+Now have compare
+insert:
+compare : &c.osDateTime &a.osDateTime 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x880889
+
+The Road is: x880889
+
+The Error Road is: x8808899
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x899
+
+The Road is: x899
+insert:
+empty : &c.osDateTime NowTime: 0
+
+The Road is: x8998
+
+The Road is: x8998
+NowTime: 0
+NowTime: 0
+
+The Road is: x89988
+The road length:5
+The road length:5
+The road length:5
+
+The Road is: x899880
+-----------------
+Now have empty
+Now have empty
+Now have empty
+insert:
+compare : &c.osDateTime &a.osDateTime 
+
+The Road is: x899882
+-----------------
+Now have empty
+Now have empty
+Now have empty
+insert:
+compare : &c.osDateTime &a.osDateTime 
+
+The Road is: x899881
+-----------------
+Now have empty
+Now have empty
+Now have empty
+insert:
+compare : &c.osDateTime &a.osDateTime 
+
+
+
+The Error Road is: x8998808
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+empty : &a.osDateTime 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+empty : &b.osDateTime 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+insert:
+empty : &c.osDateTime NowTime: 0
+NowTime: 0
+
+The Road is: x988
+The road length:3
+The road length:3
+The road length:3
+
+The Road is: x9880
+-----------------
+Now have empty
+Now have empty
+Now have empty
+insert:
+compare : &b.osDateTime &c.osDateTime 
+
+The Road is: x9882
+-----------------
+Now have empty
+Now have empty
+Now have empty
+insert:
+compare : &b.osDateTime &c.osDateTime 
+
+The Road is: x9881
+-----------------
+Now have empty
+Now have empty
+Now have empty
+insert:
+compare : &b.osDateTime &c.osDateTime 
+
+
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+empty : &b.osDateTime NowTime: 0
+NowTime: 0
+
+The Road is: x88
+The road length:2
+The road length:2
+The road length:2
+
+The Road is: x880
+-----------------
+Now have empty
+Now have empty
+insert:
+compare : &a.osDateTime &b.osDateTime 
+
+The Road is: x882
+-----------------
+Now have empty
+Now have empty
+insert:
+compare : &a.osDateTime &b.osDateTime 
+
+The Road is: x881
+-----------------
+Now have empty
+Now have empty
+insert:
+compare : &a.osDateTime &b.osDateTime 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8818
+
+The Road is: x8818
+NowTime: 0
+
+The Road is: x88188
+
+The Road is: x88188
+insert:
+empty : &c.osDateTime NowTime: 0
+NowTime: 0
+
+The Road is: x881888
+The road length:6
+The road length:6
+The road length:6
+
+The Road is: x8818880
+-----------------
+Now have empty
+Now have empty
+Now have compare
+Now have empty
+insert:
+compare : &b.osDateTime &c.osDateTime 
+
+The Road is: x8818882
+-----------------
+Now have empty
+Now have empty
+Now have compare
+Now have empty
+insert:
+compare : &b.osDateTime &c.osDateTime 
+
+The Road is: x8818881
+-----------------
+Now have empty
+Now have empty
+Now have compare
+Now have empty
+insert:
+compare : &b.osDateTime &c.osDateTime 
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98818
+
+The Road is: x98818
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8828
+
+The Road is: x8828
+NowTime: 0
+
+The Road is: x88288
+
+The Road is: x88288
+insert:
+empty : &c.osDateTime NowTime: 0
+NowTime: 0
+
+The Road is: x882888
+The road length:6
+The road length:6
+The road length:6
+
+The Road is: x8828880
+-----------------
+Now have empty
+Now have empty
+Now have compare
+Now have empty
+insert:
+compare : &b.osDateTime &c.osDateTime 
+
+The Road is: x8828882
+-----------------
+Now have empty
+Now have empty
+Now have compare
+Now have empty
+
+The Road is: x8828881
+-----------------
+Now have empty
+Now have empty
+Now have compare
+Now have empty
+insert:
+compare : &b.osDateTime &c.osDateTime 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98828
+
+The Road is: x98828
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x89
+
+The Road is: x89
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88188818
+
+The Road is: x88188818
+NowTime: 0
+
+The Road is: x881888188
+
+The Road is: x881888188
+NowTime: 0
+NowTime: 0
+
+The Road is: x8818881888
+
+The Road is: x8818881888
+-----------------
+Now have empty
+Now have empty
+Now have compare
+Now have empty
+Now have compare
+insert:
+compare : &a.osDateTime &c.osDateTime 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88188828
+
+The Road is: x88188828
+NowTime: 0
+
+The Road is: x881888288
+
+The Road is: x881888288
+NowTime: 0
+NowTime: 0
+
+The Road is: x8818882888
+
+The Road is: x8818882888
+-----------------
+Now have empty
+Now have empty
+Now have compare
+Now have empty
+Now have compare
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x881889
+
+The Road is: x881889
+NowTime: 0
+
+The Road is: x8818898
+
+The Road is: x8818898
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88288818
+
+The Road is: x88288818
+NowTime: 0
+
+The Road is: x882888188
+
+The Road is: x882888188
+NowTime: 0
+NowTime: 0
+
+The Road is: x8828881888
+
+The Road is: x8828881888
+-----------------
+Now have empty
+Now have empty
+Now have compare
+Now have empty
+Now have compare
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88288828
+
+The Road is: x88288828
+NowTime: 0
+
+The Road is: x882888288
+
+The Road is: x882888288
+NowTime: 0
+NowTime: 0
+
+The Road is: x8828882888
+
+The Road is: x8828882888
+-----------------
+Now have empty
+Now have empty
+Now have compare
+Now have empty
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x882889
+
+The Road is: x882889
+NowTime: 0
+
+The Road is: x8828898
+
+The Road is: x8828898
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x899
+
+The Road is: x899
+NowTime: 0
+
+The Road is: x8998
+
+The Road is: x8998
+insert:
+empty : &c.osDateTime NowTime: 0
+NowTime: 0
+
+The Road is: x89988
+The road length:5
+The road length:5
+The road length:5
+
+The Road is: x899880
+-----------------
+Now have empty
+Now have empty
+Now have empty
+insert:
+compare : &a.osDateTime &c.osDateTime 
+
+The Road is: x899882
+-----------------
+Now have empty
+Now have empty
+Now have empty
+insert:
+compare : &a.osDateTime &c.osDateTime 
+
+The Road is: x899881
+-----------------
+Now have empty
+Now have empty
+Now have empty
+insert:
+compare : &a.osDateTime &c.osDateTime 
+
+
+
+
+/home/lizhilin/compare-order/real-project/gdal/test-lambda/classification_results/filtered_files/test_8.cpp:23:5: warning: Violation of Consistency [CompareCheck.FunctionChecker]
+   23 |     ConsistencyChecker();
+      |     ^~~~~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/real-project/gdal/test-lambda/classification_results/filtered_files/test_8.cpp:29:5: warning: Violation of Transitivity [CompareCheck.FunctionChecker]
+   29 |     TransiveChecker();
+      |     ^~~~~~~~~~~~~~~~~
+2 warnings generated.
+Total paths analyzed: 0
+Total paths analyzed: 3
+Total paths analyzed: 3
+Total paths analyzed: 7
+Total paths analyzed: 8

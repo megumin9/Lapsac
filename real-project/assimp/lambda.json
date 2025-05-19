@@ -1,0 +1,10 @@
+{
+    "/home/lizhilin/compare-order/real-project/assimp/contrib/earcut-hpp/earcut.hpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const Node* a, const Node* b",
+            "is_const": false,
+            "body": "return a->x < b->x;"
+        }
+    ]
+}

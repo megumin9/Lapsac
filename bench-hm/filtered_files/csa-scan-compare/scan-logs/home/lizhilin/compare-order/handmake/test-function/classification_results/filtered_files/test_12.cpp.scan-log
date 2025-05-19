@@ -1,0 +1,240 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88888
+
+The Road is: x88888
+NowTime: 0
+
+The Road is: x88888
+
+The Road is: x88888
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88888
+
+The Road is: x88888
+NowTime: 0
+
+The Road is: x88888
+
+The Road is: x88888
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+The Road is: x88888
+
+The Road is: x88888
+NowTime: 0
+
+The Road is: x88888
+
+The Road is: x88888
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88888888
+
+The Road is: x88888888
+NowTime: 0
+
+The Road is: x88888888
+
+The Road is: x88888888
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+The Road is: x9888
+
+The Road is: x9888
+NowTime: 0
+
+The Road is: x9888
+
+The Road is: x9888
+
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88888
+
+The Road is: x88888
+NowTime: 0
+
+The Road is: x88888
+
+The Road is: x88888
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88888888
+
+The Road is: x88888888
+NowTime: 0
+
+The Road is: x88888888
+
+The Road is: x88888888
+
+
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8989888
+
+The Road is: x8989888
+NowTime: 0
+
+The Road is: x8989888
+
+The Road is: x8989888
+
+
+
+/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_12.cpp:23:9: warning: Violation of Consistency [CompareCheck.FunctionChecker]
+   23 |         ConsistencyChecker();
+      |         ^~~~~~~~~~~~~~~~~~~~
+1 warning generated.
+Total paths analyzed: 2
+Total paths analyzed: 3
+Total paths analyzed: 3
+Total paths analyzed: 4
+Total paths analyzed: 8

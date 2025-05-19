@@ -1,0 +1,399 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+serialize_nonnull : &SymRegion{reg_$4<const data_value & a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x0
+-----------------
+Now have serialize_nonnull
+insert:
+less : &SymRegion{derived_$5{conj_$2{int, LC1, S6167962, #1},element_type}} &temp_object{std::string, S6166916} &temp_object{std::string, S6166967} 
+
+The Road is: x1
+-----------------
+Now have serialize_nonnull
+insert:
+less : &SymRegion{derived_$5{conj_$2{int, LC1, S6167962, #1},element_type}} &temp_object{std::string, S6166916} &temp_object{std::string, S6166967} 
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+serialize_nonnull : &SymRegion{reg_$4<const data_value & a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+serialize_nonnull : &SymRegion{reg_$5<const data_value & b>} NowTime: 0
+
+The Road is: x
+
+The Road is: x0
+-----------------
+Now have serialize_nonnull
+Now have serialize_nonnull
+insert:
+less : &SymRegion{derived_$6{conj_$2{int, LC3, S6167792, #1},element_type}} &temp_object{std::string, S6166916} &temp_object{std::string, S6166967} 
+
+The Road is: x1
+-----------------
+Now have serialize_nonnull
+Now have serialize_nonnull
+insert:
+less : &SymRegion{derived_$6{conj_$2{int, LC3, S6167792, #1},element_type}} &temp_object{std::string, S6166916} &temp_object{std::string, S6166967} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x180
+-----------------
+Now have serialize_nonnull
+Now have serialize_nonnull
+Now have less
+insert:
+less : &SymRegion{derived_$20{conj_$12{int, LC4, S6166967, #1},element_type}} &temp_object{std::string, S6166916} &temp_object{std::string, S6166967} 
+
+The Road is: x181
+-----------------
+Now have serialize_nonnull
+Now have serialize_nonnull
+Now have less
+insert:
+less : &SymRegion{derived_$20{conj_$12{int, LC4, S6166967, #1},element_type}} &temp_object{std::string, S6166916} &temp_object{std::string, S6166967} 
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+serialize_nonnull : &SymRegion{reg_$4<const data_value & a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+serialize_nonnull : &SymRegion{reg_$5<const data_value & b>} NowTime: 0
+
+The Road is: x
+
+The Road is: x0
+-----------------
+Now have serialize_nonnull
+Now have serialize_nonnull
+insert:
+less : &SymRegion{derived_$6{conj_$2{int, LC3, S6167619, #1},element_type}} &temp_object{std::string, S6166916} &temp_object{std::string, S6166967} 
+
+The Road is: x1
+-----------------
+Now have serialize_nonnull
+Now have serialize_nonnull
+insert:
+less : &SymRegion{derived_$6{conj_$2{int, LC3, S6167619, #1},element_type}} &temp_object{std::string, S6166916} &temp_object{std::string, S6166967} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x180
+-----------------
+Now have serialize_nonnull
+Now have serialize_nonnull
+Now have less
+insert:
+less : &SymRegion{derived_$20{conj_$12{int, LC6, S6166967, #1},element_type}} &temp_object{std::string, S6166916} &temp_object{std::string, S6166967} 
+
+The Road is: x181
+-----------------
+Now have serialize_nonnull
+Now have serialize_nonnull
+Now have less
+insert:
+less : &SymRegion{derived_$20{conj_$12{int, LC6, S6166967, #1},element_type}} &temp_object{std::string, S6166916} &temp_object{std::string, S6166967} 
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+serialize_nonnull : &SymRegion{reg_$4<const data_value & a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+serialize_nonnull : &SymRegion{reg_$5<const data_value & b>} NowTime: 0
+
+The Road is: x
+
+The Road is: x0
+-----------------
+Now have serialize_nonnull
+Now have serialize_nonnull
+insert:
+less : &SymRegion{derived_$6{conj_$2{int, LC1, S6167396, #1},element_type}} &temp_object{std::string, S6166916} &temp_object{std::string, S6166967} 
+
+The Road is: x1
+-----------------
+Now have serialize_nonnull
+Now have serialize_nonnull
+insert:
+less : &SymRegion{derived_$6{conj_$2{int, LC1, S6167396, #1},element_type}} &temp_object{std::string, S6166916} &temp_object{std::string, S6166967} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+insert:
+serialize_nonnull : &SymRegion{reg_$20<const data_value & c>} NowTime: 0
+
+The Road is: x18
+
+The Road is: x180
+-----------------
+Now have serialize_nonnull
+Now have serialize_nonnull
+Now have less
+Now have serialize_nonnull
+insert:
+less : &SymRegion{derived_$21{conj_$12{int, LC8, S6166967, #1},element_type}} &temp_object{std::string, S6166916} &temp_object{std::string, S6166967} 
+
+The Road is: x181
+-----------------
+Now have serialize_nonnull
+Now have serialize_nonnull
+Now have less
+Now have serialize_nonnull
+insert:
+less : &SymRegion{derived_$21{conj_$12{int, LC8, S6166967, #1},element_type}} &temp_object{std::string, S6166916} &temp_object{std::string, S6166967} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x1818
+
+The Road is: x1818
+NowTime: 0
+
+The Road is: x1818
+
+The Road is: x1818
+NowTime: 0
+
+The Road is: x1818
+
+The Road is: x18180
+-----------------
+Now have serialize_nonnull
+Now have serialize_nonnull
+Now have less
+Now have serialize_nonnull
+Now have less
+insert:
+less : &SymRegion{derived_$35{conj_$27{int, LC9, S6166967, #1},element_type}} &temp_object{std::string, S6166916} &temp_object{std::string, S6166967} 
+
+The Road is: x18181
+-----------------
+Now have serialize_nonnull
+Now have serialize_nonnull
+Now have less
+Now have serialize_nonnull
+Now have less
+insert:
+less : &SymRegion{derived_$35{conj_$27{int, LC9, S6166967, #1},element_type}} &temp_object{std::string, S6166916} &temp_object{std::string, S6166967} 
+
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+serialize_nonnull : &SymRegion{reg_$4<const data_value & a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+serialize_nonnull : &SymRegion{reg_$5<const data_value & b>} NowTime: 0
+
+The Road is: x
+
+The Road is: x0
+-----------------
+Now have serialize_nonnull
+Now have serialize_nonnull
+insert:
+less : &SymRegion{derived_$6{conj_$2{int, LC11, S6167152, #1},element_type}} &temp_object{std::string, S6166916} &temp_object{std::string, S6166967} 
+
+The Road is: x1
+-----------------
+Now have serialize_nonnull
+Now have serialize_nonnull
+insert:
+less : &SymRegion{derived_$6{conj_$2{int, LC11, S6167152, #1},element_type}} &temp_object{std::string, S6166916} &temp_object{std::string, S6166967} 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+insert:
+serialize_nonnull : &SymRegion{reg_$20<const data_value & c>} NowTime: 0
+
+The Road is: x08
+
+The Road is: x080
+-----------------
+Now have serialize_nonnull
+Now have serialize_nonnull
+Now have less
+Now have serialize_nonnull
+insert:
+less : &SymRegion{derived_$21{conj_$12{int, LC12, S6166967, #1},element_type}} &temp_object{std::string, S6166916} &temp_object{std::string, S6166967} 
+
+The Road is: x081
+-----------------
+Now have serialize_nonnull
+Now have serialize_nonnull
+Now have less
+Now have serialize_nonnull
+insert:
+less : &SymRegion{derived_$21{conj_$12{int, LC12, S6166967, #1},element_type}} &temp_object{std::string, S6166916} &temp_object{std::string, S6166967} 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x0808
+
+The Road is: x0808
+NowTime: 0
+
+The Road is: x0808
+
+The Road is: x0808
+NowTime: 0
+
+The Road is: x0808
+
+The Road is: x08080
+-----------------
+Now have serialize_nonnull
+Now have serialize_nonnull
+Now have less
+Now have serialize_nonnull
+Now have less
+insert:
+less : &SymRegion{derived_$35{conj_$27{int, LC13, S6166967, #1},element_type}} &temp_object{std::string, S6166916} &temp_object{std::string, S6166967} 
+
+The Road is: x08081
+-----------------
+Now have serialize_nonnull
+Now have serialize_nonnull
+Now have less
+Now have serialize_nonnull
+Now have less
+insert:
+less : &SymRegion{derived_$35{conj_$27{int, LC13, S6166967, #1},element_type}} &temp_object{std::string, S6166916} &temp_object{std::string, S6166967} 
+
+
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 1

@@ -1,0 +1,142 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+singleton : NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getMethodForStub : &SymRegion{conj_$8{CEntryPointCallStubSupport &, LC2, S6167511, #1}} &SymRegion{reg_$9<void * Element{SymRegion{reg_$4<HostedMethod * a>},0 S64b,struct HostedMethod}.wrapped.wrapped>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &Base{rm1,__shared_ptr} 
+The Road is: x
+insert:
+_M_get : &Base{Base{rm1,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getDeclaringClass : &SymRegion{derived_$26{conj_$15{int, LC2, S6167540, #1},Base{rm1,__shared_ptr}._M_ptr}} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getSourceFileName : &SymRegion{conj_$30{JavaClass *, LC2, S6189703, #1}} NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &Base{rm2,__shared_ptr} 
+The Road is: x
+insert:
+_M_get : &Base{Base{rm2,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getDeclaringClass : &SymRegion{derived_$35{conj_$25{int, LC2, S6189585, #1},Base{rm2,__shared_ptr}._M_ptr}} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getSourceFileName : &SymRegion{conj_$39{JavaClass *, LC2, S6189811, #1}} NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+Now have singleton
+Now have getMethodForStub
+Now have get
+Now have _M_get
+Now have getDeclaringClass
+Now have getSourceFileName
+Now have get
+Now have _M_get
+Now have getDeclaringClass
+Now have getSourceFileName
+insert:
+compare : &temp_object{std::string, S6189723} &temp_object{std::string, S6189824} 
+
+The Road is: x2
+-----------------
+Now have singleton
+Now have getMethodForStub
+Now have get
+Now have _M_get
+Now have getDeclaringClass
+Now have getSourceFileName
+Now have get
+Now have _M_get
+Now have getDeclaringClass
+Now have getSourceFileName
+insert:
+compare : &temp_object{std::string, S6189723} &temp_object{std::string, S6189824} 
+
+The Road is: x1
+-----------------
+Now have singleton
+Now have getMethodForStub
+Now have get
+Now have _M_get
+Now have getDeclaringClass
+Now have getSourceFileName
+Now have get
+Now have _M_get
+Now have getDeclaringClass
+Now have getSourceFileName
+insert:
+compare : &temp_object{std::string, S6189723} &temp_object{std::string, S6189824} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x189
+
+The Road is: x189
+NowTime: 0
+
+The Road is: x189
+
+The Road is: x189

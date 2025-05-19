@@ -1,0 +1,34 @@
+{
+    "/home/lizhilin/compare-order/real-project/openvino/samples/c/hello_classification/infer_result_util.c": [
+        {
+            "header": "int compare",
+            "params": "const void* a, const void* b",
+            "is_const": false,
+            "body": "const struct infer_result* sa = (const struct infer_result*)a;\n    const struct infer_result* sb = (const struct infer_result*)b;\n    if (sa->probability < sb->probability) {\n        return 1;\n    } else if ((sa->probability == sb->probability) && (sa->class_id > sb->class_id)) {\n        return 1;\n    } else if (sa->probability > sb->probability) {\n        return -1;\n    }\n    return 0;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/openvino/samples/c/hello_nv12_input_classification/main.c": [
+        {
+            "header": "int compare",
+            "params": "const void* a, const void* b",
+            "is_const": false,
+            "body": "const struct infer_result* sa = (const struct infer_result*)a;\n    const struct infer_result* sb = (const struct infer_result*)b;\n    if (sa->probability < sb->probability) {\n        return 1;\n    } else if ((sa->probability == sb->probability) && (sa->class_id > sb->class_id)) {\n        return 1;\n    } else if (sa->probability > sb->probability) {\n        return -1;\n    }\n    return 0;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/openvino/src/plugins/auto_batch/tests/unit/parse_meta_device_test.cpp": [
+        {
+            "header": "bool compare",
+            "params": "ov::AnyMap a, ov::AnyMap b",
+            "is_const": false,
+            "body": "if (a.size() != b.size())\n            return false;\n\n        for (auto& it : a) {\n            auto item = b.find(it.first);\n            if (item == b.end())\n                return false;\n            if (it.second != item->second)\n                return false;\n        }\n        return true;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/openvino/src/common/low_precision_transformations/tests/layer_transformation.hpp": [
+        {
+            "header": "bool compare",
+            "params": "const ov::IntervalsAlignmentAttribute& value1,\n        const ov::IntervalsAlignmentAttribute& value2",
+            "is_const": false,
+            "body": "if ((value1.value().combinedInterval.low != value2.value().combinedInterval.low) ||\n            (value1.value().combinedInterval.high != value2.value().combinedInterval.high)) {\n            return false;\n        }\n        return true;"
+        }
+    ]
+}

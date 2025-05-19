@@ -1,0 +1,451 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &Base{SymRegion{reg_$4<const BufferExpressionPtr & a>},__shared_ptr} 
+The Road is: x
+insert:
+_M_get : &Base{Base{SymRegion{reg_$4<const BufferExpressionPtr & a>},__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get_exec_num : &SymRegion{reg_$5<element_type * Base{SymRegion{reg_$4<const BufferExpressionPtr & a>},__shared_ptr}._M_ptr>} NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &Base{SymRegion{reg_$4<const BufferExpressionPtr & a>},__shared_ptr} 
+The Road is: x
+insert:
+_M_get : &Base{Base{SymRegion{reg_$4<const BufferExpressionPtr & a>},__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get_exec_num : &SymRegion{reg_$6<element_type * Base{SymRegion{reg_$4<const BufferExpressionPtr & a>},__shared_ptr}._M_ptr>} NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &Base{SymRegion{reg_$5<const BufferExpressionPtr & b>},__shared_ptr} 
+The Road is: x
+insert:
+_M_get : &Base{Base{SymRegion{reg_$5<const BufferExpressionPtr & b>},__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get_exec_num : &SymRegion{reg_$11<element_type * Base{SymRegion{reg_$5<const BufferExpressionPtr & b>},__shared_ptr}._M_ptr>} 
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+NowTime: 0
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &Base{SymRegion{reg_$4<const BufferExpressionPtr & a>},__shared_ptr} 
+The Road is: x
+insert:
+_M_get : &Base{Base{SymRegion{reg_$4<const BufferExpressionPtr & a>},__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get_exec_num : &SymRegion{reg_$6<element_type * Base{SymRegion{reg_$4<const BufferExpressionPtr & a>},__shared_ptr}._M_ptr>} NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &Base{SymRegion{reg_$5<const BufferExpressionPtr & b>},__shared_ptr} 
+The Road is: x
+insert:
+_M_get : &Base{Base{SymRegion{reg_$5<const BufferExpressionPtr & b>},__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get_exec_num : &SymRegion{reg_$11<element_type * Base{SymRegion{reg_$5<const BufferExpressionPtr & b>},__shared_ptr}._M_ptr>} 
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+NowTime: 0
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &Base{SymRegion{reg_$4<const BufferExpressionPtr & a>},__shared_ptr} 
+The Road is: x
+insert:
+_M_get : &Base{Base{SymRegion{reg_$4<const BufferExpressionPtr & a>},__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get_exec_num : &SymRegion{reg_$6<element_type * Base{SymRegion{reg_$4<const BufferExpressionPtr & a>},__shared_ptr}._M_ptr>} NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &Base{SymRegion{reg_$5<const BufferExpressionPtr & b>},__shared_ptr} 
+The Road is: x
+insert:
+_M_get : &Base{Base{SymRegion{reg_$5<const BufferExpressionPtr & b>},__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get_exec_num : &SymRegion{reg_$11<element_type * Base{SymRegion{reg_$5<const BufferExpressionPtr & b>},__shared_ptr}._M_ptr>} 
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+NowTime: 0
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+get : &Base{SymRegion{reg_$16<const BufferExpressionPtr & c>},__shared_ptr} 
+The Road is: x8
+insert:
+_M_get : &Base{Base{SymRegion{reg_$16<const BufferExpressionPtr & c>},__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+get_exec_num : &SymRegion{reg_$21<element_type * Base{SymRegion{reg_$16<const BufferExpressionPtr & c>},__shared_ptr}._M_ptr>} 
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+NowTime: 0
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &Base{SymRegion{reg_$4<const BufferExpressionPtr & a>},__shared_ptr} 
+The Road is: x
+insert:
+_M_get : &Base{Base{SymRegion{reg_$4<const BufferExpressionPtr & a>},__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get_exec_num : &SymRegion{reg_$6<element_type * Base{SymRegion{reg_$4<const BufferExpressionPtr & a>},__shared_ptr}._M_ptr>} NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &Base{SymRegion{reg_$5<const BufferExpressionPtr & b>},__shared_ptr} 
+The Road is: x
+insert:
+_M_get : &Base{Base{SymRegion{reg_$5<const BufferExpressionPtr & b>},__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get_exec_num : &SymRegion{reg_$11<element_type * Base{SymRegion{reg_$5<const BufferExpressionPtr & b>},__shared_ptr}._M_ptr>} 
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+NowTime: 0
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+get : &Base{SymRegion{reg_$16<const BufferExpressionPtr & c>},__shared_ptr} 
+The Road is: x8
+insert:
+_M_get : &Base{Base{SymRegion{reg_$16<const BufferExpressionPtr & c>},__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+get_exec_num : &SymRegion{reg_$21<element_type * Base{SymRegion{reg_$16<const BufferExpressionPtr & c>},__shared_ptr}._M_ptr>} 
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+NowTime: 0
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+
+
+
+Total paths analyzed: 0
+Total paths analyzed: 0
+Total paths analyzed: 0
+Total paths analyzed: 1
+Total paths analyzed: 1

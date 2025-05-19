@@ -1,0 +1,49 @@
+NewTest: 
+NowTime: 0
+NowTime: 0
+NewTest: 
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NewTest: 
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NewTest: 
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NewTest: 
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_23.cpp:27:9: warning: Violation of Consistency [CompareCheck.FunctionChecker]
+   27 |         ConsistencyChecker();
+      |         ^~~~~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_23.cpp:33:9: warning: Violation of Transitivity [CompareCheck.FunctionChecker]
+   33 |         TransiveChecker();
+      |         ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_23.cpp:39:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   39 |         SymmetryChecker();
+      |         ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_23.cpp:45:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   45 |         SymmetryChecker();
+      |         ^~~~~~~~~~~~~~~~~
+4 warnings generated.
+Total paths analyzed: 0
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 5
+Total paths analyzed: 5

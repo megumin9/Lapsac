@@ -1,0 +1,2627 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &Base{a,__shared_ptr} 
+The Road is: x
+insert:
+_M_get : &Base{Base{a,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getStmt : &SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getRange : &SymRegion{conj_$8{Stmt *, LC2, S6189231, #1}} NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+insert:
+compare : &temp_object{Range, S6189251} &temp_object{Range, S6189364} 
+
+The Road is: x2
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+insert:
+compare : &temp_object{Range, S6189251} &temp_object{Range, S6189364} 
+
+The Road is: x1
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+insert:
+compare : &temp_object{Range, S6189251} &temp_object{Range, S6189364} 
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x29
+NowTime: 0
+
+The Road is: x29
+
+The Road is: x29
+
+The Road is: x29
+NowTime: 0
+
+The Road is: x29
+
+The Road is: x29
+insert:
+getContainingFile : &SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>} NowTime: 0
+
+The Road is: x29
+
+The Road is: x29
+insert:
+getName : &SymRegion{conj_$25{File *, LC2, S6189475, #1}} NowTime: 0
+NowTime: 0
+
+The Road is: x29
+NowTime: 0
+
+The Road is: x29
+
+The Road is: x29
+
+The Road is: x29
+NowTime: 0
+
+The Road is: x29
+
+The Road is: x29
+NowTime: 0
+
+The Road is: x29
+
+The Road is: x29
+NowTime: 0
+NowTime: 0
+
+The Road is: x29
+
+The Road is: x29
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have compare
+Now have getContainingFile
+Now have getName
+insert:
+compare : &temp_object{std::string, S6189495} &temp_object{std::string, S6189574} 
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &Base{a,__shared_ptr} 
+The Road is: x
+insert:
+_M_get : &Base{Base{a,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getStmt : &SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getRange : &SymRegion{conj_$8{Stmt *, LC17, S6189231, #1}} NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &Base{b,__shared_ptr} 
+The Road is: x
+insert:
+_M_get : &Base{Base{b,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getStmt : &SymRegion{reg_$13<element_type * Base{b,__shared_ptr}._M_ptr>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getRange : &SymRegion{conj_$17{Stmt *, LC17, S6189351, #1}} NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+insert:
+compare : &temp_object{Range, S6189251} &temp_object{Range, S6189364} 
+
+The Road is: x2
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+insert:
+compare : &temp_object{Range, S6189251} &temp_object{Range, S6189364} 
+
+The Road is: x1
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+insert:
+compare : &temp_object{Range, S6189251} &temp_object{Range, S6189364} 
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x188
+NowTime: 0
+
+The Road is: x188
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 0
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 0
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 0
+NowTime: 0
+
+The Road is: x188
+NowTime: 0
+
+The Road is: x188
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 0
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 0
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 0
+
+The Road is: x188
+
+The Road is: x188
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have compare
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x29
+NowTime: 0
+
+The Road is: x29
+
+The Road is: x29
+
+The Road is: x29
+NowTime: 0
+
+The Road is: x29
+
+The Road is: x29
+insert:
+getContainingFile : &SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>} NowTime: 0
+
+The Road is: x29
+
+The Road is: x29
+insert:
+getName : &SymRegion{conj_$43{File *, LC17, S6189475, #1}} NowTime: 0
+NowTime: 0
+
+The Road is: x29
+NowTime: 0
+
+The Road is: x29
+
+The Road is: x29
+
+The Road is: x29
+NowTime: 0
+
+The Road is: x29
+
+The Road is: x29
+insert:
+getContainingFile : &SymRegion{reg_$13<element_type * Base{b,__shared_ptr}._M_ptr>} NowTime: 0
+
+The Road is: x29
+
+The Road is: x29
+insert:
+getName : &SymRegion{conj_$51{File *, LC17, S6189561, #1}} NowTime: 0
+NowTime: 0
+
+The Road is: x29
+The road length:2
+The road length:2
+The road length:2
+
+The Road is: x290
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have compare
+Now have getContainingFile
+Now have getName
+Now have getContainingFile
+Now have getName
+insert:
+compare : &temp_object{std::string, S6189495} &temp_object{std::string, S6189574} 
+
+The Road is: x292
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have compare
+Now have getContainingFile
+Now have getName
+Now have getContainingFile
+Now have getName
+insert:
+compare : &temp_object{std::string, S6189495} &temp_object{std::string, S6189574} 
+
+The Road is: x291
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have compare
+Now have getContainingFile
+Now have getName
+Now have getContainingFile
+Now have getName
+insert:
+compare : &temp_object{std::string, S6189495} &temp_object{std::string, S6189574} 
+
+
+
+
+NowTime: 1
+
+NowTime: 1
+NowTime: 1
+
+The Road is: x2908
+NowTime: 1
+
+The Road is: x2908
+
+The Road is: x2908
+
+The Road is: x2908
+NowTime: 1
+
+The Road is: x2908
+
+The Road is: x2908
+NowTime: 1
+
+The Road is: x2908
+
+The Road is: x2908
+NowTime: 1
+NowTime: 1
+
+The Road is: x2908
+NowTime: 1
+
+The Road is: x2908
+
+The Road is: x2908
+
+The Road is: x2908
+NowTime: 1
+
+The Road is: x2908
+
+The Road is: x2908
+NowTime: 2
+
+The Road is: x2908
+
+The Road is: x2908
+NowTime: 2
+
+The Road is: x2908
+
+The Road is: x2908
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have compare
+Now have getContainingFile
+Now have getName
+Now have getContainingFile
+Now have getName
+Now have compare
+NowTime: 3
+NowTime: 3
+
+The Road is: x29089
+NowTime: 3
+
+The Road is: x29089
+
+The Road is: x29089
+
+The Road is: x29089
+NowTime: 4
+
+The Road is: x29089
+
+The Road is: x29089
+NowTime: 5
+
+The Road is: x29089
+
+The Road is: x29089
+NowTime: 5
+NowTime: 5
+
+The Road is: x29089
+NowTime: 5
+
+The Road is: x29089
+
+The Road is: x29089
+
+The Road is: x29089
+NowTime: 6
+
+The Road is: x29089
+
+The Road is: x29089
+NowTime: 8
+
+The Road is: x29089
+
+The Road is: x29089
+NowTime: 8
+NowTime: 8
+
+The Road is: x29089
+
+The Road is: x29089
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have compare
+Now have getContainingFile
+Now have getName
+Now have getContainingFile
+Now have getName
+Now have compare
+
+NowTime: 9
+
+NowTime: 9
+NowTime: 9
+
+The Road is: x088
+NowTime: 9
+
+The Road is: x088
+
+The Road is: x088
+
+The Road is: x088
+NowTime: 9
+
+The Road is: x088
+
+The Road is: x088
+NowTime: 9
+
+The Road is: x088
+
+The Road is: x088
+NowTime: 9
+NowTime: 9
+
+The Road is: x088
+NowTime: 9
+
+The Road is: x088
+
+The Road is: x088
+
+The Road is: x088
+NowTime: 9
+
+The Road is: x088
+
+The Road is: x088
+NowTime: 9
+
+The Road is: x088
+
+The Road is: x088
+NowTime: 10
+
+The Road is: x088
+
+The Road is: x088
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have compare
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &Base{a,__shared_ptr} 
+The Road is: x
+insert:
+_M_get : &Base{Base{a,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getStmt : &SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getRange : &SymRegion{conj_$8{Stmt *, LC45, S6189231, #1}} NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &Base{b,__shared_ptr} 
+The Road is: x
+insert:
+_M_get : &Base{Base{b,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getStmt : &SymRegion{reg_$13<element_type * Base{b,__shared_ptr}._M_ptr>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getRange : &SymRegion{conj_$17{Stmt *, LC45, S6189351, #1}} NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+insert:
+compare : &temp_object{Range, S6189251} &temp_object{Range, S6189364} 
+
+The Road is: x2
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+insert:
+compare : &temp_object{Range, S6189251} &temp_object{Range, S6189364} 
+
+The Road is: x1
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+insert:
+compare : &temp_object{Range, S6189251} &temp_object{Range, S6189364} 
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x188
+NowTime: 0
+
+The Road is: x188
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 0
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 0
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 0
+NowTime: 0
+
+The Road is: x188
+NowTime: 0
+
+The Road is: x188
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 0
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 0
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 0
+
+The Road is: x188
+
+The Road is: x188
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have compare
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x29
+NowTime: 0
+
+The Road is: x29
+
+The Road is: x29
+
+The Road is: x29
+NowTime: 0
+
+The Road is: x29
+
+The Road is: x29
+insert:
+getContainingFile : &SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>} NowTime: 0
+
+The Road is: x29
+
+The Road is: x29
+insert:
+getName : &SymRegion{conj_$43{File *, LC45, S6189475, #1}} NowTime: 0
+NowTime: 0
+
+The Road is: x29
+NowTime: 0
+
+The Road is: x29
+
+The Road is: x29
+
+The Road is: x29
+NowTime: 0
+
+The Road is: x29
+
+The Road is: x29
+insert:
+getContainingFile : &SymRegion{reg_$13<element_type * Base{b,__shared_ptr}._M_ptr>} NowTime: 0
+
+The Road is: x29
+
+The Road is: x29
+insert:
+getName : &SymRegion{conj_$51{File *, LC45, S6189561, #1}} NowTime: 0
+NowTime: 0
+
+The Road is: x29
+The road length:2
+The road length:2
+The road length:2
+
+The Road is: x290
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have compare
+Now have getContainingFile
+Now have getName
+Now have getContainingFile
+Now have getName
+insert:
+compare : &temp_object{std::string, S6189495} &temp_object{std::string, S6189574} 
+
+The Road is: x292
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have compare
+Now have getContainingFile
+Now have getName
+Now have getContainingFile
+Now have getName
+insert:
+compare : &temp_object{std::string, S6189495} &temp_object{std::string, S6189574} 
+
+The Road is: x291
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have compare
+Now have getContainingFile
+Now have getName
+Now have getContainingFile
+Now have getName
+insert:
+compare : &temp_object{std::string, S6189495} &temp_object{std::string, S6189574} 
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x2908
+NowTime: 0
+
+The Road is: x2908
+
+The Road is: x2908
+
+The Road is: x2908
+NowTime: 1
+
+The Road is: x2908
+
+The Road is: x2908
+NowTime: 1
+
+The Road is: x2908
+
+The Road is: x2908
+NowTime: 1
+NowTime: 1
+
+The Road is: x2908
+NowTime: 1
+
+The Road is: x2908
+
+The Road is: x2908
+
+The Road is: x2908
+NowTime: 1
+
+The Road is: x2908
+
+The Road is: x2908
+NowTime: 2
+
+The Road is: x2908
+
+The Road is: x2908
+NowTime: 2
+
+The Road is: x2908
+
+The Road is: x2908
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have compare
+Now have getContainingFile
+Now have getName
+Now have getContainingFile
+Now have getName
+Now have compare
+NowTime: 3
+NowTime: 3
+
+The Road is: x29089
+NowTime: 3
+
+The Road is: x29089
+
+The Road is: x29089
+
+The Road is: x29089
+NowTime: 4
+
+The Road is: x29089
+
+The Road is: x29089
+NowTime: 5
+
+The Road is: x29089
+
+The Road is: x29089
+NowTime: 5
+NowTime: 5
+
+The Road is: x29089
+NowTime: 5
+
+The Road is: x29089
+
+The Road is: x29089
+
+The Road is: x29089
+NowTime: 6
+
+The Road is: x29089
+
+The Road is: x29089
+NowTime: 8
+
+The Road is: x29089
+
+The Road is: x29089
+NowTime: 8
+NowTime: 8
+
+The Road is: x29089
+
+The Road is: x29089
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have compare
+Now have getContainingFile
+Now have getName
+Now have getContainingFile
+Now have getName
+Now have compare
+
+NowTime: 9
+
+NowTime: 9
+NowTime: 9
+
+The Road is: x088
+NowTime: 9
+
+The Road is: x088
+
+The Road is: x088
+
+The Road is: x088
+NowTime: 9
+
+The Road is: x088
+
+The Road is: x088
+NowTime: 9
+
+The Road is: x088
+
+The Road is: x088
+NowTime: 9
+NowTime: 9
+
+The Road is: x088
+NowTime: 9
+
+The Road is: x088
+
+The Road is: x088
+
+The Road is: x088
+NowTime: 9
+
+The Road is: x088
+
+The Road is: x088
+NowTime: 9
+
+The Road is: x088
+
+The Road is: x088
+NowTime: 9
+
+The Road is: x088
+
+The Road is: x088
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have compare
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &Base{a,__shared_ptr} 
+The Road is: x
+insert:
+_M_get : &Base{Base{a,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getStmt : &SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getRange : &SymRegion{conj_$8{Stmt *, LC74, S6189231, #1}} NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &Base{b,__shared_ptr} 
+The Road is: x
+insert:
+_M_get : &Base{Base{b,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getStmt : &SymRegion{reg_$13<element_type * Base{b,__shared_ptr}._M_ptr>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getRange : &SymRegion{conj_$17{Stmt *, LC74, S6189351, #1}} NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+insert:
+compare : &temp_object{Range, S6189251} &temp_object{Range, S6189364} 
+
+The Road is: x2
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+insert:
+compare : &temp_object{Range, S6189251} &temp_object{Range, S6189364} 
+
+The Road is: x1
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+insert:
+compare : &temp_object{Range, S6189251} &temp_object{Range, S6189364} 
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x188
+NowTime: 0
+
+The Road is: x188
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 0
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 0
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 0
+NowTime: 0
+
+The Road is: x188
+NowTime: 0
+
+The Road is: x188
+
+The Road is: x188
+insert:
+get : &Base{c,__shared_ptr} 
+The Road is: x188
+insert:
+_M_get : &Base{Base{c,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x188
+
+The Road is: x188
+insert:
+getStmt : &SymRegion{reg_$31<element_type * Base{c,__shared_ptr}._M_ptr>} NowTime: 0
+
+The Road is: x188
+
+The Road is: x188
+insert:
+getRange : &SymRegion{conj_$35{Stmt *, LC81, S6189351, #1}} NowTime: 0
+
+The Road is: x188
+
+The Road is: x188
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have compare
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x18888
+NowTime: 0
+
+The Road is: x18888
+
+The Road is: x18888
+
+The Road is: x18888
+NowTime: 0
+
+The Road is: x18888
+
+The Road is: x18888
+NowTime: 0
+
+The Road is: x18888
+
+The Road is: x18888
+NowTime: 0
+NowTime: 0
+
+The Road is: x18888
+NowTime: 0
+
+The Road is: x18888
+
+The Road is: x18888
+
+The Road is: x18888
+NowTime: 0
+
+The Road is: x18888
+
+The Road is: x18888
+NowTime: 1
+
+The Road is: x18888
+
+The Road is: x18888
+NowTime: 1
+
+The Road is: x18888
+
+The Road is: x18888
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have compare
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+
+NowTime: 1
+NowTime: 1
+
+The Road is: x29
+NowTime: 1
+
+The Road is: x29
+
+The Road is: x29
+
+The Road is: x29
+NowTime: 1
+
+The Road is: x29
+
+The Road is: x29
+insert:
+getContainingFile : &SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>} NowTime: 1
+
+The Road is: x29
+
+The Road is: x29
+insert:
+getName : &SymRegion{conj_$61{File *, LC74, S6189475, #1}} NowTime: 1
+NowTime: 1
+
+The Road is: x29
+NowTime: 1
+
+The Road is: x29
+
+The Road is: x29
+
+The Road is: x29
+NowTime: 2
+
+The Road is: x29
+
+The Road is: x29
+insert:
+getContainingFile : &SymRegion{reg_$13<element_type * Base{b,__shared_ptr}._M_ptr>} NowTime: 2
+
+The Road is: x29
+
+The Road is: x29
+insert:
+getName : &SymRegion{conj_$69{File *, LC74, S6189561, #1}} NowTime: 2
+NowTime: 2
+
+The Road is: x29
+The road length:2
+The road length:2
+The road length:2
+
+The Road is: x290
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have compare
+Now have getContainingFile
+Now have getName
+Now have getContainingFile
+Now have getName
+insert:
+compare : &temp_object{std::string, S6189495} &temp_object{std::string, S6189574} 
+
+The Road is: x292
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have compare
+Now have getContainingFile
+Now have getName
+Now have getContainingFile
+Now have getName
+insert:
+compare : &temp_object{std::string, S6189495} &temp_object{std::string, S6189574} 
+
+The Road is: x291
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have compare
+Now have getContainingFile
+Now have getName
+Now have getContainingFile
+Now have getName
+insert:
+compare : &temp_object{std::string, S6189495} &temp_object{std::string, S6189574} 
+
+
+
+
+NowTime: 2
+
+NowTime: 2
+NowTime: 2
+
+The Road is: x2908
+NowTime: 2
+
+The Road is: x2908
+
+The Road is: x2908
+
+The Road is: x2908
+NowTime: 2
+
+The Road is: x2908
+
+The Road is: x2908
+NowTime: 2
+
+The Road is: x2908
+
+The Road is: x2908
+NowTime: 2
+NowTime: 2
+
+The Road is: x2908
+NowTime: 2
+
+The Road is: x2908
+
+The Road is: x2908
+insert:
+get : &Base{c,__shared_ptr} 
+The Road is: x2908
+insert:
+_M_get : &Base{Base{c,__shared_ptr},__shared_ptr_access} NowTime: 2
+
+The Road is: x2908
+
+The Road is: x2908
+insert:
+getStmt : &SymRegion{reg_$31<element_type * Base{c,__shared_ptr}._M_ptr>} NowTime: 2
+
+The Road is: x2908
+
+The Road is: x2908
+insert:
+getRange : &SymRegion{conj_$35{Stmt *, LC81, S6189351, #1}} NowTime: 2
+
+The Road is: x2908
+
+The Road is: x2908
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have compare
+Now have getContainingFile
+Now have getName
+Now have getContainingFile
+Now have getName
+Now have compare
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+NowTime: 2
+NowTime: 2
+
+The Road is: x29089
+NowTime: 2
+
+The Road is: x29089
+
+The Road is: x29089
+
+The Road is: x29089
+NowTime: 3
+
+The Road is: x29089
+
+The Road is: x29089
+NowTime: 3
+
+The Road is: x29089
+
+The Road is: x29089
+NowTime: 3
+NowTime: 3
+
+The Road is: x29089
+NowTime: 3
+
+The Road is: x29089
+
+The Road is: x29089
+
+The Road is: x29089
+NowTime: 4
+
+The Road is: x29089
+
+The Road is: x29089
+insert:
+getContainingFile : &SymRegion{reg_$31<element_type * Base{c,__shared_ptr}._M_ptr>} NowTime: 4
+
+The Road is: x29089
+
+The Road is: x29089
+insert:
+getName : &SymRegion{conj_$90{File *, LC81, S6189561, #1}} NowTime: 4
+NowTime: 4
+
+The Road is: x29089
+
+The Road is: x29089
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have compare
+Now have getContainingFile
+Now have getName
+Now have getContainingFile
+Now have getName
+Now have compare
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have getContainingFile
+Now have getName
+
+NowTime: 5
+
+NowTime: 5
+NowTime: 5
+
+The Road is: x290898
+NowTime: 5
+
+The Road is: x290898
+
+The Road is: x290898
+
+The Road is: x290898
+NowTime: 6
+
+The Road is: x290898
+
+The Road is: x290898
+NowTime: 7
+
+The Road is: x290898
+
+The Road is: x290898
+NowTime: 8
+NowTime: 8
+
+The Road is: x290898
+NowTime: 8
+
+The Road is: x290898
+
+The Road is: x290898
+
+The Road is: x290898
+NowTime: 11
+
+The Road is: x290898
+
+The Road is: x290898
+NowTime: 12
+
+The Road is: x290898
+
+The Road is: x290898
+NowTime: 14
+
+The Road is: x290898
+
+The Road is: x290898
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have compare
+Now have getContainingFile
+Now have getName
+Now have getContainingFile
+Now have getName
+Now have compare
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have getContainingFile
+Now have getName
+NowTime: 17
+NowTime: 17
+
+The Road is: x2908989
+NowTime: 17
+
+The Road is: x2908989
+
+The Road is: x2908989
+
+The Road is: x2908989
+NowTime: 22
+
+The Road is: x2908989
+
+The Road is: x2908989
+NowTime: 24
+
+The Road is: x2908989
+
+The Road is: x2908989
+NowTime: 24
+NowTime: 24
+
+The Road is: x2908989
+NowTime: 24
+
+The Road is: x2908989
+
+The Road is: x2908989
+
+The Road is: x2908989
+NowTime: 30
+
+The Road is: x2908989
+
+The Road is: x2908989
+NowTime: 34
+
+The Road is: x2908989
+
+The Road is: x2908989
+NowTime: 34
+NowTime: 34
+
+The Road is: x2908989
+
+The Road is: x2908989
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have compare
+Now have getContainingFile
+Now have getName
+Now have getContainingFile
+Now have getName
+Now have compare
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have getContainingFile
+Now have getName
+
+NowTime: 37
+
+NowTime: 37
+NowTime: 37
+
+The Road is: x088
+NowTime: 37
+
+The Road is: x088
+
+The Road is: x088
+
+The Road is: x088
+NowTime: 37
+
+The Road is: x088
+
+The Road is: x088
+NowTime: 37
+
+The Road is: x088
+
+The Road is: x088
+NowTime: 37
+NowTime: 37
+
+The Road is: x088
+NowTime: 37
+
+The Road is: x088
+
+The Road is: x088
+insert:
+get : &Base{c,__shared_ptr} 
+The Road is: x088
+insert:
+_M_get : &Base{Base{c,__shared_ptr},__shared_ptr_access} NowTime: 37
+
+The Road is: x088
+
+The Road is: x088
+insert:
+getStmt : &SymRegion{reg_$31<element_type * Base{c,__shared_ptr}._M_ptr>} NowTime: 37
+
+The Road is: x088
+
+The Road is: x088
+insert:
+getRange : &SymRegion{conj_$35{Stmt *, LC81, S6189351, #1}} NowTime: 37
+
+The Road is: x088
+
+The Road is: x088
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have compare
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+
+NowTime: 38
+
+NowTime: 38
+NowTime: 38
+
+The Road is: x08888
+NowTime: 38
+
+The Road is: x08888
+
+The Road is: x08888
+
+The Road is: x08888
+NowTime: 38
+
+The Road is: x08888
+
+The Road is: x08888
+NowTime: 38
+
+The Road is: x08888
+
+The Road is: x08888
+NowTime: 38
+NowTime: 38
+
+The Road is: x08888
+NowTime: 38
+
+The Road is: x08888
+
+The Road is: x08888
+
+The Road is: x08888
+NowTime: 38
+
+The Road is: x08888
+
+The Road is: x08888
+NowTime: 39
+
+The Road is: x08888
+
+The Road is: x08888
+NowTime: 39
+
+The Road is: x08888
+
+The Road is: x08888
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have compare
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &Base{a,__shared_ptr} 
+The Road is: x
+insert:
+_M_get : &Base{Base{a,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getStmt : &SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getRange : &SymRegion{conj_$8{Stmt *, LC117, S6189231, #1}} NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &Base{b,__shared_ptr} 
+The Road is: x
+insert:
+_M_get : &Base{Base{b,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getStmt : &SymRegion{reg_$13<element_type * Base{b,__shared_ptr}._M_ptr>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getRange : &SymRegion{conj_$17{Stmt *, LC117, S6189351, #1}} NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+insert:
+compare : &temp_object{Range, S6189251} &temp_object{Range, S6189364} 
+
+The Road is: x2
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+insert:
+compare : &temp_object{Range, S6189251} &temp_object{Range, S6189364} 
+
+The Road is: x1
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+insert:
+compare : &temp_object{Range, S6189251} &temp_object{Range, S6189364} 
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x29
+NowTime: 0
+
+The Road is: x29
+
+The Road is: x29
+
+The Road is: x29
+NowTime: 0
+
+The Road is: x29
+
+The Road is: x29
+insert:
+getContainingFile : &SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>} NowTime: 0
+
+The Road is: x29
+
+The Road is: x29
+insert:
+getName : &SymRegion{conj_$26{File *, LC117, S6189475, #1}} NowTime: 0
+NowTime: 0
+
+The Road is: x29
+NowTime: 0
+
+The Road is: x29
+
+The Road is: x29
+
+The Road is: x29
+NowTime: 0
+
+The Road is: x29
+
+The Road is: x29
+insert:
+getContainingFile : &SymRegion{reg_$13<element_type * Base{b,__shared_ptr}._M_ptr>} NowTime: 0
+
+The Road is: x29
+
+The Road is: x29
+insert:
+getName : &SymRegion{conj_$34{File *, LC117, S6189561, #1}} NowTime: 0
+NowTime: 0
+
+The Road is: x29
+The road length:2
+The road length:2
+The road length:2
+
+The Road is: x290
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have compare
+Now have getContainingFile
+Now have getName
+Now have getContainingFile
+Now have getName
+insert:
+compare : &temp_object{std::string, S6189495} &temp_object{std::string, S6189574} 
+
+The Road is: x292
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have compare
+Now have getContainingFile
+Now have getName
+Now have getContainingFile
+Now have getName
+insert:
+compare : &temp_object{std::string, S6189495} &temp_object{std::string, S6189574} 
+
+The Road is: x291
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have compare
+Now have getContainingFile
+Now have getName
+Now have getContainingFile
+Now have getName
+insert:
+compare : &temp_object{std::string, S6189495} &temp_object{std::string, S6189574} 
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x2918
+NowTime: 0
+
+The Road is: x2918
+
+The Road is: x2918
+
+The Road is: x2918
+NowTime: 0
+
+The Road is: x2918
+
+The Road is: x2918
+NowTime: 0
+
+The Road is: x2918
+
+The Road is: x2918
+NowTime: 0
+NowTime: 0
+
+The Road is: x2918
+NowTime: 0
+
+The Road is: x2918
+
+The Road is: x2918
+insert:
+get : &Base{c,__shared_ptr} 
+The Road is: x2918
+insert:
+_M_get : &Base{Base{c,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x2918
+
+The Road is: x2918
+insert:
+getStmt : &SymRegion{reg_$52<element_type * Base{c,__shared_ptr}._M_ptr>} NowTime: 0
+
+The Road is: x2918
+
+The Road is: x2918
+insert:
+getRange : &SymRegion{conj_$56{Stmt *, LC131, S6189351, #1}} NowTime: 0
+
+The Road is: x2918
+
+The Road is: x2918
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have compare
+Now have getContainingFile
+Now have getName
+Now have getContainingFile
+Now have getName
+Now have compare
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+NowTime: 0
+NowTime: 0
+
+The Road is: x29189
+NowTime: 0
+
+The Road is: x29189
+
+The Road is: x29189
+
+The Road is: x29189
+NowTime: 1
+
+The Road is: x29189
+
+The Road is: x29189
+NowTime: 1
+
+The Road is: x29189
+
+The Road is: x29189
+NowTime: 1
+NowTime: 1
+
+The Road is: x29189
+NowTime: 1
+
+The Road is: x29189
+
+The Road is: x29189
+
+The Road is: x29189
+NowTime: 2
+
+The Road is: x29189
+
+The Road is: x29189
+insert:
+getContainingFile : &SymRegion{reg_$52<element_type * Base{c,__shared_ptr}._M_ptr>} NowTime: 2
+
+The Road is: x29189
+
+The Road is: x29189
+insert:
+getName : &SymRegion{conj_$73{File *, LC131, S6189561, #1}} NowTime: 2
+NowTime: 2
+
+The Road is: x29189
+
+The Road is: x29189
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have compare
+Now have getContainingFile
+Now have getName
+Now have getContainingFile
+Now have getName
+Now have compare
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have getContainingFile
+Now have getName
+
+NowTime: 3
+
+NowTime: 3
+NowTime: 3
+
+The Road is: x291898
+NowTime: 3
+
+The Road is: x291898
+
+The Road is: x291898
+
+The Road is: x291898
+NowTime: 4
+
+The Road is: x291898
+
+The Road is: x291898
+NowTime: 5
+
+The Road is: x291898
+
+The Road is: x291898
+NowTime: 6
+NowTime: 6
+
+The Road is: x291898
+NowTime: 6
+
+The Road is: x291898
+
+The Road is: x291898
+
+The Road is: x291898
+NowTime: 8
+
+The Road is: x291898
+
+The Road is: x291898
+NowTime: 10
+
+The Road is: x291898
+
+The Road is: x291898
+NowTime: 12
+
+The Road is: x291898
+
+The Road is: x291898
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have compare
+Now have getContainingFile
+Now have getName
+Now have getContainingFile
+Now have getName
+Now have compare
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have getContainingFile
+Now have getName
+NowTime: 15
+NowTime: 15
+
+The Road is: x2918989
+NowTime: 15
+
+The Road is: x2918989
+
+The Road is: x2918989
+
+The Road is: x2918989
+NowTime: 19
+
+The Road is: x2918989
+
+The Road is: x2918989
+NowTime: 22
+
+The Road is: x2918989
+
+The Road is: x2918989
+NowTime: 22
+NowTime: 22
+
+The Road is: x2918989
+NowTime: 22
+
+The Road is: x2918989
+
+The Road is: x2918989
+
+The Road is: x2918989
+NowTime: 27
+
+The Road is: x2918989
+
+The Road is: x2918989
+NowTime: 31
+
+The Road is: x2918989
+
+The Road is: x2918989
+NowTime: 31
+NowTime: 31
+
+The Road is: x2918989
+
+The Road is: x2918989
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have compare
+Now have getContainingFile
+Now have getName
+Now have getContainingFile
+Now have getName
+Now have compare
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have getContainingFile
+Now have getName
+
+
+
+
+NowTime: 35
+
+NowTime: 35
+NowTime: 35
+
+The Road is: x2928
+NowTime: 35
+
+The Road is: x2928
+
+The Road is: x2928
+
+The Road is: x2928
+NowTime: 35
+
+The Road is: x2928
+
+The Road is: x2928
+NowTime: 35
+
+The Road is: x2928
+
+The Road is: x2928
+NowTime: 35
+NowTime: 35
+
+The Road is: x2928
+NowTime: 35
+
+The Road is: x2928
+
+The Road is: x2928
+insert:
+get : &Base{c,__shared_ptr} 
+The Road is: x2928
+insert:
+_M_get : &Base{Base{c,__shared_ptr},__shared_ptr_access} NowTime: 35
+
+The Road is: x2928
+
+The Road is: x2928
+insert:
+getStmt : &SymRegion{reg_$52<element_type * Base{c,__shared_ptr}._M_ptr>} NowTime: 35
+
+The Road is: x2928
+
+The Road is: x2928
+insert:
+getRange : &SymRegion{conj_$56{Stmt *, LC131, S6189351, #1}} NowTime: 35
+
+The Road is: x2928
+
+The Road is: x2928
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have compare
+Now have getContainingFile
+Now have getName
+Now have getContainingFile
+Now have getName
+Now have compare
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+NowTime: 35
+NowTime: 35
+
+The Road is: x29289
+NowTime: 35
+
+The Road is: x29289
+
+The Road is: x29289
+
+The Road is: x29289
+NowTime: 36
+
+The Road is: x29289
+
+The Road is: x29289
+NowTime: 36
+
+The Road is: x29289
+
+The Road is: x29289
+NowTime: 36
+NowTime: 36
+
+The Road is: x29289
+NowTime: 36
+
+The Road is: x29289
+
+The Road is: x29289
+
+The Road is: x29289
+NowTime: 37
+
+The Road is: x29289
+
+The Road is: x29289
+insert:
+getContainingFile : &SymRegion{reg_$52<element_type * Base{c,__shared_ptr}._M_ptr>} NowTime: 37
+
+The Road is: x29289
+
+The Road is: x29289
+insert:
+getName : &SymRegion{conj_$73{File *, LC131, S6189561, #1}} NowTime: 37
+NowTime: 37
+
+The Road is: x29289
+
+The Road is: x29289
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have compare
+Now have getContainingFile
+Now have getName
+Now have getContainingFile
+Now have getName
+Now have compare
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have getContainingFile
+Now have getName
+
+NowTime: 40
+
+NowTime: 40
+NowTime: 40
+
+The Road is: x292898
+NowTime: 40
+
+The Road is: x292898
+
+The Road is: x292898
+
+The Road is: x292898
+NowTime: 42
+
+The Road is: x292898
+
+The Road is: x292898
+NowTime: 43
+
+The Road is: x292898
+
+The Road is: x292898
+NowTime: 44
+NowTime: 44
+
+The Road is: x292898
+NowTime: 44
+
+The Road is: x292898
+
+The Road is: x292898
+
+The Road is: x292898
+NowTime: 47
+
+The Road is: x292898
+
+The Road is: x292898
+NowTime: 49
+
+The Road is: x292898
+
+The Road is: x292898
+NowTime: 52
+
+The Road is: x292898
+
+The Road is: x292898
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have compare
+Now have getContainingFile
+Now have getName
+Now have getContainingFile
+Now have getName
+Now have compare
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have getContainingFile
+Now have getName
+NowTime: 56
+NowTime: 56
+
+The Road is: x2928989
+NowTime: 56
+
+The Road is: x2928989
+
+The Road is: x2928989
+
+The Road is: x2928989
+NowTime: 61
+
+The Road is: x2928989
+
+The Road is: x2928989
+NowTime: 64
+
+The Road is: x2928989
+
+The Road is: x2928989
+NowTime: 64
+NowTime: 64
+
+The Road is: x2928989
+NowTime: 64
+
+The Road is: x2928989
+
+The Road is: x2928989
+
+The Road is: x2928989
+NowTime: 71
+
+The Road is: x2928989
+
+The Road is: x2928989
+NowTime: 75
+
+The Road is: x2928989
+
+The Road is: x2928989
+NowTime: 75
+NowTime: 75
+
+The Road is: x2928989
+
+The Road is: x2928989
+-----------------
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have compare
+Now have getContainingFile
+Now have getName
+Now have getContainingFile
+Now have getName
+Now have compare
+Now have get
+Now have _M_get
+Now have getStmt
+Now have getRange
+Now have getContainingFile
+Now have getName
+
+/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_16.cpp:50:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   50 |         SymmetryChecker();
+      |         ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_16.cpp:56:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   56 |         SymmetryChecker();
+      |         ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_16.cpp:62:9: warning: Violation of Anti-Reflexivity [CompareCheck.FunctionChecker]
+   62 |         ReflexivityChecker();
+      |         ^~~~~~~~~~~~~~~~~~~~
+3 warnings generated.
+Total paths analyzed: 2
+Total paths analyzed: 3
+Total paths analyzed: 3
+Total paths analyzed: 3
+Total paths analyzed: 0

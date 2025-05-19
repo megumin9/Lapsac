@@ -1,0 +1,92 @@
+NewTest: 
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NewTest: 
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NewTest: 
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NewTest: 
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NewTest: 
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_25.cpp:34:1: warning: Violation of Consistency [CompareCheck.FunctionChecker]
+   34 | ConsistencyChecker();
+      | ^~~~~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_25.cpp:40:1: warning: Violation of Transitivity [CompareCheck.FunctionChecker]
+   40 | TransiveChecker();
+      | ^~~~~~~~~~~~~~~~~
+2 warnings generated.
+Total paths analyzed: 1
+Total paths analyzed: 3
+Total paths analyzed: 3
+Total paths analyzed: 26
+Total paths analyzed: 62

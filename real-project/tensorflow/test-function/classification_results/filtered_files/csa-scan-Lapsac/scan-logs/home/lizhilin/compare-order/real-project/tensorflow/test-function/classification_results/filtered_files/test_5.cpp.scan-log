@@ -1,0 +1,481 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+start_time_ps : &SymRegion{reg_$4<DataType * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+end_time_ps : &SymRegion{reg_$4<DataType * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+FromEndPoints : conj_$8{int, LC2, S6166998, #1} conj_$12{int, LC2, S6167041, #1} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+ByDuration : &temp_object{Timespan, S6167061} &temp_object{Timespan, S6167147} 
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+start_time_ps : &SymRegion{reg_$4<DataType * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+end_time_ps : &SymRegion{reg_$4<DataType * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+FromEndPoints : conj_$9{int, LC4, S6166998, #1} conj_$13{int, LC4, S6167041, #1} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+start_time_ps : &SymRegion{reg_$5<DataType * b>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+end_time_ps : &SymRegion{reg_$5<DataType * b>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+FromEndPoints : conj_$21{int, LC4, S6167123, #1} conj_$25{int, LC4, S6167140, #1} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+ByDuration : &temp_object{Timespan, S6167061} &temp_object{Timespan, S6167147} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+start_time_ps : &SymRegion{reg_$4<DataType * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+end_time_ps : &SymRegion{reg_$4<DataType * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+FromEndPoints : conj_$9{int, LC7, S6166998, #1} conj_$13{int, LC7, S6167041, #1} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+start_time_ps : &SymRegion{reg_$5<DataType * b>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+end_time_ps : &SymRegion{reg_$5<DataType * b>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+FromEndPoints : conj_$21{int, LC7, S6167123, #1} conj_$25{int, LC7, S6167140, #1} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+ByDuration : &temp_object{Timespan, S6167061} &temp_object{Timespan, S6167147} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+start_time_ps : &SymRegion{reg_$4<DataType * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+end_time_ps : &SymRegion{reg_$4<DataType * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+FromEndPoints : conj_$9{int, LC10, S6166998, #1} conj_$13{int, LC10, S6167041, #1} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+start_time_ps : &SymRegion{reg_$5<DataType * b>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+end_time_ps : &SymRegion{reg_$5<DataType * b>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+FromEndPoints : conj_$21{int, LC10, S6167123, #1} conj_$25{int, LC10, S6167140, #1} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+ByDuration : &temp_object{Timespan, S6167061} &temp_object{Timespan, S6167147} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+start_time_ps : &SymRegion{reg_$34<DataType * c>} NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+end_time_ps : &SymRegion{reg_$34<DataType * c>} NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+FromEndPoints : conj_$50{int, LC11, S6167123, #1} conj_$54{int, LC11, S6167140, #1} NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+start_time_ps : &SymRegion{reg_$4<DataType * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+end_time_ps : &SymRegion{reg_$4<DataType * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+FromEndPoints : conj_$9{int, LC13, S6166998, #1} conj_$13{int, LC13, S6167041, #1} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+start_time_ps : &SymRegion{reg_$5<DataType * b>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+end_time_ps : &SymRegion{reg_$5<DataType * b>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+FromEndPoints : conj_$21{int, LC13, S6167123, #1} conj_$25{int, LC13, S6167140, #1} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+ByDuration : &temp_object{Timespan, S6167061} &temp_object{Timespan, S6167147} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+start_time_ps : &SymRegion{reg_$34<DataType * c>} NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+end_time_ps : &SymRegion{reg_$34<DataType * c>} NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+FromEndPoints : conj_$50{int, LC14, S6167123, #1} conj_$54{int, LC14, S6167140, #1} NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 0

@@ -1,0 +1,419 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+insert:
+compare : &collator &a.description &a.description 
+
+The Road is: x2
+-----------------
+insert:
+compare : &collator &a.description &a.description 
+
+The Road is: x1
+-----------------
+insert:
+compare : &collator &a.description &a.description 
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+insert:
+compare : &collator &a.description &b.description 
+
+The Road is: x2
+-----------------
+insert:
+compare : &collator &a.description &b.description 
+
+The Road is: x1
+-----------------
+insert:
+compare : &collator &a.description &b.description 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x08
+The road length:2
+The road length:2
+The road length:2
+
+The Road is: x080
+-----------------
+Now have compare
+insert:
+compare : &collator &b.description &a.description 
+
+The Road is: x082
+-----------------
+Now have compare
+insert:
+compare : &collator &b.description &a.description 
+
+The Road is: x081
+-----------------
+Now have compare
+insert:
+compare : &collator &b.description &a.description 
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+insert:
+compare : &collator &a.description &b.description 
+
+The Road is: x2
+-----------------
+insert:
+compare : &collator &a.description &b.description 
+
+The Road is: x1
+-----------------
+insert:
+compare : &collator &a.description &b.description 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x08
+The road length:2
+The road length:2
+The road length:2
+
+The Road is: x080
+-----------------
+Now have compare
+insert:
+compare : &collator &b.description &a.description 
+
+The Road is: x082
+-----------------
+Now have compare
+insert:
+compare : &collator &b.description &a.description 
+
+The Road is: x081
+-----------------
+Now have compare
+insert:
+compare : &collator &b.description &a.description 
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+insert:
+compare : &collator &a.description &b.description 
+
+The Road is: x2
+-----------------
+insert:
+compare : &collator &a.description &b.description 
+
+The Road is: x1
+-----------------
+insert:
+compare : &collator &a.description &b.description 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x08
+The road length:2
+The road length:2
+The road length:2
+
+The Road is: x080
+-----------------
+Now have compare
+insert:
+compare : &collator &b.description &c.description 
+
+The Road is: x082
+-----------------
+Now have compare
+insert:
+compare : &collator &b.description &c.description 
+
+The Road is: x081
+-----------------
+Now have compare
+insert:
+compare : &collator &b.description &c.description 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x0808
+The road length:4
+The road length:4
+The road length:4
+
+The Road is: x08080
+-----------------
+Now have compare
+Now have compare
+insert:
+compare : &collator &c.description &a.description 
+
+The Road is: x08082
+-----------------
+Now have compare
+Now have compare
+insert:
+compare : &collator &c.description &a.description 
+
+The Road is: x08081
+-----------------
+Now have compare
+Now have compare
+insert:
+compare : &collator &c.description &a.description 
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+insert:
+compare : &collator &a.description &b.description 
+
+The Road is: x2
+-----------------
+insert:
+compare : &collator &a.description &b.description 
+
+The Road is: x1
+-----------------
+insert:
+compare : &collator &a.description &b.description 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x18
+The road length:2
+The road length:2
+The road length:2
+
+The Road is: x180
+-----------------
+Now have compare
+insert:
+compare : &collator &b.description &c.description 
+
+The Road is: x182
+-----------------
+Now have compare
+insert:
+compare : &collator &b.description &c.description 
+
+The Road is: x181
+-----------------
+Now have compare
+insert:
+compare : &collator &b.description &c.description 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x1818
+The road length:4
+The road length:4
+The road length:4
+
+The Road is: x18180
+-----------------
+Now have compare
+Now have compare
+insert:
+compare : &collator &a.description &c.description 
+
+The Road is: x18182
+-----------------
+Now have compare
+Now have compare
+insert:
+compare : &collator &a.description &c.description 
+
+The Road is: x18181
+-----------------
+Now have compare
+Now have compare
+insert:
+compare : &collator &a.description &c.description 
+
+
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x28
+The road length:2
+The road length:2
+The road length:2
+
+The Road is: x280
+-----------------
+Now have compare
+insert:
+compare : &collator &b.description &c.description 
+
+The Road is: x282
+-----------------
+Now have compare
+insert:
+compare : &collator &b.description &c.description 
+
+The Road is: x281
+-----------------
+Now have compare
+insert:
+compare : &collator &b.description &c.description 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x1828
+The road length:4
+The road length:4
+The road length:4
+
+The Road is: x18280
+-----------------
+Now have compare
+Now have compare
+insert:
+compare : &collator &a.description &c.description 
+
+The Road is: x18282
+-----------------
+Now have compare
+Now have compare
+
+The Road is: x18281
+-----------------
+Now have compare
+Now have compare
+insert:
+compare : &collator &a.description &c.description 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x2818
+
+The Road is: x2818
+-----------------
+Now have compare
+Now have compare
+insert:
+compare : &collator &a.description &c.description 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x2828
+
+The Road is: x2828
+-----------------
+Now have compare
+Now have compare
+
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 2
+Total paths analyzed: 0

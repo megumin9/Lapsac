@@ -1,0 +1,761 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var3 NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x99999
+
+The Road is: x99999
+NowTime: 0
+
+The Road is: x99999
+
+The Road is: x99999
+NowTime: 0
+
+The Road is: x999999
+
+The Road is: x999999
+NowTime: 0
+
+The Road is: x999999
+
+The Road is: x999999
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var3 NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var3 NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x99988
+
+The Road is: x99988
+NowTime: 0
+
+The Road is: x99988
+
+The Road is: x99988
+NowTime: 0
+
+The Road is: x999889
+
+The Road is: x999889
+NowTime: 0
+
+The Road is: x999889
+
+The Road is: x999889
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var3 NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var3 NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9988
+
+The Road is: x9988
+NowTime: 0
+
+The Road is: x9988
+
+The Road is: x9988
+NowTime: 0
+
+The Road is: x99889
+
+The Road is: x99889
+NowTime: 0
+
+The Road is: x99889
+
+The Road is: x99889
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x889
+
+The Road is: x889
+NowTime: 0
+
+The Road is: x889
+
+The Road is: x889
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var3 NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var3 NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x99988
+
+The Road is: x99988
+NowTime: 0
+
+The Road is: x99988
+
+The Road is: x99988
+insert:
+size : &Element{SymRegion{reg_$20<testclass * c>},0 S64b,struct testclass}.var3 NowTime: 0
+
+The Road is: x999889
+
+The Road is: x999889
+NowTime: 0
+
+The Road is: x999889
+
+The Road is: x999889
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9998899988
+
+The Road is: x9998899988
+NowTime: 0
+
+The Road is: x9998899988
+
+The Road is: x9998899988
+NowTime: 0
+
+The Road is: x99988999889
+
+The Road is: x99988999889
+NowTime: 0
+
+The Road is: x99988999889
+
+The Road is: x99988999889
+
+
+
+
+
+
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+insert:
+size : &Element{SymRegion{reg_$20<testclass * c>},0 S64b,struct testclass}.var3 
+NowTime: 0
+
+The Road is: x9889
+
+The Road is: x9889
+NowTime: 0
+
+The Road is: x9889
+
+The Road is: x9889
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x99988988
+
+The Road is: x99988988
+NowTime: 0
+
+The Road is: x99988988
+
+The Road is: x99988988
+
+NowTime: 0
+
+The Road is: x999889889
+
+The Road is: x999889889
+NowTime: 0
+
+The Road is: x999889889
+
+The Road is: x999889889
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x988988
+
+The Road is: x988988
+NowTime: 0
+
+The Road is: x988988
+
+The Road is: x988988
+
+NowTime: 0
+
+The Road is: x9889889
+
+The Road is: x9889889
+NowTime: 0
+
+The Road is: x9889889
+
+The Road is: x9889889
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98899988
+
+The Road is: x98899988
+NowTime: 0
+
+The Road is: x98899988
+
+The Road is: x98899988
+
+NowTime: 0
+
+The Road is: x988999889
+
+The Road is: x988999889
+NowTime: 0
+
+The Road is: x988999889
+
+The Road is: x988999889
+
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var3 NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var3 NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x99998
+
+The Road is: x99998
+NowTime: 0
+
+The Road is: x99998
+
+The Road is: x99998
+insert:
+size : &Element{SymRegion{reg_$20<testclass * c>},0 S64b,struct testclass}.var3 NowTime: 0
+
+The Road is: x999989
+
+The Road is: x999989
+NowTime: 0
+
+The Road is: x999989
+
+The Road is: x999989
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9999899998
+
+The Road is: x9999899998
+NowTime: 0
+
+The Road is: x9999899998
+
+The Road is: x9999899998
+NowTime: 0
+
+The Road is: x99998999989
+
+The Road is: x99998999989
+NowTime: 0
+
+The Road is: x99998999989
+
+The Road is: x99998999989
+
+
+
+
+
+
+
+
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9988
+
+The Road is: x9988
+NowTime: 0
+
+The Road is: x9988
+
+The Road is: x9988
+insert:
+size : &Element{SymRegion{reg_$20<testclass * c>},0 S64b,struct testclass}.var3 
+NowTime: 0
+
+The Road is: x99889
+
+The Road is: x99889
+NowTime: 0
+
+The Road is: x99889
+
+The Road is: x99889
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x999989988
+
+The Road is: x999989988
+NowTime: 0
+
+The Road is: x999989988
+
+The Road is: x999989988
+
+NowTime: 0
+
+The Road is: x9999899889
+
+The Road is: x9999899889
+NowTime: 0
+
+The Road is: x9999899889
+
+The Road is: x9999899889
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+size : &Element{SymRegion{reg_$20<testclass * c>},0 S64b,struct testclass}.var3 
+NowTime: 0
+
+The Road is: x889
+
+The Road is: x889
+NowTime: 0
+
+The Road is: x889
+
+The Road is: x889
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9999888
+
+The Road is: x9999888
+NowTime: 0
+
+The Road is: x9999888
+
+The Road is: x9999888
+
+NowTime: 0
+
+The Road is: x99998889
+
+The Road is: x99998889
+NowTime: 0
+
+The Road is: x99998889
+
+The Road is: x99998889
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x998888
+
+The Road is: x998888
+NowTime: 0
+
+The Road is: x998888
+
+The Road is: x998888
+
+NowTime: 0
+
+The Road is: x9988889
+
+The Road is: x9988889
+NowTime: 0
+
+The Road is: x9988889
+
+The Road is: x9988889
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x99889988
+
+The Road is: x99889988
+NowTime: 0
+
+The Road is: x99889988
+
+The Road is: x99889988
+
+NowTime: 0
+
+The Road is: x998899889
+
+The Road is: x998899889
+NowTime: 0
+
+The Road is: x998899889
+
+The Road is: x998899889
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x998899998
+
+The Road is: x998899998
+NowTime: 0
+
+The Road is: x998899998
+
+The Road is: x998899998
+
+NowTime: 0
+
+The Road is: x9988999989
+
+The Road is: x9988999989
+NowTime: 0
+
+The Road is: x9988999989
+
+The Road is: x9988999989
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+
+NowTime: 0
+
+The Road is: x88889
+
+The Road is: x88889
+NowTime: 0
+
+The Road is: x88889
+
+The Road is: x88889
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x889988
+
+The Road is: x889988
+NowTime: 0
+
+The Road is: x889988
+
+The Road is: x889988
+
+NowTime: 0
+
+The Road is: x8899889
+
+The Road is: x8899889
+NowTime: 0
+
+The Road is: x8899889
+
+The Road is: x8899889
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8899998
+
+The Road is: x8899998
+NowTime: 0
+
+The Road is: x8899998
+
+The Road is: x8899998
+
+NowTime: 0
+
+The Road is: x88999989
+
+The Road is: x88999989
+NowTime: 0
+
+The Road is: x88999989
+
+The Road is: x88999989
+
+
+
+
+Total paths analyzed: 0
+Total paths analyzed: 0
+Total paths analyzed: 0
+Total paths analyzed: 8
+Total paths analyzed: 18

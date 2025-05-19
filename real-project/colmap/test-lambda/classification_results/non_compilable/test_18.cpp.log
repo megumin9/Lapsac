@@ -1,0 +1,53 @@
+In file included from /home/lizhilin/compare-order/real-project/colmap/test-lambda/test_18.cpp:1:
+In file included from /usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/x86_64-linux-gnu/c++/10/bits/stdc++.h:41:
+In file included from /usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/cmath:1935:
+In file included from /usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/bits/specfun.h:45:
+In file included from /usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/bits/stl_algobase.h:64:
+/usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/bits/stl_pair.h:217:11: error: field has incomplete type 'image_t'
+  217 |       _T1 first;                 ///< The first member
+      |           ^
+/home/lizhilin/compare-order/real-project/colmap/test-lambda/test_18.cpp:11:18: note: in instantiation of template class 'std::pair<image_t, unsigned long>' requested here
+   11 |     return image1.second > image2.second;
+      |                  ^
+/home/lizhilin/compare-order/real-project/colmap/test-lambda/test_18.cpp:2:8: note: forward declaration of 'image_t'
+    2 | struct image_t;
+      |        ^
+In file included from /home/lizhilin/compare-order/real-project/colmap/test-lambda/test_18.cpp:1:
+In file included from /usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/x86_64-linux-gnu/c++/10/bits/stdc++.h:41:
+In file included from /usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/cmath:1935:
+In file included from /usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/bits/specfun.h:45:
+In file included from /usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/bits/stl_algobase.h:64:
+In file included from /usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/bits/stl_pair.h:59:
+In file included from /usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/bits/move.h:57:
+/usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/type_traits:1093:21: error: static assertion failed due to requirement 'std::__is_complete_or_unbounded(std::__type_identity<image_t>{})': template argument must be a complete class or an unbounded array
+ 1093 |       static_assert(std::__is_complete_or_unbounded(__type_identity<_Tp>{}),
+      |                     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/type_traits:139:26: note: in instantiation of template class 'std::is_copy_assignable<image_t>' requested here
+  139 |     : public conditional<_B1::value, _B2, _B1>::type
+      |                          ^
+/usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/bits/stl_pair.h:391:3: note: in instantiation of template class 'std::__and_<std::is_copy_assignable<image_t>, std::is_copy_assignable<unsigned long>>' requested here
+  391 |                 __and_<is_copy_assignable<_T1>,
+      |                 ^
+/home/lizhilin/compare-order/real-project/colmap/test-lambda/test_18.cpp:11:18: note: in instantiation of template class 'std::pair<image_t, unsigned long>' requested here
+   11 |     return image1.second > image2.second;
+      |                  ^
+In file included from /home/lizhilin/compare-order/real-project/colmap/test-lambda/test_18.cpp:1:
+In file included from /usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/x86_64-linux-gnu/c++/10/bits/stdc++.h:41:
+In file included from /usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/cmath:1935:
+In file included from /usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/bits/specfun.h:45:
+In file included from /usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/bits/stl_algobase.h:64:
+In file included from /usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/bits/stl_pair.h:59:
+In file included from /usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/bits/move.h:57:
+/usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/type_traits:1114:21: error: static assertion failed due to requirement 'std::__is_complete_or_unbounded(std::__type_identity<image_t>{})': template argument must be a complete class or an unbounded array
+ 1114 |       static_assert(std::__is_complete_or_unbounded(__type_identity<_Tp>{}),
+      |                     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/type_traits:139:26: note: in instantiation of template class 'std::is_move_assignable<image_t>' requested here
+  139 |     : public conditional<_B1::value, _B2, _B1>::type
+      |                          ^
+/usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/bits/stl_pair.h:402:3: note: in instantiation of template class 'std::__and_<std::is_move_assignable<image_t>, std::is_move_assignable<unsigned long>>' requested here
+  402 |                 __and_<is_move_assignable<_T1>,
+      |                 ^
+/home/lizhilin/compare-order/real-project/colmap/test-lambda/test_18.cpp:11:18: note: in instantiation of template class 'std::pair<image_t, unsigned long>' requested here
+   11 |     return image1.second > image2.second;
+      |                  ^
+3 errors generated.

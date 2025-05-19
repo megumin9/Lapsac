@@ -1,0 +1,296 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &Element{SymRegion{reg_$2<testclass * a>},0 S64b,struct testclass}.var3 NowTime: 0
+
+The Road is: x
+
+The Road is: x
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &Element{SymRegion{reg_$2<testclass * a>},0 S64b,struct testclass}.var3 NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &Element{SymRegion{reg_$3<testclass * b>},0 S64b,struct testclass}.var3 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &Element{SymRegion{reg_$2<testclass * a>},0 S64b,struct testclass}.var3 NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &Element{SymRegion{reg_$3<testclass * b>},0 S64b,struct testclass}.var3 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &Element{SymRegion{reg_$2<testclass * a>},0 S64b,struct testclass}.var3 NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &Element{SymRegion{reg_$3<testclass * b>},0 S64b,struct testclass}.var3 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+insert:
+size : &Element{SymRegion{reg_$10<testclass * c>},0 S64b,struct testclass}.var3 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x988988
+
+The Road is: x988988
+NowTime: 0
+
+The Road is: x988988
+
+The Road is: x988988
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+size : &Element{SymRegion{reg_$10<testclass * c>},0 S64b,struct testclass}.var3 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98888
+
+The Road is: x98888
+NowTime: 0
+
+The Road is: x98888
+
+The Road is: x98888
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88988
+
+The Road is: x88988
+NowTime: 0
+
+The Road is: x88988
+
+The Road is: x88988
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &Element{SymRegion{reg_$2<testclass * a>},0 S64b,struct testclass}.var3 NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &Element{SymRegion{reg_$3<testclass * b>},0 S64b,struct testclass}.var3 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x998
+
+The Road is: x998
+NowTime: 0
+
+The Road is: x998
+
+The Road is: x998
+insert:
+size : &Element{SymRegion{reg_$10<testclass * c>},0 S64b,struct testclass}.var3 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x998998
+
+The Road is: x998998
+NowTime: 0
+
+The Road is: x998998
+
+The Road is: x998998
+
+
+
+
+
+
+
+/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_38.cpp:33:9: warning: Violation of Transitivity [CompareCheck.FunctionChecker]
+   33 |         TransiveChecker();
+      |         ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_38.cpp:39:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   39 |         SymmetryChecker();
+      |         ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_38.cpp:45:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   45 |         SymmetryChecker();
+      |         ^~~~~~~~~~~~~~~~~
+3 warnings generated.
+Total paths analyzed: 0
+Total paths analyzed: 2
+Total paths analyzed: 2
+Total paths analyzed: 8
+Total paths analyzed: 2

@@ -1,0 +1,484 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+strlen : &SymRegion{reg_$5<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+-----------------
+Now have strlen
+insert:
+strncmp : &SymRegion{reg_$5<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>} &SymRegion{reg_$5<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>} meta_$6{SymRegion{reg_$5<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>},unsigned long} 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+strlen : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>} NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+Now have strlen
+insert:
+strncmp : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>} &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<Object * b>},0 S64b,struct Object}.id.name>} meta_$8{SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>},unsigned long} 
+
+The Road is: x2
+-----------------
+Now have strlen
+insert:
+strncmp : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>} &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<Object * b>},0 S64b,struct Object}.id.name>} meta_$8{SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>},unsigned long} 
+
+The Road is: x1
+-----------------
+Now have strlen
+insert:
+strncmp : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>} &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<Object * b>},0 S64b,struct Object}.id.name>} meta_$8{SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>},unsigned long} 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x28
+
+The Road is: x28
+NowTime: 0
+
+The Road is: x28
+
+The Road is: x28
+-----------------
+Now have strlen
+Now have strncmp
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+strlen : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>} NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+Now have strlen
+insert:
+strncmp : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>} &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<Object * b>},0 S64b,struct Object}.id.name>} meta_$8{SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>},unsigned long} 
+
+The Road is: x2
+-----------------
+Now have strlen
+insert:
+strncmp : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>} &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<Object * b>},0 S64b,struct Object}.id.name>} meta_$8{SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>},unsigned long} 
+
+The Road is: x1
+-----------------
+Now have strlen
+insert:
+strncmp : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>} &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<Object * b>},0 S64b,struct Object}.id.name>} meta_$8{SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>},unsigned long} 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x28
+
+The Road is: x28
+NowTime: 0
+
+The Road is: x28
+
+The Road is: x28
+-----------------
+Now have strlen
+Now have strncmp
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+strlen : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>} NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+Now have strlen
+insert:
+strncmp : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>} &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<Object * b>},0 S64b,struct Object}.id.name>} meta_$8{SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>},unsigned long} 
+
+The Road is: x2
+-----------------
+Now have strlen
+insert:
+strncmp : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>} &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<Object * b>},0 S64b,struct Object}.id.name>} meta_$8{SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>},unsigned long} 
+
+The Road is: x1
+-----------------
+Now have strlen
+insert:
+strncmp : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>} &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<Object * b>},0 S64b,struct Object}.id.name>} meta_$8{SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>},unsigned long} 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x28
+
+The Road is: x28
+NowTime: 0
+
+The Road is: x28
+The road length:2
+The road length:2
+The road length:2
+
+The Road is: x280
+-----------------
+Now have strlen
+Now have strncmp
+insert:
+strncmp : &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<Object * b>},0 S64b,struct Object}.id.name>} &SymRegion{reg_$11<const char * Element{SymRegion{reg_$10<Object * c>},0 S64b,struct Object}.id.name>} meta_$8{SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>},unsigned long} 
+
+The Road is: x282
+-----------------
+Now have strlen
+Now have strncmp
+
+The Road is: x281
+-----------------
+Now have strlen
+Now have strncmp
+insert:
+strncmp : &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<Object * b>},0 S64b,struct Object}.id.name>} &SymRegion{reg_$11<const char * Element{SymRegion{reg_$10<Object * c>},0 S64b,struct Object}.id.name>} meta_$8{SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>},unsigned long} 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x2828
+
+The Road is: x2828
+NowTime: 0
+
+The Road is: x2828
+
+The Road is: x2828
+-----------------
+Now have strlen
+Now have strncmp
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+strlen : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>} NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+Now have strlen
+insert:
+strncmp : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>} &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<Object * b>},0 S64b,struct Object}.id.name>} meta_$8{SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>},unsigned long} 
+
+The Road is: x2
+-----------------
+Now have strlen
+insert:
+strncmp : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>} &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<Object * b>},0 S64b,struct Object}.id.name>} meta_$8{SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>},unsigned long} 
+
+The Road is: x1
+-----------------
+Now have strlen
+insert:
+strncmp : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>} &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<Object * b>},0 S64b,struct Object}.id.name>} meta_$8{SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>},unsigned long} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+insert:
+strlen : &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<Object * b>},0 S64b,struct Object}.id.name>} NowTime: 0
+
+The Road is: x18
+The road length:2
+The road length:2
+The road length:2
+
+The Road is: x180
+-----------------
+Now have strlen
+Now have strncmp
+Now have strlen
+insert:
+strncmp : &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<Object * b>},0 S64b,struct Object}.id.name>} &SymRegion{reg_$11<const char * Element{SymRegion{reg_$10<Object * c>},0 S64b,struct Object}.id.name>} meta_$12{SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<Object * b>},0 S64b,struct Object}.id.name>},unsigned long} 
+
+The Road is: x182
+-----------------
+Now have strlen
+Now have strncmp
+Now have strlen
+insert:
+strncmp : &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<Object * b>},0 S64b,struct Object}.id.name>} &SymRegion{reg_$11<const char * Element{SymRegion{reg_$10<Object * c>},0 S64b,struct Object}.id.name>} meta_$12{SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<Object * b>},0 S64b,struct Object}.id.name>},unsigned long} 
+
+The Road is: x181
+-----------------
+Now have strlen
+Now have strncmp
+Now have strlen
+insert:
+strncmp : &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<Object * b>},0 S64b,struct Object}.id.name>} &SymRegion{reg_$11<const char * Element{SymRegion{reg_$10<Object * c>},0 S64b,struct Object}.id.name>} meta_$12{SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<Object * b>},0 S64b,struct Object}.id.name>},unsigned long} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x1818
+
+The Road is: x1818
+NowTime: 0
+
+The Road is: x1818
+
+The Road is: x1818
+-----------------
+Now have strlen
+Now have strncmp
+Now have strlen
+Now have strncmp
+insert:
+strncmp : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>} &SymRegion{reg_$11<const char * Element{SymRegion{reg_$10<Object * c>},0 S64b,struct Object}.id.name>} meta_$8{SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>},unsigned long} 
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+insert:
+strlen : &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<Object * b>},0 S64b,struct Object}.id.name>} NowTime: 0
+
+The Road is: x08
+The road length:2
+The road length:2
+The road length:2
+
+The Road is: x080
+-----------------
+Now have strlen
+Now have strncmp
+Now have strlen
+insert:
+strncmp : &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<Object * b>},0 S64b,struct Object}.id.name>} &SymRegion{reg_$11<const char * Element{SymRegion{reg_$10<Object * c>},0 S64b,struct Object}.id.name>} meta_$12{SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<Object * b>},0 S64b,struct Object}.id.name>},unsigned long} 
+
+The Road is: x082
+-----------------
+Now have strlen
+Now have strncmp
+Now have strlen
+insert:
+strncmp : &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<Object * b>},0 S64b,struct Object}.id.name>} &SymRegion{reg_$11<const char * Element{SymRegion{reg_$10<Object * c>},0 S64b,struct Object}.id.name>} meta_$12{SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<Object * b>},0 S64b,struct Object}.id.name>},unsigned long} 
+
+The Road is: x081
+-----------------
+Now have strlen
+Now have strncmp
+Now have strlen
+insert:
+strncmp : &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<Object * b>},0 S64b,struct Object}.id.name>} &SymRegion{reg_$11<const char * Element{SymRegion{reg_$10<Object * c>},0 S64b,struct Object}.id.name>} meta_$12{SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<Object * b>},0 S64b,struct Object}.id.name>},unsigned long} 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x1808
+
+The Road is: x1808
+NowTime: 0
+
+The Road is: x1808
+The road length:4
+The road length:4
+The road length:4
+
+The Road is: x18080
+-----------------
+Now have strlen
+Now have strncmp
+Now have strlen
+Now have strncmp
+insert:
+strncmp : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>} &SymRegion{reg_$11<const char * Element{SymRegion{reg_$10<Object * c>},0 S64b,struct Object}.id.name>} meta_$8{SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>},unsigned long} 
+
+The Road is: x18082
+-----------------
+Now have strlen
+Now have strncmp
+Now have strlen
+Now have strncmp
+insert:
+strncmp : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>} &SymRegion{reg_$11<const char * Element{SymRegion{reg_$10<Object * c>},0 S64b,struct Object}.id.name>} meta_$8{SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>},unsigned long} 
+
+The Road is: x18081
+-----------------
+Now have strlen
+Now have strncmp
+Now have strlen
+Now have strncmp
+insert:
+strncmp : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>} &SymRegion{reg_$11<const char * Element{SymRegion{reg_$10<Object * c>},0 S64b,struct Object}.id.name>} meta_$8{SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>},unsigned long} 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x0818
+
+The Road is: x0818
+NowTime: 0
+
+The Road is: x0818
+The road length:4
+The road length:4
+The road length:4
+
+The Road is: x08180
+-----------------
+Now have strlen
+Now have strncmp
+Now have strlen
+Now have strncmp
+insert:
+strncmp : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>} &SymRegion{reg_$11<const char * Element{SymRegion{reg_$10<Object * c>},0 S64b,struct Object}.id.name>} meta_$8{SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>},unsigned long} 
+
+The Road is: x08182
+-----------------
+Now have strlen
+Now have strncmp
+Now have strlen
+Now have strncmp
+insert:
+strncmp : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>} &SymRegion{reg_$11<const char * Element{SymRegion{reg_$10<Object * c>},0 S64b,struct Object}.id.name>} meta_$8{SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>},unsigned long} 
+
+The Road is: x08181
+-----------------
+Now have strlen
+Now have strncmp
+Now have strlen
+Now have strncmp
+insert:
+strncmp : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>} &SymRegion{reg_$11<const char * Element{SymRegion{reg_$10<Object * c>},0 S64b,struct Object}.id.name>} meta_$8{SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>},unsigned long} 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x0808
+
+The Road is: x0808
+NowTime: 0
+
+The Road is: x0808
+
+The Road is: x0808
+-----------------
+Now have strlen
+Now have strncmp
+Now have strlen
+Now have strncmp
+insert:
+strncmp : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>} &SymRegion{reg_$11<const char * Element{SymRegion{reg_$10<Object * c>},0 S64b,struct Object}.id.name>} meta_$8{SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<Object * a>},0 S64b,struct Object}.id.name>},unsigned long} 
+
+/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_27.cpp:35:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   35 |         SymmetryChecker();
+      |         ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_27.cpp:41:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   41 |         SymmetryChecker();
+      |         ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_27.cpp:47:9: warning: Violation of Anti-Reflexivity [CompareCheck.FunctionChecker]
+   47 |         ReflexivityChecker();
+      |         ^~~~~~~~~~~~~~~~~~~~
+3 warnings generated.
+Total paths analyzed: 3
+Total paths analyzed: 5
+Total paths analyzed: 5
+Total paths analyzed: 7
+Total paths analyzed: 10

@@ -1,0 +1,46 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+hasPriority : &SymRegion{reg_$4<Object & a>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+getClassName : &SymRegion{reg_$4<Object & a>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+-----------------
+Now have hasPriority
+Now have getClassName
+insert:
+compare : &temp_object{string, S6166872} &temp_object{string, S6166916} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+NowTime: 0
+
+The Road is: x999
+
+The Road is: x999

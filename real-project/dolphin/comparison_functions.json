@@ -1,0 +1,38 @@
+{
+    "/home/lizhilin/compare-order/real-project/dolphin/Externals/libiconv-1.14/lib/iconv.c": [
+        {
+            "header": "int compare_by_index",
+            "params": "const void * arg1, const void * arg2",
+            "is_const": false,
+            "body": "const struct nalias * alias1 = (const struct nalias *) arg1;\n  const struct nalias * alias2 = (const struct nalias *) arg2;\n  return (int)alias1->encoding_index - (int)alias2->encoding_index;"
+        },
+        {
+            "header": "int compare_by_name",
+            "params": "const void * arg1, const void * arg2",
+            "is_const": false,
+            "body": "const char * name1 = *(const char **)arg1;\n  const char * name2 = *(const char **)arg2;\n  \n  int sign = strcmp(name1,name2);\n  if (sign != 0) {\n    sign = ((name1[0]=='C' && name1[1]=='S') - (name2[0]=='C' && name2[1]=='S'))\n           * 4 + (sign >= 0 ? 1 : -1);\n  }\n  return sign;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/dolphin/Externals/imgui/imgui_demo.cpp": [
+        {
+            "header": "int CompareItemsByValue",
+            "params": "const void* lhs, const void* rhs",
+            "is_const": false,
+            "body": "const int* a = (const int*)lhs;\n        const int* b = (const int*)rhs;\n        return (*a - *b) > 0 ? +1 : -1;"
+        },
+        {
+            "header": "int CompareWithSortSpecs",
+            "params": "const void* lhs, const void* rhs",
+            "is_const": false,
+            "body": "const MyItem* a = (const MyItem*)lhs;\n        const MyItem* b = (const MyItem*)rhs;\n        for (int n = 0; n < s_current_sort_specs->SpecsCount; n++)\n        {\n            \n            \n            const ImGuiTableColumnSortSpecs* sort_spec = &s_current_sort_specs->Specs[n];\n            int delta = 0;\n            switch (sort_spec->ColumnUserID)\n            {\n            case MyItemColumnID_ID:             delta = (a->ID - b->ID);                break;\n            case MyItemColumnID_Name:           delta = (strcmp(a->Name, b->Name));     break;\n            case MyItemColumnID_Quantity:       delta = (a->Quantity - b->Quantity);    break;\n            case MyItemColumnID_Description:    delta = (strcmp(a->Name, b->Name));     break;\n            default: IM_ASSERT(0); break;\n            }\n            if (delta > 0)\n                return (sort_spec->SortDirection == ImGuiSortDirection_Ascending) ? +1 : -1;\n            if (delta < 0)\n                return (sort_spec->SortDirection == ImGuiSortDirection_Ascending) ? -1 : +1;\n        }\n\n        \n        \n        \n        return (a->ID - b->ID);"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/dolphin/Source/Core/Core/DSP/DSPCodeUtil.cpp": [
+        {
+            "header": "bool Compare",
+            "params": "const std::vector<u16>& code1, const std::vector<u16>& code2",
+            "is_const": false,
+            "body": "if (code1.size() != code2.size())\n    fmt::print(\"Size difference! 1={} 2={}\\n\", code1.size(), code2.size());\n  u32 count_equal = 0;\n  const u16 min_size = static_cast<u16>(std::min(code1.size(), code2.size()));\n\n  AssemblerSettings settings;\n  DSPDisassembler disassembler(settings);\n  for (u16 i = 0; i < min_size; i++)\n  {\n    if (code1[i] == code2[i])\n    {\n      count_equal++;\n    }\n    else\n    {\n      std::string line1, line2;\n      u16 pc = i;\n      disassembler.DisassembleOpcode(code1, &pc, line1);\n      pc = i;\n      disassembler.DisassembleOpcode(code2, &pc, line2);\n      fmt::print(\"!! {:04x} : {:04x} vs {:04x} - {}  vs  {}\\n\", i, code1[i], code2[i], line1,\n                 line2);\n\n      \n      \n      \n      \n      \n      if (i >= 1 && code1[i - 1] == code2[i - 1])\n      {\n        const DSPOPCTemplate* opc = FindOpInfoByOpcode(code1[i - 1]);\n        if (opc != nullptr && opc->size == 2)\n        {\n          line1.clear();\n          line2.clear();\n          pc = i - 1;\n          disassembler.DisassembleOpcode(code1, &pc, line1);\n          pc = i - 1;\n          disassembler.DisassembleOpcode(code2, &pc, line2);\n          fmt::print(\"   (or {:04x} : {:04x} {:04x} vs {:04x} {:04x} - {}  vs  {})\\n\", i - 1,\n                     code1[i - 1], code1[i], code2[i - 1], code2[i], line1, line2);\n        }\n      }\n    }\n  }\n  if (code2.size() != code1.size())\n  {\n    fmt::print(\"Extra code words:\\n\");\n    const std::vector<u16>& longest = code1.size() > code2.size() ? code1 : code2;\n    for (u16 i = min_size; i < longest.size(); i++)\n    {\n      u16 pc = i;\n      std::string line;\n      disassembler.DisassembleOpcode(longest, &pc, line);\n      fmt::print(\"!! {:04x} : {:04x} - {}\\n\", i, longest[i], line);\n    }\n  }\n  fmt::print(\"Equal instruction words: {} / {}\\n\", count_equal, min_size);\n  return code1.size() == code2.size() && code1.size() == count_equal;"
+        }
+    ]
+}

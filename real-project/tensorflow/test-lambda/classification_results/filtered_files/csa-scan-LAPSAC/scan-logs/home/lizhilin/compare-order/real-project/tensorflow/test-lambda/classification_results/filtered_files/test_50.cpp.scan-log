@@ -1,0 +1,353 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getDimSize : &t reg_$4<int64_t a> NowTime: 0
+
+The Road is: x
+
+The Road is: x
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getDimSize : &t reg_$4<int64_t a> NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getDimSize : &t reg_$5<int64_t b> 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getDimSize : &t reg_$4<int64_t a> NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getDimSize : &t reg_$5<int64_t b> 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getDimSize : &t reg_$4<int64_t a> NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getDimSize : &t reg_$5<int64_t b> 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+insert:
+getDimSize : &t reg_$14<int64_t c> 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x988988
+
+The Road is: x988988
+NowTime: 0
+
+The Road is: x988988
+
+The Road is: x988988
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98888
+
+The Road is: x98888
+NowTime: 0
+
+The Road is: x98888
+
+The Road is: x98888
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+getDimSize : &t reg_$14<int64_t c> 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+
+
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88988
+
+The Road is: x88988
+NowTime: 0
+
+The Road is: x88988
+
+The Road is: x88988
+
+
+
+
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getDimSize : &t reg_$4<int64_t a> NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getDimSize : &t reg_$5<int64_t b> 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x998
+
+The Road is: x998
+NowTime: 0
+
+The Road is: x998
+
+The Road is: x998
+insert:
+getDimSize : &t reg_$14<int64_t c> 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x998998
+
+The Road is: x998998
+NowTime: 0
+
+The Road is: x998998
+
+The Road is: x998998
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+insert:
+getDimSize : &t reg_$14<int64_t c> 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x998988
+
+The Road is: x998988
+NowTime: 0
+
+The Road is: x998988
+
+The Road is: x998988
+
+
+
+
+
+
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x988998
+
+The Road is: x988998
+NowTime: 0
+
+The Road is: x988998
+
+The Road is: x988998
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x988988
+
+The Road is: x988988
+NowTime: 0
+
+The Road is: x988988
+
+The Road is: x988988
+
+
+
+
+
+Total paths analyzed: 0
+Total paths analyzed: 0
+Total paths analyzed: 0
+Total paths analyzed: 8
+Total paths analyzed: 6

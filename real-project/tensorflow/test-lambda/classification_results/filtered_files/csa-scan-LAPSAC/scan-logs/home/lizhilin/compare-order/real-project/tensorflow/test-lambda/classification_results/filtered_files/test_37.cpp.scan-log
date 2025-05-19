@@ -1,0 +1,258 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+name : &Element{SymRegion{reg_$4<const CollGroupMember & a>},0 S64b,struct CollGroupMember}.device NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+-----------------
+Now have name
+insert:
+CompareFullNames : &temp_object{std::string, S6166920} &temp_object{std::string, S6166977} 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+name : &Element{SymRegion{reg_$4<const CollGroupMember & a>},0 S64b,struct CollGroupMember}.device NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+name : &Element{SymRegion{reg_$5<const CollGroupMember & b>},0 S64b,struct CollGroupMember}.device NowTime: 0
+
+The Road is: x
+
+The Road is: x0
+-----------------
+Now have name
+Now have name
+insert:
+CompareFullNames : &temp_object{std::string, S6166920} &temp_object{std::string, S6166977} 
+
+The Road is: x1
+-----------------
+Now have name
+Now have name
+insert:
+CompareFullNames : &temp_object{std::string, S6166920} &temp_object{std::string, S6166977} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+-----------------
+Now have name
+Now have name
+Now have CompareFullNames
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+name : &Element{SymRegion{reg_$4<const CollGroupMember & a>},0 S64b,struct CollGroupMember}.device NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+name : &Element{SymRegion{reg_$5<const CollGroupMember & b>},0 S64b,struct CollGroupMember}.device NowTime: 0
+
+The Road is: x
+
+The Road is: x0
+-----------------
+Now have name
+Now have name
+insert:
+CompareFullNames : &temp_object{std::string, S6166920} &temp_object{std::string, S6166977} 
+
+The Road is: x1
+-----------------
+Now have name
+Now have name
+insert:
+CompareFullNames : &temp_object{std::string, S6166920} &temp_object{std::string, S6166977} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+insert:
+name : &Element{SymRegion{reg_$19<const CollGroupMember & c>},0 S64b,struct CollGroupMember}.device NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+-----------------
+Now have name
+Now have name
+Now have CompareFullNames
+Now have name
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 0
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 0
+
+The Road is: x188
+
+The Road is: x188
+-----------------
+Now have name
+Now have name
+Now have CompareFullNames
+Now have name
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+name : &Element{SymRegion{reg_$4<const CollGroupMember & a>},0 S64b,struct CollGroupMember}.device NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+name : &Element{SymRegion{reg_$5<const CollGroupMember & b>},0 S64b,struct CollGroupMember}.device NowTime: 0
+
+The Road is: x
+
+The Road is: x0
+-----------------
+Now have name
+Now have name
+insert:
+CompareFullNames : &temp_object{std::string, S6166920} &temp_object{std::string, S6166977} 
+
+The Road is: x1
+-----------------
+Now have name
+Now have name
+insert:
+CompareFullNames : &temp_object{std::string, S6166920} &temp_object{std::string, S6166977} 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+insert:
+name : &Element{SymRegion{reg_$19<const CollGroupMember & c>},0 S64b,struct CollGroupMember}.device NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+-----------------
+Now have name
+Now have name
+Now have CompareFullNames
+Now have name
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x088
+
+The Road is: x088
+NowTime: 0
+
+The Road is: x088
+
+The Road is: x088
+NowTime: 0
+
+The Road is: x088
+
+The Road is: x088
+-----------------
+Now have name
+Now have name
+Now have CompareFullNames
+Now have name
+
+Total paths analyzed: 0
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 0

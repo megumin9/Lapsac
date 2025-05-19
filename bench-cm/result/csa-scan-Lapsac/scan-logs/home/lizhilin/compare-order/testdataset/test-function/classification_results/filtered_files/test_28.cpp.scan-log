@@ -1,0 +1,200 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+The Error Road is: x998998988
+NowTime: 0
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+The Error Road is: x99899888
+The Error Road is: x99898888
+NowTime: 0
+
+
+
+
+
+The Error Road is: x998988988
+NowTime: 0
+
+
+
+
+
+The Error Road is: x998988998
+NowTime: 0
+
+
+
+
+
+The Error Road is: x9988888
+NowTime: 0
+
+
+
+
+
+The Error Road is: x99888988
+NowTime: 0
+
+
+
+
+
+The Error Road is: x99888998
+NowTime: 0
+
+
+
+
+
+The Error Road is: x9888888
+The Error Road is: x98888988
+The Error Road is: x98888998
+The Error Road is: x98898888
+The Error Road is: x988988998
+The Error Road is: x98899888
+The Error Road is: x988998988
+The Error Road is: x988998998
+The Error Road is: x8888988
+The Error Road is: x8888998
+The Error Road is: x8898888
+The Error Road is: x88988988
+The Error Road is: x88988998
+The Error Road is: x8899888
+The Error Road is: x88998988
+The Error Road is: x88998998
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+
+
+
+
+
+
+
+
+/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_28.cpp:36:5: warning: Violation of Transitivity [CompareCheck.FunctionChecker]
+   36 |     TransiveChecker();
+      |     ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_28.cpp:42:5: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   42 |     SymmetryChecker();
+      |     ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_28.cpp:48:5: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   48 |     SymmetryChecker();
+      |     ^~~~~~~~~~~~~~~~~
+3 warnings generated.
+Total paths analyzed: 0
+Total paths analyzed: 6
+Total paths analyzed: 6
+Total paths analyzed: 27
+Total paths analyzed: 3

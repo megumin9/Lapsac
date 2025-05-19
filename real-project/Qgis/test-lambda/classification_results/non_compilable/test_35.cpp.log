@@ -1,0 +1,4 @@
+/home/lizhilin/compare-order/real-project/QGIS/test-lambda/test_35.cpp:1:10: fatal error: 'QPair' file not found
+    1 | #include <QPair>
+      |          ^~~~~~~
+1 error generated.

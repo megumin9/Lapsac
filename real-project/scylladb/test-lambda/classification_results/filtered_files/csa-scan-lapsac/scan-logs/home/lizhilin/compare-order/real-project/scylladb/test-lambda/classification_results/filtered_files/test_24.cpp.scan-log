@@ -1,0 +1,662 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &Base{SymRegion{reg_$1<const shared_sstable & a>},__shared_ptr} 
+The Road is: x
+insert:
+_M_get : &Base{Base{SymRegion{reg_$1<const shared_sstable & a>},__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get_first_decorated_key : &SymRegion{reg_$2<element_type * Base{SymRegion{reg_$1<const shared_sstable & a>},__shared_ptr}._M_ptr>} NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x0
+-----------------
+Now have get
+Now have _M_get
+Now have get_first_decorated_key
+insert:
+less_compare : &temp_object{dht::ring_position, S6189464} &SymRegion{reg_$3<schema * schema>} &temp_object{dht::ring_position, S6189575} 
+
+The Road is: x1
+-----------------
+Now have get
+Now have _M_get
+Now have get_first_decorated_key
+insert:
+less_compare : &temp_object{dht::ring_position, S6189464} &SymRegion{reg_$3<schema * schema>} &temp_object{dht::ring_position, S6189575} 
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &Base{SymRegion{reg_$1<const shared_sstable & a>},__shared_ptr} 
+The Road is: x
+insert:
+_M_get : &Base{Base{SymRegion{reg_$1<const shared_sstable & a>},__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get_first_decorated_key : &SymRegion{reg_$3<element_type * Base{SymRegion{reg_$1<const shared_sstable & a>},__shared_ptr}._M_ptr>} NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &Base{SymRegion{reg_$2<const shared_sstable & b>},__shared_ptr} 
+The Road is: x
+insert:
+_M_get : &Base{Base{SymRegion{reg_$2<const shared_sstable & b>},__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get_first_decorated_key : &SymRegion{reg_$5<element_type * Base{SymRegion{reg_$2<const shared_sstable & b>},__shared_ptr}._M_ptr>} NowTime: 0
+
+The Road is: x
+
+The Road is: x0
+-----------------
+Now have get
+Now have _M_get
+Now have get_first_decorated_key
+Now have get
+Now have _M_get
+Now have get_first_decorated_key
+insert:
+less_compare : &temp_object{dht::ring_position, S6189464} &SymRegion{reg_$4<schema * schema>} &temp_object{dht::ring_position, S6189575} 
+
+The Road is: x1
+-----------------
+Now have get
+Now have _M_get
+Now have get_first_decorated_key
+Now have get
+Now have _M_get
+Now have get_first_decorated_key
+insert:
+less_compare : &temp_object{dht::ring_position, S6189464} &SymRegion{reg_$4<schema * schema>} &temp_object{dht::ring_position, S6189575} 
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+NowTime: 0
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+-----------------
+Now have get
+Now have _M_get
+Now have get_first_decorated_key
+Now have get
+Now have _M_get
+Now have get_first_decorated_key
+Now have less_compare
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &Base{SymRegion{reg_$1<const shared_sstable & a>},__shared_ptr} 
+The Road is: x
+insert:
+_M_get : &Base{Base{SymRegion{reg_$1<const shared_sstable & a>},__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get_first_decorated_key : &SymRegion{reg_$3<element_type * Base{SymRegion{reg_$1<const shared_sstable & a>},__shared_ptr}._M_ptr>} NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &Base{SymRegion{reg_$2<const shared_sstable & b>},__shared_ptr} 
+The Road is: x
+insert:
+_M_get : &Base{Base{SymRegion{reg_$2<const shared_sstable & b>},__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get_first_decorated_key : &SymRegion{reg_$5<element_type * Base{SymRegion{reg_$2<const shared_sstable & b>},__shared_ptr}._M_ptr>} NowTime: 0
+
+The Road is: x
+
+The Road is: x0
+-----------------
+Now have get
+Now have _M_get
+Now have get_first_decorated_key
+Now have get
+Now have _M_get
+Now have get_first_decorated_key
+insert:
+less_compare : &temp_object{dht::ring_position, S6189464} &SymRegion{reg_$4<schema * schema>} &temp_object{dht::ring_position, S6189575} 
+
+The Road is: x1
+-----------------
+Now have get
+Now have _M_get
+Now have get_first_decorated_key
+Now have get
+Now have _M_get
+Now have get_first_decorated_key
+insert:
+less_compare : &temp_object{dht::ring_position, S6189464} &SymRegion{reg_$4<schema * schema>} &temp_object{dht::ring_position, S6189575} 
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+NowTime: 0
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+-----------------
+Now have get
+Now have _M_get
+Now have get_first_decorated_key
+Now have get
+Now have _M_get
+Now have get_first_decorated_key
+Now have less_compare
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &Base{SymRegion{reg_$1<const shared_sstable & a>},__shared_ptr} 
+The Road is: x
+insert:
+_M_get : &Base{Base{SymRegion{reg_$1<const shared_sstable & a>},__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get_first_decorated_key : &SymRegion{reg_$3<element_type * Base{SymRegion{reg_$1<const shared_sstable & a>},__shared_ptr}._M_ptr>} NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &Base{SymRegion{reg_$2<const shared_sstable & b>},__shared_ptr} 
+The Road is: x
+insert:
+_M_get : &Base{Base{SymRegion{reg_$2<const shared_sstable & b>},__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get_first_decorated_key : &SymRegion{reg_$5<element_type * Base{SymRegion{reg_$2<const shared_sstable & b>},__shared_ptr}._M_ptr>} NowTime: 0
+
+The Road is: x
+
+The Road is: x0
+-----------------
+Now have get
+Now have _M_get
+Now have get_first_decorated_key
+Now have get
+Now have _M_get
+Now have get_first_decorated_key
+insert:
+less_compare : &temp_object{dht::ring_position, S6189464} &SymRegion{reg_$4<schema * schema>} &temp_object{dht::ring_position, S6189575} 
+
+The Road is: x1
+-----------------
+Now have get
+Now have _M_get
+Now have get_first_decorated_key
+Now have get
+Now have _M_get
+Now have get_first_decorated_key
+insert:
+less_compare : &temp_object{dht::ring_position, S6189464} &SymRegion{reg_$4<schema * schema>} &temp_object{dht::ring_position, S6189575} 
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+NowTime: 0
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+insert:
+get : &Base{SymRegion{reg_$7<const shared_sstable & c>},__shared_ptr} 
+The Road is: x18
+insert:
+_M_get : &Base{Base{SymRegion{reg_$7<const shared_sstable & c>},__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+insert:
+get_first_decorated_key : &SymRegion{reg_$8<element_type * Base{SymRegion{reg_$7<const shared_sstable & c>},__shared_ptr}._M_ptr>} NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+-----------------
+Now have get
+Now have _M_get
+Now have get_first_decorated_key
+Now have get
+Now have _M_get
+Now have get_first_decorated_key
+Now have less_compare
+Now have get
+Now have _M_get
+Now have get_first_decorated_key
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x188
+NowTime: 0
+
+The Road is: x188
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 0
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 0
+NowTime: 0
+
+The Road is: x188
+NowTime: 0
+
+The Road is: x188
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 0
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 0
+
+The Road is: x188
+
+The Road is: x188
+-----------------
+Now have get
+Now have _M_get
+Now have get_first_decorated_key
+Now have get
+Now have _M_get
+Now have get_first_decorated_key
+Now have less_compare
+Now have get
+Now have _M_get
+Now have get_first_decorated_key
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &Base{SymRegion{reg_$1<const shared_sstable & a>},__shared_ptr} 
+The Road is: x
+insert:
+_M_get : &Base{Base{SymRegion{reg_$1<const shared_sstable & a>},__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get_first_decorated_key : &SymRegion{reg_$3<element_type * Base{SymRegion{reg_$1<const shared_sstable & a>},__shared_ptr}._M_ptr>} NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &Base{SymRegion{reg_$2<const shared_sstable & b>},__shared_ptr} 
+The Road is: x
+insert:
+_M_get : &Base{Base{SymRegion{reg_$2<const shared_sstable & b>},__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get_first_decorated_key : &SymRegion{reg_$5<element_type * Base{SymRegion{reg_$2<const shared_sstable & b>},__shared_ptr}._M_ptr>} NowTime: 0
+
+The Road is: x
+
+The Road is: x0
+-----------------
+Now have get
+Now have _M_get
+Now have get_first_decorated_key
+Now have get
+Now have _M_get
+Now have get_first_decorated_key
+insert:
+less_compare : &temp_object{dht::ring_position, S6189464} &SymRegion{reg_$4<schema * schema>} &temp_object{dht::ring_position, S6189575} 
+
+The Road is: x1
+-----------------
+Now have get
+Now have _M_get
+Now have get_first_decorated_key
+Now have get
+Now have _M_get
+Now have get_first_decorated_key
+insert:
+less_compare : &temp_object{dht::ring_position, S6189464} &SymRegion{reg_$4<schema * schema>} &temp_object{dht::ring_position, S6189575} 
+
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x08
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+
+The Road is: x08
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+NowTime: 0
+NowTime: 0
+
+The Road is: x08
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+insert:
+get : &Base{SymRegion{reg_$7<const shared_sstable & c>},__shared_ptr} 
+The Road is: x08
+insert:
+_M_get : &Base{Base{SymRegion{reg_$7<const shared_sstable & c>},__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+insert:
+get_first_decorated_key : &SymRegion{reg_$8<element_type * Base{SymRegion{reg_$7<const shared_sstable & c>},__shared_ptr}._M_ptr>} NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+-----------------
+Now have get
+Now have _M_get
+Now have get_first_decorated_key
+Now have get
+Now have _M_get
+Now have get_first_decorated_key
+Now have less_compare
+Now have get
+Now have _M_get
+Now have get_first_decorated_key
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x088
+NowTime: 0
+
+The Road is: x088
+
+The Road is: x088
+
+The Road is: x088
+NowTime: 0
+
+The Road is: x088
+
+The Road is: x088
+NowTime: 0
+NowTime: 0
+
+The Road is: x088
+NowTime: 0
+
+The Road is: x088
+
+The Road is: x088
+
+The Road is: x088
+NowTime: 0
+
+The Road is: x088
+
+The Road is: x088
+NowTime: 0
+
+The Road is: x088
+
+The Road is: x088
+-----------------
+Now have get
+Now have _M_get
+Now have get_first_decorated_key
+Now have get
+Now have _M_get
+Now have get_first_decorated_key
+Now have less_compare
+Now have get
+Now have _M_get
+Now have get_first_decorated_key
+
+Total paths analyzed: 2
+Total paths analyzed: 2
+Total paths analyzed: 2
+Total paths analyzed: 2
+Total paths analyzed: 1
+Total paths analyzed: 0
+Total paths analyzed: 0
+Total paths analyzed: 0
+Total paths analyzed: 0
+Total paths analyzed: 0

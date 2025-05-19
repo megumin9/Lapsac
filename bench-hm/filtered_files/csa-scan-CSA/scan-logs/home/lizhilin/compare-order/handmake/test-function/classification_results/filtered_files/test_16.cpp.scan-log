@@ -1,0 +1,37 @@
+NewTest: 
+NowTime: 0
+NowTime: 0
+NewTest: 
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NewTest: 
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NewTest: 
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NewTest: 
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_16.cpp:25:9: warning: Violation of Consistency [CompareCheck.FunctionChecker]
+   25 |         ConsistencyChecker();
+      |         ^~~~~~~~~~~~~~~~~~~~
+1 warning generated.
+Total paths analyzed: 1
+Total paths analyzed: 2
+Total paths analyzed: 2
+Total paths analyzed: 4
+Total paths analyzed: 8

@@ -1,0 +1,162 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+
+
+
+NowTime: 0
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+
+
+
+NowTime: 0
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+
+
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+The Error Road is: x998998988
+The Error Road is: x998988988
+NowTime: 0
+
+
+
+
+
+The Error Road is: x998988998
+NowTime: 0
+
+
+
+
+
+The Error Road is: x988988998
+The Error Road is: x988998988
+The Error Road is: x988998998
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+/home/lizhilin/compare-order/real-project/blender/test-function/classification_results/filtered_files/test_32.cpp:31:1: warning: Violation of Consistency [CompareCheck.FunctionChecker]
+   31 | ConsistencyChecker();
+      | ^~~~~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/real-project/blender/test-function/classification_results/filtered_files/test_32.cpp:43:1: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   43 | SymmetryChecker();
+      | ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/real-project/blender/test-function/classification_results/filtered_files/test_32.cpp:49:1: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   49 | SymmetryChecker();
+      | ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/real-project/blender/test-function/classification_results/filtered_files/test_32.cpp:55:1: warning: Violation of Anti-Reflexivity [CompareCheck.FunctionChecker]
+   55 | ReflexivityChecker();
+      | ^~~~~~~~~~~~~~~~~~~~
+4 warnings generated.
+Total paths analyzed: 3
+Total paths analyzed: 3
+Total paths analyzed: 3
+Total paths analyzed: 12
+Total paths analyzed: 12

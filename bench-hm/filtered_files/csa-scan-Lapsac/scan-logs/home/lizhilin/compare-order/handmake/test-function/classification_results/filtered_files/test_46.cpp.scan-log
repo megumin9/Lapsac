@@ -1,0 +1,466 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+strlen : &SymRegion{reg_$5<char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var4>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9999
+
+The Road is: x9999
+NowTime: 0
+
+The Road is: x9999
+
+The Road is: x9999
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+strlen : &SymRegion{reg_$6<char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var4>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+strlen : &SymRegion{reg_$8<char * Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var4>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9988
+
+The Road is: x9988
+NowTime: 0
+
+The Road is: x9988
+
+The Road is: x9988
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8988
+
+The Road is: x8988
+NowTime: 0
+
+The Road is: x8988
+
+The Road is: x8988
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+strlen : &SymRegion{reg_$6<char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var4>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+strlen : &SymRegion{reg_$8<char * Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var4>} 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+strlen : &SymRegion{reg_$6<char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var4>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+strlen : &SymRegion{reg_$8<char * Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var4>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9988
+
+The Road is: x9988
+NowTime: 0
+
+The Road is: x9988
+
+The Road is: x9988
+insert:
+strlen : &SymRegion{reg_$13<char * Element{SymRegion{reg_$12<testclass * c>},0 S64b,struct testclass}.var4>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x99889988
+
+The Road is: x99889988
+NowTime: 0
+
+The Road is: x99889988
+
+The Road is: x99889988
+
+
+
+
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8988
+
+The Road is: x8988
+NowTime: 0
+
+The Road is: x8988
+
+The Road is: x8988
+insert:
+strlen : &SymRegion{reg_$13<char * Element{SymRegion{reg_$12<testclass * c>},0 S64b,struct testclass}.var4>} 
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x99888988
+
+The Road is: x99888988
+NowTime: 0
+
+The Road is: x99888988
+
+The Road is: x99888988
+
+
+The Error Road is: x998889888988
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x89888988
+
+The Road is: x89888988
+NowTime: 0
+
+The Road is: x89888988
+
+The Road is: x89888988
+
+
+
+
+
+The Error Road is: x898889889988
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x89889988
+
+The Road is: x89889988
+NowTime: 0
+
+The Road is: x89889988
+
+The Road is: x89889988
+
+
+The Error Road is: x898899888988
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+strlen : &SymRegion{reg_$6<char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var4>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+strlen : &SymRegion{reg_$8<char * Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var4>} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9998
+
+The Road is: x9998
+NowTime: 0
+
+The Road is: x9998
+
+The Road is: x9998
+insert:
+strlen : &SymRegion{reg_$13<char * Element{SymRegion{reg_$12<testclass * c>},0 S64b,struct testclass}.var4>} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x99989998
+
+The Road is: x99989998
+NowTime: 0
+
+The Road is: x99989998
+
+The Road is: x99989998
+
+
+
+
+
+
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+insert:
+strlen : &SymRegion{reg_$13<char * Element{SymRegion{reg_$12<testclass * c>},0 S64b,struct testclass}.var4>} 
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9998988
+
+The Road is: x9998988
+NowTime: 0
+
+The Road is: x9998988
+
+The Road is: x9998988
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+insert:
+strlen : &SymRegion{reg_$13<char * Element{SymRegion{reg_$12<testclass * c>},0 S64b,struct testclass}.var4>} 
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9998888
+
+The Road is: x9998888
+NowTime: 0
+
+The Road is: x9998888
+
+The Road is: x9998888
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x988888
+
+The Road is: x988888
+NowTime: 0
+
+The Road is: x988888
+
+The Road is: x988888
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x988988
+
+The Road is: x988988
+NowTime: 0
+
+The Road is: x988988
+
+The Road is: x988988
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9889998
+
+The Road is: x9889998
+NowTime: 0
+
+The Road is: x9889998
+
+The Road is: x9889998
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x888888
+
+The Road is: x888888
+NowTime: 0
+
+The Road is: x888888
+
+The Road is: x888888
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x888988
+
+The Road is: x888988
+NowTime: 0
+
+The Road is: x888988
+
+The Road is: x888988
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8889998
+
+The Road is: x8889998
+NowTime: 1
+
+The Road is: x8889998
+
+The Road is: x8889998
+
+
+Total paths analyzed: 2
+Total paths analyzed: 4
+Total paths analyzed: 4
+Total paths analyzed: 13
+Total paths analyzed: 20

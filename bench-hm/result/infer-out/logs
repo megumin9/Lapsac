@@ -1,0 +1,1030 @@
+[1250][      debug] Sqlite write daemon: starting up
+[1250][      debug] Sqlite write daemon: set up complete, waiting for connections
+[1251][      debug] Sqlite write daemon: process starting, pid= 1251
+[1250][environment] CWD = /workspace
+[1250][environment] No .inferconfig file found
+[1250][environment] Project root = /workspace
+[1250][environment] INFER_ARGS =   @/tmp/args.tmp.3fc7e7 --progress-bar-style multiline
+[1250][environment] command line arguments:   /opt/infer-linux-x86_64-v1.2.0/bin/infer run --
+[1250][environment]                           clang++ -c test_1.cpp test_10.cpp test_11.cpp
+[1250][environment]                           test_12.cpp test_13.cpp test_14.cpp test_15.cpp
+[1250][environment]                           test_16.cpp test_17.cpp test_18.cpp test_19.cpp
+[1250][environment]                           test_2.cpp test_20.cpp test_21.cpp test_22.cpp
+[1250][environment]                           test_23.cpp test_24.cpp test_25.cpp test_26.cpp
+[1250][environment]                           test_27.cpp test_28.cpp test_29.cpp test_3.cpp
+[1250][environment]                           test_30.cpp test_31.cpp test_32.cpp test_33.cpp
+[1250][environment]                           test_34.cpp test_35.cpp test_36.cpp test_37.cpp
+[1250][environment]                           test_38.cpp test_39.cpp test_4.cpp test_40.cpp
+[1250][environment]                           test_5.cpp test_6.cpp test_7.cpp test_8.cpp
+[1250][environment]                           test_9.cpp
+[1250][environment] Available memory at startup: 203643 MB
+[1250][environment] Active checkers: self-in-block (C/C++/ObjC), parameter-not-null-checked (C/C++/ObjC), starvation (C/C++/ObjC, Java), siof (C/C++/ObjC), racerd (C/C++/ObjC, C#/.Net, Java), pulse (C/C++/ObjC, C#/.Net, Erlang, Hack, Java, Python), liveness (C/C++/ObjC), inefficient-keyset-iterator (Java), fragment-retains-view (Java)
+[1250][environment] Scheduler: restart
+[1250][environment] Cores used: 40
+[1250][environment] Infer version v1.2.0
+[1250][environment] Copyright 2009 - present Facebook. All Rights Reserved.
+[1250][environment] 
+[1250][   progress] Capturing in make/cc mode...
+[1250][      debug] 
+[1250][      debug] *** Beginning capture of file /workspace/test_1.cpp ***
+[1250][      debug] Elapsed: 3.12s.
+[1250][      debug] 
+[1250][      debug] *** Beginning capture of file /workspace/test_10.cpp ***
+[1250][      debug] Elapsed: 3.05s.
+[1250][      debug] 
+[1250][      debug] *** Beginning capture of file /workspace/test_11.cpp ***
+[1250][      debug] Elapsed: 3.02s.
+[1250][      debug] 
+[1250][      debug] *** Beginning capture of file /workspace/test_12.cpp ***
+[1250][      debug] Elapsed: 3.21s.
+[1250][      debug] 
+[1250][      debug] *** Beginning capture of file /workspace/test_13.cpp ***
+[1250][      debug] Elapsed: 3.13s.
+[1250][      debug] 
+[1250][      debug] *** Beginning capture of file /workspace/test_14.cpp ***
+[1250][      debug] Elapsed: 3.34s.
+[1250][      debug] 
+[1250][      debug] *** Beginning capture of file /workspace/test_15.cpp ***
+[1250][      debug] Elapsed: 3.05s.
+[1250][      debug] 
+[1250][      debug] *** Beginning capture of file /workspace/test_16.cpp ***
+[1250][      debug] Elapsed: 3.29s.
+[1250][      debug] 
+[1250][      debug] *** Beginning capture of file /workspace/test_17.cpp ***
+[1250][      debug] Elapsed: 2.93s.
+[1250][      debug] 
+[1250][      debug] *** Beginning capture of file /workspace/test_18.cpp ***
+[1250][      debug] Elapsed: 2.95s.
+[1250][      debug] 
+[1250][      debug] *** Beginning capture of file /workspace/test_19.cpp ***
+[1250][      debug] Elapsed: 3.03s.
+[1250][      debug] 
+[1250][      debug] *** Beginning capture of file /workspace/test_2.cpp ***
+[1250][      debug] Elapsed: 2.97s.
+[1250][      debug] 
+[1250][      debug] *** Beginning capture of file /workspace/test_20.cpp ***
+[1250][      debug] Elapsed: 2.98s.
+[1250][      debug] 
+[1250][      debug] *** Beginning capture of file /workspace/test_21.cpp ***
+[1250][      debug] Elapsed: 2.94s.
+[1250][      debug] 
+[1250][      debug] *** Beginning capture of file /workspace/test_22.cpp ***
+[1250][      debug] Elapsed: 2.87s.
+[1250][      debug] 
+[1250][      debug] *** Beginning capture of file /workspace/test_23.cpp ***
+[1250][      debug] Elapsed: 2.89s.
+[1250][      debug] 
+[1250][      debug] *** Beginning capture of file /workspace/test_24.cpp ***
+[1250][      debug] Elapsed: 3.09s.
+[1250][      debug] 
+[1250][      debug] *** Beginning capture of file /workspace/test_25.cpp ***
+[1250][      debug] Elapsed: 3.01s.
+[1250][      debug] 
+[1250][      debug] *** Beginning capture of file /workspace/test_26.cpp ***
+[1250][      debug] Elapsed: 3.01s.
+[1250][      debug] 
+[1250][      debug] *** Beginning capture of file /workspace/test_27.cpp ***
+[1250][      debug] Elapsed: 3.01s.
+[1250][      debug] 
+[1250][      debug] *** Beginning capture of file /workspace/test_28.cpp ***
+[1250][      debug] Elapsed: 3.18s.
+[1250][      debug] 
+[1250][      debug] *** Beginning capture of file /workspace/test_29.cpp ***
+[1250][      debug] Elapsed: 2.97s.
+[1250][      debug] 
+[1250][      debug] *** Beginning capture of file /workspace/test_3.cpp ***
+[1250][      debug] Elapsed: 3.04s.
+[1250][      debug] 
+[1250][      debug] *** Beginning capture of file /workspace/test_30.cpp ***
+[1250][      debug] Elapsed: 2.88s.
+[1250][      debug] 
+[1250][      debug] *** Beginning capture of file /workspace/test_31.cpp ***
+[1250][      debug] Elapsed: 49.3ms.
+[1250][      debug] 
+[1250][      debug] *** Beginning capture of file /workspace/test_32.cpp ***
+[1250][      debug] Elapsed: 3.15s.
+[1250][      debug] 
+[1250][      debug] *** Beginning capture of file /workspace/test_33.cpp ***
+[1250][      debug] Elapsed: 2.92s.
+[1250][      debug] 
+[1250][      debug] *** Beginning capture of file /workspace/test_34.cpp ***
+[1250][      debug] Elapsed: 2.9s.
+[1250][      debug] 
+[1250][      debug] *** Beginning capture of file /workspace/test_35.cpp ***
+[1250][      debug] Elapsed: 2.95s.
+[1250][      debug] 
+[1250][      debug] *** Beginning capture of file /workspace/test_36.cpp ***
+[1250][      debug] Elapsed: 2.92s.
+[1250][      debug] 
+[1250][      debug] *** Beginning capture of file /workspace/test_37.cpp ***
+[1250][      debug] Elapsed: 3.08s.
+[1250][      debug] 
+[1250][      debug] *** Beginning capture of file /workspace/test_38.cpp ***
+[1250][      debug] Elapsed: 259ms.
+[1250][      debug] 
+[1250][      debug] *** Beginning capture of file /workspace/test_39.cpp ***
+[1250][      debug] Elapsed: 3.14s.
+[1250][      debug] 
+[1250][      debug] *** Beginning capture of file /workspace/test_4.cpp ***
+[1250][      debug] Elapsed: 2.94s.
+[1250][      debug] 
+[1250][      debug] *** Beginning capture of file /workspace/test_40.cpp ***
+[1250][      debug] Elapsed: 2.86s.
+[1250][      debug] 
+[1250][      debug] *** Beginning capture of file /workspace/test_5.cpp ***
+[1250][      debug] Elapsed: 2.92s.
+[1250][      debug] 
+[1250][      debug] *** Beginning capture of file /workspace/test_6.cpp ***
+[1250][      debug] Elapsed: 75.3ms.
+[1250][      debug] 
+[1250][      debug] *** Beginning capture of file /workspace/test_7.cpp ***
+[1250][      debug] Elapsed: 3.09s.
+[1250][      debug] 
+[1250][      debug] *** Beginning capture of file /workspace/test_8.cpp ***
+[1250][      debug] Elapsed: 2.97s.
+[1250][      debug] 
+[1250][      debug] *** Beginning capture of file /workspace/test_9.cpp ***
+[1250][      debug] Elapsed: 55.7ms.
+[1250][      debug] GC stats for capture:
+[1250][      debug]   minor_words: 2.05029e+09
+[1250][      debug]   promoted_words: 6.96628e+08
+[1250][      debug]   major_words: 7.0502e+08
+[1250][      debug]   minor_collections: 2175
+[1250][      debug]   major_collections: 29
+[1250][      debug]   compactions: 0
+[1250][      debug]   top_heap_words: 116751872
+[1250][      debug]   
+[1250][environment] Parallel jobs: 40
+[1250][   progress] Found 40 source files to analyze in /workspace/infer-out
+[1346][   progress] Analysing block of 200 procs, starting with test2
+[1339][   progress] Analysing block of 200 procs, starting with cmp
+[1340][   progress] Analysing block of 200 procs, starting with cmp
+[1345][   progress] Analysing block of 200 procs, starting with test1
+[1342][   progress] Analysing block of 200 procs, starting with cmp
+[1347][   progress] Analysing block of 200 procs, starting with test1
+[1341][   progress] Analysing block of 200 procs, starting with test1
+[1348][   progress] Analysing block of 200 procs, starting with test3_2
+[1343][   progress] Analysing block of 200 procs, starting with test2
+[1367][   progress] Analysing block of 200 procs, starting with test3_1
+[1344][   progress] Analysing block of 200 procs, starting with test1
+[1368][   progress] Analysing block of 200 procs, starting with test4
+[1359][   progress] Analysing block of 200 procs, starting with test2
+[1372][   progress] Analysing block of 200 procs, starting with test1
+[1364][   progress] Analysing block of 200 procs, starting with test2
+[1366][   progress] Analysing block of 200 procs, starting with test2
+[1361][   progress] Analysing block of 200 procs, starting with test4
+[1371][   progress] Analysing block of 200 procs, starting with test2
+[1365][   progress] Analysing block of 200 procs, starting with test2
+[1369][   progress] Analysing block of 200 procs, starting with test3_1
+[1363][   progress] Analysing block of 200 procs, starting with test1
+[1360][   progress] Analysing block of 200 procs, starting with test3_1
+[1362][   progress] Analysing block of 200 procs, starting with test1
+[1370][   progress] Analysing block of 200 procs, starting with cmp
+[1349][   progress] Analysing block of 200 procs, starting with test4
+[1350][   progress] Analysing block of 200 procs, starting with cmp
+[1352][   progress] Analysing block of 200 procs, starting with test1
+[1355][   progress] Analysing block of 200 procs, starting with test3_2
+[1351][   progress] Analysing block of 200 procs, starting with test2
+[1358][   progress] Analysing block of 200 procs, starting with test2
+[1356][   progress] Analysing block of 200 procs, starting with cmp
+[1354][   progress] Analysing block of 200 procs, starting with test1
+[1353][   progress] Analysing block of 200 procs, starting with cmp
+[1357][   progress] Analysing block of 200 procs, starting with test3_1
+[1373][   progress] Analysing block of 200 procs, starting with test1
+[1338][   progress] Analysing block of 200 procs, starting with test3_1
+[1336][   progress] Analysing block of 200 procs, starting with test2
+[1334][   progress] Analysing block of 200 procs, starting with test1
+[1335][   progress] Analysing block of 200 procs, starting with test3_2
+[1337][   progress] Analysing block of 200 procs, starting with test4
+[1357][   progress] test_31.cpp starting
+[1334][   progress] test_34.cpp starting
+[1334][   progress] test_34.cpp DONE
+[1334][   progress] test_2.cpp starting
+[1334][   progress] test_2.cpp DONE
+[1347][   progress] test_26.cpp starting
+[1334][   progress] test_12.cpp starting
+[1347][   progress] test_26.cpp DONE
+[1347][   progress] test_28.cpp starting
+[1334][   progress] test_12.cpp DONE
+[1334][   progress] test_18.cpp starting
+[1347][   progress] test_28.cpp DONE
+[1347][   progress] test_16.cpp starting
+[1334][   progress] test_18.cpp DONE
+[1334][   progress] test_32.cpp starting
+[1347][   progress] test_16.cpp DONE
+[1347][   progress] test_3.cpp starting
+[1334][   progress] test_32.cpp DONE
+[1347][   progress] test_3.cpp DONE
+[1334][   progress] test_13.cpp starting
+[1347][   progress] test_36.cpp starting
+[1347][   progress] test_36.cpp DONE
+[1334][   progress] test_13.cpp DONE
+[1347][   progress] test_29.cpp starting
+[1335][   progress] test_20.cpp starting
+[1334][   progress] test_9.cpp starting
+[1347][   progress] test_29.cpp DONE
+[1347][   progress] test_38.cpp starting
+[1347][   progress] test_38.cpp DONE
+[1335][   progress] test_20.cpp DONE
+[1334][   progress] test_9.cpp DONE
+[1335][   progress] test_6.cpp starting
+[1347][   progress] test_22.cpp starting
+[1334][   progress] test_33.cpp starting
+[1335][   progress] test_6.cpp DONE
+[1347][   progress] test_22.cpp DONE
+[1334][   progress] test_33.cpp DONE
+[1334][   progress] test_25.cpp starting
+[1335][   progress] test_27.cpp starting
+[1336][   progress] test_11.cpp starting
+[1337][   progress] test_8.cpp starting
+[1338][   progress] test_37.cpp starting
+[1340][   progress] test_21.cpp starting
+[1341][   progress] test_23.cpp starting
+[1343][   progress] test_10.cpp starting
+[1344][   progress] test_4.cpp starting
+[1335][   progress] test_27.cpp DONE
+[1334][   progress] test_25.cpp DONE
+[1345][   progress] test_14.cpp starting
+[1347][   progress] test_7.cpp starting
+[1336][   progress] test_11.cpp DONE
+[1338][   progress] test_37.cpp DONE
+[1337][   progress] test_8.cpp DONE
+[1340][   progress] test_21.cpp DONE
+[1334][   progress] test_40.cpp starting
+[1341][   progress] test_23.cpp DONE
+[1335][   progress] test_5.cpp starting
+[1336][   progress] test_30.cpp starting
+[1338][   progress] test_15.cpp starting
+[1342][   progress] test_17.cpp starting
+[1343][   progress] test_10.cpp DONE
+[1347][   progress] test_7.cpp DONE
+[1344][   progress] test_4.cpp DONE
+[1337][   progress] test_19.cpp starting
+[1340][   progress] test_24.cpp starting
+[1345][   progress] test_14.cpp DONE
+[1343][   progress] test_1.cpp starting
+[1341][   progress] test_35.cpp starting
+[1334][   progress] test_40.cpp DONE
+[1335][   progress] test_5.cpp DONE
+[1336][   progress] test_30.cpp DONE
+[1338][   progress] test_15.cpp DONE
+[1334][   progress] test_39.cpp starting
+[1343][   progress] test_1.cpp DONE
+[1340][   progress] test_24.cpp DONE
+[1342][   progress] test_17.cpp DONE
+[1337][   progress] test_19.cpp DONE
+[1341][   progress] test_35.cpp DONE
+[1334][   progress] test_39.cpp DONE
+[1338][   progress] test_34.cpp starting
+[1342][   progress] test_2.cpp starting
+[1343][   progress] test_26.cpp starting
+[1344][   progress] test_12.cpp starting
+[1348][   progress] test_16.cpp starting
+[1345][   progress] test_28.cpp starting
+[1346][   progress] test_18.cpp starting
+[1358][   progress] test_3.cpp starting
+[1338][   progress] test_34.cpp DONE
+[1342][   progress] test_2.cpp DONE
+[1343][   progress] test_26.cpp DONE
+[1345][   progress] test_28.cpp DONE
+[1346][   progress] test_18.cpp DONE
+[1344][   progress] test_12.cpp DONE
+[1348][   progress] test_16.cpp DONE
+[1358][   progress] test_3.cpp DONE
+[1345][   progress] test_32.cpp starting
+[1346][   progress] test_36.cpp starting
+[1348][   progress] test_13.cpp starting
+[1349][   progress] test_29.cpp starting
+[1350][   progress] test_38.cpp starting
+[1345][   progress] test_32.cpp DONE
+[1351][   progress] test_34.cpp starting
+[1348][   progress] test_13.cpp DONE
+[1346][   progress] test_36.cpp DONE
+[1350][   progress] test_38.cpp DONE
+[1349][   progress] test_29.cpp DONE
+[1351][   progress] test_34.cpp DONE
+[1344][   progress] test_3.cpp starting
+[1344][   progress] test_3.cpp DONE
+[1334][   progress] test_2.cpp starting
+[1337][   progress] test_9.cpp starting
+[1336][   progress] test_20.cpp starting
+[1338][   progress] test_22.cpp starting
+[1344][   progress] test_6.cpp starting
+[1337][   progress] test_9.cpp DONE
+[1344][   progress] test_6.cpp DONE
+[1334][   progress] test_2.cpp DONE
+[1338][   progress] test_22.cpp DONE
+[1336][   progress] test_20.cpp DONE
+[1367][   progress] test_27.cpp starting
+[1368][   progress] test_25.cpp starting
+[1370][   progress] test_23.cpp starting
+[1371][   progress] test_21.cpp starting
+[1336][   progress] test_8.cpp starting
+[1337][   progress] test_10.cpp starting
+[1343][   progress] test_7.cpp starting
+[1345][   progress] test_14.cpp starting
+[1368][   progress] test_25.cpp DONE
+[1348][   progress] test_40.cpp starting
+[1344][   progress] test_4.cpp starting
+[1370][   progress] test_23.cpp DONE
+[1336][   progress] test_8.cpp DONE
+[1371][   progress] test_21.cpp DONE
+[1348][   progress] test_40.cpp DONE
+[1337][   progress] test_10.cpp DONE
+[1345][   progress] test_14.cpp DONE
+[1343][   progress] test_7.cpp DONE
+[1344][   progress] test_4.cpp DONE
+[1367][   progress] test_27.cpp DONE
+[1353][   progress] test_36.cpp starting
+[1366][   progress] test_18.cpp starting
+[1364][   progress] test_33.cpp starting
+[1371][   progress] test_26.cpp starting
+[1369][   progress] test_28.cpp starting
+[1372][   progress] test_12.cpp starting
+[1364][   progress] test_33.cpp DONE
+[1366][   progress] test_18.cpp DONE
+[1371][   progress] test_26.cpp DONE
+[1372][   progress] test_12.cpp DONE
+[1369][   progress] test_28.cpp DONE
+[1353][   progress] test_36.cpp DONE
+[1369][   progress] test_13.cpp starting
+[1370][   progress] test_32.cpp starting
+[1369][   progress] test_13.cpp DONE
+[1357][   progress] test_31.cpp DONE
+[1370][   progress] test_32.cpp DONE
+[1366][   progress] test_16.cpp starting
+[1338][   progress] test_6.cpp starting
+[1340][   progress] test_37.cpp starting
+[1341][   progress] test_11.cpp starting
+[1334][   progress] test_9.cpp starting
+[1341][   progress] test_11.cpp DONE
+[1338][   progress] test_6.cpp DONE
+[1340][   progress] test_37.cpp DONE
+[1334][   progress] test_9.cpp DONE
+[1366][   progress] test_16.cpp DONE
+[1357][   progress] test_5.cpp starting
+[1358][   progress] test_34.cpp starting
+[1359][   progress] test_38.cpp starting
+[1360][   progress] test_13.cpp starting
+[1361][   progress] test_29.cpp starting
+[1368][   progress] test_1.cpp starting
+[1371][   progress] test_12.cpp starting
+[1373][   progress] test_18.cpp starting
+[1372][   progress] test_26.cpp starting
+[1334][   progress] test_33.cpp starting
+[1361][   progress] test_29.cpp DONE
+[1358][   progress] test_34.cpp DONE
+[1368][   progress] test_1.cpp DONE
+[1372][   progress] test_26.cpp DONE
+[1360][   progress] test_13.cpp DONE
+[1371][   progress] test_12.cpp DONE
+[1373][   progress] test_18.cpp DONE
+[1334][   progress] test_33.cpp DONE
+[1359][   progress] test_38.cpp DONE
+[1357][   progress] test_5.cpp DONE
+[1345][   progress] test_28.cpp starting
+[1346][   progress] test_22.cpp starting
+[1350][   progress] test_24.cpp starting
+[1352][   progress] test_11.cpp starting
+[1349][   progress] test_35.cpp starting
+[1348][   progress] test_17.cpp starting
+[1347][   progress] test_2.cpp starting
+[1353][   progress] test_37.cpp starting
+[1354][   progress] test_6.cpp starting
+[1360][   progress] test_15.cpp starting
+[1361][   progress] test_19.cpp starting
+[1350][   progress] test_24.cpp DONE
+[1349][   progress] test_35.cpp DONE
+[1352][   progress] test_11.cpp DONE
+[1353][   progress] test_37.cpp DONE
+[1360][   progress] test_15.cpp DONE
+[1354][   progress] test_6.cpp DONE
+[1348][   progress] test_17.cpp DONE
+[1347][   progress] test_2.cpp DONE
+[1346][   progress] test_22.cpp DONE
+[1361][   progress] test_19.cpp DONE
+[1345][   progress] test_28.cpp DONE
+[1349][   progress] test_1.cpp starting
+[1350][   progress] test_29.cpp starting
+[1351][   progress] test_34.cpp starting
+[1353][   progress] test_26.cpp starting
+[1362][   progress] test_31.cpp starting
+[1351][   progress] test_34.cpp DONE
+[1349][   progress] test_1.cpp DONE
+[1350][   progress] test_29.cpp DONE
+[1362][   progress] test_31.cpp DONE
+[1353][   progress] test_26.cpp DONE
+[1347][   progress] test_24.cpp starting
+[1349][   progress] test_15.cpp starting
+[1348][   progress] test_35.cpp starting
+[1350][   progress] test_6.cpp starting
+[1352][   progress] test_37.cpp starting
+[1343][   progress] test_11.cpp starting
+[1359][   progress] test_21.cpp starting
+[1360][   progress] test_40.cpp starting
+[1365][   progress] test_9.cpp starting
+[1371][   progress] test_4.cpp starting
+[1370][   progress] test_14.cpp starting
+[1372][   progress] test_7.cpp starting
+[1347][   progress] test_24.cpp DONE
+[1352][   progress] test_37.cpp DONE
+[1350][   progress] test_6.cpp DONE
+[1343][   progress] test_11.cpp DONE
+[1348][   progress] test_35.cpp DONE
+[1371][   progress] test_4.cpp DONE
+[1360][   progress] test_40.cpp DONE
+[1359][   progress] test_21.cpp DONE
+[1370][   progress] test_14.cpp DONE
+[1372][   progress] test_7.cpp DONE
+[1365][   progress] test_9.cpp DONE
+[1349][   progress] test_15.cpp DONE
+[1347][   progress] test_20.cpp starting
+[1348][   progress] test_18.cpp starting
+[1349][   progress] test_12.cpp starting
+[1352][   progress] test_33.cpp starting
+[1350][   progress] test_13.cpp starting
+[1357][   progress] test_29.cpp starting
+[1358][   progress] test_1.cpp starting
+[1360][   progress] test_31.cpp starting
+[1356][   progress] test_34.cpp starting
+[1361][   progress] test_38.cpp starting
+[1352][   progress] test_33.cpp DONE
+[1349][   progress] test_12.cpp DONE
+[1347][   progress] test_20.cpp DONE
+[1350][   progress] test_13.cpp DONE
+[1360][   progress] test_31.cpp DONE
+[1361][   progress] test_38.cpp DONE
+[1356][   progress] test_34.cpp DONE
+[1357][   progress] test_29.cpp DONE
+[1358][   progress] test_1.cpp DONE
+[1348][   progress] test_18.cpp DONE
+[1364][   progress] test_38.cpp starting
+[1365][   progress] test_31.cpp starting
+[1367][   progress] test_1.cpp starting
+[1368][   progress] test_29.cpp starting
+[1369][   progress] test_34.cpp starting
+[1372][   progress] test_33.cpp starting
+[1364][   progress] test_38.cpp DONE
+[1368][   progress] test_29.cpp DONE
+[1372][   progress] test_33.cpp DONE
+[1367][   progress] test_1.cpp DONE
+[1365][   progress] test_31.cpp DONE
+[1369][   progress] test_34.cpp DONE
+[1343][   progress] test_24.cpp starting
+[1345][   progress] test_37.cpp starting
+[1349][   progress] test_10.cpp starting
+[1349][   progress] test_10.cpp DONE
+[1345][   progress] test_37.cpp DONE
+[1343][   progress] test_24.cpp DONE
+[1363][   progress] test_10.cpp starting
+[1365][   progress] test_37.cpp starting
+[1368][   progress] test_38.cpp starting
+[1368][   progress] test_38.cpp DONE
+[1365][   progress] test_37.cpp DONE
+[1363][   progress] test_10.cpp DONE
+[1372][   progress] test_29.cpp starting
+[1373][   progress] test_33.cpp starting
+[1336][   progress] test_13.cpp starting
+[1337][   progress] test_12.cpp starting
+[1338][   progress] test_20.cpp starting
+[1373][   progress] test_33.cpp DONE
+[1336][   progress] test_13.cpp DONE
+[1337][   progress] test_12.cpp DONE
+[1338][   progress] test_20.cpp DONE
+[1372][   progress] test_29.cpp DONE
+[1334][   progress] test_21.cpp starting
+[1335][   progress] test_6.cpp starting
+[1337][   progress] test_11.cpp starting
+[1338][   progress] test_9.cpp starting
+[1336][   progress] test_35.cpp starting
+[1352][   progress] test_38.cpp starting
+[1342][   progress] test_17.cpp starting
+[1343][   progress] test_2.cpp starting
+[1344][   progress] test_22.cpp starting
+[1353][   progress] test_33.cpp starting
+[1335][   progress] test_6.cpp DONE
+[1352][   progress] test_38.cpp DONE
+[1342][   progress] test_17.cpp DONE
+[1343][   progress] test_2.cpp DONE
+[1336][   progress] test_35.cpp DONE
+[1344][   progress] test_22.cpp DONE
+[1337][   progress] test_11.cpp DONE
+[1353][   progress] test_33.cpp DONE
+[1338][   progress] test_9.cpp DONE
+[1334][   progress] test_21.cpp DONE
+[1335][   progress] test_22.cpp starting
+[1338][   progress] test_11.cpp starting
+[1340][   progress] test_35.cpp starting
+[1337][   progress] test_17.cpp starting
+[1336][   progress] test_2.cpp starting
+[1345][   progress] test_19.cpp starting
+[1342][   progress] test_33.cpp starting
+[1349][   progress] test_13.cpp starting
+[1347][   progress] test_12.cpp starting
+[1346][   progress] test_20.cpp starting
+[1338][   progress] test_11.cpp DONE
+[1340][   progress] test_35.cpp DONE
+[1345][   progress] test_19.cpp DONE
+[1337][   progress] test_17.cpp DONE
+[1349][   progress] test_13.cpp DONE
+[1336][   progress] test_2.cpp DONE
+[1342][   progress] test_33.cpp DONE
+[1346][   progress] test_20.cpp DONE
+[1347][   progress] test_12.cpp DONE
+[1335][   progress] test_22.cpp DONE
+[1346][   progress] test_11.cpp starting
+[1349][   progress] test_19.cpp starting
+[1350][   progress] test_35.cpp starting
+[1351][   progress] test_17.cpp starting
+[1350][   progress] test_35.cpp DONE
+[1346][   progress] test_11.cpp DONE
+[1351][   progress] test_17.cpp DONE
+[1349][   progress] test_19.cpp DONE
+[1349][   progress] test_14.cpp starting
+[1348][   progress] test_4.cpp starting
+[1347][   progress] test_7.cpp starting
+[1350][   progress] test_40.cpp starting
+[1365][   progress] test_37.cpp starting
+[1371][   progress] test_10.cpp starting
+[1348][   progress] test_4.cpp DONE
+[1347][   progress] test_7.cpp DONE
+[1350][   progress] test_40.cpp DONE
+[1365][   progress] test_37.cpp DONE
+[1371][   progress] test_10.cpp DONE
+[1349][   progress] test_14.cpp DONE
+[1347][   progress] test_17.cpp starting
+[1348][   progress] test_35.cpp starting
+[1351][   progress] test_11.cpp starting
+[1372][   progress] test_12.cpp starting
+[1373][   progress] test_20.cpp starting
+[1342][   progress] test_9.cpp starting
+[1372][   progress] test_12.cpp DONE
+[1347][   progress] test_17.cpp DONE
+[1373][   progress] test_20.cpp DONE
+[1351][   progress] test_11.cpp DONE
+[1342][   progress] test_9.cpp DONE
+[1348][   progress] test_35.cpp DONE
+[1338][   progress] test_13.cpp starting
+[1341][   progress] test_2.cpp starting
+[1340][   progress] test_33.cpp starting
+[1341][   progress] test_2.cpp DONE
+[1340][   progress] test_33.cpp DONE
+[1338][   progress] test_13.cpp DONE
+[1356][   progress] test_12.cpp starting
+[1373][   progress] test_25.cpp starting
+[1373][   progress] test_25.cpp DONE
+[1356][   progress] test_12.cpp DONE
+[1364][   progress] test_6.cpp starting
+[1359][   progress] test_37.cpp starting
+[1365][   progress] test_38.cpp starting
+[1334][   progress] test_34.cpp starting
+[1364][   progress] test_6.cpp DONE
+[1365][   progress] test_38.cpp DONE
+[1359][   progress] test_37.cpp DONE
+[1334][   progress] test_34.cpp DONE
+[1334][   progress] test_34.cpp starting
+[1364][   progress] test_33.cpp starting
+[1367][   progress] test_30.cpp starting
+[1363][   progress] test_2.cpp starting
+[1366][   progress] test_8.cpp starting
+[1365][   progress] test_23.cpp starting
+[1368][   progress] test_39.cpp starting
+[1364][   progress] test_33.cpp DONE
+[1366][   progress] test_8.cpp DONE
+[1363][   progress] test_2.cpp DONE
+[1367][   progress] test_30.cpp DONE
+[1368][   progress] test_39.cpp DONE
+[1365][   progress] test_23.cpp DONE
+[1334][   progress] test_34.cpp DONE
+[1349][   progress] test_17.cpp starting
+[1360][   progress] test_25.cpp starting
+[1371][   progress] test_8.cpp starting
+[1370][   progress] test_30.cpp starting
+[1373][   progress] test_2.cpp starting
+[1372][   progress] test_33.cpp starting
+[1360][   progress] test_25.cpp DONE
+[1371][   progress] test_8.cpp DONE
+[1370][   progress] test_30.cpp DONE
+[1372][   progress] test_33.cpp DONE
+[1373][   progress] test_2.cpp DONE
+[1349][   progress] test_17.cpp DONE
+[1337][   progress] test_37.cpp starting
+[1337][   progress] test_37.cpp DONE
+[1347][   progress] test_7.cpp starting
+[1343][   progress] test_4.cpp starting
+[1351][   progress] test_40.cpp starting
+[1359][   progress] test_2.cpp starting
+[1361][   progress] test_33.cpp starting
+[1366][   progress] test_1.cpp starting
+[1367][   progress] test_31.cpp starting
+[1361][   progress] test_33.cpp DONE
+[1351][   progress] test_40.cpp DONE
+[1366][   progress] test_1.cpp DONE
+[1343][   progress] test_4.cpp DONE
+[1347][   progress] test_7.cpp DONE
+[1359][   progress] test_2.cpp DONE
+[1367][   progress] test_31.cpp DONE
+[1357][   progress] test_39.cpp starting
+[1337][   progress] test_20.cpp starting
+[1338][   progress] test_11.cpp starting
+[1340][   progress] test_9.cpp starting
+[1348][   progress] test_25.cpp starting
+[1357][   progress] test_39.cpp DONE
+[1349][   progress] test_8.cpp starting
+[1348][   progress] test_25.cpp DONE
+[1337][   progress] test_20.cpp DONE
+[1338][   progress] test_11.cpp DONE
+[1340][   progress] test_9.cpp DONE
+[1349][   progress] test_8.cpp DONE
+[1340][   progress] test_30.cpp starting
+[1346][   progress] test_23.cpp starting
+[1360][   progress] test_39.cpp starting
+[1353][   progress] test_26.cpp starting
+[1367][   progress] test_10.cpp starting
+[1340][   progress] test_30.cpp DONE
+[1346][   progress] test_23.cpp DONE
+[1353][   progress] test_26.cpp DONE
+[1360][   progress] test_39.cpp DONE
+[1367][   progress] test_10.cpp DONE
+[1359][   progress] test_6.cpp starting
+[1370][   progress] test_33.cpp starting
+[1369][   progress] test_1.cpp starting
+[1373][   progress] test_40.cpp starting
+[1335][   progress] test_7.cpp starting
+[1338][   progress] test_2.cpp starting
+[1336][   progress] test_4.cpp starting
+[1340][   progress] test_25.cpp starting
+[1337][   progress] test_31.cpp starting
+[1342][   progress] test_9.cpp starting
+[1344][   progress] test_20.cpp starting
+[1343][   progress] test_11.cpp starting
+[1352][   progress] test_30.cpp starting
+[1354][   progress] test_23.cpp starting
+[1369][   progress] test_1.cpp DONE
+[1338][   progress] test_2.cpp DONE
+[1370][   progress] test_33.cpp DONE
+[1340][   progress] test_25.cpp DONE
+[1359][   progress] test_6.cpp DONE
+[1337][   progress] test_31.cpp DONE
+[1336][   progress] test_4.cpp DONE
+[1342][   progress] test_9.cpp DONE
+[1335][   progress] test_7.cpp DONE
+[1352][   progress] test_30.cpp DONE
+[1344][   progress] test_20.cpp DONE
+[1373][   progress] test_40.cpp DONE
+[1343][   progress] test_11.cpp DONE
+[1354][   progress] test_23.cpp DONE
+[1368][   progress] test_1.cpp starting
+[1337][   progress] test_38.cpp starting
+[1349][   progress] test_26.cpp starting
+[1346][   progress] test_8.cpp starting
+[1351][   progress] test_39.cpp starting
+[1354][   progress] test_33.cpp starting
+[1353][   progress] test_2.cpp starting
+[1345][   progress] test_6.cpp starting
+[1357][   progress] test_31.cpp starting
+[1347][   progress] test_9.cpp starting
+[1337][   progress] test_38.cpp DONE
+[1358][   progress] test_4.cpp starting
+[1356][   progress] test_25.cpp starting
+[1368][   progress] test_1.cpp DONE
+[1349][   progress] test_26.cpp DONE
+[1351][   progress] test_39.cpp DONE
+[1353][   progress] test_2.cpp DONE
+[1347][   progress] test_9.cpp DONE
+[1345][   progress] test_6.cpp DONE
+[1354][   progress] test_33.cpp DONE
+[1357][   progress] test_31.cpp DONE
+[1346][   progress] test_8.cpp DONE
+[1356][   progress] test_25.cpp DONE
+[1358][   progress] test_4.cpp DONE
+[1372][   progress] test_7.cpp starting
+[1347][   progress] test_38.cpp starting
+[1349][   progress] test_1.cpp starting
+[1352][   progress] test_10.cpp starting
+[1337][   progress] test_11.cpp starting
+[1373][   progress] test_40.cpp starting
+[1336][   progress] test_20.cpp starting
+[1344][   progress] test_2.cpp starting
+[1335][   progress] test_30.cpp starting
+[1342][   progress] test_31.cpp starting
+[1343][   progress] test_33.cpp starting
+[1353][   progress] test_26.cpp starting
+[1345][   progress] test_39.cpp starting
+[1372][   progress] test_7.cpp DONE
+[1352][   progress] test_10.cpp DONE
+[1344][   progress] test_2.cpp DONE
+[1337][   progress] test_11.cpp DONE
+[1373][   progress] test_40.cpp DONE
+[1345][   progress] test_39.cpp DONE
+[1349][   progress] test_1.cpp DONE
+[1336][   progress] test_20.cpp DONE
+[1335][   progress] test_30.cpp DONE
+[1353][   progress] test_26.cpp DONE
+[1342][   progress] test_31.cpp DONE
+[1343][   progress] test_33.cpp DONE
+[1347][   progress] test_38.cpp DONE
+[1345][   progress] test_13.cpp starting
+[1343][   progress] test_18.cpp starting
+[1354][   progress] test_15.cpp starting
+[1363][   progress] test_3.cpp starting
+[1365][   progress] test_17.cpp starting
+[1343][   progress] test_18.cpp DONE
+[1363][   progress] test_3.cpp DONE
+[1345][   progress] test_13.cpp DONE
+[1365][   progress] test_17.cpp DONE
+[1344][   progress] test_35.cpp starting
+[1357][   progress] test_16.cpp starting
+[1359][   progress] test_34.cpp starting
+[1344][   progress] test_35.cpp DONE
+[1370][   progress] test_14.cpp starting
+[1357][   progress] test_16.cpp DONE
+[1359][   progress] test_34.cpp DONE
+[1370][   progress] test_14.cpp DONE
+[1342][   progress] test_21.cpp starting
+[1341][   progress] test_29.cpp starting
+[1342][   progress] test_21.cpp DONE
+[1341][   progress] test_29.cpp DONE
+[1334][   progress] test_5.cpp starting
+[1334][   progress] test_5.cpp DONE
+[1342][   progress] test_19.cpp starting
+[1342][   progress] test_19.cpp DONE
+[1341][   progress] test_36.cpp starting
+[1349][   progress] test_12.cpp starting
+[1353][   progress] test_32.cpp starting
+[1341][   progress] test_36.cpp DONE
+[1357][   progress] test_37.cpp starting
+[1349][   progress] test_12.cpp DONE
+[1353][   progress] test_32.cpp DONE
+[1357][   progress] test_37.cpp DONE
+[1343][   progress] test_28.cpp starting
+[1344][   progress] test_38.cpp starting
+[1349][   progress] test_24.cpp starting
+[1343][   progress] test_28.cpp DONE
+[1344][   progress] test_38.cpp DONE
+[1369][   progress] test_22.cpp starting
+[1349][   progress] test_24.cpp DONE
+[1369][   progress] test_22.cpp DONE
+[1351][   progress] test_27.cpp starting
+[1351][   progress] test_27.cpp DONE
+[1360][   progress] test_9.cpp starting
+[1361][   progress] test_8.cpp starting
+[1362][   progress] test_6.cpp starting
+[1363][   progress] test_25.cpp starting
+[1365][   progress] test_16.cpp starting
+[1368][   progress] test_27.cpp starting
+[1369][   progress] test_35.cpp starting
+[1372][   progress] test_34.cpp starting
+[1373][   progress] test_14.cpp starting
+[1354][   progress] test_15.cpp DONE
+[1334][   progress] test_7.cpp starting
+[1368][   progress] test_27.cpp DONE
+[1339][   progress] test_10.cpp starting
+[1340][   progress] test_2.cpp starting
+[1342][   progress] test_11.cpp starting
+[1365][   progress] test_16.cpp DONE
+[1348][   progress] test_21.cpp starting
+[1360][   progress] test_9.cpp DONE
+[1349][   progress] test_29.cpp starting
+[1356][   progress] test_23.cpp starting
+[1357][   progress] test_4.cpp starting
+[1358][   progress] test_40.cpp starting
+[1359][   progress] test_1.cpp starting
+[1364][   progress] test_39.cpp starting
+[1366][   progress] test_20.cpp starting
+[1367][   progress] test_30.cpp starting
+[1362][   progress] test_6.cpp DONE
+[1363][   progress] test_25.cpp DONE
+[1361][   progress] test_8.cpp DONE
+[1372][   progress] test_34.cpp DONE
+[1373][   progress] test_14.cpp DONE
+[1369][   progress] test_35.cpp DONE
+[1349][   progress] test_29.cpp DONE
+[1338][   progress] test_5.cpp starting
+[1343][   progress] test_26.cpp starting
+[1334][   progress] test_7.cpp DONE
+[1345][   progress] test_31.cpp starting
+[1344][   progress] test_33.cpp starting
+[1340][   progress] test_2.cpp DONE
+[1352][   progress] test_19.cpp starting
+[1348][   progress] test_21.cpp DONE
+[1359][   progress] test_1.cpp DONE
+[1366][   progress] test_20.cpp DONE
+[1364][   progress] test_39.cpp DONE
+[1358][   progress] test_40.cpp DONE
+[1356][   progress] test_23.cpp DONE
+[1339][   progress] test_10.cpp DONE
+[1367][   progress] test_30.cpp DONE
+[1342][   progress] test_11.cpp DONE
+[1341][   progress] test_37.cpp starting
+[1357][   progress] test_4.cpp DONE
+[1346][   progress] test_32.cpp starting
+[1348][   progress] test_12.cpp starting
+[1344][   progress] test_33.cpp DONE
+[1350][   progress] test_36.cpp starting
+[1338][   progress] test_5.cpp DONE
+[1343][   progress] test_26.cpp DONE
+[1361][   progress] test_24.cpp starting
+[1352][   progress] test_19.cpp DONE
+[1362][   progress] test_38.cpp starting
+[1363][   progress] test_28.cpp starting
+[1345][   progress] test_31.cpp DONE
+[1366][   progress] test_22.cpp starting
+[1370][   progress] test_17.cpp starting
+[1372][   progress] test_3.cpp starting
+[1341][   progress] test_37.cpp DONE
+[1350][   progress] test_36.cpp DONE
+[1337][   progress] test_13.cpp starting
+[1338][   progress] test_18.cpp starting
+[1361][   progress] test_24.cpp DONE
+[1348][   progress] test_12.cpp DONE
+[1362][   progress] test_38.cpp DONE
+[1363][   progress] test_28.cpp DONE
+[1346][   progress] test_32.cpp DONE
+[1337][   progress] test_13.cpp DONE
+[1372][   progress] test_3.cpp DONE
+[1366][   progress] test_22.cpp DONE
+[1370][   progress] test_17.cpp DONE
+[1338][   progress] test_18.cpp DONE
+[1250][      debug] Backend stats:
+[1250][      debug]   summary_file_try_load= 2606
+[1250][      debug]   summary_read_from_disk= 476
+[1250][      debug]   summary_cache_hits= 286 (9%)
+[1250][      debug]   summary_cache_misses= 2606
+[1250][      debug]   ondemand_procs_analyzed= 7
+[1250][      debug]   proc_locker_lock_time_user= 0.04513600
+[1250][      debug]   proc_locker_lock_time_sys= 0.04242800
+[1250][      debug]   proc_locker_lock_time_wall= 0.09458173
+[1250][      debug]   proc_locker_lock_time_oncpu_pct= 93%
+[1250][      debug]   proc_locker_unlock_time_user= 0.00440500
+[1250][      debug]   proc_locker_unlock_time_sys= 0.00397000
+[1250][      debug]   proc_locker_unlock_time_wall= 0.00887206
+[1250][      debug]   proc_locker_unlock_time_oncpu_pct= 94%
+[1250][      debug]   restart_scheduler_useful_time_user= 0.50455500
+[1250][      debug]   restart_scheduler_useful_time_sys= 0.13564000
+[1250][      debug]   restart_scheduler_useful_time_wall= 0.74333318
+[1250][      debug]   restart_scheduler_useful_time_oncpu_pct= 86%
+[1250][      debug]   restart_scheduler_total_time_user= 0.81331000
+[1250][      debug]   restart_scheduler_total_time_sys= 0.50895500
+[1250][      debug]   restart_scheduler_total_time_wall= 1.42653120
+[1250][      debug]   restart_scheduler_total_time_oncpu_pct= 93%
+[1250][      debug]   pulse_aliasing_contradictions= 0
+[1250][      debug]   pulse_args_length_contradictions= 0
+[1250][      debug]   pulse_captured_vars_length_contradictions= 0
+[1250][      debug]   pulse_disjuncts_dropped= 0
+[1250][      debug]   pulse_interrupted_loops= 0
+[1250][      debug]   pulse_summaries_contradictions= 0
+[1250][      debug]   pulse_summaries_unsat_for_caller= 7
+[1250][      debug]   pulse_summaries_unsat_for_caller_percent= 100
+[1250][      debug]   pulse_summaries_with_some_unreachable_nodes= 6
+[1250][      debug]   pulse_summaries_with_some_unreachable_nodes_percent= 85
+[1250][      debug]   pulse_summaries_with_some_unreachable_returns= 1
+[1250][      debug]   pulse_summaries_with_some_unreachable_returns_percent= 1.4%
+[1250][      debug]   pulse_summaries_count= [1 -> 2, 3 -> 1, 5 -> 3, 14 -> 1]
+[1250][      debug]   pulse_summaries_total_disjuncts= 34
+[1250][      debug]   pulse_summaries_count_0_continue_program= 0
+[1250][      debug]   pulse_summaries_count_0_percent= 0
+[1250][      debug]   topl_reachable_calls= 0
+[1250][      debug]   timeouts= 0
+[1250][      debug]   timings= timings for liveness:
+[1250][      debug]     p10: 0.000000s p20: 0.000001s p30: 0.000001s p40: 0.000034s
+[1250][      debug]     p50: 0.000110s p60: 0.000123s p70: 0.000143s p80: 0.000164s
+[1250][      debug]     p90: 0.000166s p95: 0.000166s p96: 0.000166s p97: 0.000166s
+[1250][      debug]     p98: 0.000166s p99: 0.000166s p99.9: 0.000166s p99.99: 0.000166s 
+[1250][      debug]   timings for parameter-not-null-checked:
+[1250][      debug]     p10: 0.000000s p20: 0.000001s p30: 0.000025s p40: 0.000044s
+[1250][      debug]     p50: 0.000059s p60: 0.000078s p70: 0.000093s p80: 0.000118s
+[1250][      debug]     p90: 0.000151s p95: 0.000180s p96: 0.000187s p97: 0.000228s
+[1250][      debug]     p98: 0.000269s p99: 0.012763s p99.9: 0.034087s p99.99: 0.034087s 
+[1250][      debug]   timings for pulse:
+[1250][      debug]     p10: 0.002210s p20: 0.006294s p30: 0.009471s p40: 0.012509s
+[1250][      debug]     p50: 0.015562s p60: 0.018958s p70: 0.020676s p80: 0.021164s
+[1250][      debug]     p90: 0.021840s p95: 0.022033s p96: 0.022033s p97: 0.022033s
+[1250][      debug]     p98: 0.022033s p99: 0.022033s p99.9: 0.022033s p99.99: 0.022033s 
+[1250][      debug]   timings for racerd:
+[1250][      debug]     p10: 0.000000s p20: 0.000053s p30: 0.000146s p40: 0.000238s
+[1250][      debug]     p50: 0.000328s p60: 0.000441s p70: 0.000505s p80: 0.000847s
+[1250][      debug]     p90: 0.003082s p95: 0.003720s p96: 0.003720s p97: 0.003720s
+[1250][      debug]     p98: 0.003720s p99: 0.003720s p99.9: 0.003720s p99.99: 0.003720s 
+[1250][      debug]   timings for self-in-block:
+[1250][      debug]     p10: 0.000000s p20: 0.000000s p30: 0.000001s p40: 0.000002s
+[1250][      debug]     p50: 0.000002s p60: 0.000003s p70: 0.000003s p80: 0.000004s
+[1250][      debug]     p90: 0.000006s p95: 0.000010s p96: 0.000011s p97: 0.000012s
+[1250][      debug]     p98: 0.000013s p99: 0.000016s p99.9: 0.000025s p99.99: 0.000025s 
+[1250][      debug]   timings for siof:
+[1250][      debug]     p10: 0.000000s p20: 0.000001s p30: 0.000101s p40: 0.000182s
+[1250][      debug]     p50: 0.000216s p60: 0.000235s p70: 0.000272s p80: 0.000317s
+[1250][      debug]     p90: 0.000330s p95: 0.000334s p96: 0.000334s p97: 0.000334s
+[1250][      debug]     p98: 0.000334s p99: 0.000334s p99.9: 0.000334s p99.99: 0.000334s 
+[1250][      debug]   timings for starvation:
+[1250][      debug]     p10: 0.000000s p20: 0.000003s p30: 0.000018s p40: 0.000065s
+[1250][      debug]     p50: 0.000091s p60: 0.000137s p70: 0.000161s p80: 0.000210s
+[1250][      debug]     p90: 0.000382s p95: 0.001846s p96: 0.002237s p97: 0.002405s
+[1250][      debug]     p98: 0.002487s p99: 0.003468s p99.9: 0.020740s p99.99: 0.020740s 
+[1250][      debug]   timings for preanalysis:
+[1250][      debug]     p10: 0.000000s p20: 0.000008s p30: 0.000133s p40: 0.000221s
+[1250][      debug]     p50: 0.000287s p60: 0.000374s p70: 0.000476s p80: 0.000594s
+[1250][      debug]     p90: 0.000759s p95: 0.003955s p96: 0.005238s p97: 0.031586s
+[1250][      debug]     p98: 0.060440s p99: 0.063306s p99.9: 0.084283s p99.99: 0.084283s 
+[1250][      debug]   
+[1250][      debug]   longest_proc_duration_heap= [
+[1250][      debug]   210427us: test_36.cpp: cmp
+[1250][      debug]   125258us: test_36.cpp: test4
+[1250][      debug]   125069us: test_40.cpp: test2
+[1250][      debug]   93965us: test_40.cpp: test3_1
+[1250][      debug]   93856us: test_40.cpp: test3_2
+[1250][      debug]   93282us: test_40.cpp: test1
+[1250][      debug]   63356us: test_36.cpp: cmp
+[1250][      debug]   ]
+[1250][      debug]   process_times_user= 2.12259900
+[1250][      debug]   process_times_sys= 1.97073200
+[1250][      debug]   process_times_wall= 66.49689405
+[1250][      debug]   process_times_oncpu_pct= 6%
+[1250][      debug]   useful_times_user= 2.07854100
+[1250][      debug]   useful_times_sys= 1.93155800
+[1250][      debug]   useful_times_wall= 4.18982143
+[1250][      debug]   useful_times_oncpu_pct= 96%
+[1250][      debug]   spec_store_times_user= 0.35930600
+[1250][      debug]   spec_store_times_sys= 0.01073800
+[1250][      debug]   spec_store_times_wall= 0.47280078
+[1250][      debug]   spec_store_times_oncpu_pct= 78%
+[1250][      debug]   
+[1250][      debug] GC stats for backend_stats.gc_stats_add.:
+[1250][      debug]   minor_words: 2.99213e+07
+[1250][      debug]   promoted_words: 3.60329e+06
+[1250][      debug]   major_words: 6.58714e+06
+[1250][      debug]   minor_collections: 32
+[1250][      debug]   major_collections: 0
+[1250][      debug]   compactions: 0
+[1250][      debug]   top_heap_words: 4670074880
+[1250][      debug]   
+[1250][      debug] GC stats for backend_stats.gc_stats_max.:
+[1250][      debug]   minor_words: 3.16605e+06
+[1250][      debug]   promoted_words: 402818
+[1250][      debug]   major_words: 484168
+[1250][      debug]   minor_collections: 3
+[1250][      debug]   major_collections: 0
+[1250][      debug]   compactions: 0
+[1250][      debug]   top_heap_words: 116751872
+[1250][      debug]   
+[1250][      debug] Average over 40 processes
+[1250][      debug] GC stats for backend_stats.gc_stats_average.:
+[1250][      debug]   minor_words: 748034
+[1250][      debug]   promoted_words: 90082.3
+[1250][      debug]   major_words: 164678
+[1250][      debug]   minor_collections: 0
+[1250][      debug]   major_collections: 0
+[1250][      debug]   compactions: 0
+[1250][      debug]   top_heap_words: 116751872
+[1250][      debug]   
+[1250][      debug] Analysis phase finished in 2.02s
+[1250][      debug] backend_stats.scheduler_process_analysis_time_user= 0.76725900
+[1250][      debug] backend_stats.scheduler_process_analysis_time_sys= 0.91311600
+[1250][      debug] backend_stats.scheduler_process_analysis_time_wall= 2.01838747
+[1250][      debug] backend_stats.scheduler_process_analysis_time_oncpu_pct= 83%
+[1250][      debug] GC stats for analysis_scheduler:
+[1250][      debug]   minor_words: 5.48617e+06
+[1250][      debug]   promoted_words: 88657
+[1250][      debug]   major_words: 445017
+[1250][      debug]   minor_collections: 6
+[1250][      debug]   major_collections: 2
+[1250][      debug]   compactions: 1
+[1250][      debug]   top_heap_words: 116751872
+[1250][      debug]   
+[1250][      debug] GC stats for report:
+[1250][      debug]   minor_words: 7376
+[1250][      debug]   promoted_words: 0
+[1250][      debug]   major_words: 514
+[1250][      debug]   minor_collections: 0
+[1250][      debug]   major_collections: 0
+[1250][      debug]   compactions: 0
+[1250][      debug]   top_heap_words: 116751872
+[1250][      debug]   
+[1250][      debug] GC stats for main_process_full:
+[1250][      debug]   minor_words: 2.05876e+09
+[1250][      debug]   promoted_words: 6.97425e+08
+[1250][      debug]   major_words: 7.06219e+08
+[1250][      debug]   minor_collections: 2189
+[1250][      debug]   major_collections: 32
+[1250][      debug]   compactions: 1
+[1250][      debug]   top_heap_words: 116751872
+[1250][      debug]   
+[1251][      debug] Detected 1 spec overwrites.
+[1251][      debug] Sqlite write daemon: terminating
+[1250][      debug] Sqlite write daemon: waiting for process 1251 to finish
+[1251][      debug] dbwriter.useful_time_user= 0.11355800
+[1251][      debug] dbwriter.useful_time_sys= 0.04900700
+[1251][      debug] dbwriter.useful_time_wall= 0.37991556
+[1251][      debug] dbwriter.useful_time_oncpu_pct= 43%
+[1251][      debug] dbwriter.store_sql_user= 0.00177200
+[1251][      debug] dbwriter.store_sql_sys= 0.00060300
+[1251][      debug] dbwriter.store_sql_wall= 0.00241742
+[1251][      debug] dbwriter.store_sql_oncpu_pct= 98%
+[1251][      debug] dbwriter.store_sql_pct= 1%
+[1251][      debug] dbwriter.total_time_user= 0.19201600
+[1251][      debug] dbwriter.total_time_sys= 0.06381000
+[1251][      debug] dbwriter.total_time_wall= 111.27704065
+[1251][      debug] dbwriter.total_time_oncpu_pct= 0%
+[1251][      debug] [1250][      debug] Sqlite write daemon: process 1251 terminated
+[1250][     result] 
+  No issues found  

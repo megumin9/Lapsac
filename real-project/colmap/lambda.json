@@ -1,0 +1,134 @@
+{
+    "/home/lizhilin/compare-order/real-project/colmap/src/colmap/mvs/model.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const std::pair<int, int> image1,\n                   const std::pair<int, int> image2",
+            "is_const": false,
+            "body": "return image1.second > image2.second;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/colmap/src/colmap/retrieval/inverted_file.h": [
+        {
+            "header": "bool lambda0",
+            "params": "const EntryType& entry1, const EntryType& entry2",
+            "is_const": false,
+            "body": "return entry1.image_id < entry2.image_id;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/colmap/src/colmap/ui/point_viewer_widget.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const std::pair<TrackElement, std::string>& track_el1,\n               const std::pair<TrackElement, std::string>& track_el2",
+            "is_const": false,
+            "body": "return track_el1.second < track_el2.second;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/colmap/src/colmap/ui/match_matrix_widget.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const Image& image1, const Image& image2",
+            "is_const": false,
+            "body": "return image1.Name() < image2.Name();"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/colmap/src/colmap/ui/database_management_widget.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const size_t idx1, const size_t idx2",
+            "is_const": false,
+            "body": "return matches_[idx1].second.size() >\n                     matches_[idx2].second.size();"
+        },
+        {
+            "header": "bool lambda1",
+            "params": "const Camera& camera1, const Camera& camera2",
+            "is_const": false,
+            "body": "return camera1.camera_id < camera2.camera_id;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/colmap/src/colmap/estimators/generalized_pose.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "size_t i, size_t j",
+            "is_const": false,
+            "body": "return LowerVector3d(points3D[i], points3D[j]);"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/colmap/src/colmap/scene/reconstruction_manager.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const std::pair<size_t, size_t>& first,\n               const std::pair<size_t, size_t>& second",
+            "is_const": false,
+            "body": "return first.second > second.second;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/colmap/src/colmap/scene/scene_clustering.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const std::pair<std::pair<int, int>, int>& edge1,\n                   const std::pair<std::pair<int, int>, int>& edge2",
+            "is_const": false,
+            "body": "return edge1.second > edge2.second;"
+        },
+        {
+            "header": "bool lambda1",
+            "params": "const Cluster& first, const Cluster& second",
+            "is_const": false,
+            "body": "return first.image_ids.size() >= second.image_ids.size() &&\n                     *std::min_element(first.image_ids.begin(),\n                                       first.image_ids.end()) <\n                         *std::min_element(second.image_ids.begin(),\n                                           second.image_ids.end());"
+        },
+        {
+            "header": "bool lambda2",
+            "params": "const std::pair<int, int>& first,\n                 const std::pair<int, int>& second",
+            "is_const": false,
+            "body": "return first.second > second.second;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/colmap/src/colmap/feature/sift.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const VlCovDetFeature& feature1, const VlCovDetFeature& feature2",
+            "is_const": false,
+            "body": "if (feature1.o == feature2.o) {\n            return feature1.s > feature2.s;\n          } else {\n            return feature1.o > feature2.o;\n          }"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/colmap/src/colmap/feature/pairing.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const Image& image1, const Image& image2",
+            "is_const": false,
+            "body": "return image1.Name() < image2.Name();"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/colmap/src/colmap/controllers/hierarchical_pipeline.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const SceneClustering::Cluster* cluster1,\n               const SceneClustering::Cluster* cluster2",
+            "is_const": false,
+            "body": "return cluster1->image_ids.size() > cluster2->image_ids.size();"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/colmap/src/colmap/sfm/incremental_mapper_impl.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const std::pair<image_t, float>& image1,\n               const std::pair<image_t, float>& image2",
+            "is_const": false,
+            "body": "return image1.second > image2.second;"
+        },
+        {
+            "header": "bool lambda1",
+            "params": "const ImageInfo& image_info1, const ImageInfo& image_info2",
+            "is_const": false,
+            "body": "if (image_info1.prior_focal_length && !image_info2.prior_focal_length) {\n          return true;\n        } else if (!image_info1.prior_focal_length &&\n                   image_info2.prior_focal_length) {\n          return false;\n        } else {\n          return image_info1.num_correspondences >\n                 image_info2.num_correspondences;\n        }"
+        },
+        {
+            "header": "bool lambda2",
+            "params": "const ImageInfo& image_info1, const ImageInfo& image_info2",
+            "is_const": false,
+            "body": "if (image_info1.prior_focal_length && !image_info2.prior_focal_length) {\n          return true;\n        } else if (!image_info1.prior_focal_length &&\n                   image_info2.prior_focal_length) {\n          return false;\n        } else {\n          return image_info1.num_correspondences >\n                 image_info2.num_correspondences;\n        }"
+        },
+        {
+            "header": "bool lambda3",
+            "params": "const std::pair<image_t, size_t>& image1,\n               const std::pair<image_t, size_t>& image2",
+            "is_const": false,
+            "body": "return image1.second > image2.second;"
+        }
+    ]
+}

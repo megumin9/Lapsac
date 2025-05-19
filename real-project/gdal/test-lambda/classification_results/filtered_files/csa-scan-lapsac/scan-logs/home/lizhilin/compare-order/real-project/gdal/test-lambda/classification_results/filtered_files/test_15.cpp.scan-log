@@ -1,0 +1,165 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+hilbert : lazyCompoundVal{0x55919e8cb1d0,nodeItem} derived_$6{conj_$2{int, LC1, S6168334, #1},HILBERT_MAX} derived_$7{conj_$2{int, LC1, S6168334, #1},minX} derived_$8{conj_$2{int, LC1, S6168334, #1},minY} derived_$9{conj_$2{int, LC1, S6168334, #1},width} derived_$10{conj_$2{int, LC1, S6168334, #1},height} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+hilbert : lazyCompoundVal{0x55919e8eba40,nodeItem} derived_$16{conj_$13{int, LC2, S6167069, #1},HILBERT_MAX} derived_$17{conj_$13{int, LC2, S6167069, #1},minX} derived_$18{conj_$13{int, LC2, S6167069, #1},minY} derived_$19{conj_$13{int, LC2, S6167069, #1},width} derived_$20{conj_$13{int, LC2, S6167069, #1},height} 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+hilbert : lazyCompoundVal{0x55919f584440,nodeItem} derived_$6{conj_$2{int, LC5, S6168153, #1},HILBERT_MAX} derived_$7{conj_$2{int, LC5, S6168153, #1},minX} derived_$8{conj_$2{int, LC5, S6168153, #1},minY} derived_$9{conj_$2{int, LC5, S6168153, #1},width} derived_$10{conj_$2{int, LC5, S6168153, #1},height} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+hilbert : lazyCompoundVal{0x55919eb09eb0,nodeItem} derived_$18{conj_$13{int, LC6, S6167069, #1},HILBERT_MAX} derived_$19{conj_$13{int, LC6, S6167069, #1},minX} derived_$20{conj_$13{int, LC6, S6167069, #1},minY} derived_$21{conj_$13{int, LC6, S6167069, #1},width} derived_$22{conj_$13{int, LC6, S6167069, #1},height} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+hilbert : lazyCompoundVal{0x55919f592b00,nodeItem} derived_$28{conj_$25{int, LC6, S6167458, #1},HILBERT_MAX} derived_$29{conj_$25{int, LC6, S6167458, #1},minX} derived_$30{conj_$25{int, LC6, S6167458, #1},minY} derived_$31{conj_$25{int, LC6, S6167458, #1},width} derived_$32{conj_$25{int, LC6, S6167458, #1},height} NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+hilbert : lazyCompoundVal{0x55919f5f42b0,nodeItem} derived_$38{conj_$35{int, LC9, S6167069, #1},HILBERT_MAX} derived_$39{conj_$35{int, LC9, S6167069, #1},minX} derived_$40{conj_$35{int, LC9, S6167069, #1},minY} derived_$41{conj_$35{int, LC9, S6167069, #1},width} derived_$42{conj_$35{int, LC9, S6167069, #1},height} 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+hilbert : lazyCompoundVal{0x55919ed0caa8,nodeItem} derived_$6{conj_$2{int, LC1, S6167914, #1},HILBERT_MAX} derived_$7{conj_$2{int, LC1, S6167914, #1},minX} derived_$8{conj_$2{int, LC1, S6167914, #1},minY} derived_$9{conj_$2{int, LC1, S6167914, #1},width} derived_$10{conj_$2{int, LC1, S6167914, #1},height} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+hilbert : lazyCompoundVal{0x55919eb30600,nodeItem} derived_$18{conj_$13{int, LC12, S6167069, #1},HILBERT_MAX} derived_$19{conj_$13{int, LC12, S6167069, #1},minX} derived_$20{conj_$13{int, LC12, S6167069, #1},minY} derived_$21{conj_$13{int, LC12, S6167069, #1},width} derived_$22{conj_$13{int, LC12, S6167069, #1},height} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+hilbert : lazyCompoundVal{0x55919eb30690,nodeItem} derived_$28{conj_$25{int, LC12, S6167458, #1},HILBERT_MAX} derived_$29{conj_$25{int, LC12, S6167458, #1},minX} derived_$30{conj_$25{int, LC12, S6167458, #1},minY} derived_$31{conj_$25{int, LC12, S6167458, #1},width} derived_$32{conj_$25{int, LC12, S6167458, #1},height} NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+hilbert : lazyCompoundVal{0x55919f5f4bc8,nodeItem} derived_$40{conj_$35{int, LC15, S6167069, #1},HILBERT_MAX} derived_$41{conj_$35{int, LC15, S6167069, #1},minX} derived_$42{conj_$35{int, LC15, S6167069, #1},minY} derived_$43{conj_$35{int, LC15, S6167069, #1},width} derived_$44{conj_$35{int, LC15, S6167069, #1},height} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+hilbert : lazyCompoundVal{0x55919f5ff880,nodeItem} derived_$50{conj_$47{int, LC15, S6167458, #1},HILBERT_MAX} derived_$51{conj_$47{int, LC15, S6167458, #1},minX} derived_$52{conj_$47{int, LC15, S6167458, #1},minY} derived_$53{conj_$47{int, LC15, S6167458, #1},width} derived_$54{conj_$47{int, LC15, S6167458, #1},height} NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+hilbert : lazyCompoundVal{0x55919f00e150,nodeItem} derived_$60{conj_$57{int, LC18, S6167069, #1},HILBERT_MAX} derived_$61{conj_$57{int, LC18, S6167069, #1},minX} derived_$62{conj_$57{int, LC18, S6167069, #1},minY} derived_$63{conj_$57{int, LC18, S6167069, #1},width} derived_$64{conj_$57{int, LC18, S6167069, #1},height} 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+hilbert : lazyCompoundVal{0x55919d7982d0,nodeItem} derived_$6{conj_$2{int, LC21, S6167628, #1},HILBERT_MAX} derived_$7{conj_$2{int, LC21, S6167628, #1},minX} derived_$8{conj_$2{int, LC21, S6167628, #1},minY} derived_$9{conj_$2{int, LC21, S6167628, #1},width} derived_$10{conj_$2{int, LC21, S6167628, #1},height} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+hilbert : lazyCompoundVal{0x55919eb302f0,nodeItem} derived_$18{conj_$13{int, LC22, S6167069, #1},HILBERT_MAX} derived_$19{conj_$13{int, LC22, S6167069, #1},minX} derived_$20{conj_$13{int, LC22, S6167069, #1},minY} derived_$21{conj_$13{int, LC22, S6167069, #1},width} derived_$22{conj_$13{int, LC22, S6167069, #1},height} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+hilbert : lazyCompoundVal{0x55919f1cc9d8,nodeItem} derived_$28{conj_$25{int, LC22, S6167458, #1},HILBERT_MAX} derived_$29{conj_$25{int, LC22, S6167458, #1},minX} derived_$30{conj_$25{int, LC22, S6167458, #1},minY} derived_$31{conj_$25{int, LC22, S6167458, #1},width} derived_$32{conj_$25{int, LC22, S6167458, #1},height} NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+hilbert : lazyCompoundVal{0x55919f5f5030,nodeItem} derived_$40{conj_$35{int, LC25, S6167069, #1},HILBERT_MAX} derived_$41{conj_$35{int, LC25, S6167069, #1},minX} derived_$42{conj_$35{int, LC25, S6167069, #1},minY} derived_$43{conj_$35{int, LC25, S6167069, #1},width} derived_$44{conj_$35{int, LC25, S6167069, #1},height} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+hilbert : lazyCompoundVal{0x55919f009160,nodeItem} derived_$50{conj_$47{int, LC25, S6167458, #1},HILBERT_MAX} derived_$51{conj_$47{int, LC25, S6167458, #1},minX} derived_$52{conj_$47{int, LC25, S6167458, #1},minY} derived_$53{conj_$47{int, LC25, S6167458, #1},width} derived_$54{conj_$47{int, LC25, S6167458, #1},height} NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+hilbert : lazyCompoundVal{0x55919f00d8f8,nodeItem} derived_$60{conj_$57{int, LC28, S6167069, #1},HILBERT_MAX} derived_$61{conj_$57{int, LC28, S6167069, #1},minX} derived_$62{conj_$57{int, LC28, S6167069, #1},minY} derived_$63{conj_$57{int, LC28, S6167069, #1},width} derived_$64{conj_$57{int, LC28, S6167069, #1},height} 
+
+
+
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 0

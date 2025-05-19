@@ -1,0 +1,374 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88988
+
+The Road is: x88988
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88888
+
+The Road is: x88888
+
+
+
+
+
+NowTime: 0
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88888
+
+The Road is: x88888
+
+
+
+
+
+NowTime: 0
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+
+
+
+NowTime: 0
+
+The Road is: x998888
+
+The Road is: x998888
+
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88888
+
+The Road is: x88888
+
+
+
+
+NowTime: 0
+
+
+
+
+
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88888888
+
+The Road is: x88888888
+
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x89988998888
+
+The Road is: x89988998888
+
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+
+
+
+NowTime: 0
+
+The Road is: x999888
+
+The Road is: x999888
+
+
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98888
+
+The Road is: x98888
+
+
+
+
+NowTime: 0
+
+
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88888
+
+The Road is: x88888
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88888888
+
+The Road is: x88888888
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x898898888
+
+The Road is: x898898888
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8988999888
+
+The Road is: x8988999888
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8999898888
+
+The Road is: x8999898888
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x89998999888
+
+The Road is: x89998999888
+
+
+
+
+/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_44.cpp:29:9: warning: Violation of Consistency [CompareCheck.FunctionChecker]
+   29 |         ConsistencyChecker();
+      |         ^~~~~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_44.cpp:35:9: warning: Violation of Transitivity [CompareCheck.FunctionChecker]
+   35 |         TransiveChecker();
+      |         ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_44.cpp:53:9: warning: Violation of Anti-Reflexivity [CompareCheck.FunctionChecker]
+   53 |         ReflexivityChecker();
+      |         ^~~~~~~~~~~~~~~~~~~~
+3 warnings generated.
+Total paths analyzed: 4
+Total paths analyzed: 6
+Total paths analyzed: 6
+Total paths analyzed: 22
+Total paths analyzed: 46

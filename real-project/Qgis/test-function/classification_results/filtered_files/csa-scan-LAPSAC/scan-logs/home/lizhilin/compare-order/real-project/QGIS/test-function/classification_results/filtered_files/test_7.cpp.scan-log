@@ -1,0 +1,355 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+label : &a NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+Now have label
+insert:
+localeAwareCompare : &temp_object{QString, S6166883} &temp_object{QString, S6166961} 
+
+The Road is: x2
+-----------------
+Now have label
+insert:
+localeAwareCompare : &temp_object{QString, S6166883} &temp_object{QString, S6166961} 
+
+The Road is: x1
+-----------------
+Now have label
+insert:
+localeAwareCompare : &temp_object{QString, S6166883} &temp_object{QString, S6166961} 
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+label : &a NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+label : &b NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+Now have label
+Now have label
+insert:
+localeAwareCompare : &temp_object{QString, S6166883} &temp_object{QString, S6166961} 
+
+The Road is: x2
+-----------------
+Now have label
+Now have label
+insert:
+localeAwareCompare : &temp_object{QString, S6166883} &temp_object{QString, S6166961} 
+
+The Road is: x1
+-----------------
+Now have label
+Now have label
+insert:
+localeAwareCompare : &temp_object{QString, S6166883} &temp_object{QString, S6166961} 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+-----------------
+Now have label
+Now have label
+Now have localeAwareCompare
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+label : &a NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+label : &b NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+Now have label
+Now have label
+insert:
+localeAwareCompare : &temp_object{QString, S6166883} &temp_object{QString, S6166961} 
+
+The Road is: x2
+-----------------
+Now have label
+Now have label
+insert:
+localeAwareCompare : &temp_object{QString, S6166883} &temp_object{QString, S6166961} 
+
+The Road is: x1
+-----------------
+Now have label
+Now have label
+insert:
+localeAwareCompare : &temp_object{QString, S6166883} &temp_object{QString, S6166961} 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+insert:
+label : &c NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+-----------------
+Now have label
+Now have label
+Now have localeAwareCompare
+Now have label
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x088
+
+The Road is: x088
+NowTime: 0
+
+The Road is: x088
+
+The Road is: x088
+NowTime: 0
+
+The Road is: x088
+
+The Road is: x088
+-----------------
+Now have label
+Now have label
+Now have localeAwareCompare
+Now have label
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+label : &a NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+label : &b NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+Now have label
+Now have label
+insert:
+localeAwareCompare : &temp_object{QString, S6166883} &temp_object{QString, S6166961} 
+
+The Road is: x2
+-----------------
+Now have label
+Now have label
+insert:
+localeAwareCompare : &temp_object{QString, S6166883} &temp_object{QString, S6166961} 
+
+The Road is: x1
+-----------------
+Now have label
+Now have label
+insert:
+localeAwareCompare : &temp_object{QString, S6166883} &temp_object{QString, S6166961} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+insert:
+label : &c NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+-----------------
+Now have label
+Now have label
+Now have localeAwareCompare
+Now have label
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 0
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 0
+
+The Road is: x188
+
+The Road is: x188
+-----------------
+Now have label
+Now have label
+Now have localeAwareCompare
+Now have label
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x28
+
+The Road is: x28
+NowTime: 0
+
+The Road is: x28
+
+The Road is: x28
+insert:
+label : &c NowTime: 0
+
+The Road is: x28
+
+The Road is: x28
+-----------------
+Now have label
+Now have label
+Now have localeAwareCompare
+Now have label
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x288
+
+The Road is: x288
+NowTime: 0
+
+The Road is: x288
+
+The Road is: x288
+NowTime: 0
+
+The Road is: x288
+
+The Road is: x288
+-----------------
+Now have label
+Now have label
+Now have localeAwareCompare
+Now have label
+
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 0

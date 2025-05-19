@@ -1,0 +1,13 @@
+/home/lizhilin/compare-order/real-project/openvino/test-lambda/test_30.cpp:13:16: error: no matching member function for call to 'meta'
+   13 |         return meta(a).get<detail::CreateIdx>().m_idx < meta(b).get<detail::CreateIdx>().m_idx;
+      |                ^~~~
+/home/lizhilin/compare-order/real-project/openvino/test-lambda/test_30.cpp:47:38: note: candidate template ignored: couldn't infer template argument 'T'
+   47 |     template<typename T> MetaType<T> meta(const own::ade::NodeHandle&) const { return {}; }
+      |                                      ^
+/home/lizhilin/compare-order/real-project/openvino/test-lambda/test_30.cpp:13:57: error: no matching member function for call to 'meta'
+   13 |         return meta(a).get<detail::CreateIdx>().m_idx < meta(b).get<detail::CreateIdx>().m_idx;
+      |                                                         ^~~~
+/home/lizhilin/compare-order/real-project/openvino/test-lambda/test_30.cpp:47:38: note: candidate template ignored: couldn't infer template argument 'T'
+   47 |     template<typename T> MetaType<T> meta(const own::ade::NodeHandle&) const { return {}; }
+      |                                      ^
+2 errors generated.

@@ -1,0 +1,1098 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+fileTime : &a 0 U32b NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+isValid : &t1 NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+isValid : &t2 NowTime: 0
+
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+insert:
+fileTime : &a 1 U32b NowTime: 0
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+fileTime : &a 1 U32b NowTime: 0
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+isValid : &t2 NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+NowTime: 0
+
+NowTime: 0
+
+NowTime: 0
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+fileTime : &a 0 U32b NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+isValid : &t1 NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+fileTime : &b 0 U32b NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+isValid : &t2 NowTime: 0
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x998
+
+The Road is: x998
+NowTime: 0
+
+The Road is: x998
+
+The Road is: x998
+NowTime: 0
+
+The Road is: x9989
+
+The Road is: x9989
+NowTime: 0
+
+The Road is: x9989
+
+The Road is: x9989
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+insert:
+fileTime : &b 1 U32b NowTime: 0
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+fileTime : &a 1 U32b NowTime: 0
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+fileTime : &b 0 U32b NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+isValid : &t2 NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+fileTime : &b 1 U32b NowTime: 0
+NowTime: 0
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+NowTime: 0
+
+The Road is: x9889
+
+The Road is: x9889
+NowTime: 0
+
+The Road is: x9889
+
+The Road is: x9889
+NowTime: 0
+
+The Road is: x98898
+
+The Road is: x98898
+insert:
+fileTime : &a 1 U32b NowTime: 0
+NowTime: 0
+
+NowTime: 0
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x898
+
+The Road is: x898
+NowTime: 0
+
+The Road is: x898
+
+The Road is: x898
+NowTime: 0
+
+The Road is: x8988
+
+The Road is: x8988
+insert:
+fileTime : &b 1 U32b NowTime: 0
+NowTime: 0
+
+The Road is: x8988
+
+The Road is: x8988
+NowTime: 0
+
+The Road is: x8988
+
+The Road is: x8988
+NowTime: 0
+
+NowTime: 0
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+NowTime: 0
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+NowTime: 0
+
+The Road is: x88888
+
+The Road is: x88888
+NowTime: 0
+NowTime: 0
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+fileTime : &a 0 U32b NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+isValid : &t1 NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+fileTime : &b 0 U32b NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+isValid : &t2 NowTime: 0
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x998
+
+The Road is: x998
+NowTime: 0
+
+The Road is: x998
+
+The Road is: x998
+NowTime: 0
+
+The Road is: x9989
+
+The Road is: x9989
+NowTime: 0
+
+The Road is: x9989
+
+The Road is: x9989
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+insert:
+fileTime : &b 1 U32b NowTime: 0
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+fileTime : &a 1 U32b NowTime: 0
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+fileTime : &b 0 U32b NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+isValid : &t2 NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+fileTime : &b 1 U32b NowTime: 0
+NowTime: 0
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+NowTime: 0
+
+The Road is: x9889
+
+The Road is: x9889
+NowTime: 0
+
+The Road is: x9889
+
+The Road is: x9889
+NowTime: 0
+
+The Road is: x98898
+
+The Road is: x98898
+insert:
+fileTime : &a 1 U32b NowTime: 0
+NowTime: 0
+
+NowTime: 0
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x898
+
+The Road is: x898
+NowTime: 0
+
+The Road is: x898
+
+The Road is: x898
+NowTime: 0
+
+The Road is: x8988
+
+The Road is: x8988
+insert:
+fileTime : &b 1 U32b NowTime: 0
+NowTime: 0
+
+The Road is: x8988
+
+The Road is: x8988
+NowTime: 0
+
+The Road is: x8988
+
+The Road is: x8988
+NowTime: 0
+
+NowTime: 0
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+NowTime: 0
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+NowTime: 0
+
+The Road is: x88888
+
+The Road is: x88888
+NowTime: 0
+NowTime: 0
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+fileTime : &a 0 U32b NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+isValid : &t1 NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+fileTime : &b 0 U32b NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+isValid : &t2 NowTime: 0
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x998
+
+The Road is: x998
+NowTime: 0
+
+The Road is: x998
+
+The Road is: x998
+NowTime: 0
+
+The Road is: x9989
+
+The Road is: x9989
+insert:
+fileTime : &c 0 U32b NowTime: 0
+
+The Road is: x9989
+
+The Road is: x9989
+NowTime: 0
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x998998
+
+The Road is: x998998
+NowTime: 0
+
+The Road is: x998998
+
+The Road is: x998998
+NowTime: 0
+
+The Road is: x9989989
+
+The Road is: x9989989
+NowTime: 0
+
+The Road is: x9989989
+
+The Road is: x9989989
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+insert:
+fileTime : &b 1 U32b NowTime: 0
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+fileTime : &a 1 U32b NowTime: 0
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+fileTime : &b 0 U32b NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+isValid : &t2 NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+fileTime : &b 1 U32b NowTime: 0
+NowTime: 0
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+NowTime: 0
+
+The Road is: x9889
+
+The Road is: x9889
+insert:
+fileTime : &c 0 U32b NowTime: 0
+
+The Road is: x9889
+
+The Road is: x9889
+NowTime: 0
+
+The Road is: x98898
+
+The Road is: x98898
+insert:
+fileTime : &c 1 U32b NowTime: 0
+NowTime: 0
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x988988
+
+The Road is: x988988
+NowTime: 0
+
+The Road is: x988988
+
+The Road is: x988988
+NowTime: 0
+
+The Road is: x9889889
+
+The Road is: x9889889
+NowTime: 0
+
+The Road is: x9889889
+
+The Road is: x9889889
+NowTime: 0
+
+The Road is: x98898898
+
+The Road is: x98898898
+insert:
+fileTime : &a 1 U32b NowTime: 0
+NowTime: 0
+
+NowTime: 0
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x898
+
+The Road is: x898
+NowTime: 0
+
+The Road is: x898
+
+The Road is: x898
+NowTime: 0
+
+The Road is: x8988
+
+The Road is: x8988
+insert:
+fileTime : &b 1 U32b NowTime: 0
+NowTime: 0
+
+The Road is: x8988
+
+The Road is: x8988
+insert:
+fileTime : &c 0 U32b NowTime: 0
+
+The Road is: x8988
+
+The Road is: x8988
+NowTime: 0
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x898898
+
+The Road is: x898898
+NowTime: 0
+
+The Road is: x898898
+
+The Road is: x898898
+NowTime: 0
+
+The Road is: x8988988
+
+The Road is: x8988988
+insert:
+fileTime : &c 1 U32b NowTime: 0
+NowTime: 0
+
+The Road is: x8988988
+
+The Road is: x8988988
+NowTime: 0
+
+The Road is: x8988988
+
+The Road is: x8988988
+NowTime: 0
+
+NowTime: 0
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+NowTime: 0
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+insert:
+fileTime : &c 0 U32b NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+NowTime: 0
+
+The Road is: x88888
+
+The Road is: x88888
+insert:
+fileTime : &c 1 U32b NowTime: 0
+NowTime: 0
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x888888
+
+The Road is: x888888
+NowTime: 0
+
+The Road is: x888888
+
+The Road is: x888888
+NowTime: 0
+
+The Road is: x8888888
+
+The Road is: x8888888
+NowTime: 0
+NowTime: 0
+
+The Road is: x8888888
+
+The Road is: x8888888
+NowTime: 0
+
+The Road is: x8888888
+
+The Road is: x8888888
+NowTime: 0
+
+The Road is: x88888888
+
+The Road is: x88888888
+NowTime: 0
+NowTime: 0
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+fileTime : &a 0 U32b NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+isValid : &t1 NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+fileTime : &b 0 U32b NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+isValid : &t2 NowTime: 0
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x998
+
+The Road is: x998
+NowTime: 0
+
+The Road is: x998
+
+The Road is: x998
+NowTime: 0
+
+The Road is: x9989
+
+The Road is: x9989
+insert:
+fileTime : &c 0 U32b NowTime: 0
+
+The Road is: x9989
+
+The Road is: x9989
+NowTime: 0
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x998998
+
+The Road is: x998998
+NowTime: 0
+
+The Road is: x998998
+
+The Road is: x998998
+NowTime: 0
+
+The Road is: x9989989
+
+The Road is: x9989989
+NowTime: 0
+
+The Road is: x9989989
+
+The Road is: x9989989
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+insert:
+fileTime : &b 1 U32b NowTime: 0
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+fileTime : &a 1 U32b NowTime: 0
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+fileTime : &b 0 U32b NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+isValid : &t2 NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+fileTime : &b 1 U32b NowTime: 0
+NowTime: 0
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+NowTime: 0
+
+The Road is: x9889
+
+The Road is: x9889
+insert:
+fileTime : &c 0 U32b NowTime: 0
+
+The Road is: x9889
+
+The Road is: x9889
+NowTime: 0
+
+The Road is: x98898
+
+The Road is: x98898
+insert:
+fileTime : &c 1 U32b NowTime: 0
+NowTime: 0
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x988988
+
+The Road is: x988988
+NowTime: 0
+
+The Road is: x988988
+
+The Road is: x988988
+NowTime: 0
+
+The Road is: x9889889
+
+The Road is: x9889889
+NowTime: 0
+
+The Road is: x9889889
+
+The Road is: x9889889
+NowTime: 0
+
+The Road is: x98898898
+
+The Road is: x98898898
+NowTime: 0
+NowTime: 0
+
+NowTime: 0
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x898
+
+The Road is: x898
+NowTime: 0
+
+The Road is: x898
+
+The Road is: x898
+NowTime: 0
+
+The Road is: x8988
+
+The Road is: x8988
+insert:
+fileTime : &b 1 U32b NowTime: 0
+NowTime: 0
+
+The Road is: x8988
+
+The Road is: x8988
+insert:
+fileTime : &c 0 U32b NowTime: 0
+
+The Road is: x8988
+
+The Road is: x8988
+NowTime: 0
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x898898
+
+The Road is: x898898
+NowTime: 0
+
+The Road is: x898898
+
+The Road is: x898898
+NowTime: 0
+
+The Road is: x8988988
+
+The Road is: x8988988
+NowTime: 0
+NowTime: 0
+
+The Road is: x8988988
+
+The Road is: x8988988
+NowTime: 0
+
+The Road is: x8988988
+
+The Road is: x8988988
+NowTime: 0
+
+NowTime: 0
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+NowTime: 0
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+insert:
+fileTime : &c 0 U32b NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+NowTime: 0
+
+The Road is: x88888
+
+The Road is: x88888
+insert:
+fileTime : &c 1 U32b NowTime: 0
+NowTime: 0
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x888888
+
+The Road is: x888888
+NowTime: 0
+
+The Road is: x888888
+
+The Road is: x888888
+NowTime: 0
+
+The Road is: x8888888
+
+The Road is: x8888888
+NowTime: 0
+NowTime: 0
+
+The Road is: x8888888
+
+The Road is: x8888888
+NowTime: 0
+
+The Road is: x8888888
+
+The Road is: x8888888
+NowTime: 0
+
+The Road is: x88888888
+
+The Road is: x88888888
+NowTime: 0
+NowTime: 0
+
+Total paths analyzed: 4
+Total paths analyzed: 4
+Total paths analyzed: 4
+Total paths analyzed: 4
+Total paths analyzed: 4
+Total paths analyzed: 0

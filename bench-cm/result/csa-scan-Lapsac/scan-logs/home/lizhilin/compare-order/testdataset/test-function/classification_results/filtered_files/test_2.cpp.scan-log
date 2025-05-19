@@ -1,0 +1,854 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+formatSortPriority : &a NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+-----------------
+Now have formatSortPriority
+insert:
+compare : &a &a 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+formatSortPriority : &a NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+formatSortPriority : &b NowTime: 0
+NowTime: 0
+
+The Road is: x9
+The road length:1
+The road length:1
+The road length:1
+
+The Road is: x90
+-----------------
+Now have formatSortPriority
+Now have formatSortPriority
+insert:
+compare : &a &b 
+
+The Road is: x92
+-----------------
+Now have formatSortPriority
+Now have formatSortPriority
+insert:
+compare : &a &b 
+
+The Road is: x91
+-----------------
+Now have formatSortPriority
+Now have formatSortPriority
+insert:
+compare : &a &b 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x908
+
+The Road is: x908
+NowTime: 0
+
+The Road is: x908
+
+The Road is: x908
+NowTime: 0
+NowTime: 0
+
+The Road is: x9089
+
+The Road is: x9089
+-----------------
+Now have formatSortPriority
+Now have formatSortPriority
+Now have compare
+insert:
+compare : &b &a 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+NowTime: 0
+
+The Road is: x889
+The road length:3
+The road length:3
+The road length:3
+
+The Road is: x8890
+-----------------
+Now have formatSortPriority
+Now have formatSortPriority
+insert:
+compare : &b &a 
+
+The Road is: x8892
+-----------------
+Now have formatSortPriority
+Now have formatSortPriority
+insert:
+compare : &b &a 
+
+The Road is: x8891
+-----------------
+Now have formatSortPriority
+Now have formatSortPriority
+insert:
+compare : &b &a 
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+formatSortPriority : &a NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+formatSortPriority : &b NowTime: 0
+NowTime: 0
+
+The Road is: x9
+The road length:1
+The road length:1
+The road length:1
+
+The Road is: x90
+-----------------
+Now have formatSortPriority
+Now have formatSortPriority
+insert:
+compare : &a &b 
+
+The Road is: x92
+-----------------
+Now have formatSortPriority
+Now have formatSortPriority
+insert:
+compare : &a &b 
+
+The Road is: x91
+-----------------
+Now have formatSortPriority
+Now have formatSortPriority
+insert:
+compare : &a &b 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x908
+
+The Road is: x908
+NowTime: 0
+
+The Road is: x908
+
+The Road is: x908
+NowTime: 0
+NowTime: 0
+
+The Road is: x9089
+
+The Road is: x9089
+-----------------
+Now have formatSortPriority
+Now have formatSortPriority
+Now have compare
+insert:
+compare : &b &a 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+NowTime: 0
+
+The Road is: x889
+The road length:3
+The road length:3
+The road length:3
+
+The Road is: x8890
+-----------------
+Now have formatSortPriority
+Now have formatSortPriority
+insert:
+compare : &b &a 
+
+The Road is: x8892
+-----------------
+Now have formatSortPriority
+Now have formatSortPriority
+insert:
+compare : &b &a 
+
+The Road is: x8891
+-----------------
+Now have formatSortPriority
+Now have formatSortPriority
+insert:
+compare : &b &a 
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+formatSortPriority : &a NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+formatSortPriority : &b NowTime: 0
+NowTime: 0
+
+The Road is: x9
+The road length:1
+The road length:1
+The road length:1
+
+The Road is: x90
+-----------------
+Now have formatSortPriority
+Now have formatSortPriority
+insert:
+compare : &a &b 
+
+The Road is: x92
+-----------------
+Now have formatSortPriority
+Now have formatSortPriority
+insert:
+compare : &a &b 
+
+The Road is: x91
+-----------------
+Now have formatSortPriority
+Now have formatSortPriority
+insert:
+compare : &a &b 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x908
+
+The Road is: x908
+NowTime: 0
+
+The Road is: x908
+
+The Road is: x908
+insert:
+formatSortPriority : &c NowTime: 0
+NowTime: 0
+
+The Road is: x9089
+The road length:4
+The road length:4
+The road length:4
+
+The Road is: x90890
+-----------------
+Now have formatSortPriority
+Now have formatSortPriority
+Now have compare
+Now have formatSortPriority
+insert:
+compare : &b &c 
+
+The Road is: x90892
+-----------------
+Now have formatSortPriority
+Now have formatSortPriority
+Now have compare
+Now have formatSortPriority
+insert:
+compare : &b &c 
+
+The Road is: x90891
+-----------------
+Now have formatSortPriority
+Now have formatSortPriority
+Now have compare
+Now have formatSortPriority
+insert:
+compare : &b &c 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x908908
+
+The Road is: x908908
+NowTime: 0
+
+The Road is: x908908
+
+The Road is: x908908
+NowTime: 0
+NowTime: 0
+
+The Road is: x9089089
+
+The Road is: x9089089
+-----------------
+Now have formatSortPriority
+Now have formatSortPriority
+Now have compare
+Now have formatSortPriority
+Now have compare
+insert:
+compare : &c &a 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x90888
+
+The Road is: x90888
+NowTime: 0
+
+The Road is: x90888
+
+The Road is: x90888
+NowTime: 0
+NowTime: 0
+
+The Road is: x908889
+The road length:6
+The road length:6
+The road length:6
+
+The Road is: x9088890
+-----------------
+Now have formatSortPriority
+Now have formatSortPriority
+Now have compare
+Now have formatSortPriority
+insert:
+compare : &c &a 
+
+The Road is: x9088892
+-----------------
+Now have formatSortPriority
+Now have formatSortPriority
+Now have compare
+Now have formatSortPriority
+insert:
+compare : &c &a 
+
+The Road is: x9088891
+-----------------
+Now have formatSortPriority
+Now have formatSortPriority
+Now have compare
+Now have formatSortPriority
+insert:
+compare : &c &a 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+formatSortPriority : &c NowTime: 0
+NowTime: 0
+
+The Road is: x889
+The road length:3
+The road length:3
+The road length:3
+
+The Road is: x8890
+-----------------
+Now have formatSortPriority
+Now have formatSortPriority
+Now have formatSortPriority
+insert:
+compare : &b &c 
+
+The Road is: x8892
+-----------------
+Now have formatSortPriority
+Now have formatSortPriority
+Now have formatSortPriority
+insert:
+compare : &b &c 
+
+The Road is: x8891
+-----------------
+Now have formatSortPriority
+Now have formatSortPriority
+Now have formatSortPriority
+insert:
+compare : &b &c 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+NowTime: 0
+NowTime: 0
+
+The Road is: x88889
+The road length:5
+The road length:5
+The road length:5
+
+The Road is: x888890
+-----------------
+Now have formatSortPriority
+Now have formatSortPriority
+Now have formatSortPriority
+insert:
+compare : &c &a 
+
+The Road is: x888892
+-----------------
+Now have formatSortPriority
+Now have formatSortPriority
+Now have formatSortPriority
+insert:
+compare : &c &a 
+
+The Road is: x888891
+-----------------
+Now have formatSortPriority
+Now have formatSortPriority
+Now have formatSortPriority
+insert:
+compare : &c &a 
+
+
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88908
+
+The Road is: x88908
+NowTime: 0
+
+The Road is: x88908
+
+The Road is: x88908
+NowTime: 0
+NowTime: 0
+
+The Road is: x889089
+The road length:6
+The road length:6
+The road length:6
+
+The Road is: x8890890
+-----------------
+Now have formatSortPriority
+Now have formatSortPriority
+Now have formatSortPriority
+Now have compare
+insert:
+compare : &c &a 
+
+The Road is: x8890892
+-----------------
+Now have formatSortPriority
+Now have formatSortPriority
+Now have formatSortPriority
+Now have compare
+insert:
+compare : &c &a 
+
+The Road is: x8890891
+-----------------
+Now have formatSortPriority
+Now have formatSortPriority
+Now have formatSortPriority
+Now have compare
+insert:
+compare : &c &a 
+
+
+
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+formatSortPriority : &a NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+formatSortPriority : &b NowTime: 0
+NowTime: 0
+
+The Road is: x9
+The road length:1
+The road length:1
+The road length:1
+
+The Road is: x90
+-----------------
+Now have formatSortPriority
+Now have formatSortPriority
+insert:
+compare : &a &b 
+
+The Road is: x92
+-----------------
+Now have formatSortPriority
+Now have formatSortPriority
+insert:
+compare : &a &b 
+
+The Road is: x91
+-----------------
+Now have formatSortPriority
+Now have formatSortPriority
+insert:
+compare : &a &b 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x918
+
+The Road is: x918
+NowTime: 0
+
+The Road is: x918
+
+The Road is: x918
+insert:
+formatSortPriority : &c NowTime: 0
+NowTime: 0
+
+The Road is: x9189
+The road length:4
+The road length:4
+The road length:4
+
+The Road is: x91890
+-----------------
+Now have formatSortPriority
+Now have formatSortPriority
+Now have compare
+Now have formatSortPriority
+insert:
+compare : &b &c 
+
+The Road is: x91892
+-----------------
+Now have formatSortPriority
+Now have formatSortPriority
+Now have compare
+Now have formatSortPriority
+insert:
+compare : &b &c 
+
+The Road is: x91891
+-----------------
+Now have formatSortPriority
+Now have formatSortPriority
+Now have compare
+Now have formatSortPriority
+insert:
+compare : &b &c 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x918918
+
+The Road is: x918918
+NowTime: 0
+
+The Road is: x918918
+
+The Road is: x918918
+NowTime: 0
+NowTime: 0
+
+The Road is: x9189189
+
+The Road is: x9189189
+-----------------
+Now have formatSortPriority
+Now have formatSortPriority
+Now have compare
+Now have formatSortPriority
+Now have compare
+insert:
+compare : &a &c 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x928
+
+The Road is: x928
+NowTime: 0
+
+The Road is: x928
+
+The Road is: x928
+insert:
+formatSortPriority : &c NowTime: 0
+NowTime: 0
+
+The Road is: x9289
+The road length:4
+The road length:4
+The road length:4
+
+The Road is: x92890
+-----------------
+Now have formatSortPriority
+Now have formatSortPriority
+Now have compare
+Now have formatSortPriority
+insert:
+compare : &b &c 
+
+The Road is: x92892
+-----------------
+Now have formatSortPriority
+Now have formatSortPriority
+Now have compare
+Now have formatSortPriority
+
+The Road is: x92891
+-----------------
+Now have formatSortPriority
+Now have formatSortPriority
+Now have compare
+Now have formatSortPriority
+insert:
+compare : &b &c 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x918928
+
+The Road is: x918928
+NowTime: 0
+
+The Road is: x918928
+
+The Road is: x918928
+NowTime: 0
+NowTime: 0
+
+The Road is: x9189289
+
+The Road is: x9189289
+-----------------
+Now have formatSortPriority
+Now have formatSortPriority
+Now have compare
+Now have formatSortPriority
+Now have compare
+
+
+
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x928918
+
+The Road is: x928918
+NowTime: 0
+
+The Road is: x928918
+
+The Road is: x928918
+NowTime: 0
+NowTime: 0
+
+The Road is: x9289189
+
+The Road is: x9289189
+-----------------
+Now have formatSortPriority
+Now have formatSortPriority
+Now have compare
+Now have formatSortPriority
+Now have compare
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x928928
+
+The Road is: x928928
+NowTime: 0
+
+The Road is: x928928
+
+The Road is: x928928
+NowTime: 0
+NowTime: 0
+
+The Road is: x9289289
+
+The Road is: x9289289
+-----------------
+Now have formatSortPriority
+Now have formatSortPriority
+Now have compare
+Now have formatSortPriority
+
+
+/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_2.cpp:29:5: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   29 |     SymmetryChecker();
+      |     ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_2.cpp:35:5: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   35 |     SymmetryChecker();
+      |     ^~~~~~~~~~~~~~~~~
+2 warnings generated.
+Total paths analyzed: 0
+Total paths analyzed: 2
+Total paths analyzed: 2
+Total paths analyzed: 7
+Total paths analyzed: 1

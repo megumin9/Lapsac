@@ -1,0 +1,187 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+NowTime: 0
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+NowTime: 0
+
+
+
+The Error Road is: x9998898898
+
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+
+
+The Error Road is: x8989998898
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+
+The Error Road is: x8988989998
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+
+/home/lizhilin/compare-order/real-project/gdal/test-function/classification_results/filtered_files/test_6.cpp:59:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   59 |         SymmetryChecker();
+      |         ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/real-project/gdal/test-function/classification_results/filtered_files/test_6.cpp:66:9: warning: Violation of Anti-Reflexivity [CompareCheck.FunctionChecker]
+   66 |         ReflexivityChecker();
+      |         ^~~~~~~~~~~~~~~~~~~~
+2 warnings generated.
+Total paths analyzed: 4
+Total paths analyzed: 6
+Total paths analyzed: 4
+Total paths analyzed: 17
+Total paths analyzed: 17

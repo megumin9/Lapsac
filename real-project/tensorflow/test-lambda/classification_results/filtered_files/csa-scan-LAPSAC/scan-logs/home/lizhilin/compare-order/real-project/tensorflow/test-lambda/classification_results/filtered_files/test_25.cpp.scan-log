@@ -1,0 +1,105 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+is_guaranteed_constant : &SymRegion{reg_$4<Node * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+is_replicated_input : &SymRegion{reg_$4<Node * a>} &a_is_packed NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+is_replicated_input : &SymRegion{reg_$4<Node * a>} &b_is_packed NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+output_type : &SymRegion{reg_$4<Node * a>} 0 S32b NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+name : &SymRegion{reg_$4<Node * a>} NowTime: 0
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+tie : &a_is_guaranteed_constant &a_not_replicated &a_is_packed &a_is_resource &a_name NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+tie : &b_is_guaranteed_constant &b_not_replicated &b_is_packed &b_is_resource &b_name NowTime: 0
+NowTime: 0
+
+The Road is: x
+
+The Road is: x0
+-----------------
+Now have is_guaranteed_constant
+Now have is_replicated_input
+Now have is_replicated_input
+Now have output_type
+Now have name
+Now have tie
+Now have tie
+insert:
+__less : &temp_object{tuple<_Bool &, _Bool &, _Bool &, _Bool &, basic_string_view<char, char_traits<char> > &>, S6248253} &temp_object{tuple<_Bool &, _Bool &, _Bool &, _Bool &, basic_string_view<char, char_traits<char> > &>, S6248373} 
+
+The Road is: x1
+-----------------
+Now have is_guaranteed_constant
+Now have is_replicated_input
+Now have is_replicated_input
+Now have output_type
+Now have name
+Now have tie
+Now have tie
+insert:
+__less : &temp_object{tuple<_Bool &, _Bool &, _Bool &, _Bool &, basic_string_view<char, char_traits<char> > &>, S6248253} &temp_object{tuple<_Bool &, _Bool &, _Bool &, _Bool &, basic_string_view<char, char_traits<char> > &>, S6248373} 
+
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x

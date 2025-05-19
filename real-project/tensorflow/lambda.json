@@ -1,0 +1,764 @@
+{
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/tools/proto_text/gen_proto_text_functions_lib.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const FieldDescriptor* left, const FieldDescriptor* right",
+            "is_const": false,
+            "body": "return left->number() < right->number();"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/tools/graph_transforms/summarize_graph_main.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "std::pair<string, int> a, std::pair<string, int> b",
+            "is_const": false,
+            "body": "return (a.second > b.second);"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/tools/proto_splitter/merge.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "ChunkedField cf1, ChunkedField cf2",
+            "is_const": false,
+            "body": "int tag_depth =\n            std::min(cf1.field_tag().size(), cf2.field_tag().size());\n        for (int depth = 0; depth < tag_depth; ++depth) {\n          FieldIndex tag1 = cf1.field_tag()[depth];\n          FieldIndex tag2 = cf2.field_tag()[depth];\n          if (tag1.has_field() && tag2.has_field()) {\n            uint32_t field1 = tag1.field();\n            uint32_t field2 = tag2.field();\n            if (field1 != field2) return field1 < field2;\n          } else if (tag1.has_index() && tag2.has_index()) {\n            uint64_t index1 = tag1.index();\n            uint64_t index2 = tag2.index();\n            if (index1 != index2) return index1 < index2;\n          } else if (tag1.has_map_key() && tag2.has_map_key()) {\n            return false;\n          } else {\n            sort_status = absl::FailedPreconditionError(\"Field tag mismatch\");\n            return false;\n          }\n        }\n        if (cf1.field_tag().size() == cf2.field_tag().size()) {\n          \n          return cf1.message().chunk_index() < cf2.message().chunk_index();\n        }\n        return cf1.field_tag().size() < cf2.field_tag().size();"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/cc/saved_model/fingerprinting_utils.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const std::pair<std::string, ::tensorflow::SignatureDef>& a,\n               const std::pair<std::string, ::tensorflow::SignatureDef>& b",
+            "is_const": false,
+            "body": "return a.first < b.first;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/core/data/tf_data_memory_logger.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const auto& a, const auto& b",
+            "is_const": false,
+            "body": "return a.memory_usage > b.memory_usage;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/core/distributed_runtime/remote_device_test.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "Device* a, Device* b",
+            "is_const": false,
+            "body": "return a->name().compare(b->name()) < 0;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/core/profiler/convert/inference_stats_grouping.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const TensorEventDetail* a, const TensorEventDetail* b",
+            "is_const": false,
+            "body": "return a->linearize_delinearize_time_ps() <\n                       b->linearize_delinearize_time_ps();"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/core/profiler/convert/hlo_proto_to_memory_visualization_utils.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const HeapObject* a, const HeapObject* b",
+            "is_const": false,
+            "body": "return a->logical_buffer_size_mib() >\n                     b->logical_buffer_size_mib();"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/core/profiler/convert/compute_inference_latency.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const LatencyBreakdown& a, const LatencyBreakdown& b",
+            "is_const": false,
+            "body": "return a.total_latency_us < b.total_latency_us;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/core/kernels/save_restore_tensor.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "size_t a, size_t b",
+            "is_const": false,
+            "body": "return tensor_names_flat(a) < tensor_names_flat(b);"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/core/kernels/word2vec_kernels.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const WordFreq& x, const WordFreq& y",
+            "is_const": false,
+            "body": "return x.second > y.second;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/core/kernels/training_op_helpers.h": [
+        {
+            "header": "bool lambda0",
+            "params": "int a, int b",
+            "is_const": false,
+            "body": "return mutexes[a] < mutexes[b];"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/core/kernels/sdca_internal.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const std::pair<int, float>& lhs, const std::pair<int, float>& rhs",
+            "is_const": false,
+            "body": "return lhs.second > rhs.second;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/core/kernels/decode_proto_op.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "int a, int b",
+            "is_const": false,
+            "body": "return field_descs[a]->number() < field_descs[b]->number();"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/core/kernels/data/interleave_dataset_op.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const InputOffsetWithCycleIdx& lhs,\n                   const InputOffsetWithCycleIdx& rhs",
+            "is_const": false,
+            "body": "return lhs.input_element_index < rhs.input_element_index;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/core/kernels/image/scale_and_translate_op.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const GradComponent& x1, const GradComponent& x2",
+            "is_const": false,
+            "body": "return x1.index < x2.index;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/core/grappler/utils.h": [
+        {
+            "header": "bool lambda0",
+            "params": "const NodeDef* n1, const NodeDef* n2",
+            "is_const": false,
+            "body": "return n1->name() < n2->name();"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/core/grappler/optimizers/memory_optimizer.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const NodeDef* first, const NodeDef* second",
+            "is_const": false,
+            "body": "return components.find(first)->second <\n                     components.find(second)->second;"
+        },
+        {
+            "header": "bool lambda1",
+            "params": "const NodeDef* first,\n                                                   const NodeDef* second",
+            "is_const": false,
+            "body": "int first_component =\n                  recomputed_node_max_feed_components.find(first)->second;\n              int second_component =\n                  recomputed_node_max_feed_components.find(second)->second;\n              return first_component > second_component\n                     \n                     \n                     \n                     \n                     || (first_component == second_component &&\n                         first->name() > second->name());"
+        },
+        {
+            "header": "bool lambda2",
+            "params": "const NodeDef* first, const NodeDef* second",
+            "is_const": false,
+            "body": "return components.find(first)->second >\n                     components.find(second)->second;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/core/grappler/optimizers/arithmetic_optimizer.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const TensorShapeProto& left, const TensorShapeProto& right",
+            "is_const": false,
+            "body": "return CompareSymbolicallyShapedTensorSizes(left, right);"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/core/tfrt/mlrt/kernel/shard_restore_util.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const IndexSize& a, const IndexSize& b",
+            "is_const": false,
+            "body": "return a.size > b.size;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/core/tfrt/ifrt/sharding_utils.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const IndexDomainDevice& a, const IndexDomainDevice& b",
+            "is_const": false,
+            "body": "return std::lexicographical_compare(\n                  a.index_domain.origin().elements().begin(),\n                  a.index_domain.origin().elements().end(),\n                  b.index_domain.origin().elements().begin(),\n                  b.index_domain.origin().elements().end());"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/core/tfrt/graph_executor/graph_executor.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "int x, int y",
+            "is_const": false,
+            "body": "return names[x] < names[y];"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/core/tpu/graph_rewrite/encapsulate_tpu_computations_pass.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "Node* a, Node* b",
+            "is_const": false,
+            "body": "bool a_is_guaranteed_constant = is_guaranteed_constant(*a);\n    bool b_is_guaranteed_constant = is_guaranteed_constant(*b);\n    \n    bool a_is_packed;\n    bool b_is_packed;\n    \n    bool a_not_replicated = !is_replicated_input(*a, &a_is_packed);\n    bool b_not_replicated = !is_replicated_input(*b, &b_is_packed);\n    \n    bool a_is_resource = (a->output_type(0) == DT_RESOURCE);\n    bool b_is_resource = (b->output_type(0) == DT_RESOURCE);\n    \n    absl::string_view a_name(a->name());\n    absl::string_view b_name(b->name());\n    return std::tie(a_is_guaranteed_constant, a_not_replicated, a_is_packed,\n                    a_is_resource, a_name) <\n           std::tie(b_is_guaranteed_constant, b_not_replicated, b_is_packed,\n                    b_is_resource, b_name);"
+        },
+        {
+            "header": "bool lambda1",
+            "params": "Node* a, Node* b",
+            "is_const": false,
+            "body": "return a->name() < b->name();"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/core/tpu/graph_rewrite/distributed_tpu_rewrite_helpers.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "Device* i, Device* j",
+            "is_const": false,
+            "body": "auto i_name = i->parsed_name();\n                auto j_name = j->parsed_name();\n                if (i_name.replica != j_name.replica) {\n                  return i_name.replica < j_name.replica;\n                }\n                return i_name.task < j_name.task;"
+        },
+        {
+            "header": "bool lambda1",
+            "params": "Device* i, Device* j",
+            "is_const": false,
+            "body": "auto i_name = i->parsed_name();\n              auto j_name = j->parsed_name();\n              return i_name.task < j_name.task;"
+        },
+        {
+            "header": "bool lambda2",
+            "params": "Device* i, Device* j",
+            "is_const": false,
+            "body": "return i->parsed_name().task < j->parsed_name().task;"
+        },
+        {
+            "header": "bool lambda3",
+            "params": "Device* i, Device* j",
+            "is_const": false,
+            "body": "return i->parsed_name().id < j->parsed_name().id;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/core/tpu/kernels/sparse_core_ops_utils.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "auto& lh, auto& rh",
+            "is_const": false,
+            "body": "return std::get<4>(lh) < std::get<4>(rh);"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/core/graph/costmodel.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "Edge const* a, Edge const* b",
+            "is_const": false,
+            "body": "return Id(a->src()) < Id(b->src());"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/core/framework/graph_to_functiondef.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const Edge* a, const Edge* b",
+            "is_const": false,
+            "body": "return a->src()->name() < b->src()->name();"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/core/framework/op_def_util.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const OpDef::AttrDef* lhs, const OpDef::AttrDef* rhs",
+            "is_const": false,
+            "body": "return lhs->name() < rhs->name();"
+        },
+        {
+            "header": "bool lambda1",
+            "params": "const char* lhs, const char* rhs",
+            "is_const": false,
+            "body": "return std::strcmp(lhs, rhs) < 0;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/core/nccl/nccl_manager.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const std::unique_ptr<Participant>& a,\n               const std::unique_ptr<Participant>& b",
+            "is_const": false,
+            "body": "if (a->gpu_device_id != b->gpu_device_id) {\n                return a->gpu_device_id < b->gpu_device_id;\n              }\n              if (a->executor != b->executor) {\n                return a->executor < b->executor;\n              }\n              return a->global_rank < b->global_rank;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/core/common_runtime/collective_param_resolver_local.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const CollGroupMember& lhs, const CollGroupMember& rhs",
+            "is_const": false,
+            "body": "return DeviceNameUtils::CompareFullNames(lhs.device.name(),\n                                                       rhs.device.name());"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/core/common_runtime/constant_folding.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const std::pair<NodeAndOutput, NodeAndOutput>& n1,\n               const std::pair<NodeAndOutput, NodeAndOutput>& n2",
+            "is_const": false,
+            "body": "return std::tie(n1.first.first->name(), n1.first.second) <\n                     std::tie(n2.first.first->name(), n2.first.second);"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/core/common_runtime/gpu/gpu_device.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const TfDeviceSpec& a, const TfDeviceSpec& b",
+            "is_const": false,
+            "body": "if (a.device_ordinal < b.device_ordinal) {\n                return true;\n              } else if (a.device_ordinal > b.device_ordinal) {\n                return false;\n              }\n              DCHECK_EQ(a.device_ordinal, b.device_ordinal);\n              DCHECK(std::addressof(a) == std::addressof(b) ||\n                     a.index != b.index);  \n              if (a.index < b.index) {\n                return true;\n              }\n              return false;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/dtensor/mlir/dtensor_allreduce_combine_optimization.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const int64_t lhs, const int64_t rhs",
+            "is_const": false,
+            "body": "return lhs < rhs;"
+        },
+        {
+            "header": "bool lambda1",
+            "params": "mlir::TF::DTensorAllReduceOp& lhs,\n                                          mlir::TF::DTensorAllReduceOp& rhs",
+            "is_const": false,
+            "body": "if ((all_reduce_topo.find(lhs) == all_reduce_topo.end()) ||\n                    (all_reduce_topo.find(rhs) == all_reduce_topo.end())) {\n                  status = absl::InternalError(\n                      \"Error: encounter AllReduce op with no topological level\"\n                      \" assignment.\");\n                  return false;\n                }\n                return all_reduce_topo[lhs] < all_reduce_topo[rhs];"
+        },
+        {
+            "header": "bool lambda2",
+            "params": "std::vector<mlir::TF::DTensorAllReduceOp> lhs,\n                     std::vector<mlir::TF::DTensorAllReduceOp> rhs",
+            "is_const": false,
+            "body": "if (lhs.empty() && !rhs.empty()) return false;\n                    if (!lhs.empty() && rhs.empty()) return true;\n\n                    \n                    \n                    \n                    if (lhs[0]->getBlock() != rhs[0]->getBlock()) {\n                      return lhs[0]->getBlock() < rhs[0]->getBlock();\n                    }\n\n                    \n                    return lhs[0]->isBeforeInBlock(rhs[0]);"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/dtensor/mlir/merge_clusters.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const Mesh& a, const Mesh& b",
+            "is_const": false,
+            "body": "if (a.device_type() != b.device_type()) {\n      return a.device_type() < b.device_type();\n    }\n    return a < b;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/examples/speech_commands/accuracy_utils.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const std::pair<string, int64>& left,\n               const std::pair<string, int64>& right",
+            "is_const": false,
+            "body": "return left.second < right.second;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/examples/speech_commands/recognize_commands.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const std::pair<int, float>& left,\n               const std::pair<int, float>& right",
+            "is_const": false,
+            "body": "return left.second > right.second;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/examples/speech_commands/label_wav.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const std::pair<int, float>& left,\n               const std::pair<int, float>& right",
+            "is_const": false,
+            "body": "return left.second > right.second;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/compiler/mlir/tensorflow/translate/import_model.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "absl::string_view a, absl::string_view b",
+            "is_const": false,
+            "body": "return std::make_tuple(isdigit(a.back()), a.size(), a) <\n                       std::make_tuple(isdigit(b.back()), b.size(), b);"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/compiler/mlir/tensorflow/utils/tpu_rewrite_device_util.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const ParsedDevice& a, const ParsedDevice& b",
+            "is_const": false,
+            "body": "return a.task < b.task;"
+        },
+        {
+            "header": "bool lambda1",
+            "params": "const ParsedDevice& i, const ParsedDevice& j",
+            "is_const": false,
+            "body": "return i.id < j.id;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/compiler/mlir/tensorflow/transforms/set_tpu_infeed_layout.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "int64_t a, int64_t b",
+            "is_const": false,
+            "body": "int64_t da = t.getDimSize(a);\n                  int64_t db = t.getDimSize(b);\n                  return da > db || (da == db && a > b);"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/compiler/mlir/tfrt/translate/mlrt/test_utils.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const auto& x, const auto& y",
+            "is_const": false,
+            "body": "return x.first < y.first;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/compiler/mlir/tosa/transforms/legalize_common.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const int32_t a, const int32_t b",
+            "is_const": false,
+            "body": "return a < b;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/compiler/mlir/tf2xla/internal/node_order.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "Node* a, Node* b",
+            "is_const": false,
+            "body": "return node_to_position[a] < node_to_position[b];"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/compiler/mlir/lite/tools/command_line_flags.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "int a, int b",
+            "is_const": false,
+            "body": "return flag_list[a].GetFlagType() < flag_list[b].GetFlagType();"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/compiler/mlir/lite/stablehlo/transforms/torch/build_stablehlo_composite_pass.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const auto& a, const auto& b",
+            "is_const": false,
+            "body": "return op_order_map.at(a) < op_order_map.at(b);"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/compiler/mlir/lite/experimental/tac/transforms/tac_filter.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const TacFilter* a, const TacFilter* b",
+            "is_const": false,
+            "body": "const bool a_is_function_filter = a->has_function_filter();\n              const bool b_is_function_filter = b->has_function_filter();\n              if (a_is_function_filter != b_is_function_filter) {\n                \n                return a_is_function_filter > b_is_function_filter;\n              }\n\n              if (!a_is_function_filter && !b_is_function_filter) {\n                \n                return false;\n              }\n\n              const bool a_is_function_exclude =\n                  (a->function_filter().filter_type() ==\n                   FunctionFilter::SKIP_TARGET_ANNOTATION);\n              const bool b_is_function_exclude =\n                  (b->function_filter().filter_type() ==\n                   FunctionFilter::SKIP_TARGET_ANNOTATION);\n              \n              \n              return a_is_function_exclude > b_is_function_exclude;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/compiler/tf2tensorrt/segment/segment.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const SimpleNode* lhs, const SimpleNode* rhs",
+            "is_const": false,
+            "body": "return lhs->name() < rhs->name();"
+        },
+        {
+            "header": "bool lambda1",
+            "params": "const NotConvertedOPTuple& a, const NotConvertedOPTuple& b",
+            "is_const": false,
+            "body": "return std::get<1>(a) > std::get<1>(b);"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/compiler/jit/encapsulate_xla_computations_pass.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "Node* a, Node* b",
+            "is_const": false,
+            "body": "bool a_is_resource = (a->output_type(0) == DT_RESOURCE);\n    bool b_is_resource = (b->output_type(0) == DT_RESOURCE);\n    \n    absl::string_view a_name(a->name());\n    absl::string_view b_name(b->name());\n    return std::tie(a_is_resource, a_name) < std::tie(b_is_resource, b_name);"
+        },
+        {
+            "header": "bool lambda1",
+            "params": "Node* a, Node* b",
+            "is_const": false,
+            "body": "return a->name() < b->name();"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/compiler/tf2xla/functionalize_while.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const Edge* a, const Edge* b",
+            "is_const": false,
+            "body": "int a_src_output = a->src_output(),\n                    b_src_output = b->src_output();\n                absl::string_view a_name(a->src()->name()),\n                    b_name(b->src()->name());\n                return std::tie(a_src_output, a_name) <\n                       std::tie(b_src_output, b_name);"
+        },
+        {
+            "header": "bool lambda1",
+            "params": "const WhileLoopArg& a, const WhileLoopArg& b",
+            "is_const": false,
+            "body": "return NodeCmpByNameResourcesLast()(a.enter, b.enter);"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/compiler/tf2xla/functionalize_cond.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const Edge* a, const Edge* b",
+            "is_const": false,
+            "body": "int a_src_output = a->src_output(), b_src_output = b->src_output();\n            absl::string_view a_name(a->src()->name()),\n                b_name(b->src()->name());\n            return std::tie(a_src_output, a_name) <\n                   std::tie(b_src_output, b_name);"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/compiler/tf2xla/xla_compiler.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const XlaResource* a, const XlaResource* b",
+            "is_const": false,
+            "body": "return a->arg_num() < b->arg_num();"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/compiler/tf2xla/tf2xla_supported_ops.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const KernelDef* a, const KernelDef* b",
+            "is_const": false,
+            "body": "return a->op() < b->op();"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/python/framework/python_api_dispatcher.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "ParamChecker a, ParamChecker b",
+            "is_const": false,
+            "body": "return a.second->cost() < b.second->cost();"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/c/kernels_experimental.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "int a, int b",
+            "is_const": false,
+            "body": "return mutexes[a] < mutexes[b];"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/c/experimental/saved_model/core/saved_model_utils.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const StructuredValueDictEntry* x,\n                   const StructuredValueDictEntry* y",
+            "is_const": false,
+            "body": "return x->first < y->first;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/c/experimental/saved_model/core/revived_types/partially_revived_objects.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const SignatureDefParam& x, const SignatureDefParam& y",
+            "is_const": false,
+            "body": "return x.name() < y.name();"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/lite/simple_memory_arena_debug_dump.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const PerLayerInfo* l, const PerLayerInfo* r",
+            "is_const": false,
+            "body": "return l->total_bytes > r->total_bytes;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/lite/tools/command_line_flags.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "int a, int b",
+            "is_const": false,
+            "body": "return flag_list[a].GetFlagType() < flag_list[b].GetFlagType();"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/lite/tools/delegates/delegate_provider.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const ProvidedDelegateList::ProvidedDelegate& a,\n               const ProvidedDelegateList::ProvidedDelegate& b",
+            "is_const": false,
+            "body": "return a.rank < b.rank;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/lite/tools/evaluation/stages/utils/image_metrics.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const Detection& a, const Detection& b",
+            "is_const": false,
+            "body": "return a.score > b.score;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/lite/tools/evaluation/stages/utils/image_metrics_test.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const PR& a, const PR& b",
+            "is_const": false,
+            "body": "return a.r < b.r;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/lite/toco/tensorflow_graph_matching/resolve_svdf.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const NodeDef* a, const NodeDef* b",
+            "is_const": false,
+            "body": "return (a->name().compare(b->name()) < 0 &&\n                      (a->name().size() < b->name().size()));"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/lite/experimental/litert/compiler/plugin/compiler_plugin.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "auto& x, auto& y",
+            "is_const": false,
+            "body": "auto x_supported_hardware = x.SupportedHardware();\n              auto y_supported_hardware = y.SupportedHardware();\n              if (x_supported_hardware && y_supported_hardware) {\n                bool x_npu = (*x_supported_hardware & kLiteRtHwAcceleratorNpu);\n                bool x_gpu = (*x_supported_hardware & kLiteRtHwAcceleratorGpu);\n                bool x_cpu = (*x_supported_hardware & kLiteRtHwAcceleratorCpu);\n                bool y_npu = (*y_supported_hardware & kLiteRtHwAcceleratorNpu);\n                bool y_gpu = (*y_supported_hardware & kLiteRtHwAcceleratorGpu);\n                bool y_cpu = (*y_supported_hardware & kLiteRtHwAcceleratorCpu);\n                int x_score = 100 * x_npu + 10 * x_gpu + x_cpu;\n                int y_score = 100 * y_npu + 10 * y_gpu + y_cpu;\n                return x_score < y_score;\n              }\n              return true;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/lite/delegates/utils.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "TfLiteDelegateParams* left, TfLiteDelegateParams* right",
+            "is_const": false,
+            "body": "return left->nodes_to_replace->size >\n                     right->nodes_to_replace->size;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/lite/delegates/xnnpack/xnnpack_delegate.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "int t1, int t2",
+            "is_const": false,
+            "body": "return quasi_static_tensors_producers[t1] <\n                     quasi_static_tensors_producers[t2];"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/lite/delegates/gpu/gl/compiler/compiled_node_test.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const auto& lhs, const auto& rhs",
+            "is_const": false,
+            "body": "return lhs.name < rhs.name;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/third_party/xla/xla/backends/profiler/gpu/rocm_collector.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const RocmTracerEvent& event1, const RocmTracerEvent& event2",
+            "is_const": false,
+            "body": "return event1.start_time_ns < event2.start_time_ns;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/third_party/xla/xla/service/layout_assignment.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const HloInstruction* a, const HloInstruction* b",
+            "is_const": false,
+            "body": "return a->unique_id() < b->unique_id();"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/third_party/xla/xla/service/buffer_assignment.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const BufferAllocation& a, const BufferAllocation& b",
+            "is_const": false,
+            "body": "if (a.size() > b.size()) return true;\n              if (a.size() < b.size()) return false;\n              return a.index() < b.index();"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/third_party/xla/xla/service/memory_space_assignment/algorithm.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const auto& a, const auto& b",
+            "is_const": false,
+            "body": "return a.uses->at(a.use_idx).time < b.uses->at(b.use_idx).time;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/third_party/xla/xla/service/spmd/spmd_partitioner.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "auto const& entry0, auto const& entry1",
+            "is_const": false,
+            "body": "return entry0.first > entry1.first;"
+        },
+        {
+            "header": "bool lambda1",
+            "params": "const HloInstruction* inst0, const HloInstruction* inst1",
+            "is_const": false,
+            "body": "return ShapeSizeInBytes(inst0->shape()) >\n                       ShapeSizeInBytes(inst1->shape());"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/third_party/xla/xla/service/gpu/autotuning/autotuner_util.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const auto* a, const auto* b",
+            "is_const": false,
+            "body": "return std::make_pair(absl::string_view(a->device()),\n                                    absl::string_view(a->hlo())) <\n                     std::make_pair(absl::string_view(b->device()),\n                                    absl::string_view(b->hlo()));"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/third_party/xla/xla/service/gpu/transforms/horizontal_loop_fusion.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const HloInstruction* a, const HloInstruction* b",
+            "is_const": false,
+            "body": "auto make_tuple_for_op = [](const HloInstruction* op) {\n                return std::tuple{\n                    GetUniqueOutputTypeOfFusible(*op),\n                    GetOutputSizeOfFusible(*op), GetInstrCountOfFusible(*op),\n                    ShapeUtil::ElementsIn(GetOutputsOfFusible(*op)[0]->shape()),\n                    op->unique_id()};\n              };\n              return make_tuple_for_op(a) < make_tuple_for_op(b);"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/third_party/xla/xla/service/gpu/transforms/horizontal_input_fusion.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const HloInstruction* a, const HloInstruction* b",
+            "is_const": false,
+            "body": "Shape shape_a =\n                  GetInputShapeForMultiOutputFusion(*a, device_info);\n              Shape shape_b =\n                  GetInputShapeForMultiOutputFusion(*b, device_info);\n              auto tuple_for_op = [](const Shape& shape,\n                                     const HloInstruction* op) {\n                \n                \n                \n                \n                return std::tuple{shape.rank(), shape.dimensions(),\n                                  GetInstrCountOfFusible(*op), op->unique_id()};\n              };\n              return tuple_for_op(shape_a, a) < tuple_for_op(shape_b, b);"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/third_party/xla/xla/service/graphcycles/graphcycles.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "int32_t a, int32_t b",
+            "is_const": false,
+            "body": "return nodes[a].rank < nodes[b].rank;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/third_party/xla/xla/tsl/distributed_runtime/coordination/coordination_service.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const CoordinatedTask& task1, const CoordinatedTask& task2",
+            "is_const": false,
+            "body": "if (task1.job_name() != task2.job_name()) {\n                return task1.job_name() < task2.job_name();\n              }\n              return task1.task_id() < task2.task_id();"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/third_party/xla/xla/tsl/profiler/utils/xplane_utils.h": [
+        {
+            "header": "bool lambda0",
+            "params": "const XPlane* a, const XPlane* b",
+            "is_const": false,
+            "body": "return a->id() < b->id();"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/third_party/xla/xla/tsl/lib/monitoring/cell_reader-inl.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const Point& a, const Point& b",
+            "is_const": false,
+            "body": "return a.end_timestamp_millis < b.end_timestamp_millis;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/third_party/xla/xla/mlir_hlo/mhlo/transforms/broadcast_propagation/broadcast_propagation.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const BroadcastIntent &a, const BroadcastIntent &b",
+            "is_const": false,
+            "body": "Operation *producerOpA = a.targetValue.getDefiningOp();\n              Operation *producerOpB = b.targetValue.getDefiningOp();\n              bool aInBlock = producerOpA != nullptr &&\n                              producerOpA->getBlock() == parentBlock;\n              bool bInBlock = producerOpB != nullptr &&\n                              producerOpB->getBlock() == parentBlock;\n              if (aInBlock && bInBlock) {\n                return producerOpA->isBeforeInBlock(producerOpB);\n              }\n              return !aInBlock && bInBlock;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/third_party/xla/xla/mlir_hlo/utils/cycle_detector.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "int32_t a, int32_t b",
+            "is_const": false,
+            "body": "return nodes[a]->rank > nodes[b]->rank;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/third_party/xla/xla/hlo/tools/hlo_module_metadata_processor.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const HloPassMetadata& a, const HloPassMetadata& b",
+            "is_const": false,
+            "body": "return a.end_timestamp_usec() - a.start_timestamp_usec() >\n                       b.end_timestamp_usec() - b.start_timestamp_usec();"
+        },
+        {
+            "header": "bool lambda1",
+            "params": "const std::string& a, const std::string& b",
+            "is_const": false,
+            "body": "const auto& a_data = group_by_pass_name[a][0];\n        const auto& b_data = group_by_pass_name[b][0];\n        return a_data.end_timestamp_usec() - a_data.start_timestamp_usec() >\n               b_data.end_timestamp_usec() - b_data.start_timestamp_usec();"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/third_party/xla/xla/hlo/experimental/auto_sharding/auto_sharding_cost_graph.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "int l, int r",
+            "is_const": false,
+            "body": "return (keys[l].first < keys[r].first) ||\n               (keys[l].first == keys[r].first &&\n                keys[l].second < keys[r].second);"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/third_party/xla/xla/hlo/ir/hlo_computation.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "HloInstruction* a, HloInstruction* b",
+            "is_const": false,
+            "body": "return a->parameter_number() > b->parameter_number();"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/third_party/xla/xla/python/jax_jit.cc": [
+        {
+            "header": "bool lambda0",
+            "params": "const std::pair<nb::handle, nb::handle>& a,\n                 const std::pair<nb::handle, nb::handle>& b",
+            "is_const": false,
+            "body": "return a.first < b.first;"
+        }
+    ]
+}

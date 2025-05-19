@@ -1,0 +1,6299 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &a.image_ids NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+begin : &a.image_ids NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+end : &a.image_ids NowTime: 0
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+-----------------
+Now have size
+Now have begin
+Now have end
+insert:
+__iter_less_iter : 
+NowTime: 0
+
+The Road is: x8
+NowTime: 0
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+base : &__first NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+base : &__last NowTime: 0
+NowTime: 0
+NowTime: 0
+
+The Road is: x89
+
+The Road is: x89
+insert:
+base : &SymRegion{conj_$32{__normal_iterator<const int *, vector<int> > &, LC4, S6171039, #1}} NowTime: 0
+
+The Road is: x89
+
+The Road is: x89
+
+The Road is: x899
+insert:
+__min_element : lazyCompoundVal{0x56350e888600,__first} lazyCompoundVal{0x56350d045fd8,__last} Unknown 
+The Road is: x899
+insert:
+min_element : lazyCompoundVal{0x56350d046150,__first} lazyCompoundVal{0x56350deeeb90,__last} NowTime: 0
+NowTime: 0
+
+The Road is: x899
+
+The Road is: x899
+NowTime: 0
+
+The Road is: x899
+
+The Road is: x899
+NowTime: 0
+
+The Road is: x899
+NowTime: 0
+
+The Road is: x899
+
+The Road is: x899
+-----------------
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+NowTime: 0
+
+The Road is: x899
+NowTime: 0
+NowTime: 0
+
+The Road is: x899
+
+The Road is: x899
+NowTime: 0
+
+The Road is: x899
+
+The Road is: x899
+NowTime: 0
+NowTime: 0
+NowTime: 0
+
+The Road is: x8999
+
+The Road is: x8999
+insert:
+base : &SymRegion{conj_$66{__normal_iterator<const int *, vector<int> > &, LC10, S6171039, #1}} NowTime: 0
+
+The Road is: x8999
+
+The Road is: x8999
+
+The Road is: x89999
+insert:
+__min_element : lazyCompoundVal{0x56350fac09e0,__first} lazyCompoundVal{0x56350fac53c0,__last} Unknown 
+The Road is: x89999
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+
+The Road is: x88
+insert:
+__min_element : lazyCompoundVal{0x56350e888600,__first} lazyCompoundVal{0x56350d045fd8,__last} Unknown 
+The Road is: x88
+insert:
+min_element : lazyCompoundVal{0x56350d046150,__first} lazyCompoundVal{0x56350deeeb90,__last} NowTime: 0
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+-----------------
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+NowTime: 0
+
+The Road is: x88
+NowTime: 0
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+The Road is: x888
+insert:
+__min_element : lazyCompoundVal{0x56350fb04a08,__first} lazyCompoundVal{0x56350fb08c60,__last} Unknown 
+The Road is: x888
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+
+The Road is: x8989
+
+The Road is: x8989
+insert:
+base : &SymRegion{conj_$105{__normal_iterator<const int *, vector<int> > &, LC4, S6171039, #2}} NowTime: 0
+
+The Road is: x8989
+
+The Road is: x8989
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+
+The Road is: x89899
+insert:
+__min_element : lazyCompoundVal{0x56350e888600,__first} lazyCompoundVal{0x56350d045fd8,__last} Unknown 
+The Road is: x89899
+insert:
+min_element : lazyCompoundVal{0x56350d046150,__first} lazyCompoundVal{0x56350deeeb90,__last} NowTime: 0
+NowTime: 0
+
+The Road is: x89899
+
+The Road is: x89899
+NowTime: 0
+
+The Road is: x89899
+
+The Road is: x89899
+NowTime: 0
+
+The Road is: x89899
+NowTime: 0
+NowTime: 0
+NowTime: 0
+
+The Road is: x899989
+
+The Road is: x899989
+insert:
+base : &SymRegion{conj_$128{__normal_iterator<const int *, vector<int> > &, LC10, S6171039, #2}} NowTime: 0
+
+The Road is: x899989
+
+The Road is: x899989
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+
+The Road is: x8999899
+insert:
+__min_element : lazyCompoundVal{0x56350fac09e0,__first} lazyCompoundVal{0x56350fac53c0,__last} Unknown 
+The Road is: x8999899
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+NowTime: 0
+
+The Road is: x899988
+
+The Road is: x899988
+insert:
+base : &SymRegion{conj_$128{__normal_iterator<const int *, vector<int> > &, LC10, S6171039, #2}} NowTime: 0
+
+The Road is: x899988
+
+The Road is: x899988
+NowTime: 1
+NowTime: 1
+NowTime: 1
+NowTime: 1
+
+The Road is: x8999889
+insert:
+__min_element : lazyCompoundVal{0x56350fac09e0,__first} lazyCompoundVal{0x56350fac53c0,__last} Unknown 
+The Road is: x8999889
+NowTime: 1
+NowTime: 1
+
+The Road is: x89899
+
+The Road is: x89899
+-----------------
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+NowTime: 1
+
+The Road is: x89899
+NowTime: 1
+NowTime: 1
+
+The Road is: x89899
+
+The Road is: x89899
+NowTime: 1
+
+The Road is: x89899
+
+The Road is: x89899
+NowTime: 1
+NowTime: 1
+NowTime: 1
+
+The Road is: x8988
+
+The Road is: x8988
+insert:
+base : &SymRegion{conj_$105{__normal_iterator<const int *, vector<int> > &, LC4, S6171039, #2}} NowTime: 1
+
+The Road is: x8988
+
+The Road is: x8988
+NowTime: 1
+NowTime: 1
+NowTime: 1
+NowTime: 1
+
+The Road is: x89889
+insert:
+__min_element : lazyCompoundVal{0x56350e888600,__first} lazyCompoundVal{0x56350d045fd8,__last} Unknown 
+The Road is: x89889
+insert:
+min_element : lazyCompoundVal{0x56350d046150,__first} lazyCompoundVal{0x56350deeeb90,__last} NowTime: 1
+NowTime: 1
+
+The Road is: x89889
+
+The Road is: x89889
+NowTime: 1
+
+The Road is: x89889
+
+The Road is: x89889
+NowTime: 1
+
+The Road is: x89889
+
+NowTime: 1
+
+The Road is: x89889
+
+The Road is: x89889
+-----------------
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+NowTime: 1
+
+The Road is: x89889
+NowTime: 1
+NowTime: 1
+
+The Road is: x89889
+
+The Road is: x89889
+NowTime: 1
+
+The Road is: x89889
+
+The Road is: x89889
+NowTime: 1
+NowTime: 1
+NowTime: 1
+
+The Road is: x898999
+
+The Road is: x898999
+insert:
+base : &SymRegion{conj_$66{__normal_iterator<const int *, vector<int> > &, LC10, S6171039, #1}} NowTime: 1
+
+The Road is: x898999
+
+The Road is: x898999
+NowTime: 2
+NowTime: 2
+NowTime: 2
+NowTime: 2
+
+The Road is: x8989999
+insert:
+__min_element : lazyCompoundVal{0x56350fb61660,__first} lazyCompoundVal{0x56350fb623c8,__last} Unknown 
+The Road is: x8989999
+NowTime: 2
+
+NowTime: 2
+NowTime: 2
+NowTime: 2
+
+The Road is: x898899
+
+The Road is: x898899
+insert:
+base : &SymRegion{conj_$66{__normal_iterator<const int *, vector<int> > &, LC10, S6171039, #1}} NowTime: 2
+
+The Road is: x898899
+
+The Road is: x898899
+NowTime: 2
+NowTime: 2
+NowTime: 2
+NowTime: 2
+
+The Road is: x8988999
+insert:
+__min_element : lazyCompoundVal{0x56350fb7c5e8,__first} lazyCompoundVal{0x56350fb81eb0,__last} Unknown 
+The Road is: x8988999
+NowTime: 2
+
+
+NowTime: 2
+NowTime: 2
+NowTime: 2
+
+The Road is: x89899989
+
+The Road is: x89899989
+insert:
+base : &SymRegion{conj_$128{__normal_iterator<const int *, vector<int> > &, LC10, S6171039, #2}} NowTime: 2
+
+The Road is: x89899989
+
+The Road is: x89899989
+NowTime: 3
+NowTime: 3
+NowTime: 3
+NowTime: 3
+
+The Road is: x898999899
+insert:
+__min_element : lazyCompoundVal{0x56350fb61660,__first} lazyCompoundVal{0x56350fb623c8,__last} Unknown 
+The Road is: x898999899
+NowTime: 3
+
+NowTime: 3
+NowTime: 3
+NowTime: 3
+
+The Road is: x89899988
+
+The Road is: x89899988
+insert:
+base : &SymRegion{conj_$128{__normal_iterator<const int *, vector<int> > &, LC10, S6171039, #2}} NowTime: 3
+
+The Road is: x89899988
+
+The Road is: x89899988
+NowTime: 4
+NowTime: 4
+NowTime: 4
+NowTime: 4
+
+The Road is: x898999889
+insert:
+__min_element : lazyCompoundVal{0x56350fb61660,__first} lazyCompoundVal{0x56350fb623c8,__last} Unknown 
+The Road is: x898999889
+NowTime: 4
+
+NowTime: 4
+NowTime: 4
+NowTime: 4
+
+The Road is: x89889989
+
+The Road is: x89889989
+insert:
+base : &SymRegion{conj_$128{__normal_iterator<const int *, vector<int> > &, LC10, S6171039, #2}} NowTime: 4
+
+The Road is: x89889989
+
+The Road is: x89889989
+NowTime: 5
+NowTime: 5
+NowTime: 5
+NowTime: 5
+
+The Road is: x898899899
+insert:
+__min_element : lazyCompoundVal{0x56350fb7c5e8,__first} lazyCompoundVal{0x56350fb81eb0,__last} Unknown 
+The Road is: x898899899
+NowTime: 5
+
+NowTime: 5
+NowTime: 5
+NowTime: 5
+
+The Road is: x89889988
+
+The Road is: x89889988
+insert:
+base : &SymRegion{conj_$128{__normal_iterator<const int *, vector<int> > &, LC10, S6171039, #2}} NowTime: 5
+
+The Road is: x89889988
+
+The Road is: x89889988
+NowTime: 6
+NowTime: 6
+NowTime: 6
+NowTime: 6
+
+The Road is: x898899889
+insert:
+__min_element : lazyCompoundVal{0x56350fb7c5e8,__first} lazyCompoundVal{0x56350fb81eb0,__last} Unknown 
+The Road is: x898899889
+NowTime: 6
+
+
+
+
+
+
+
+
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &a.image_ids NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &b.image_ids 
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+begin : &a.image_ids NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+end : &a.image_ids NowTime: 0
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+-----------------
+Now have size
+Now have size
+Now have begin
+Now have end
+insert:
+__iter_less_iter : 
+NowTime: 0
+
+The Road is: x8
+NowTime: 0
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+base : &__first NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+base : &__last NowTime: 0
+NowTime: 0
+NowTime: 0
+
+The Road is: x89
+
+The Road is: x89
+insert:
+base : &SymRegion{conj_$32{__normal_iterator<const int *, vector<int> > &, LC24, S6171039, #1}} NowTime: 0
+
+The Road is: x89
+
+The Road is: x89
+
+The Road is: x899
+insert:
+__min_element : lazyCompoundVal{0x56350ed68540,__first} lazyCompoundVal{0x56350fd1b1f8,__last} Unknown 
+The Road is: x899
+insert:
+min_element : lazyCompoundVal{0x56350ed68b88,__first} lazyCompoundVal{0x56350fd1b298,__last} NowTime: 0
+NowTime: 0
+
+The Road is: x899
+
+The Road is: x899
+insert:
+begin : &b.image_ids NowTime: 0
+
+The Road is: x899
+
+The Road is: x899
+insert:
+end : &b.image_ids NowTime: 0
+
+The Road is: x899
+NowTime: 0
+
+The Road is: x899
+
+The Road is: x899
+-----------------
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+NowTime: 0
+
+The Road is: x899
+NowTime: 0
+NowTime: 0
+
+The Road is: x899
+
+The Road is: x899
+NowTime: 0
+
+The Road is: x899
+
+The Road is: x899
+NowTime: 0
+NowTime: 0
+NowTime: 0
+
+The Road is: x8999
+
+The Road is: x8999
+insert:
+base : &SymRegion{conj_$66{__normal_iterator<const int *, vector<int> > &, LC30, S6171039, #1}} NowTime: 0
+
+The Road is: x8999
+
+The Road is: x8999
+
+The Road is: x89999
+insert:
+__min_element : lazyCompoundVal{0x56350fc91760,__first} lazyCompoundVal{0x56350fc2bbf0,__last} Unknown 
+The Road is: x89999
+insert:
+min_element : lazyCompoundVal{0x56350fc91920,__first} lazyCompoundVal{0x56350fc2bdb0,__last} NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+
+The Road is: x88
+insert:
+__min_element : lazyCompoundVal{0x56350ed68540,__first} lazyCompoundVal{0x56350fd1b1f8,__last} Unknown 
+The Road is: x88
+insert:
+min_element : lazyCompoundVal{0x56350ed68b88,__first} lazyCompoundVal{0x56350fd1b298,__last} NowTime: 0
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+begin : &b.image_ids NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+end : &b.image_ids NowTime: 0
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+-----------------
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+NowTime: 0
+
+The Road is: x88
+NowTime: 0
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+The Road is: x888
+insert:
+__min_element : lazyCompoundVal{0x56350f497eb0,__first} lazyCompoundVal{0x56350f498040,__last} Unknown 
+The Road is: x888
+insert:
+min_element : lazyCompoundVal{0x56350f496e88,__first} lazyCompoundVal{0x56350f498118,__last} NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+
+The Road is: x8989
+
+The Road is: x8989
+insert:
+base : &SymRegion{conj_$105{__normal_iterator<const int *, vector<int> > &, LC24, S6171039, #2}} NowTime: 0
+
+The Road is: x8989
+
+The Road is: x8989
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+
+The Road is: x89899
+insert:
+__min_element : lazyCompoundVal{0x56350ed68540,__first} lazyCompoundVal{0x56350fd1b1f8,__last} Unknown 
+The Road is: x89899
+insert:
+min_element : lazyCompoundVal{0x56350ed68b88,__first} lazyCompoundVal{0x56350fd1b298,__last} NowTime: 0
+NowTime: 0
+
+The Road is: x89899
+
+The Road is: x89899
+insert:
+begin : &b.image_ids NowTime: 0
+
+The Road is: x89899
+
+The Road is: x89899
+insert:
+end : &b.image_ids NowTime: 0
+
+The Road is: x89899
+NowTime: 0
+NowTime: 0
+NowTime: 0
+
+The Road is: x899989
+
+The Road is: x899989
+insert:
+base : &SymRegion{conj_$128{__normal_iterator<const int *, vector<int> > &, LC30, S6171039, #2}} NowTime: 0
+
+The Road is: x899989
+
+The Road is: x899989
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+
+The Road is: x8999899
+insert:
+__min_element : lazyCompoundVal{0x56350fc91760,__first} lazyCompoundVal{0x56350fc2bbf0,__last} Unknown 
+The Road is: x8999899
+insert:
+min_element : lazyCompoundVal{0x56350fc91920,__first} lazyCompoundVal{0x56350fc2bdb0,__last} NowTime: 0
+
+NowTime: 0
+NowTime: 0
+NowTime: 0
+
+The Road is: x899988
+
+The Road is: x899988
+insert:
+base : &SymRegion{conj_$128{__normal_iterator<const int *, vector<int> > &, LC30, S6171039, #2}} NowTime: 0
+
+The Road is: x899988
+
+The Road is: x899988
+NowTime: 1
+NowTime: 1
+NowTime: 1
+NowTime: 1
+
+The Road is: x8999889
+insert:
+__min_element : lazyCompoundVal{0x56350fc91760,__first} lazyCompoundVal{0x56350fc2bbf0,__last} Unknown 
+The Road is: x8999889
+insert:
+min_element : lazyCompoundVal{0x56350fc91920,__first} lazyCompoundVal{0x56350fc2bdb0,__last} NowTime: 1
+NowTime: 1
+
+The Road is: x89899
+
+The Road is: x89899
+-----------------
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+NowTime: 1
+
+The Road is: x89899
+NowTime: 1
+NowTime: 1
+
+The Road is: x89899
+
+The Road is: x89899
+NowTime: 1
+
+The Road is: x89899
+
+The Road is: x89899
+NowTime: 1
+NowTime: 1
+NowTime: 1
+
+The Road is: x8988
+
+The Road is: x8988
+insert:
+base : &SymRegion{conj_$105{__normal_iterator<const int *, vector<int> > &, LC24, S6171039, #2}} NowTime: 1
+
+The Road is: x8988
+
+The Road is: x8988
+NowTime: 1
+NowTime: 1
+NowTime: 1
+NowTime: 1
+
+The Road is: x89889
+insert:
+__min_element : lazyCompoundVal{0x56350ed68540,__first} lazyCompoundVal{0x56350fd1b1f8,__last} Unknown 
+The Road is: x89889
+insert:
+min_element : lazyCompoundVal{0x56350ed68b88,__first} lazyCompoundVal{0x56350fd1b298,__last} NowTime: 1
+NowTime: 1
+
+The Road is: x89889
+
+The Road is: x89889
+insert:
+begin : &b.image_ids NowTime: 1
+
+The Road is: x89889
+
+The Road is: x89889
+insert:
+end : &b.image_ids NowTime: 1
+
+The Road is: x89889
+
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x899998
+
+The Road is: x899998
+NowTime: 1
+
+The Road is: x899998
+
+The Road is: x899998
+
+NowTime: 1
+
+The Road is: x8999988
+
+The Road is: x8999988
+NowTime: 1
+
+The Road is: x8999988
+
+The Road is: x8999988
+NowTime: 1
+
+The Road is: x8999988
+NowTime: 1
+
+The Road is: x8999988
+
+The Road is: x8999988
+-----------------
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+Now have base
+Now have __min_element
+Now have min_element
+NowTime: 1
+
+The Road is: x8999988
+NowTime: 1
+NowTime: 1
+
+The Road is: x8999988
+
+The Road is: x8999988
+NowTime: 1
+
+The Road is: x8999988
+
+The Road is: x8999988
+NowTime: 2
+NowTime: 2
+NowTime: 2
+
+The Road is: x89999889
+
+The Road is: x89999889
+insert:
+base : &SymRegion{conj_$178{__normal_iterator<const int *, vector<int> > &, LC43, S6171039, #1}} NowTime: 2
+
+The Road is: x89999889
+
+The Road is: x89999889
+
+The Road is: x899998899
+insert:
+__min_element : lazyCompoundVal{0x56350fad83a8,__first} lazyCompoundVal{0x56350fad99c0,__last} Unknown 
+The Road is: x899998899
+NowTime: 4
+NowTime: 4
+
+The Road is: x899998899
+
+The Road is: x899998899
+NowTime: 4
+
+The Road is: x899998899
+
+The Road is: x899998899
+NowTime: 4
+
+The Road is: x899998899
+NowTime: 4
+
+The Road is: x899998899
+
+The Road is: x899998899
+-----------------
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+Now have base
+Now have __min_element
+Now have min_element
+Now have base
+Now have __min_element
+NowTime: 4
+
+The Road is: x899998899
+NowTime: 4
+NowTime: 4
+
+The Road is: x899998899
+
+The Road is: x899998899
+NowTime: 7
+
+The Road is: x899998899
+
+The Road is: x899998899
+NowTime: 15
+NowTime: 15
+NowTime: 15
+
+The Road is: x8999988999
+
+The Road is: x8999988999
+insert:
+base : &SymRegion{conj_$212{__normal_iterator<const int *, vector<int> > &, LC49, S6171039, #1}} NowTime: 15
+
+The Road is: x8999988999
+
+The Road is: x8999988999
+
+The Road is: x89999889999
+insert:
+__min_element : lazyCompoundVal{0x56350fb575a0,__first} lazyCompoundVal{0x56350fb59138,__last} Unknown 
+The Road is: x89999889999
+NowTime: 31
+NowTime: 31
+NowTime: 31
+NowTime: 31
+NowTime: 31
+NowTime: 31
+NowTime: 31
+NowTime: 31
+NowTime: 31
+NowTime: 31
+NowTime: 31
+NowTime: 31
+
+The Road is: x8999988989
+
+The Road is: x8999988989
+insert:
+base : &SymRegion{conj_$251{__normal_iterator<const int *, vector<int> > &, LC43, S6171039, #2}} NowTime: 31
+
+The Road is: x8999988989
+
+The Road is: x8999988989
+NowTime: 36
+NowTime: 36
+NowTime: 36
+NowTime: 36
+
+The Road is: x89999889899
+insert:
+__min_element : lazyCompoundVal{0x56350fad83a8,__first} lazyCompoundVal{0x56350fad99c0,__last} Unknown 
+The Road is: x89999889899
+NowTime: 36
+NowTime: 36
+
+The Road is: x89999889899
+
+The Road is: x89999889899
+NowTime: 36
+
+The Road is: x89999889899
+
+The Road is: x89999889899
+NowTime: 36
+
+The Road is: x89999889899
+NowTime: 36
+
+The Road is: x89999889899
+
+The Road is: x89999889899
+-----------------
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+Now have base
+Now have __min_element
+Now have min_element
+Now have base
+Now have base
+Now have __min_element
+NowTime: 36
+
+The Road is: x89999889899
+NowTime: 36
+NowTime: 36
+
+The Road is: x89999889899
+
+The Road is: x89999889899
+NowTime: 40
+
+The Road is: x89999889899
+
+The Road is: x89999889899
+NowTime: 55
+NowTime: 55
+NowTime: 55
+
+The Road is: x899998899989
+
+The Road is: x899998899989
+insert:
+base : &SymRegion{conj_$274{__normal_iterator<const int *, vector<int> > &, LC49, S6171039, #2}} NowTime: 55
+
+The Road is: x899998899989
+
+The Road is: x899998899989
+NowTime: 84
+NowTime: 84
+NowTime: 84
+NowTime: 84
+
+The Road is: x8999988999899
+insert:
+__min_element : lazyCompoundVal{0x56350fb575a0,__first} lazyCompoundVal{0x56350fb59138,__last} Unknown 
+The Road is: x8999988999899
+NowTime: 84
+
+NowTime: 84
+NowTime: 84
+NowTime: 84
+
+The Road is: x899998898999
+
+The Road is: x899998898999
+insert:
+base : &SymRegion{conj_$212{__normal_iterator<const int *, vector<int> > &, LC49, S6171039, #1}} NowTime: 84
+
+The Road is: x899998898999
+
+The Road is: x899998898999
+NowTime: 111
+NowTime: 111
+NowTime: 111
+NowTime: 111
+
+The Road is: x8999988989999
+insert:
+__min_element : lazyCompoundVal{0x56350fcfed40,__first} lazyCompoundVal{0x56350fb23470,__last} Unknown 
+The Road is: x8999988989999
+NowTime: 111
+NowTime: 111
+NowTime: 111
+NowTime: 111
+
+The Road is: x8999988988
+
+The Road is: x8999988988
+insert:
+base : &SymRegion{conj_$251{__normal_iterator<const int *, vector<int> > &, LC43, S6171039, #2}} NowTime: 111
+
+The Road is: x8999988988
+
+The Road is: x8999988988
+NowTime: 116
+NowTime: 116
+NowTime: 116
+NowTime: 116
+
+The Road is: x89999889889
+insert:
+__min_element : lazyCompoundVal{0x56350fad83a8,__first} lazyCompoundVal{0x56350fad99c0,__last} Unknown 
+The Road is: x89999889889
+NowTime: 116
+NowTime: 116
+
+The Road is: x89999889889
+
+The Road is: x89999889889
+NowTime: 116
+
+The Road is: x89999889889
+
+The Road is: x89999889889
+NowTime: 116
+
+The Road is: x89999889889
+NowTime: 116
+
+The Road is: x89999889889
+
+The Road is: x89999889889
+-----------------
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+Now have base
+Now have __min_element
+Now have min_element
+Now have base
+Now have base
+Now have __min_element
+NowTime: 116
+
+The Road is: x89999889889
+NowTime: 116
+NowTime: 116
+
+The Road is: x89999889889
+
+The Road is: x89999889889
+NowTime: 121
+
+The Road is: x89999889889
+
+The Road is: x89999889889
+
+
+NowTime: 136
+NowTime: 136
+NowTime: 136
+
+The Road is: x899998899988
+
+The Road is: x899998899988
+insert:
+base : &SymRegion{conj_$274{__normal_iterator<const int *, vector<int> > &, LC49, S6171039, #2}} NowTime: 136
+
+The Road is: x899998899988
+
+The Road is: x899998899988
+NowTime: 166
+NowTime: 166
+NowTime: 166
+NowTime: 166
+
+The Road is: x8999988999889
+insert:
+__min_element : lazyCompoundVal{0x56350fb575a0,__first} lazyCompoundVal{0x56350fb59138,__last} Unknown 
+The Road is: x8999988999889
+NowTime: 166
+NowTime: 166
+
+The Road is: x89889
+
+The Road is: x89889
+-----------------
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+NowTime: 166
+
+The Road is: x89889
+NowTime: 166
+NowTime: 166
+
+The Road is: x89889
+
+The Road is: x89889
+NowTime: 166
+
+The Road is: x89889
+
+The Road is: x89889
+NowTime: 166
+NowTime: 166
+NowTime: 166
+
+The Road is: x898999
+
+The Road is: x898999
+insert:
+base : &SymRegion{conj_$66{__normal_iterator<const int *, vector<int> > &, LC30, S6171039, #1}} NowTime: 166
+
+The Road is: x898999
+
+The Road is: x898999
+NowTime: 166
+NowTime: 166
+NowTime: 166
+NowTime: 166
+
+The Road is: x8989999
+insert:
+__min_element : lazyCompoundVal{0x56350fd0d338,__first} lazyCompoundVal{0x56350fd11368,__last} Unknown 
+The Road is: x8989999
+insert:
+min_element : lazyCompoundVal{0x56350fc4a7e8,__first} lazyCompoundVal{0x56350fc4bd70,__last} NowTime: 166
+
+NowTime: 166
+NowTime: 166
+NowTime: 166
+
+The Road is: x898899
+
+The Road is: x898899
+insert:
+base : &SymRegion{conj_$66{__normal_iterator<const int *, vector<int> > &, LC30, S6171039, #1}} NowTime: 166
+
+The Road is: x898899
+
+The Road is: x898899
+NowTime: 167
+NowTime: 167
+NowTime: 167
+NowTime: 167
+
+The Road is: x8988999
+insert:
+__min_element : lazyCompoundVal{0x56350fb927f0,__first} lazyCompoundVal{0x56350fb96fd8,__last} Unknown 
+The Road is: x8988999
+insert:
+min_element : lazyCompoundVal{0x56350fac91a0,__first} lazyCompoundVal{0x56350faca758,__last} NowTime: 167
+NowTime: 167
+NowTime: 167
+NowTime: 167
+
+The Road is: x899998898899
+
+The Road is: x899998898899
+insert:
+base : &SymRegion{conj_$212{__normal_iterator<const int *, vector<int> > &, LC49, S6171039, #1}} NowTime: 167
+
+The Road is: x899998898899
+
+The Road is: x899998898899
+NowTime: 196
+NowTime: 196
+NowTime: 196
+NowTime: 196
+
+The Road is: x8999988988999
+insert:
+__min_element : lazyCompoundVal{0x56350fccf038,__first} lazyCompoundVal{0x56350fcd08c8,__last} Unknown 
+The Road is: x8999988988999
+NowTime: 196
+
+
+NowTime: 196
+
+NowTime: 196
+
+The Road is: x8888
+
+The Road is: x8888
+NowTime: 196
+
+The Road is: x8888
+
+The Road is: x8888
+NowTime: 196
+
+The Road is: x88888
+
+The Road is: x88888
+NowTime: 196
+
+The Road is: x88888
+
+The Road is: x88888
+NowTime: 196
+
+The Road is: x88888
+NowTime: 196
+
+The Road is: x88888
+
+The Road is: x88888
+-----------------
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+Now have __min_element
+Now have min_element
+NowTime: 196
+
+The Road is: x88888
+NowTime: 196
+NowTime: 196
+
+The Road is: x88888
+
+The Road is: x88888
+NowTime: 196
+
+The Road is: x88888
+
+The Road is: x88888
+
+The Road is: x888888
+insert:
+__min_element : lazyCompoundVal{0x56350fbfe440,__first} lazyCompoundVal{0x56350fbff530,__last} Unknown 
+The Road is: x888888
+NowTime: 196
+NowTime: 196
+
+The Road is: x888888
+
+The Road is: x888888
+NowTime: 196
+
+The Road is: x888888
+
+The Road is: x888888
+NowTime: 196
+
+The Road is: x888888
+NowTime: 196
+
+The Road is: x888888
+
+The Road is: x888888
+-----------------
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+Now have __min_element
+Now have min_element
+Now have __min_element
+NowTime: 196
+
+The Road is: x888888
+NowTime: 196
+NowTime: 196
+
+The Road is: x888888
+
+The Road is: x888888
+NowTime: 197
+
+The Road is: x888888
+
+The Road is: x888888
+
+The Road is: x8888888
+insert:
+__min_element : lazyCompoundVal{0x56350fc0d828,__first} lazyCompoundVal{0x56350fc14258,__last} Unknown 
+The Road is: x8888888
+NowTime: 198
+NowTime: 198
+NowTime: 198
+NowTime: 198
+
+The Road is: x89999889899989
+
+The Road is: x89999889899989
+insert:
+base : &SymRegion{conj_$274{__normal_iterator<const int *, vector<int> > &, LC49, S6171039, #2}} NowTime: 198
+
+The Road is: x89999889899989
+
+The Road is: x89999889899989
+NowTime: 248
+TimeLimit
+
+The Road is: x899998898999899
+insert:
+__min_element : lazyCompoundVal{0x56350fcfed40,__first} lazyCompoundVal{0x56350fb23470,__last} Unknown 
+The Road is: x899998898999899
+NowTime: 248
+TimeLimit
+
+
+NowTime: 248
+TimeLimit
+NowTime: 248
+TimeLimit
+
+
+NowTime: 248
+TimeLimit
+NowTime: 248
+TimeLimit
+
+
+NowTime: 248
+TimeLimit
+NowTime: 248
+TimeLimit
+
+
+NowTime: 248
+TimeLimit
+
+NowTime: 248
+TimeLimit
+NowTime: 248
+TimeLimit
+
+
+
+NowTime: 248
+TimeLimit
+
+
+
+
+NowTime: 248
+TimeLimit
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &a.image_ids NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &b.image_ids 
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+begin : &a.image_ids NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+end : &a.image_ids NowTime: 0
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+-----------------
+Now have size
+Now have size
+Now have begin
+Now have end
+insert:
+__iter_less_iter : 
+NowTime: 0
+
+The Road is: x8
+NowTime: 0
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+base : &__first NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+base : &__last NowTime: 0
+NowTime: 0
+NowTime: 0
+
+The Road is: x89
+
+The Road is: x89
+insert:
+base : &SymRegion{conj_$32{__normal_iterator<const int *, vector<int> > &, LC63, S6171039, #1}} NowTime: 0
+
+The Road is: x89
+
+The Road is: x89
+
+The Road is: x899
+insert:
+__min_element : lazyCompoundVal{0x56350e888308,__first} lazyCompoundVal{0x56350deedd18,__last} Unknown 
+The Road is: x899
+insert:
+min_element : lazyCompoundVal{0x56350e888480,__first} lazyCompoundVal{0x56350fd1b158,__last} NowTime: 0
+NowTime: 0
+
+The Road is: x899
+
+The Road is: x899
+insert:
+begin : &b.image_ids NowTime: 0
+
+The Road is: x899
+
+The Road is: x899
+insert:
+end : &b.image_ids NowTime: 0
+
+The Road is: x899
+NowTime: 0
+
+The Road is: x899
+
+The Road is: x899
+-----------------
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+NowTime: 0
+
+The Road is: x899
+NowTime: 0
+NowTime: 0
+
+The Road is: x899
+
+The Road is: x899
+NowTime: 0
+
+The Road is: x899
+
+The Road is: x899
+NowTime: 0
+NowTime: 0
+NowTime: 0
+
+The Road is: x8999
+
+The Road is: x8999
+insert:
+base : &SymRegion{conj_$66{__normal_iterator<const int *, vector<int> > &, LC69, S6171039, #1}} NowTime: 0
+
+The Road is: x8999
+
+The Road is: x8999
+
+The Road is: x89999
+insert:
+__min_element : lazyCompoundVal{0x56350fc2dd28,__first} lazyCompoundVal{0x56350fc32280,__last} Unknown 
+The Road is: x89999
+insert:
+min_element : lazyCompoundVal{0x56350fc2e338,__first} lazyCompoundVal{0x56350fc2fa98,__last} NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+
+The Road is: x88
+insert:
+__min_element : lazyCompoundVal{0x56350e888308,__first} lazyCompoundVal{0x56350deedd18,__last} Unknown 
+The Road is: x88
+insert:
+min_element : lazyCompoundVal{0x56350e888480,__first} lazyCompoundVal{0x56350fd1b158,__last} NowTime: 0
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+begin : &b.image_ids NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+end : &b.image_ids NowTime: 0
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+-----------------
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+NowTime: 0
+
+The Road is: x88
+NowTime: 0
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+The Road is: x888
+insert:
+__min_element : lazyCompoundVal{0x56350fb3c448,__first} lazyCompoundVal{0x56350fb3fc60,__last} Unknown 
+The Road is: x888
+insert:
+min_element : lazyCompoundVal{0x56350fb3c5b0,__first} lazyCompoundVal{0x56350fb3d8b0,__last} NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+
+The Road is: x8989
+
+The Road is: x8989
+insert:
+base : &SymRegion{conj_$105{__normal_iterator<const int *, vector<int> > &, LC63, S6171039, #2}} NowTime: 0
+
+The Road is: x8989
+
+The Road is: x8989
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+
+The Road is: x89899
+insert:
+__min_element : lazyCompoundVal{0x56350e888308,__first} lazyCompoundVal{0x56350deedd18,__last} Unknown 
+The Road is: x89899
+insert:
+min_element : lazyCompoundVal{0x56350e888480,__first} lazyCompoundVal{0x56350fd1b158,__last} NowTime: 0
+NowTime: 0
+
+The Road is: x89899
+
+The Road is: x89899
+insert:
+begin : &b.image_ids NowTime: 0
+
+The Road is: x89899
+
+The Road is: x89899
+insert:
+end : &b.image_ids NowTime: 0
+
+The Road is: x89899
+NowTime: 0
+NowTime: 0
+NowTime: 0
+
+The Road is: x899989
+
+The Road is: x899989
+insert:
+base : &SymRegion{conj_$128{__normal_iterator<const int *, vector<int> > &, LC69, S6171039, #2}} NowTime: 0
+
+The Road is: x899989
+
+The Road is: x899989
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+
+The Road is: x8999899
+insert:
+__min_element : lazyCompoundVal{0x56350fc2dd28,__first} lazyCompoundVal{0x56350fc32280,__last} Unknown 
+The Road is: x8999899
+insert:
+min_element : lazyCompoundVal{0x56350fc2e338,__first} lazyCompoundVal{0x56350fc2fa98,__last} NowTime: 0
+
+NowTime: 0
+NowTime: 0
+NowTime: 0
+
+The Road is: x899988
+
+The Road is: x899988
+insert:
+base : &SymRegion{conj_$128{__normal_iterator<const int *, vector<int> > &, LC69, S6171039, #2}} NowTime: 0
+
+The Road is: x899988
+
+The Road is: x899988
+NowTime: 1
+NowTime: 1
+NowTime: 1
+NowTime: 1
+
+The Road is: x8999889
+insert:
+__min_element : lazyCompoundVal{0x56350fc2dd28,__first} lazyCompoundVal{0x56350fc32280,__last} Unknown 
+The Road is: x8999889
+insert:
+min_element : lazyCompoundVal{0x56350fc2e338,__first} lazyCompoundVal{0x56350fc2fa98,__last} NowTime: 1
+NowTime: 1
+
+The Road is: x89899
+
+The Road is: x89899
+-----------------
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+NowTime: 1
+
+The Road is: x89899
+NowTime: 1
+NowTime: 1
+
+The Road is: x89899
+
+The Road is: x89899
+NowTime: 1
+
+The Road is: x89899
+
+The Road is: x89899
+NowTime: 1
+NowTime: 1
+NowTime: 1
+
+The Road is: x8988
+
+The Road is: x8988
+insert:
+base : &SymRegion{conj_$105{__normal_iterator<const int *, vector<int> > &, LC63, S6171039, #2}} NowTime: 1
+
+The Road is: x8988
+
+The Road is: x8988
+NowTime: 1
+NowTime: 1
+NowTime: 1
+NowTime: 1
+
+The Road is: x89889
+insert:
+__min_element : lazyCompoundVal{0x56350e888308,__first} lazyCompoundVal{0x56350deedd18,__last} Unknown 
+The Road is: x89889
+insert:
+min_element : lazyCompoundVal{0x56350e888480,__first} lazyCompoundVal{0x56350fd1b158,__last} NowTime: 1
+NowTime: 1
+
+The Road is: x89889
+
+The Road is: x89889
+insert:
+begin : &b.image_ids NowTime: 1
+
+The Road is: x89889
+
+The Road is: x89889
+insert:
+end : &b.image_ids NowTime: 1
+
+The Road is: x89889
+
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x899998
+
+The Road is: x899998
+NowTime: 1
+
+The Road is: x899998
+
+The Road is: x899998
+
+NowTime: 1
+
+The Road is: x8999988
+
+The Road is: x8999988
+NowTime: 1
+
+The Road is: x8999988
+
+The Road is: x8999988
+NowTime: 1
+
+The Road is: x8999988
+NowTime: 1
+
+The Road is: x8999988
+
+The Road is: x8999988
+-----------------
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+Now have base
+Now have __min_element
+Now have min_element
+NowTime: 1
+
+The Road is: x8999988
+NowTime: 1
+NowTime: 1
+
+The Road is: x8999988
+
+The Road is: x8999988
+NowTime: 1
+
+The Road is: x8999988
+
+The Road is: x8999988
+NowTime: 2
+NowTime: 2
+NowTime: 2
+
+The Road is: x89999889
+
+The Road is: x89999889
+insert:
+base : &SymRegion{conj_$178{__normal_iterator<const int *, vector<int> > &, LC82, S6171039, #1}} NowTime: 2
+
+The Road is: x89999889
+
+The Road is: x89999889
+
+The Road is: x899998899
+insert:
+__min_element : lazyCompoundVal{0x56350ff159e8,__first} lazyCompoundVal{0x56350ff170d0,__last} Unknown 
+The Road is: x899998899
+NowTime: 5
+NowTime: 5
+
+The Road is: x899998899
+
+The Road is: x899998899
+NowTime: 5
+
+The Road is: x899998899
+
+The Road is: x899998899
+NowTime: 5
+
+The Road is: x899998899
+NowTime: 5
+
+The Road is: x899998899
+
+The Road is: x899998899
+-----------------
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+Now have base
+Now have __min_element
+Now have min_element
+Now have base
+Now have __min_element
+NowTime: 5
+
+The Road is: x899998899
+NowTime: 5
+NowTime: 5
+
+The Road is: x899998899
+
+The Road is: x899998899
+NowTime: 7
+
+The Road is: x899998899
+
+The Road is: x899998899
+NowTime: 15
+NowTime: 15
+NowTime: 15
+
+The Road is: x8999988999
+
+The Road is: x8999988999
+insert:
+base : &SymRegion{conj_$212{__normal_iterator<const int *, vector<int> > &, LC88, S6171039, #1}} NowTime: 15
+
+The Road is: x8999988999
+
+The Road is: x8999988999
+
+The Road is: x89999889999
+insert:
+__min_element : lazyCompoundVal{0x56350ff344c0,__first} lazyCompoundVal{0x56350ff3b010,__last} Unknown 
+The Road is: x89999889999
+NowTime: 31
+NowTime: 31
+NowTime: 31
+NowTime: 31
+NowTime: 31
+NowTime: 31
+NowTime: 31
+NowTime: 31
+NowTime: 31
+NowTime: 31
+NowTime: 31
+NowTime: 31
+
+The Road is: x8999988989
+
+The Road is: x8999988989
+insert:
+base : &SymRegion{conj_$251{__normal_iterator<const int *, vector<int> > &, LC82, S6171039, #2}} NowTime: 31
+
+The Road is: x8999988989
+
+The Road is: x8999988989
+NowTime: 36
+NowTime: 36
+NowTime: 36
+NowTime: 36
+
+The Road is: x89999889899
+insert:
+__min_element : lazyCompoundVal{0x56350ff159e8,__first} lazyCompoundVal{0x56350ff170d0,__last} Unknown 
+The Road is: x89999889899
+NowTime: 36
+NowTime: 36
+
+The Road is: x89999889899
+
+The Road is: x89999889899
+NowTime: 36
+
+The Road is: x89999889899
+
+The Road is: x89999889899
+NowTime: 36
+
+The Road is: x89999889899
+NowTime: 36
+
+The Road is: x89999889899
+
+The Road is: x89999889899
+-----------------
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+Now have base
+Now have __min_element
+Now have min_element
+Now have base
+Now have base
+Now have __min_element
+NowTime: 36
+
+The Road is: x89999889899
+NowTime: 36
+NowTime: 36
+
+The Road is: x89999889899
+
+The Road is: x89999889899
+NowTime: 40
+
+The Road is: x89999889899
+
+The Road is: x89999889899
+NowTime: 55
+NowTime: 55
+NowTime: 55
+
+The Road is: x899998899989
+
+The Road is: x899998899989
+insert:
+base : &SymRegion{conj_$274{__normal_iterator<const int *, vector<int> > &, LC88, S6171039, #2}} NowTime: 55
+
+The Road is: x899998899989
+
+The Road is: x899998899989
+NowTime: 85
+NowTime: 85
+NowTime: 85
+NowTime: 85
+
+The Road is: x8999988999899
+insert:
+__min_element : lazyCompoundVal{0x56350ff344c0,__first} lazyCompoundVal{0x56350ff3b010,__last} Unknown 
+The Road is: x8999988999899
+NowTime: 85
+
+NowTime: 85
+NowTime: 85
+NowTime: 85
+
+The Road is: x899998898999
+
+The Road is: x899998898999
+insert:
+base : &SymRegion{conj_$212{__normal_iterator<const int *, vector<int> > &, LC88, S6171039, #1}} NowTime: 85
+
+The Road is: x899998898999
+
+The Road is: x899998898999
+NowTime: 113
+NowTime: 113
+NowTime: 113
+NowTime: 113
+
+The Road is: x8999988989999
+insert:
+__min_element : lazyCompoundVal{0x56350fbe54c0,__first} lazyCompoundVal{0x56350fbe98b0,__last} Unknown 
+The Road is: x8999988989999
+NowTime: 113
+NowTime: 113
+NowTime: 113
+NowTime: 113
+
+The Road is: x8999988988
+
+The Road is: x8999988988
+insert:
+base : &SymRegion{conj_$251{__normal_iterator<const int *, vector<int> > &, LC82, S6171039, #2}} NowTime: 113
+
+The Road is: x8999988988
+
+The Road is: x8999988988
+NowTime: 118
+NowTime: 118
+NowTime: 118
+NowTime: 118
+
+The Road is: x89999889889
+insert:
+__min_element : lazyCompoundVal{0x56350ff159e8,__first} lazyCompoundVal{0x56350ff170d0,__last} Unknown 
+The Road is: x89999889889
+NowTime: 118
+NowTime: 118
+
+The Road is: x89999889889
+
+The Road is: x89999889889
+NowTime: 118
+
+The Road is: x89999889889
+
+The Road is: x89999889889
+NowTime: 118
+
+The Road is: x89999889889
+NowTime: 118
+
+The Road is: x89999889889
+
+The Road is: x89999889889
+-----------------
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+Now have base
+Now have __min_element
+Now have min_element
+Now have base
+Now have base
+Now have __min_element
+NowTime: 118
+
+The Road is: x89999889889
+NowTime: 118
+NowTime: 118
+
+The Road is: x89999889889
+
+The Road is: x89999889889
+NowTime: 122
+
+The Road is: x89999889889
+
+The Road is: x89999889889
+
+
+NowTime: 138
+NowTime: 138
+NowTime: 138
+
+The Road is: x899998899988
+
+The Road is: x899998899988
+insert:
+base : &SymRegion{conj_$274{__normal_iterator<const int *, vector<int> > &, LC88, S6171039, #2}} NowTime: 138
+
+The Road is: x899998899988
+
+The Road is: x899998899988
+NowTime: 167
+NowTime: 167
+NowTime: 167
+NowTime: 167
+
+The Road is: x8999988999889
+insert:
+__min_element : lazyCompoundVal{0x56350ff344c0,__first} lazyCompoundVal{0x56350ff3b010,__last} Unknown 
+The Road is: x8999988999889
+NowTime: 167
+NowTime: 167
+
+The Road is: x89889
+
+The Road is: x89889
+-----------------
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+NowTime: 167
+
+The Road is: x89889
+NowTime: 167
+NowTime: 167
+
+The Road is: x89889
+
+The Road is: x89889
+NowTime: 167
+
+The Road is: x89889
+
+The Road is: x89889
+NowTime: 167
+NowTime: 167
+NowTime: 167
+
+The Road is: x898999
+
+The Road is: x898999
+insert:
+base : &SymRegion{conj_$66{__normal_iterator<const int *, vector<int> > &, LC69, S6171039, #1}} NowTime: 167
+
+The Road is: x898999
+
+The Road is: x898999
+NowTime: 168
+NowTime: 168
+NowTime: 168
+NowTime: 168
+
+The Road is: x8989999
+insert:
+__min_element : lazyCompoundVal{0x56350face1e0,__first} lazyCompoundVal{0x56350fad2278,__last} Unknown 
+The Road is: x8989999
+insert:
+min_element : lazyCompoundVal{0x56350fc4e058,__first} lazyCompoundVal{0x56350fc4f628,__last} NowTime: 168
+
+NowTime: 168
+NowTime: 168
+NowTime: 168
+
+The Road is: x898899
+
+The Road is: x898899
+insert:
+base : &SymRegion{conj_$66{__normal_iterator<const int *, vector<int> > &, LC69, S6171039, #1}} NowTime: 168
+
+The Road is: x898899
+
+The Road is: x898899
+NowTime: 168
+NowTime: 168
+NowTime: 168
+NowTime: 168
+
+The Road is: x8988999
+insert:
+__min_element : lazyCompoundVal{0x56350fed5660,__first} lazyCompoundVal{0x56350fed9d98,__last} Unknown 
+The Road is: x8988999
+insert:
+min_element : lazyCompoundVal{0x56350faec470,__first} lazyCompoundVal{0x56350faeda50,__last} NowTime: 168
+NowTime: 168
+NowTime: 168
+NowTime: 168
+
+The Road is: x899998898899
+
+The Road is: x899998898899
+insert:
+base : &SymRegion{conj_$212{__normal_iterator<const int *, vector<int> > &, LC88, S6171039, #1}} NowTime: 168
+
+The Road is: x899998898899
+
+The Road is: x899998898899
+NowTime: 197
+NowTime: 197
+NowTime: 197
+NowTime: 197
+
+The Road is: x8999988988999
+insert:
+__min_element : lazyCompoundVal{0x56350feafa00,__first} lazyCompoundVal{0x56350feb3cf0,__last} Unknown 
+The Road is: x8999988988999
+NowTime: 197
+
+
+NowTime: 197
+
+NowTime: 197
+
+The Road is: x8888
+
+The Road is: x8888
+NowTime: 197
+
+The Road is: x8888
+
+The Road is: x8888
+NowTime: 197
+
+The Road is: x88888
+
+The Road is: x88888
+NowTime: 197
+
+The Road is: x88888
+
+The Road is: x88888
+NowTime: 197
+
+The Road is: x88888
+NowTime: 197
+
+The Road is: x88888
+
+The Road is: x88888
+-----------------
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+Now have __min_element
+Now have min_element
+NowTime: 197
+
+The Road is: x88888
+NowTime: 197
+NowTime: 197
+
+The Road is: x88888
+
+The Road is: x88888
+NowTime: 197
+
+The Road is: x88888
+
+The Road is: x88888
+
+The Road is: x888888
+insert:
+__min_element : lazyCompoundVal{0x56350fe4b4c8,__first} lazyCompoundVal{0x56350fe5d910,__last} Unknown 
+The Road is: x888888
+NowTime: 197
+NowTime: 197
+
+The Road is: x888888
+
+The Road is: x888888
+NowTime: 197
+
+The Road is: x888888
+
+The Road is: x888888
+NowTime: 197
+
+The Road is: x888888
+NowTime: 197
+
+The Road is: x888888
+
+The Road is: x888888
+-----------------
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+Now have __min_element
+Now have min_element
+Now have __min_element
+NowTime: 197
+
+The Road is: x888888
+NowTime: 197
+NowTime: 197
+
+The Road is: x888888
+
+The Road is: x888888
+NowTime: 198
+
+The Road is: x888888
+
+The Road is: x888888
+
+The Road is: x8888888
+insert:
+__min_element : lazyCompoundVal{0x56350fe6b638,__first} lazyCompoundVal{0x56350fe72200,__last} Unknown 
+The Road is: x8888888
+NowTime: 199
+NowTime: 199
+NowTime: 199
+NowTime: 199
+
+The Road is: x89999889899989
+
+The Road is: x89999889899989
+insert:
+base : &SymRegion{conj_$274{__normal_iterator<const int *, vector<int> > &, LC88, S6171039, #2}} NowTime: 199
+
+The Road is: x89999889899989
+
+The Road is: x89999889899989
+NowTime: 249
+TimeLimit
+
+The Road is: x899998898999899
+insert:
+__min_element : lazyCompoundVal{0x56350fbe54c0,__first} lazyCompoundVal{0x56350fbe98b0,__last} Unknown 
+The Road is: x899998898999899
+NowTime: 249
+TimeLimit
+
+
+NowTime: 249
+TimeLimit
+NowTime: 249
+TimeLimit
+
+
+NowTime: 249
+TimeLimit
+NowTime: 249
+TimeLimit
+
+
+NowTime: 249
+TimeLimit
+NowTime: 249
+TimeLimit
+
+
+NowTime: 249
+TimeLimit
+
+NowTime: 249
+TimeLimit
+NowTime: 249
+TimeLimit
+
+
+
+NowTime: 249
+TimeLimit
+
+
+
+
+NowTime: 249
+TimeLimit
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &a.image_ids NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &b.image_ids 
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+begin : &a.image_ids NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+end : &a.image_ids NowTime: 0
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+-----------------
+Now have size
+Now have size
+Now have begin
+Now have end
+insert:
+__iter_less_iter : 
+NowTime: 0
+
+The Road is: x8
+NowTime: 0
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+base : &__first NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+base : &__last NowTime: 0
+NowTime: 0
+NowTime: 0
+
+The Road is: x89
+
+The Road is: x89
+insert:
+base : &SymRegion{conj_$32{__normal_iterator<const int *, vector<int> > &, LC102, S6171039, #1}} NowTime: 0
+
+The Road is: x89
+
+The Road is: x89
+
+The Road is: x899
+insert:
+__min_element : lazyCompoundVal{0x56350ed68510,__first} lazyCompoundVal{0x56350ed685a0,__last} Unknown 
+The Road is: x899
+insert:
+min_element : lazyCompoundVal{0x56350ed68ba0,__first} lazyCompoundVal{0x56350fd1b388,__last} NowTime: 0
+NowTime: 0
+
+The Road is: x899
+
+The Road is: x899
+insert:
+begin : &b.image_ids NowTime: 0
+
+The Road is: x899
+
+The Road is: x899
+insert:
+end : &b.image_ids NowTime: 0
+
+The Road is: x899
+NowTime: 0
+
+The Road is: x899
+
+The Road is: x899
+-----------------
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+NowTime: 0
+
+The Road is: x899
+NowTime: 0
+NowTime: 0
+
+The Road is: x899
+
+The Road is: x899
+NowTime: 0
+
+The Road is: x899
+
+The Road is: x899
+NowTime: 0
+NowTime: 0
+NowTime: 0
+
+The Road is: x8999
+
+The Road is: x8999
+insert:
+base : &SymRegion{conj_$66{__normal_iterator<const int *, vector<int> > &, LC108, S6171039, #1}} NowTime: 0
+
+The Road is: x8999
+
+The Road is: x8999
+
+The Road is: x89999
+insert:
+__min_element : lazyCompoundVal{0x56350fc8a678,__first} lazyCompoundVal{0x56350fc8be70,__last} Unknown 
+The Road is: x89999
+insert:
+min_element : lazyCompoundVal{0x56350fc8a8c8,__first} lazyCompoundVal{0x56350fc8c030,__last} NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+
+The Road is: x88
+insert:
+__min_element : lazyCompoundVal{0x56350ed68510,__first} lazyCompoundVal{0x56350ed685a0,__last} Unknown 
+The Road is: x88
+insert:
+min_element : lazyCompoundVal{0x56350ed68ba0,__first} lazyCompoundVal{0x56350fd1b388,__last} NowTime: 0
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+begin : &b.image_ids NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+end : &b.image_ids NowTime: 0
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+-----------------
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+NowTime: 0
+
+The Road is: x88
+NowTime: 0
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+The Road is: x888
+insert:
+__min_element : lazyCompoundVal{0x56350fd2d048,__first} lazyCompoundVal{0x56350f486418,__last} Unknown 
+The Road is: x888
+insert:
+min_element : lazyCompoundVal{0x56350fd2d330,__first} lazyCompoundVal{0x56350f486538,__last} NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+
+The Road is: x8989
+
+The Road is: x8989
+insert:
+base : &SymRegion{conj_$105{__normal_iterator<const int *, vector<int> > &, LC102, S6171039, #2}} NowTime: 0
+
+The Road is: x8989
+
+The Road is: x8989
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+
+The Road is: x89899
+insert:
+__min_element : lazyCompoundVal{0x56350ed68510,__first} lazyCompoundVal{0x56350ed685a0,__last} Unknown 
+The Road is: x89899
+insert:
+min_element : lazyCompoundVal{0x56350ed68ba0,__first} lazyCompoundVal{0x56350fd1b388,__last} NowTime: 0
+NowTime: 0
+
+The Road is: x89899
+
+The Road is: x89899
+insert:
+begin : &b.image_ids NowTime: 0
+
+The Road is: x89899
+
+The Road is: x89899
+insert:
+end : &b.image_ids NowTime: 0
+
+The Road is: x89899
+NowTime: 0
+NowTime: 0
+NowTime: 0
+
+The Road is: x899989
+
+The Road is: x899989
+insert:
+base : &SymRegion{conj_$128{__normal_iterator<const int *, vector<int> > &, LC108, S6171039, #2}} NowTime: 0
+
+The Road is: x899989
+
+The Road is: x899989
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+
+The Road is: x8999899
+insert:
+__min_element : lazyCompoundVal{0x56350fc8a678,__first} lazyCompoundVal{0x56350fc8be70,__last} Unknown 
+The Road is: x8999899
+insert:
+min_element : lazyCompoundVal{0x56350fc8a8c8,__first} lazyCompoundVal{0x56350fc8c030,__last} NowTime: 0
+
+NowTime: 0
+NowTime: 0
+NowTime: 0
+
+The Road is: x899988
+
+The Road is: x899988
+insert:
+base : &SymRegion{conj_$128{__normal_iterator<const int *, vector<int> > &, LC108, S6171039, #2}} NowTime: 0
+
+The Road is: x899988
+
+The Road is: x899988
+NowTime: 1
+NowTime: 1
+NowTime: 1
+NowTime: 1
+
+The Road is: x8999889
+insert:
+__min_element : lazyCompoundVal{0x56350fc8a678,__first} lazyCompoundVal{0x56350fc8be70,__last} Unknown 
+The Road is: x8999889
+insert:
+min_element : lazyCompoundVal{0x56350fc8a8c8,__first} lazyCompoundVal{0x56350fc8c030,__last} NowTime: 1
+NowTime: 1
+
+The Road is: x89899
+
+The Road is: x89899
+-----------------
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+NowTime: 1
+
+The Road is: x89899
+NowTime: 1
+NowTime: 1
+
+The Road is: x89899
+
+The Road is: x89899
+NowTime: 1
+
+The Road is: x89899
+
+The Road is: x89899
+NowTime: 1
+NowTime: 1
+NowTime: 1
+
+The Road is: x8988
+
+The Road is: x8988
+insert:
+base : &SymRegion{conj_$105{__normal_iterator<const int *, vector<int> > &, LC102, S6171039, #2}} NowTime: 1
+
+The Road is: x8988
+
+The Road is: x8988
+NowTime: 1
+NowTime: 1
+NowTime: 1
+NowTime: 1
+
+The Road is: x89889
+insert:
+__min_element : lazyCompoundVal{0x56350ed68510,__first} lazyCompoundVal{0x56350ed685a0,__last} Unknown 
+The Road is: x89889
+insert:
+min_element : lazyCompoundVal{0x56350ed68ba0,__first} lazyCompoundVal{0x56350fd1b388,__last} NowTime: 1
+NowTime: 1
+
+The Road is: x89889
+
+The Road is: x89889
+insert:
+begin : &b.image_ids NowTime: 1
+
+The Road is: x89889
+
+The Road is: x89889
+insert:
+end : &b.image_ids NowTime: 1
+
+The Road is: x89889
+
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x899998
+
+The Road is: x899998
+NowTime: 1
+
+The Road is: x899998
+
+The Road is: x899998
+insert:
+size : &c.image_ids 
+NowTime: 1
+
+The Road is: x8999988
+
+The Road is: x8999988
+NowTime: 1
+
+The Road is: x8999988
+
+The Road is: x8999988
+NowTime: 1
+
+The Road is: x8999988
+NowTime: 1
+
+The Road is: x8999988
+
+The Road is: x8999988
+-----------------
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+Now have base
+Now have __min_element
+Now have min_element
+Now have size
+NowTime: 1
+
+The Road is: x8999988
+NowTime: 1
+NowTime: 1
+
+The Road is: x8999988
+
+The Road is: x8999988
+NowTime: 1
+
+The Road is: x8999988
+
+The Road is: x8999988
+NowTime: 2
+NowTime: 2
+NowTime: 2
+
+The Road is: x89999889
+
+The Road is: x89999889
+insert:
+base : &SymRegion{conj_$178{__normal_iterator<const int *, vector<int> > &, LC121, S6171039, #1}} NowTime: 2
+
+The Road is: x89999889
+
+The Road is: x89999889
+
+The Road is: x899998899
+insert:
+__min_element : lazyCompoundVal{0x56350fcf2fc0,__first} lazyCompoundVal{0x56350fcf7450,__last} Unknown 
+The Road is: x899998899
+NowTime: 4
+NowTime: 4
+
+The Road is: x899998899
+
+The Road is: x899998899
+insert:
+begin : &c.image_ids NowTime: 4
+
+The Road is: x899998899
+
+The Road is: x899998899
+insert:
+end : &c.image_ids NowTime: 4
+
+The Road is: x899998899
+NowTime: 4
+
+The Road is: x899998899
+
+The Road is: x899998899
+-----------------
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+Now have base
+Now have __min_element
+Now have min_element
+Now have size
+Now have base
+Now have __min_element
+Now have begin
+Now have end
+NowTime: 4
+
+The Road is: x899998899
+NowTime: 4
+NowTime: 4
+
+The Road is: x899998899
+
+The Road is: x899998899
+NowTime: 7
+
+The Road is: x899998899
+
+The Road is: x899998899
+NowTime: 15
+NowTime: 15
+NowTime: 15
+
+The Road is: x8999988999
+
+The Road is: x8999988999
+insert:
+base : &SymRegion{conj_$212{__normal_iterator<const int *, vector<int> > &, LC127, S6171039, #1}} NowTime: 15
+
+The Road is: x8999988999
+
+The Road is: x8999988999
+
+The Road is: x89999889999
+insert:
+__min_element : lazyCompoundVal{0x56350fd0e428,__first} lazyCompoundVal{0x56350fd0faf8,__last} Unknown 
+The Road is: x89999889999
+insert:
+min_element : lazyCompoundVal{0x56350fd0e678,__first} lazyCompoundVal{0x56350fd0fd90,__last} NowTime: 30
+NowTime: 30
+NowTime: 30
+NowTime: 30
+NowTime: 30
+NowTime: 30
+NowTime: 30
+NowTime: 30
+NowTime: 30
+NowTime: 30
+NowTime: 30
+NowTime: 30
+
+The Road is: x8999988989
+
+The Road is: x8999988989
+insert:
+base : &SymRegion{conj_$251{__normal_iterator<const int *, vector<int> > &, LC121, S6171039, #2}} NowTime: 30
+
+The Road is: x8999988989
+
+The Road is: x8999988989
+NowTime: 34
+NowTime: 34
+NowTime: 34
+NowTime: 34
+
+The Road is: x89999889899
+insert:
+__min_element : lazyCompoundVal{0x56350fcf2fc0,__first} lazyCompoundVal{0x56350fcf7450,__last} Unknown 
+The Road is: x89999889899
+NowTime: 34
+NowTime: 34
+
+The Road is: x89999889899
+
+The Road is: x89999889899
+insert:
+begin : &c.image_ids NowTime: 34
+
+The Road is: x89999889899
+
+The Road is: x89999889899
+insert:
+end : &c.image_ids NowTime: 34
+
+The Road is: x89999889899
+NowTime: 34
+
+The Road is: x89999889899
+
+The Road is: x89999889899
+-----------------
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+Now have base
+Now have __min_element
+Now have min_element
+Now have size
+Now have base
+Now have base
+Now have __min_element
+Now have begin
+Now have end
+NowTime: 34
+
+The Road is: x89999889899
+NowTime: 34
+NowTime: 34
+
+The Road is: x89999889899
+
+The Road is: x89999889899
+NowTime: 39
+
+The Road is: x89999889899
+
+The Road is: x89999889899
+NowTime: 53
+NowTime: 53
+NowTime: 53
+
+The Road is: x899998899989
+
+The Road is: x899998899989
+insert:
+base : &SymRegion{conj_$274{__normal_iterator<const int *, vector<int> > &, LC127, S6171039, #2}} NowTime: 53
+
+The Road is: x899998899989
+
+The Road is: x899998899989
+NowTime: 81
+NowTime: 81
+NowTime: 81
+NowTime: 81
+
+The Road is: x8999988999899
+insert:
+__min_element : lazyCompoundVal{0x56350fd0e428,__first} lazyCompoundVal{0x56350fd0faf8,__last} Unknown 
+The Road is: x8999988999899
+insert:
+min_element : lazyCompoundVal{0x56350fd0e678,__first} lazyCompoundVal{0x56350fd0fd90,__last} NowTime: 81
+
+NowTime: 81
+NowTime: 81
+NowTime: 81
+
+The Road is: x899998898999
+
+The Road is: x899998898999
+insert:
+base : &SymRegion{conj_$212{__normal_iterator<const int *, vector<int> > &, LC127, S6171039, #1}} NowTime: 81
+
+The Road is: x899998898999
+
+The Road is: x899998898999
+NowTime: 108
+NowTime: 108
+NowTime: 108
+NowTime: 108
+
+The Road is: x8999988989999
+insert:
+__min_element : lazyCompoundVal{0x56350fb74838,__first} lazyCompoundVal{0x56350fb75c08,__last} Unknown 
+The Road is: x8999988989999
+insert:
+min_element : lazyCompoundVal{0x56350fb74a30,__first} lazyCompoundVal{0x56350fb75e48,__last} NowTime: 108
+NowTime: 108
+NowTime: 108
+NowTime: 108
+
+The Road is: x8999988988
+
+The Road is: x8999988988
+insert:
+base : &SymRegion{conj_$251{__normal_iterator<const int *, vector<int> > &, LC121, S6171039, #2}} NowTime: 108
+
+The Road is: x8999988988
+
+The Road is: x8999988988
+NowTime: 112
+NowTime: 112
+NowTime: 112
+NowTime: 112
+
+The Road is: x89999889889
+insert:
+__min_element : lazyCompoundVal{0x56350fcf2fc0,__first} lazyCompoundVal{0x56350fcf7450,__last} Unknown 
+The Road is: x89999889889
+NowTime: 112
+NowTime: 112
+
+The Road is: x89999889889
+
+The Road is: x89999889889
+insert:
+begin : &c.image_ids NowTime: 112
+
+The Road is: x89999889889
+
+The Road is: x89999889889
+insert:
+end : &c.image_ids NowTime: 112
+
+The Road is: x89999889889
+NowTime: 112
+
+The Road is: x89999889889
+
+The Road is: x89999889889
+-----------------
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+Now have base
+Now have __min_element
+Now have min_element
+Now have size
+Now have base
+Now have base
+Now have __min_element
+Now have begin
+Now have end
+NowTime: 112
+
+The Road is: x89999889889
+NowTime: 112
+NowTime: 112
+
+The Road is: x89999889889
+
+The Road is: x89999889889
+NowTime: 117
+
+The Road is: x89999889889
+
+The Road is: x89999889889
+
+NowTime: 132
+
+NowTime: 132
+
+The Road is: x899998899998
+
+The Road is: x899998899998
+NowTime: 137
+
+The Road is: x899998899998
+
+The Road is: x899998899998
+
+NowTime: 142
+
+The Road is: x8999988999988
+
+The Road is: x8999988999988
+NowTime: 142
+
+The Road is: x8999988999988
+
+The Road is: x8999988999988
+NowTime: 142
+
+The Road is: x8999988999988
+NowTime: 142
+
+The Road is: x8999988999988
+
+The Road is: x8999988999988
+-----------------
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+Now have base
+Now have __min_element
+Now have min_element
+Now have size
+Now have base
+Now have __min_element
+Now have begin
+Now have end
+Now have base
+Now have __min_element
+Now have min_element
+NowTime: 142
+
+The Road is: x8999988999988
+NowTime: 142
+NowTime: 142
+
+The Road is: x8999988999988
+
+The Road is: x8999988999988
+NowTime: 158
+
+The Road is: x8999988999988
+
+The Road is: x8999988999988
+NowTime: 202
+NowTime: 202
+NowTime: 202
+
+The Road is: x89999889999889
+
+The Road is: x89999889999889
+insert:
+base : &SymRegion{conj_$322{__normal_iterator<const int *, vector<int> > &, LC140, S6171039, #1}} NowTime: 202
+
+The Road is: x89999889999889
+
+The Road is: x89999889999889
+
+The Road is: x899998899998899
+insert:
+__min_element : lazyCompoundVal{0x56350fb31a78,__first} lazyCompoundVal{0x56350fb363e0,__last} Unknown 
+The Road is: x899998899998899
+NowTime: 277
+TimeLimit
+NowTime: 277
+TimeLimit
+
+NowTime: 277
+TimeLimit
+NowTime: 277
+TimeLimit
+NowTime: 277
+TimeLimit
+
+NowTime: 277
+TimeLimit
+
+NowTime: 277
+TimeLimit
+
+NowTime: 277
+TimeLimit
+NowTime: 277
+TimeLimit
+
+
+NowTime: 277
+TimeLimit
+
+NowTime: 277
+TimeLimit
+
+NowTime: 277
+TimeLimit
+
+
+NowTime: 277
+TimeLimit
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &a.image_ids NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &b.image_ids 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+insert:
+size : &c.image_ids 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9898
+
+The Road is: x9898
+NowTime: 0
+
+The Road is: x9898
+
+The Road is: x9898
+
+NowTime: 0
+
+The Road is: x98988
+
+The Road is: x98988
+insert:
+begin : &a.image_ids NowTime: 0
+
+The Road is: x98988
+
+The Road is: x98988
+insert:
+end : &a.image_ids NowTime: 0
+
+The Road is: x98988
+NowTime: 0
+
+The Road is: x98988
+
+The Road is: x98988
+-----------------
+Now have size
+Now have size
+Now have size
+Now have begin
+Now have end
+insert:
+__iter_less_iter : 
+NowTime: 0
+
+The Road is: x98988
+NowTime: 0
+NowTime: 0
+
+The Road is: x98988
+
+The Road is: x98988
+insert:
+base : &__first NowTime: 0
+
+The Road is: x98988
+
+The Road is: x98988
+insert:
+base : &__last NowTime: 0
+NowTime: 0
+NowTime: 0
+
+The Road is: x989889
+
+The Road is: x989889
+insert:
+base : &SymRegion{conj_$44{__normal_iterator<const int *, vector<int> > &, LC151, S6171039, #1}} NowTime: 0
+
+The Road is: x989889
+
+The Road is: x989889
+
+The Road is: x9898899
+insert:
+__min_element : lazyCompoundVal{0x56350fbc39b8,__first} lazyCompoundVal{0x56350fbc7708,__last} Unknown 
+The Road is: x9898899
+insert:
+min_element : lazyCompoundVal{0x56350fbc62c8,__first} lazyCompoundVal{0x56350fbc7880,__last} NowTime: 0
+NowTime: 0
+
+The Road is: x9898899
+
+The Road is: x9898899
+insert:
+begin : &c.image_ids NowTime: 0
+
+The Road is: x9898899
+
+The Road is: x9898899
+insert:
+end : &c.image_ids NowTime: 0
+
+The Road is: x9898899
+NowTime: 0
+
+The Road is: x9898899
+
+The Road is: x9898899
+-----------------
+Now have size
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+NowTime: 0
+
+The Road is: x9898899
+NowTime: 0
+NowTime: 0
+
+The Road is: x9898899
+
+The Road is: x9898899
+NowTime: 0
+
+The Road is: x9898899
+
+The Road is: x9898899
+NowTime: 0
+NowTime: 0
+NowTime: 0
+
+The Road is: x98988999
+
+The Road is: x98988999
+insert:
+base : &SymRegion{conj_$78{__normal_iterator<const int *, vector<int> > &, LC157, S6171039, #1}} NowTime: 0
+
+The Road is: x98988999
+
+The Road is: x98988999
+
+The Road is: x989889999
+insert:
+__min_element : lazyCompoundVal{0x56350fc36128,__first} lazyCompoundVal{0x56350fc705a0,__last} Unknown 
+The Road is: x989889999
+insert:
+min_element : lazyCompoundVal{0x56350fc363c0,__first} lazyCompoundVal{0x56350fc6dad8,__last} NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+
+The Road is: x989888
+insert:
+__min_element : lazyCompoundVal{0x56350fbc39b8,__first} lazyCompoundVal{0x56350fbc7708,__last} Unknown 
+The Road is: x989888
+insert:
+min_element : lazyCompoundVal{0x56350fbc62c8,__first} lazyCompoundVal{0x56350fbc7880,__last} NowTime: 0
+NowTime: 0
+
+The Road is: x989888
+
+The Road is: x989888
+insert:
+begin : &c.image_ids NowTime: 0
+
+The Road is: x989888
+
+The Road is: x989888
+insert:
+end : &c.image_ids NowTime: 0
+
+The Road is: x989888
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+insert:
+begin : &b.image_ids NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+insert:
+end : &b.image_ids NowTime: 0
+
+The Road is: x988
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+-----------------
+Now have size
+Now have size
+Now have size
+Now have begin
+Now have end
+insert:
+__iter_less_iter : 
+NowTime: 0
+
+The Road is: x988
+NowTime: 0
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+insert:
+base : &__first NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+insert:
+base : &__last NowTime: 0
+NowTime: 0
+NowTime: 0
+
+The Road is: x9889
+
+The Road is: x9889
+insert:
+base : &SymRegion{conj_$136{__normal_iterator<const int *, vector<int> > &, LC165, S6171039, #1}} NowTime: 0
+
+The Road is: x9889
+
+The Road is: x9889
+
+The Road is: x98899
+insert:
+__min_element : lazyCompoundVal{0x56350fb4ae90,__first} lazyCompoundVal{0x56350fb9afd0,__last} Unknown 
+The Road is: x98899
+insert:
+min_element : lazyCompoundVal{0x56350fb97138,__first} lazyCompoundVal{0x56350fb98630,__last} NowTime: 0
+NowTime: 0
+
+The Road is: x98899
+
+The Road is: x98899
+insert:
+begin : &c.image_ids NowTime: 0
+
+The Road is: x98899
+
+The Road is: x98899
+insert:
+end : &c.image_ids NowTime: 0
+
+The Road is: x98899
+NowTime: 0
+
+The Road is: x98899
+
+The Road is: x98899
+-----------------
+Now have size
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+NowTime: 0
+
+The Road is: x98899
+NowTime: 0
+NowTime: 0
+
+The Road is: x98899
+
+The Road is: x98899
+NowTime: 0
+
+The Road is: x98899
+
+The Road is: x98899
+NowTime: 0
+NowTime: 0
+NowTime: 0
+
+The Road is: x988999
+
+The Road is: x988999
+insert:
+base : &SymRegion{conj_$170{__normal_iterator<const int *, vector<int> > &, LC171, S6171039, #1}} NowTime: 0
+
+The Road is: x988999
+
+The Road is: x988999
+
+The Road is: x9889999
+insert:
+__min_element : lazyCompoundVal{0x56350fd223a8,__first} lazyCompoundVal{0x56350fbb88f0,__last} Unknown 
+The Road is: x9889999
+insert:
+min_element : lazyCompoundVal{0x56350fd22640,__first} lazyCompoundVal{0x56350fd23dc8,__last} NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+NowTime: 0
+
+The Road is: x9888
+insert:
+__min_element : lazyCompoundVal{0x56350fb4ae90,__first} lazyCompoundVal{0x56350fb9afd0,__last} Unknown 
+The Road is: x9888
+insert:
+min_element : lazyCompoundVal{0x56350fb97138,__first} lazyCompoundVal{0x56350fb98630,__last} NowTime: 0
+NowTime: 0
+
+The Road is: x9888
+
+The Road is: x9888
+insert:
+begin : &c.image_ids NowTime: 0
+
+The Road is: x9888
+
+The Road is: x9888
+insert:
+end : &c.image_ids NowTime: 0
+
+The Road is: x9888
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+begin : &a.image_ids NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+end : &a.image_ids NowTime: 0
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+-----------------
+Now have size
+Now have size
+Now have begin
+Now have end
+insert:
+__iter_less_iter : 
+NowTime: 0
+
+The Road is: x8
+NowTime: 0
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+base : &__first NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+base : &__last NowTime: 0
+NowTime: 0
+NowTime: 0
+
+The Road is: x89
+
+The Road is: x89
+insert:
+base : &SymRegion{conj_$228{__normal_iterator<const int *, vector<int> > &, LC179, S6171039, #1}} NowTime: 0
+
+The Road is: x89
+
+The Road is: x89
+
+The Road is: x899
+insert:
+__min_element : lazyCompoundVal{0x56350fcfd538,__first} lazyCompoundVal{0x56350fd030d0,__last} Unknown 
+The Road is: x899
+insert:
+min_element : lazyCompoundVal{0x56350fcff888,__first} lazyCompoundVal{0x56350fd00b00,__last} NowTime: 0
+NowTime: 0
+
+The Road is: x899
+
+The Road is: x899
+insert:
+begin : &b.image_ids NowTime: 0
+
+The Road is: x899
+
+The Road is: x899
+insert:
+end : &b.image_ids NowTime: 0
+
+The Road is: x899
+NowTime: 0
+
+The Road is: x899
+
+The Road is: x899
+-----------------
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+NowTime: 0
+
+The Road is: x899
+NowTime: 0
+NowTime: 0
+
+The Road is: x899
+
+The Road is: x899
+NowTime: 0
+
+The Road is: x899
+
+The Road is: x899
+NowTime: 0
+NowTime: 0
+NowTime: 0
+
+The Road is: x8999
+
+The Road is: x8999
+insert:
+base : &SymRegion{conj_$262{__normal_iterator<const int *, vector<int> > &, LC185, S6171039, #1}} NowTime: 0
+
+The Road is: x8999
+
+The Road is: x8999
+
+The Road is: x89999
+insert:
+__min_element : lazyCompoundVal{0x56350fab7638,__first} lazyCompoundVal{0x56350fab90c8,__last} Unknown 
+The Road is: x89999
+insert:
+min_element : lazyCompoundVal{0x56350fab7bd0,__first} lazyCompoundVal{0x56350fab9288,__last} NowTime: 1
+NowTime: 1
+NowTime: 1
+NowTime: 1
+NowTime: 1
+NowTime: 1
+NowTime: 1
+NowTime: 1
+NowTime: 1
+
+The Road is: x88
+insert:
+__min_element : lazyCompoundVal{0x56350fcfd538,__first} lazyCompoundVal{0x56350fd030d0,__last} Unknown 
+The Road is: x88
+insert:
+min_element : lazyCompoundVal{0x56350fcff888,__first} lazyCompoundVal{0x56350fd00b00,__last} NowTime: 1
+NowTime: 1
+
+The Road is: x88
+
+The Road is: x88
+insert:
+begin : &b.image_ids NowTime: 1
+
+The Road is: x88
+
+The Road is: x88
+insert:
+end : &b.image_ids NowTime: 1
+
+The Road is: x88
+NowTime: 1
+
+The Road is: x88
+
+The Road is: x88
+-----------------
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+NowTime: 1
+
+The Road is: x88
+NowTime: 1
+NowTime: 1
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 1
+
+The Road is: x88
+
+The Road is: x88
+
+The Road is: x888
+insert:
+__min_element : lazyCompoundVal{0x56350faf0ad0,__first} lazyCompoundVal{0x56350fb5a5e8,__last} Unknown 
+The Road is: x888
+insert:
+min_element : lazyCompoundVal{0x56350faf0db8,__first} lazyCompoundVal{0x56350fb5a750,__last} NowTime: 1
+NowTime: 1
+NowTime: 1
+NowTime: 1
+
+The Road is: x8989
+
+The Road is: x8989
+insert:
+base : &SymRegion{conj_$301{__normal_iterator<const int *, vector<int> > &, LC179, S6171039, #2}} NowTime: 1
+
+The Road is: x8989
+
+The Road is: x8989
+NowTime: 1
+NowTime: 1
+NowTime: 1
+NowTime: 1
+
+The Road is: x89899
+insert:
+__min_element : lazyCompoundVal{0x56350fcfd538,__first} lazyCompoundVal{0x56350fd030d0,__last} Unknown 
+The Road is: x89899
+insert:
+min_element : lazyCompoundVal{0x56350fcff888,__first} lazyCompoundVal{0x56350fd00b00,__last} NowTime: 1
+NowTime: 1
+
+The Road is: x89899
+
+The Road is: x89899
+insert:
+begin : &b.image_ids NowTime: 1
+
+The Road is: x89899
+
+The Road is: x89899
+insert:
+end : &b.image_ids NowTime: 1
+
+The Road is: x89899
+NowTime: 1
+NowTime: 1
+NowTime: 1
+
+The Road is: x899989
+
+The Road is: x899989
+insert:
+base : &SymRegion{conj_$324{__normal_iterator<const int *, vector<int> > &, LC185, S6171039, #2}} NowTime: 1
+
+The Road is: x899989
+
+The Road is: x899989
+NowTime: 1
+NowTime: 1
+NowTime: 1
+NowTime: 1
+
+The Road is: x8999899
+insert:
+__min_element : lazyCompoundVal{0x56350fab7638,__first} lazyCompoundVal{0x56350fab90c8,__last} Unknown 
+The Road is: x8999899
+insert:
+min_element : lazyCompoundVal{0x56350fab7bd0,__first} lazyCompoundVal{0x56350fab9288,__last} NowTime: 1
+
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x899998
+
+The Road is: x899998
+NowTime: 1
+
+The Road is: x899998
+
+The Road is: x899998
+insert:
+size : &c.image_ids NowTime: 1
+
+The Road is: x8999988
+
+The Road is: x8999988
+NowTime: 1
+
+The Road is: x8999988
+
+The Road is: x8999988
+NowTime: 1
+
+The Road is: x8999988
+NowTime: 1
+
+The Road is: x8999988
+
+The Road is: x8999988
+-----------------
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+Now have base
+Now have __min_element
+Now have min_element
+Now have size
+NowTime: 1
+
+The Road is: x8999988
+NowTime: 1
+NowTime: 1
+
+The Road is: x8999988
+
+The Road is: x8999988
+NowTime: 2
+
+The Road is: x8999988
+
+The Road is: x8999988
+NowTime: 3
+
+The Road is: x9888
+
+The Road is: x9888
+-----------------
+Now have size
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+NowTime: 3
+
+The Road is: x9888
+NowTime: 3
+NowTime: 3
+
+The Road is: x9888
+
+The Road is: x9888
+NowTime: 3
+
+The Road is: x9888
+
+The Road is: x9888
+
+The Road is: x98888
+insert:
+__min_element : lazyCompoundVal{0x56350fb15630,__first} lazyCompoundVal{0x56350fb15df8,__last} Unknown 
+The Road is: x98888
+insert:
+min_element : lazyCompoundVal{0x56350fcfc1d0,__first} lazyCompoundVal{0x56350fcfd6e8,__last} NowTime: 3
+NowTime: 3
+NowTime: 3
+NowTime: 3
+
+The Road is: x988989
+
+The Road is: x988989
+insert:
+base : &SymRegion{conj_$347{__normal_iterator<const int *, vector<int> > &, LC165, S6171039, #2}} NowTime: 3
+
+The Road is: x988989
+
+The Road is: x988989
+NowTime: 3
+NowTime: 3
+NowTime: 3
+NowTime: 3
+
+The Road is: x9889899
+insert:
+__min_element : lazyCompoundVal{0x56350fb4ae90,__first} lazyCompoundVal{0x56350fb9afd0,__last} Unknown 
+The Road is: x9889899
+insert:
+min_element : lazyCompoundVal{0x56350fb97138,__first} lazyCompoundVal{0x56350fb98630,__last} NowTime: 3
+NowTime: 3
+
+The Road is: x9889899
+
+The Road is: x9889899
+insert:
+begin : &c.image_ids NowTime: 3
+
+The Road is: x9889899
+
+The Road is: x9889899
+insert:
+end : &c.image_ids NowTime: 3
+
+The Road is: x9889899
+NowTime: 3
+NowTime: 3
+NowTime: 3
+
+The Road is: x98899989
+
+The Road is: x98899989
+insert:
+base : &SymRegion{conj_$370{__normal_iterator<const int *, vector<int> > &, LC171, S6171039, #2}} NowTime: 3
+
+The Road is: x98899989
+
+The Road is: x98899989
+NowTime: 3
+NowTime: 3
+NowTime: 3
+NowTime: 3
+
+The Road is: x988999899
+insert:
+__min_element : lazyCompoundVal{0x56350fd223a8,__first} lazyCompoundVal{0x56350fbb88f0,__last} Unknown 
+The Road is: x988999899
+insert:
+min_element : lazyCompoundVal{0x56350fd22640,__first} lazyCompoundVal{0x56350fd23dc8,__last} NowTime: 3
+
+NowTime: 3
+
+NowTime: 3
+
+The Road is: x98899998
+
+The Road is: x98899998
+NowTime: 3
+
+The Road is: x98899998
+
+The Road is: x98899998
+NowTime: 3
+
+The Road is: x988999988
+
+The Road is: x988999988
+insert:
+begin : &a.image_ids NowTime: 3
+
+The Road is: x988999988
+
+The Road is: x988999988
+insert:
+end : &a.image_ids NowTime: 3
+
+The Road is: x988999988
+NowTime: 3
+
+The Road is: x988999988
+
+The Road is: x988999988
+-----------------
+Now have size
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+NowTime: 3
+
+The Road is: x988999988
+NowTime: 3
+NowTime: 3
+
+The Road is: x988999988
+
+The Road is: x988999988
+NowTime: 4
+
+The Road is: x988999988
+
+The Road is: x988999988
+NowTime: 5
+
+The Road is: x989888
+
+The Road is: x989888
+-----------------
+Now have size
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+NowTime: 5
+
+The Road is: x989888
+NowTime: 5
+NowTime: 5
+
+The Road is: x989888
+
+The Road is: x989888
+NowTime: 5
+
+The Road is: x989888
+
+The Road is: x989888
+
+The Road is: x9898888
+insert:
+__min_element : lazyCompoundVal{0x56350fbf8540,__first} lazyCompoundVal{0x56350fbf9588,__last} Unknown 
+The Road is: x9898888
+insert:
+min_element : lazyCompoundVal{0x56350fb4da88,__first} lazyCompoundVal{0x56350fb4ef88,__last} NowTime: 5
+NowTime: 5
+NowTime: 5
+NowTime: 5
+
+The Road is: x98988989
+
+The Road is: x98988989
+insert:
+base : &SymRegion{conj_$393{__normal_iterator<const int *, vector<int> > &, LC151, S6171039, #2}} NowTime: 5
+
+The Road is: x98988989
+
+The Road is: x98988989
+NowTime: 5
+NowTime: 5
+NowTime: 5
+NowTime: 5
+
+The Road is: x989889899
+insert:
+__min_element : lazyCompoundVal{0x56350fbc39b8,__first} lazyCompoundVal{0x56350fbc7708,__last} Unknown 
+The Road is: x989889899
+insert:
+min_element : lazyCompoundVal{0x56350fbc62c8,__first} lazyCompoundVal{0x56350fbc7880,__last} NowTime: 5
+NowTime: 5
+
+The Road is: x989889899
+
+The Road is: x989889899
+insert:
+begin : &c.image_ids NowTime: 5
+
+The Road is: x989889899
+
+The Road is: x989889899
+insert:
+end : &c.image_ids NowTime: 5
+
+The Road is: x989889899
+NowTime: 5
+NowTime: 5
+NowTime: 5
+
+The Road is: x9898899989
+
+The Road is: x9898899989
+insert:
+base : &SymRegion{conj_$416{__normal_iterator<const int *, vector<int> > &, LC157, S6171039, #2}} NowTime: 5
+
+The Road is: x9898899989
+
+The Road is: x9898899989
+NowTime: 6
+NowTime: 6
+NowTime: 6
+NowTime: 6
+
+The Road is: x98988999899
+insert:
+__min_element : lazyCompoundVal{0x56350fc36128,__first} lazyCompoundVal{0x56350fc705a0,__last} Unknown 
+The Road is: x98988999899
+insert:
+min_element : lazyCompoundVal{0x56350fc363c0,__first} lazyCompoundVal{0x56350fc6dad8,__last} NowTime: 6
+
+NowTime: 6
+NowTime: 6
+NowTime: 6
+
+The Road is: x9898899988
+
+The Road is: x9898899988
+insert:
+base : &SymRegion{conj_$416{__normal_iterator<const int *, vector<int> > &, LC157, S6171039, #2}} NowTime: 6
+
+The Road is: x9898899988
+
+The Road is: x9898899988
+NowTime: 6
+NowTime: 6
+NowTime: 6
+NowTime: 6
+
+The Road is: x98988999889
+insert:
+__min_element : lazyCompoundVal{0x56350fc36128,__first} lazyCompoundVal{0x56350fc705a0,__last} Unknown 
+The Road is: x98988999889
+insert:
+min_element : lazyCompoundVal{0x56350fc363c0,__first} lazyCompoundVal{0x56350fc6dad8,__last} NowTime: 6
+NowTime: 6
+
+The Road is: x989889899
+
+The Road is: x989889899
+-----------------
+Now have size
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+NowTime: 6
+
+The Road is: x989889899
+NowTime: 6
+NowTime: 6
+
+The Road is: x989889899
+
+The Road is: x989889899
+NowTime: 6
+
+The Road is: x989889899
+
+The Road is: x989889899
+NowTime: 7
+NowTime: 7
+NowTime: 7
+
+The Road is: x9889999889
+
+The Road is: x9889999889
+insert:
+base : &SymRegion{conj_$44{__normal_iterator<const int *, vector<int> > &, LC151, S6171039, #1}} NowTime: 7
+
+The Road is: x9889999889
+
+The Road is: x9889999889
+NowTime: 9
+NowTime: 9
+NowTime: 9
+NowTime: 9
+
+The Road is: x98899998899
+insert:
+__min_element : lazyCompoundVal{0x56350fbe73d8,__first} lazyCompoundVal{0x56350fbe70a8,__last} Unknown 
+The Road is: x98899998899
+insert:
+min_element : lazyCompoundVal{0x56350fbe7638,__first} lazyCompoundVal{0x56350fbe8658,__last} NowTime: 9
+NowTime: 9
+
+The Road is: x98899998899
+
+The Road is: x98899998899
+NowTime: 9
+
+The Road is: x98899998899
+
+The Road is: x98899998899
+NowTime: 9
+
+The Road is: x98899998899
+NowTime: 9
+NowTime: 9
+NowTime: 9
+
+The Road is: x98899988
+
+The Road is: x98899988
+insert:
+base : &SymRegion{conj_$370{__normal_iterator<const int *, vector<int> > &, LC171, S6171039, #2}} NowTime: 9
+
+The Road is: x98899988
+
+The Road is: x98899988
+NowTime: 10
+NowTime: 10
+NowTime: 10
+NowTime: 10
+
+The Road is: x988999889
+insert:
+__min_element : lazyCompoundVal{0x56350fd223a8,__first} lazyCompoundVal{0x56350fbb88f0,__last} Unknown 
+The Road is: x988999889
+insert:
+min_element : lazyCompoundVal{0x56350fd22640,__first} lazyCompoundVal{0x56350fd23dc8,__last} NowTime: 10
+NowTime: 10
+
+The Road is: x9889899
+
+The Road is: x9889899
+-----------------
+Now have size
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+NowTime: 10
+
+The Road is: x9889899
+NowTime: 10
+NowTime: 10
+
+The Road is: x9889899
+
+The Road is: x9889899
+NowTime: 10
+
+The Road is: x9889899
+
+The Road is: x9889899
+NowTime: 10
+NowTime: 10
+NowTime: 10
+
+The Road is: x89999889
+
+The Road is: x89999889
+insert:
+base : &SymRegion{conj_$136{__normal_iterator<const int *, vector<int> > &, LC165, S6171039, #1}} NowTime: 10
+
+The Road is: x89999889
+
+The Road is: x89999889
+NowTime: 12
+NowTime: 12
+NowTime: 12
+NowTime: 12
+
+The Road is: x899998899
+insert:
+__min_element : lazyCompoundVal{0x56350fb0dcd8,__first} lazyCompoundVal{0x56350fb0f710,__last} Unknown 
+The Road is: x899998899
+NowTime: 12
+NowTime: 12
+
+The Road is: x899998899
+
+The Road is: x899998899
+insert:
+begin : &c.image_ids NowTime: 12
+
+The Road is: x899998899
+
+The Road is: x899998899
+insert:
+end : &c.image_ids NowTime: 13
+
+The Road is: x899998899
+NowTime: 13
+NowTime: 13
+NowTime: 13
+
+The Road is: x899988
+
+The Road is: x899988
+insert:
+base : &SymRegion{conj_$324{__normal_iterator<const int *, vector<int> > &, LC185, S6171039, #2}} NowTime: 13
+
+The Road is: x899988
+
+The Road is: x899988
+NowTime: 13
+NowTime: 13
+NowTime: 13
+NowTime: 13
+
+The Road is: x8999889
+insert:
+__min_element : lazyCompoundVal{0x56350fab7638,__first} lazyCompoundVal{0x56350fab90c8,__last} Unknown 
+The Road is: x8999889
+insert:
+min_element : lazyCompoundVal{0x56350fab7bd0,__first} lazyCompoundVal{0x56350fab9288,__last} NowTime: 13
+NowTime: 13
+
+The Road is: x89899
+
+The Road is: x89899
+-----------------
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+NowTime: 13
+
+The Road is: x89899
+NowTime: 13
+NowTime: 13
+
+The Road is: x89899
+
+The Road is: x89899
+NowTime: 13
+
+The Road is: x89899
+
+The Road is: x89899
+NowTime: 13
+NowTime: 13
+NowTime: 13
+
+The Road is: x8988
+
+The Road is: x8988
+insert:
+base : &SymRegion{conj_$301{__normal_iterator<const int *, vector<int> > &, LC179, S6171039, #2}} NowTime: 13
+
+The Road is: x8988
+
+The Road is: x8988
+NowTime: 13
+NowTime: 13
+NowTime: 13
+NowTime: 13
+
+The Road is: x89889
+insert:
+__min_element : lazyCompoundVal{0x56350fcfd538,__first} lazyCompoundVal{0x56350fd030d0,__last} Unknown 
+The Road is: x89889
+insert:
+min_element : lazyCompoundVal{0x56350fcff888,__first} lazyCompoundVal{0x56350fd00b00,__last} NowTime: 13
+NowTime: 13
+
+The Road is: x89889
+
+The Road is: x89889
+insert:
+begin : &b.image_ids NowTime: 13
+
+The Road is: x89889
+
+The Road is: x89889
+insert:
+end : &b.image_ids NowTime: 13
+
+The Road is: x89889
+
+
+
+NowTime: 13
+
+The Road is: x89889
+
+The Road is: x89889
+-----------------
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+NowTime: 13
+
+The Road is: x89889
+NowTime: 13
+NowTime: 13
+
+The Road is: x89889
+
+The Road is: x89889
+NowTime: 13
+
+The Road is: x89889
+
+The Road is: x89889
+NowTime: 14
+NowTime: 14
+NowTime: 14
+
+The Road is: x898999
+
+The Road is: x898999
+insert:
+base : &SymRegion{conj_$262{__normal_iterator<const int *, vector<int> > &, LC185, S6171039, #1}} NowTime: 14
+
+The Road is: x898999
+
+The Road is: x898999
+NowTime: 14
+NowTime: 14
+NowTime: 14
+NowTime: 14
+
+The Road is: x8989999
+insert:
+__min_element : lazyCompoundVal{0x56350feab348,__first} lazyCompoundVal{0x56350feaf2c0,__last} Unknown 
+The Road is: x8989999
+insert:
+min_element : lazyCompoundVal{0x56350fb7f1c8,__first} lazyCompoundVal{0x56350fb80720,__last} NowTime: 14
+NowTime: 14
+
+The Road is: x899998899
+
+The Road is: x899998899
+-----------------
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+Now have base
+Now have __min_element
+Now have min_element
+Now have size
+Now have base
+Now have __min_element
+Now have begin
+Now have end
+NowTime: 14
+
+The Road is: x899998899
+NowTime: 14
+NowTime: 14
+
+The Road is: x899998899
+
+The Road is: x899998899
+NowTime: 17
+
+The Road is: x899998899
+
+The Road is: x899998899
+NowTime: 25
+NowTime: 25
+NowTime: 25
+
+The Road is: x98898999
+
+The Road is: x98898999
+insert:
+base : &SymRegion{conj_$170{__normal_iterator<const int *, vector<int> > &, LC171, S6171039, #1}} NowTime: 25
+
+The Road is: x98898999
+
+The Road is: x98898999
+NowTime: 26
+NowTime: 26
+NowTime: 26
+NowTime: 26
+
+The Road is: x988989999
+insert:
+__min_element : lazyCompoundVal{0x56350fe6f248,__first} lazyCompoundVal{0x56350fe73500,__last} Unknown 
+The Road is: x988989999
+insert:
+min_element : lazyCompoundVal{0x56350fb21df8,__first} lazyCompoundVal{0x56350fb224b0,__last} NowTime: 26
+NowTime: 26
+
+The Road is: x98899998899
+
+The Road is: x98899998899
+-----------------
+Now have size
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+Now have base
+Now have __min_element
+Now have min_element
+NowTime: 26
+
+The Road is: x98899998899
+NowTime: 26
+NowTime: 26
+
+The Road is: x98899998899
+
+The Road is: x98899998899
+NowTime: 29
+
+The Road is: x98899998899
+
+The Road is: x98899998899
+NowTime: 38
+NowTime: 38
+NowTime: 38
+
+The Road is: x9898898999
+
+The Road is: x9898898999
+insert:
+base : &SymRegion{conj_$78{__normal_iterator<const int *, vector<int> > &, LC157, S6171039, #1}} NowTime: 38
+
+The Road is: x9898898999
+
+The Road is: x9898898999
+NowTime: 39
+NowTime: 39
+NowTime: 39
+NowTime: 39
+
+The Road is: x98988989999
+insert:
+__min_element : lazyCompoundVal{0x56350fcddda0,__first} lazyCompoundVal{0x56350fce2328,__last} Unknown 
+The Road is: x98988989999
+insert:
+min_element : lazyCompoundVal{0x56350fca13f8,__first} lazyCompoundVal{0x56350fca2a48,__last} NowTime: 39
+NowTime: 39
+NowTime: 39
+NowTime: 39
+
+The Road is: x98988988
+
+The Road is: x98988988
+insert:
+base : &SymRegion{conj_$393{__normal_iterator<const int *, vector<int> > &, LC151, S6171039, #2}} NowTime: 39
+
+The Road is: x98988988
+
+The Road is: x98988988
+NowTime: 39
+NowTime: 39
+NowTime: 39
+NowTime: 39
+
+The Road is: x989889889
+insert:
+__min_element : lazyCompoundVal{0x56350fbc39b8,__first} lazyCompoundVal{0x56350fbc7708,__last} Unknown 
+The Road is: x989889889
+insert:
+min_element : lazyCompoundVal{0x56350fbc62c8,__first} lazyCompoundVal{0x56350fbc7880,__last} NowTime: 39
+NowTime: 39
+
+The Road is: x989889889
+
+The Road is: x989889889
+insert:
+begin : &c.image_ids NowTime: 39
+
+The Road is: x989889889
+
+The Road is: x989889889
+insert:
+end : &c.image_ids NowTime: 39
+
+The Road is: x989889889
+
+NowTime: 39
+NowTime: 39
+NowTime: 39
+
+The Road is: x988988
+
+The Road is: x988988
+insert:
+base : &SymRegion{conj_$347{__normal_iterator<const int *, vector<int> > &, LC165, S6171039, #2}} NowTime: 39
+
+The Road is: x988988
+
+The Road is: x988988
+NowTime: 39
+NowTime: 39
+NowTime: 39
+NowTime: 39
+
+The Road is: x9889889
+insert:
+__min_element : lazyCompoundVal{0x56350fb4ae90,__first} lazyCompoundVal{0x56350fb9afd0,__last} Unknown 
+The Road is: x9889889
+insert:
+min_element : lazyCompoundVal{0x56350fb97138,__first} lazyCompoundVal{0x56350fb98630,__last} NowTime: 39
+NowTime: 39
+
+The Road is: x9889889
+
+The Road is: x9889889
+insert:
+begin : &c.image_ids NowTime: 39
+
+The Road is: x9889889
+
+The Road is: x9889889
+insert:
+end : &c.image_ids NowTime: 39
+
+The Road is: x9889889
+
+NowTime: 39
+
+NowTime: 39
+
+The Road is: x89999898
+
+The Road is: x89999898
+NowTime: 40
+
+The Road is: x89999898
+
+The Road is: x89999898
+NowTime: 40
+
+The Road is: x899998988
+
+The Road is: x899998988
+NowTime: 40
+
+The Road is: x899998988
+
+The Road is: x899998988
+NowTime: 40
+
+The Road is: x899998988
+NowTime: 40
+
+The Road is: x899998988
+
+The Road is: x899998988
+-----------------
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+Now have base
+Now have __min_element
+Now have min_element
+Now have size
+NowTime: 40
+
+The Road is: x899998988
+NowTime: 40
+NowTime: 40
+
+The Road is: x899998988
+
+The Road is: x899998988
+NowTime: 40
+
+The Road is: x899998988
+
+The Road is: x899998988
+
+NowTime: 41
+
+NowTime: 41
+
+The Road is: x8888
+
+The Road is: x8888
+NowTime: 42
+
+The Road is: x8888
+
+The Road is: x8888
+insert:
+size : &c.image_ids NowTime: 42
+
+The Road is: x88888
+
+The Road is: x88888
+NowTime: 42
+
+The Road is: x88888
+
+The Road is: x88888
+NowTime: 42
+
+The Road is: x88888
+NowTime: 42
+
+The Road is: x88888
+
+The Road is: x88888
+-----------------
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+Now have __min_element
+Now have min_element
+Now have size
+NowTime: 42
+
+The Road is: x88888
+NowTime: 42
+NowTime: 42
+
+The Road is: x88888
+
+The Road is: x88888
+NowTime: 42
+
+The Road is: x88888
+
+The Road is: x88888
+
+The Road is: x888888
+insert:
+__min_element : lazyCompoundVal{0x56350ff73928,__first} lazyCompoundVal{0x56350ff74c10,__last} Unknown 
+The Road is: x888888
+NowTime: 42
+NowTime: 42
+
+The Road is: x888888
+
+The Road is: x888888
+insert:
+begin : &c.image_ids NowTime: 42
+
+The Road is: x888888
+
+The Road is: x888888
+insert:
+end : &c.image_ids NowTime: 42
+
+The Road is: x888888
+NowTime: 42
+NowTime: 42
+NowTime: 42
+
+The Road is: x8999989889
+
+The Road is: x8999989889
+insert:
+base : &SymRegion{conj_$44{__normal_iterator<const int *, vector<int> > &, LC151, S6171039, #1}} NowTime: 42
+
+The Road is: x8999989889
+
+The Road is: x8999989889
+NowTime: 45
+NowTime: 45
+NowTime: 45
+NowTime: 45
+
+The Road is: x89999898899
+insert:
+__min_element : lazyCompoundVal{0x56350fc10608,__first} lazyCompoundVal{0x56350fc11a50,__last} Unknown 
+The Road is: x89999898899
+NowTime: 45
+NowTime: 45
+
+The Road is: x89999898899
+
+The Road is: x89999898899
+insert:
+begin : &c.image_ids NowTime: 45
+
+The Road is: x89999898899
+
+The Road is: x89999898899
+insert:
+end : &c.image_ids NowTime: 45
+
+The Road is: x89999898899
+NowTime: 45
+
+The Road is: x9889889
+
+The Road is: x9889889
+-----------------
+Now have size
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+NowTime: 45
+
+The Road is: x9889889
+NowTime: 45
+NowTime: 45
+
+The Road is: x9889889
+
+The Road is: x9889889
+NowTime: 45
+
+The Road is: x9889889
+
+The Road is: x9889889
+NowTime: 45
+
+The Road is: x989889889
+
+The Road is: x989889889
+-----------------
+Now have size
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+NowTime: 45
+
+The Road is: x989889889
+NowTime: 45
+NowTime: 45
+
+The Road is: x989889889
+
+The Road is: x989889889
+NowTime: 46
+
+The Road is: x989889889
+
+The Road is: x989889889
+NowTime: 46
+NowTime: 46
+NowTime: 46
+
+The Road is: x988999988999
+
+The Road is: x988999988999
+insert:
+base : &SymRegion{conj_$78{__normal_iterator<const int *, vector<int> > &, LC157, S6171039, #1}} NowTime: 46
+
+The Road is: x988999988999
+
+The Road is: x988999988999
+NowTime: 64
+NowTime: 64
+NowTime: 64
+NowTime: 64
+
+The Road is: x9889999889999
+insert:
+__min_element : lazyCompoundVal{0x56350fef2e10,__first} lazyCompoundVal{0x56350fef7840,__last} Unknown 
+The Road is: x9889999889999
+NowTime: 64
+NowTime: 64
+NowTime: 64
+NowTime: 64
+
+The Road is: x8999988999
+
+The Road is: x8999988999
+insert:
+base : &SymRegion{conj_$170{__normal_iterator<const int *, vector<int> > &, LC171, S6171039, #1}} NowTime: 64
+
+The Road is: x8999988999
+
+The Road is: x8999988999
+NowTime: 81
+NowTime: 81
+NowTime: 81
+NowTime: 81
+
+The Road is: x89999889999
+insert:
+__min_element : lazyCompoundVal{0x56350fed6548,__first} lazyCompoundVal{0x56350fed7ac8,__last} Unknown 
+The Road is: x89999889999
+insert:
+min_element : lazyCompoundVal{0x56350fe957b0,__first} lazyCompoundVal{0x56350fe96b80,__last} NowTime: 81
+NowTime: 81
+NowTime: 81
+NowTime: 81
+
+The Road is: x898899
+
+The Road is: x898899
+insert:
+base : &SymRegion{conj_$262{__normal_iterator<const int *, vector<int> > &, LC185, S6171039, #1}} NowTime: 81
+
+The Road is: x898899
+
+The Road is: x898899
+NowTime: 81
+NowTime: 81
+NowTime: 81
+NowTime: 81
+
+The Road is: x8988999
+insert:
+__min_element : lazyCompoundVal{0x56350feca430,__first} lazyCompoundVal{0x56350fecff20,__last} Unknown 
+The Road is: x8988999
+insert:
+min_element : lazyCompoundVal{0x56350fec9108,__first} lazyCompoundVal{0x56350feca628,__last} NowTime: 81
+NowTime: 81
+NowTime: 81
+NowTime: 81
+
+The Road is: x8999988989
+
+The Road is: x8999988989
+insert:
+base : &SymRegion{conj_$347{__normal_iterator<const int *, vector<int> > &, LC165, S6171039, #2}} NowTime: 81
+
+The Road is: x8999988989
+
+The Road is: x8999988989
+NowTime: 87
+NowTime: 87
+NowTime: 87
+NowTime: 87
+
+The Road is: x89999889899
+insert:
+__min_element : lazyCompoundVal{0x56350fb0dcd8,__first} lazyCompoundVal{0x56350fb0f710,__last} Unknown 
+The Road is: x89999889899
+NowTime: 87
+NowTime: 87
+
+The Road is: x89999889899
+
+The Road is: x89999889899
+insert:
+begin : &c.image_ids NowTime: 87
+
+The Road is: x89999889899
+
+The Road is: x89999889899
+insert:
+end : &c.image_ids NowTime: 87
+
+The Road is: x89999889899
+
+
+NowTime: 87
+
+NowTime: 87
+
+The Road is: x988888
+
+The Road is: x988888
+NowTime: 87
+
+The Road is: x988888
+
+The Road is: x988888
+NowTime: 87
+
+The Road is: x9888888
+
+The Road is: x9888888
+insert:
+begin : &a.image_ids NowTime: 87
+
+The Road is: x9888888
+
+The Road is: x9888888
+insert:
+end : &a.image_ids NowTime: 87
+
+The Road is: x9888888
+NowTime: 87
+
+The Road is: x9888888
+
+The Road is: x9888888
+-----------------
+Now have size
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+NowTime: 87
+
+The Road is: x9888888
+NowTime: 87
+NowTime: 87
+
+The Road is: x9888888
+
+The Road is: x9888888
+NowTime: 87
+
+The Road is: x9888888
+
+The Road is: x9888888
+
+The Road is: x98888888
+insert:
+__min_element : lazyCompoundVal{0x563510046250,__first} lazyCompoundVal{0x563510046e68,__last} Unknown 
+The Road is: x98888888
+insert:
+min_element : lazyCompoundVal{0x563510046490,__first} lazyCompoundVal{0x5635100468e8,__last} NowTime: 88
+NowTime: 88
+
+The Road is: x98888888
+
+The Road is: x98888888
+NowTime: 88
+
+The Road is: x98888888
+
+The Road is: x98888888
+NowTime: 88
+
+The Road is: x98888888
+
+NowTime: 88
+NowTime: 88
+NowTime: 88
+
+The Road is: x988999988989
+
+The Road is: x988999988989
+insert:
+base : &SymRegion{conj_$393{__normal_iterator<const int *, vector<int> > &, LC151, S6171039, #2}} NowTime: 88
+
+The Road is: x988999988989
+
+The Road is: x988999988989
+NowTime: 94
+NowTime: 94
+NowTime: 94
+NowTime: 94
+
+The Road is: x9889999889899
+insert:
+__min_element : lazyCompoundVal{0x56350fbe73d8,__first} lazyCompoundVal{0x56350fbe70a8,__last} Unknown 
+The Road is: x9889999889899
+insert:
+min_element : lazyCompoundVal{0x56350fbe7638,__first} lazyCompoundVal{0x56350fbe8658,__last} NowTime: 94
+NowTime: 94
+
+The Road is: x9889999889899
+
+The Road is: x9889999889899
+NowTime: 94
+
+The Road is: x9889999889899
+
+The Road is: x9889999889899
+NowTime: 94
+
+The Road is: x9889999889899
+NowTime: 94
+NowTime: 94
+NowTime: 94
+
+The Road is: x9898898899
+
+The Road is: x9898898899
+insert:
+base : &SymRegion{conj_$78{__normal_iterator<const int *, vector<int> > &, LC157, S6171039, #1}} NowTime: 94
+
+The Road is: x9898898899
+
+The Road is: x9898898899
+NowTime: 95
+NowTime: 95
+NowTime: 95
+NowTime: 95
+
+The Road is: x98988988999
+insert:
+__min_element : lazyCompoundVal{0x56350ffb6bb0,__first} lazyCompoundVal{0x56350ffb7bb8,__last} Unknown 
+The Road is: x98988988999
+insert:
+min_element : lazyCompoundVal{0x56350ff338b8,__first} lazyCompoundVal{0x56350ff34f08,__last} NowTime: 95
+NowTime: 95
+NowTime: 95
+NowTime: 95
+
+The Road is: x98898899
+
+The Road is: x98898899
+insert:
+base : &SymRegion{conj_$170{__normal_iterator<const int *, vector<int> > &, LC171, S6171039, #1}} NowTime: 95
+
+The Road is: x98898899
+
+The Road is: x98898899
+NowTime: 96
+NowTime: 96
+NowTime: 96
+NowTime: 96
+
+The Road is: x988988999
+insert:
+__min_element : lazyCompoundVal{0x56350ffa5478,__first} lazyCompoundVal{0x56350ffa69c8,__last} Unknown 
+The Road is: x988988999
+insert:
+min_element : lazyCompoundVal{0x56350ff48ed0,__first} lazyCompoundVal{0x56350ff4a3a8,__last} NowTime: 96
+NowTime: 96
+
+The Road is: x89999898899
+
+The Road is: x89999898899
+-----------------
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+Now have base
+Now have __min_element
+Now have min_element
+Now have size
+Now have base
+Now have __min_element
+Now have begin
+Now have end
+NowTime: 96
+
+The Road is: x89999898899
+NowTime: 96
+NowTime: 96
+
+The Road is: x89999898899
+
+The Road is: x89999898899
+NowTime: 100
+
+The Road is: x89999898899
+
+The Road is: x89999898899
+NowTime: 110
+
+The Road is: x888888
+
+The Road is: x888888
+-----------------
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+Now have __min_element
+Now have min_element
+Now have size
+Now have __min_element
+Now have begin
+Now have end
+NowTime: 110
+
+The Road is: x888888
+NowTime: 110
+NowTime: 110
+
+The Road is: x888888
+
+The Road is: x888888
+NowTime: 111
+
+The Road is: x888888
+
+The Road is: x888888
+
+The Road is: x8888888
+insert:
+__min_element : lazyCompoundVal{0x5635100b5558,__first} lazyCompoundVal{0x5635100b5708,__last} Unknown 
+The Road is: x8888888
+insert:
+min_element : lazyCompoundVal{0x56350ff8a5d0,__first} lazyCompoundVal{0x56350ff8b958,__last} NowTime: 112
+NowTime: 112
+NowTime: 112
+NowTime: 112
+
+The Road is: x8999988988
+
+The Road is: x8999988988
+insert:
+base : &SymRegion{conj_$347{__normal_iterator<const int *, vector<int> > &, LC165, S6171039, #2}} NowTime: 112
+
+The Road is: x8999988988
+
+The Road is: x8999988988
+NowTime: 118
+NowTime: 118
+NowTime: 118
+NowTime: 118
+
+The Road is: x89999889889
+insert:
+__min_element : lazyCompoundVal{0x56350fb0dcd8,__first} lazyCompoundVal{0x56350fb0f710,__last} Unknown 
+The Road is: x89999889889
+NowTime: 118
+NowTime: 118
+
+The Road is: x89999889889
+
+The Road is: x89999889889
+insert:
+begin : &c.image_ids NowTime: 118
+
+The Road is: x89999889889
+
+The Road is: x89999889889
+insert:
+end : &c.image_ids NowTime: 118
+
+The Road is: x89999889889
+
+
+
+NowTime: 118
+
+NowTime: 118
+
+The Road is: x89998998
+
+The Road is: x89998998
+NowTime: 118
+
+The Road is: x89998998
+
+The Road is: x89998998
+insert:
+size : &c.image_ids NowTime: 118
+
+The Road is: x899989988
+
+The Road is: x899989988
+NowTime: 118
+
+The Road is: x899989988
+
+The Road is: x899989988
+NowTime: 118
+
+The Road is: x899989988
+NowTime: 118
+
+The Road is: x899989988
+
+The Road is: x899989988
+-----------------
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have size
+NowTime: 118
+
+The Road is: x899989988
+NowTime: 118
+NowTime: 118
+
+The Road is: x899989988
+
+The Road is: x899989988
+NowTime: 119
+
+The Road is: x899989988
+
+The Road is: x899989988
+NowTime: 122
+NowTime: 122
+NowTime: 122
+
+The Road is: x8999899889
+
+The Road is: x8999899889
+insert:
+base : &SymRegion{conj_$136{__normal_iterator<const int *, vector<int> > &, LC165, S6171039, #1}} NowTime: 122
+
+The Road is: x8999899889
+
+The Road is: x8999899889
+NowTime: 127
+NowTime: 127
+NowTime: 127
+NowTime: 127
+
+The Road is: x89998998899
+insert:
+__min_element : lazyCompoundVal{0x5635100eb8f8,__first} lazyCompoundVal{0x5635100eb868,__last} Unknown 
+The Road is: x89998998899
+NowTime: 127
+NowTime: 127
+
+The Road is: x89998998899
+
+The Road is: x89998998899
+insert:
+begin : &c.image_ids NowTime: 128
+
+The Road is: x89998998899
+
+The Road is: x89998998899
+insert:
+end : &c.image_ids NowTime: 128
+
+The Road is: x89998998899
+NowTime: 128
+NowTime: 128
+NowTime: 128
+
+The Road is: x988999988988
+
+The Road is: x988999988988
+insert:
+base : &SymRegion{conj_$393{__normal_iterator<const int *, vector<int> > &, LC151, S6171039, #2}} NowTime: 128
+
+The Road is: x988999988988
+
+The Road is: x988999988988
+NowTime: 134
+NowTime: 134
+NowTime: 134
+NowTime: 134
+
+The Road is: x9889999889889
+insert:
+__min_element : lazyCompoundVal{0x56350fbe73d8,__first} lazyCompoundVal{0x56350fbe70a8,__last} Unknown 
+The Road is: x9889999889889
+insert:
+min_element : lazyCompoundVal{0x56350fbe7638,__first} lazyCompoundVal{0x56350fbe8658,__last} NowTime: 134
+NowTime: 134
+
+The Road is: x9889999889889
+
+The Road is: x9889999889889
+NowTime: 134
+
+The Road is: x9889999889889
+
+The Road is: x9889999889889
+NowTime: 134
+
+The Road is: x9889999889889
+NowTime: 134
+NowTime: 134
+NowTime: 134
+
+The Road is: x899998988999
+
+The Road is: x899998988999
+insert:
+base : &SymRegion{conj_$78{__normal_iterator<const int *, vector<int> > &, LC157, S6171039, #1}} NowTime: 134
+
+The Road is: x899998988999
+
+The Road is: x899998988999
+NowTime: 154
+NowTime: 154
+NowTime: 154
+NowTime: 154
+
+The Road is: x8999989889999
+insert:
+__min_element : lazyCompoundVal{0x56350fe54498,__first} lazyCompoundVal{0x56350fe587e8,__last} Unknown 
+The Road is: x8999989889999
+insert:
+min_element : lazyCompoundVal{0x56350ffa5700,__first} lazyCompoundVal{0x56350ffa6b78,__last} NowTime: 154
+NowTime: 154
+
+The Road is: x98888888
+
+The Road is: x98888888
+-----------------
+Now have size
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+Now have __min_element
+Now have min_element
+NowTime: 154
+
+The Road is: x98888888
+NowTime: 154
+NowTime: 154
+
+The Road is: x98888888
+
+The Road is: x98888888
+NowTime: 155
+
+The Road is: x98888888
+
+The Road is: x98888888
+
+The Road is: x988888888
+insert:
+__min_element : lazyCompoundVal{0x563510144d08,__first} lazyCompoundVal{0x5635101486d8,__last} Unknown 
+The Road is: x988888888
+NowTime: 157
+NowTime: 157
+
+The Road is: x89999889899
+
+The Road is: x89999889899
+-----------------
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+Now have base
+Now have __min_element
+Now have min_element
+Now have size
+Now have base
+Now have base
+Now have __min_element
+Now have begin
+Now have end
+NowTime: 157
+
+The Road is: x89999889899
+NowTime: 157
+NowTime: 157
+
+The Road is: x89999889899
+
+The Road is: x89999889899
+NowTime: 162
+
+The Road is: x89999889899
+
+The Road is: x89999889899
+NowTime: 180
+NowTime: 180
+NowTime: 180
+
+The Road is: x899998898999
+
+The Road is: x899998898999
+insert:
+base : &SymRegion{conj_$170{__normal_iterator<const int *, vector<int> > &, LC171, S6171039, #1}} NowTime: 180
+
+The Road is: x899998898999
+
+The Road is: x899998898999
+NowTime: 212
+NowTime: 212
+NowTime: 212
+NowTime: 212
+
+The Road is: x8999988989999
+insert:
+__min_element : lazyCompoundVal{0x563510162350,__first} lazyCompoundVal{0x563510166590,__last} Unknown 
+The Road is: x8999988989999
+insert:
+min_element : lazyCompoundVal{0x56350fcca190,__first} lazyCompoundVal{0x56350fccb500,__last} NowTime: 212
+NowTime: 212
+NowTime: 212
+NowTime: 212
+
+The Road is: x89899989
+
+The Road is: x89899989
+insert:
+base : &SymRegion{conj_$324{__normal_iterator<const int *, vector<int> > &, LC185, S6171039, #2}} NowTime: 212
+
+The Road is: x89899989
+
+The Road is: x89899989
+NowTime: 214
+NowTime: 214
+NowTime: 214
+NowTime: 214
+
+The Road is: x898999899
+insert:
+__min_element : lazyCompoundVal{0x56350feab348,__first} lazyCompoundVal{0x56350feaf2c0,__last} Unknown 
+The Road is: x898999899
+insert:
+min_element : lazyCompoundVal{0x56350fb7f1c8,__first} lazyCompoundVal{0x56350fb80720,__last} NowTime: 214
+
+
+NowTime: 214
+
+NowTime: 214
+
+The Road is: x9889998998
+
+The Road is: x9889998998
+NowTime: 214
+
+The Road is: x9889998998
+
+The Road is: x9889998998
+NowTime: 215
+
+The Road is: x98899989988
+
+The Road is: x98899989988
+insert:
+begin : &a.image_ids NowTime: 215
+
+The Road is: x98899989988
+
+The Road is: x98899989988
+insert:
+end : &a.image_ids NowTime: 215
+
+The Road is: x98899989988
+NowTime: 215
+
+The Road is: x98899989988
+
+The Road is: x98899989988
+-----------------
+Now have size
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+NowTime: 215
+
+The Road is: x98899989988
+NowTime: 215
+NowTime: 215
+
+The Road is: x98899989988
+
+The Road is: x98899989988
+NowTime: 216
+
+The Road is: x98899989988
+
+The Road is: x98899989988
+
+NowTime: 219
+NowTime: 219
+NowTime: 219
+
+The Road is: x988999899889
+
+The Road is: x988999899889
+insert:
+base : &SymRegion{conj_$44{__normal_iterator<const int *, vector<int> > &, LC151, S6171039, #1}} NowTime: 219
+
+The Road is: x988999899889
+
+The Road is: x988999899889
+NowTime: 226
+NowTime: 226
+NowTime: 226
+NowTime: 226
+
+The Road is: x9889998998899
+insert:
+__min_element : lazyCompoundVal{0x5635101b7a98,__first} lazyCompoundVal{0x5635101b7720,__last} Unknown 
+The Road is: x9889998998899
+insert:
+min_element : lazyCompoundVal{0x5635101b7d68,__first} lazyCompoundVal{0x5635101b8fb0,__last} NowTime: 226
+NowTime: 226
+
+The Road is: x9889998998899
+
+The Road is: x9889998998899
+NowTime: 226
+
+The Road is: x9889998998899
+
+The Road is: x9889998998899
+NowTime: 226
+
+The Road is: x9889998998899
+NowTime: 226
+NowTime: 226
+NowTime: 226
+
+The Road is: x9889899989
+
+The Road is: x9889899989
+insert:
+base : &SymRegion{conj_$370{__normal_iterator<const int *, vector<int> > &, LC171, S6171039, #2}} NowTime: 226
+
+The Road is: x9889899989
+
+The Road is: x9889899989
+NowTime: 228
+NowTime: 228
+NowTime: 228
+NowTime: 228
+
+The Road is: x98898999899
+insert:
+__min_element : lazyCompoundVal{0x56350fe6f248,__first} lazyCompoundVal{0x56350fe73500,__last} Unknown 
+The Road is: x98898999899
+insert:
+min_element : lazyCompoundVal{0x56350fb21df8,__first} lazyCompoundVal{0x56350fb224b0,__last} NowTime: 228
+NowTime: 228
+NowTime: 228
+NowTime: 228
+
+The Road is: x989889899989
+
+The Road is: x989889899989
+insert:
+base : &SymRegion{conj_$416{__normal_iterator<const int *, vector<int> > &, LC157, S6171039, #2}} NowTime: 228
+
+The Road is: x989889899989
+
+The Road is: x989889899989
+NowTime: 231
+NowTime: 231
+NowTime: 231
+NowTime: 231
+
+The Road is: x9898898999899
+insert:
+__min_element : lazyCompoundVal{0x56350fcddda0,__first} lazyCompoundVal{0x56350fce2328,__last} Unknown 
+The Road is: x9898898999899
+insert:
+min_element : lazyCompoundVal{0x56350fca13f8,__first} lazyCompoundVal{0x56350fca2a48,__last} NowTime: 231
+NowTime: 231
+
+The Road is: x89999889889
+
+The Road is: x89999889889
+-----------------
+Now have size
+Now have size
+Now have begin
+Now have end
+Now have __iter_less_iter
+Now have base
+Now have base
+Now have base
+Now have __min_element
+Now have min_element
+Now have begin
+Now have end
+Now have base
+Now have __min_element
+Now have min_element
+Now have size
+Now have base
+Now have base
+Now have __min_element
+Now have begin
+Now have end
+NowTime: 231
+
+The Road is: x89999889889
+NowTime: 231
+NowTime: 231
+
+The Road is: x89999889889
+
+The Road is: x89999889889
+NowTime: 236
+
+The Road is: x89999889889
+
+The Road is: x89999889889
+NowTime: 254
+TimeLimit
+NowTime: 254
+TimeLimit
+
+NowTime: 254
+TimeLimit
+
+
+NowTime: 254
+TimeLimit
+NowTime: 254
+TimeLimit
+NowTime: 254
+TimeLimit
+NowTime: 254
+TimeLimit
+NowTime: 254
+TimeLimit
+NowTime: 254
+TimeLimit
+
+
+NowTime: 254
+TimeLimit
+
+NowTime: 254
+TimeLimit
+NowTime: 254
+TimeLimit
+NowTime: 254
+TimeLimit
+NowTime: 254
+TimeLimit
+NowTime: 254
+TimeLimit
+
+NowTime: 254
+TimeLimit
+
+
+NowTime: 254
+TimeLimit
+NowTime: 254
+TimeLimit
+
+
+NowTime: 254
+TimeLimit
+
+NowTime: 254
+TimeLimit
+NowTime: 254
+TimeLimit
+
+NowTime: 254
+TimeLimit
+
+
+NowTime: 254
+TimeLimit
+NowTime: 254
+TimeLimit
+NowTime: 254
+TimeLimit
+
+
+NowTime: 254
+TimeLimit
+
+NowTime: 254
+TimeLimit
+NowTime: 254
+TimeLimit
+
+NowTime: 254
+TimeLimit
+NowTime: 254
+TimeLimit
+
+NowTime: 254
+TimeLimit
+
+NowTime: 254
+TimeLimit
+NowTime: 254
+TimeLimit
+NowTime: 254
+TimeLimit
+
+
+
+NowTime: 255
+TimeLimit
+NowTime: 255
+TimeLimit
+
+NowTime: 255
+TimeLimit
+
+
+
+
+NowTime: 255
+TimeLimit
+
+
+
+
+
+NowTime: 255
+TimeLimit
+
+NowTime: 255
+TimeLimit
+
+
+
+
+NowTime: 255
+TimeLimit
+
+
+
+
+/home/lizhilin/compare-order/real-project/colmap/test-lambda/classification_results/filtered_files/test_10.cpp:37:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   37 |         SymmetryChecker();
+      |         ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/real-project/colmap/test-lambda/classification_results/filtered_files/test_10.cpp:43:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   43 |         SymmetryChecker();
+      |         ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/real-project/colmap/test-lambda/classification_results/filtered_files/test_10.cpp:49:9: warning: Violation of Anti-Reflexivity [CompareCheck.FunctionChecker]
+   49 |         ReflexivityChecker();
+      |         ^~~~~~~~~~~~~~~~~~~~
+3 warnings generated.
+Total paths analyzed: 26
+Total paths analyzed: 35
+Total paths analyzed: 35
+Total paths analyzed: 27
+Total paths analyzed: 89

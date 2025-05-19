@@ -1,0 +1,374 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9898
+
+The Road is: x9898
+
+
+NowTime: 0
+
+The Road is: x98988
+
+The Road is: x98988
+
+
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9888
+
+The Road is: x9888
+NowTime: 0
+
+The Road is: x98888
+
+The Road is: x98888
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+NowTime: 0
+
+The Road is: x88888
+
+The Road is: x88888
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8898
+
+The Road is: x8898
+NowTime: 0
+
+The Road is: x88988
+
+The Road is: x88988
+
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9898
+
+The Road is: x9898
+
+
+NowTime: 0
+
+The Road is: x98988
+
+The Road is: x98988
+
+
+
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+
+
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9888
+
+The Road is: x9888
+NowTime: 0
+
+The Road is: x98888
+
+The Road is: x98888
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+NowTime: 0
+
+The Road is: x88888
+
+The Road is: x88888
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8898
+
+The Road is: x8898
+NowTime: 0
+
+The Road is: x88988
+
+The Road is: x88988
+
+
+
+
+/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_59.cpp:25:5: warning: Violation of Consistency [CompareCheck.FunctionChecker]
+   25 |     ConsistencyChecker();
+      |     ^~~~~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_59.cpp:31:5: warning: Violation of Transitivity [CompareCheck.FunctionChecker]
+   31 |     TransiveChecker();
+      |     ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_59.cpp:37:5: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   37 |     SymmetryChecker();
+      |     ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_59.cpp:43:5: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   43 |     SymmetryChecker();
+      |     ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_59.cpp:49:5: warning: Violation of Anti-Reflexivity [CompareCheck.FunctionChecker]
+   49 |     ReflexivityChecker();
+      |     ^~~~~~~~~~~~~~~~~~~~
+5 warnings generated.
+Total paths analyzed: 3
+Total paths analyzed: 7
+Total paths analyzed: 7
+Total paths analyzed: 16
+Total paths analyzed: 16

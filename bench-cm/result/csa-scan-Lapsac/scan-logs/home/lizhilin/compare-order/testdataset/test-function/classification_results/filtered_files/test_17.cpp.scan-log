@@ -1,0 +1,458 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+
+
+
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+
+
+
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+
+
+The Error Road is: x99888998889888
+
+
+
+
+
+
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+
+The Error Road is: x998889988888
+
+
+
+The Error Road is: x99888988888
+NowTime: 0
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+
+
+The Error Road is: x99888988899888
+NowTime: 0
+
+
+
+
+
+
+The Error Road is: x998888888
+NowTime: 0
+
+
+
+
+
+
+The Error Road is: x99888889888
+NowTime: 0
+
+
+
+
+
+
+The Error Road is: x998888899888
+NowTime: 0
+
+
+
+
+
+
+The Error Road is: x98888888
+NowTime: 0
+
+
+
+
+
+
+The Error Road is: x9888889888
+NowTime: 0
+
+
+
+
+
+
+The Error Road is: x9988888989888
+NowTime: 0
+
+
+
+
+
+
+The Error Road is: x9888988888
+NowTime: 0
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+
+NowTime: 0
+
+
+The Error Road is: x98888899888
+
+
+NowTime: 0
+
+
+
+
+The Error Road is: x9988898988888
+
+
+The Error Road is: x988888989888
+
+
+The Error Road is: x98889988888
+
+
+The Error Road is: x98889888989888
+
+
+
+
+The Error Road is: x88889888
+
+
+
+
+The Error Road is: x88988888
+
+
+The Error Road is: x8898889888
+
+The Error Road is: x98889988899888
+
+The Error Road is: x9898888888
+
+The Error Road is: x989888889888
+
+The Error Road is: x888899888
+
+The Error Road is: x989888988888
+
+The Error Road is: x98988898889888
+
+The Error Road is: x8888989888
+
+The Error Road is: x988898988888
+
+The Error Road is: x98889898889888
+
+The Error Road is: x88988899888
+
+The Error Road is: x889988888
+
+The Error Road is: x88998889888
+
+The Error Road is: x889888989888
+
+The Error Road is: x8898988888
+
+The Error Road is: x889898889888
+
+The Error Road is: x9898888899888
+
+The Error Road is: x9898889988888
+
+The Error Road is: x98988888989888
+
+The Error Road is: x98988898988888
+The Error Road is: x9898889898889888
+The Error Road is: x9898889888989888
+The Error Road is: x9888989888989888
+The Error Road is: x889988899888
+The Error Road is: x8899888989888
+The Error Road is: x8898988899888
+The Error Road is: x88989888989888
+TransitivityWrongPath more than 50NowTime: 0
+
+
+TransitivityWrongPath more than 50NowTime: 0
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+
+
+
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_17.cpp:27:9: warning: Violation of Consistency [CompareCheck.FunctionChecker]
+   27 |         ConsistencyChecker();
+      |         ^~~~~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_17.cpp:33:9: warning: Violation of Transitivity [CompareCheck.FunctionChecker]
+   33 |         TransiveChecker();
+      |         ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_17.cpp:39:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   39 |         SymmetryChecker();
+      |         ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_17.cpp:45:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   45 |         SymmetryChecker();
+      |         ^~~~~~~~~~~~~~~~~
+4 warnings generated.
+Total paths analyzed: 0
+Total paths analyzed: 2
+Total paths analyzed: 2
+Total paths analyzed: 50
+Total paths analyzed: 34

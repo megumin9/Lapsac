@@ -1,0 +1,307 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+-----------------
+insert:
+BLI_strcasecmp_natural : &SymRegion{reg_$4<const char * a.name>} &SymRegion{reg_$4<const char * a.name>} 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+insert:
+BLI_strcasecmp_natural : &SymRegion{reg_$4<const char * a.name>} &SymRegion{reg_$5<const char * b.name>} 
+
+The Road is: x2
+-----------------
+insert:
+BLI_strcasecmp_natural : &SymRegion{reg_$4<const char * a.name>} &SymRegion{reg_$5<const char * b.name>} 
+
+The Road is: x1
+-----------------
+insert:
+BLI_strcasecmp_natural : &SymRegion{reg_$4<const char * a.name>} &SymRegion{reg_$5<const char * b.name>} 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+-----------------
+Now have BLI_strcasecmp_natural
+insert:
+BLI_strcasecmp_natural : &SymRegion{reg_$5<const char * b.name>} &SymRegion{reg_$4<const char * a.name>} 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+insert:
+BLI_strcasecmp_natural : &SymRegion{reg_$4<const char * a.name>} &SymRegion{reg_$5<const char * b.name>} 
+
+The Road is: x2
+-----------------
+insert:
+BLI_strcasecmp_natural : &SymRegion{reg_$4<const char * a.name>} &SymRegion{reg_$5<const char * b.name>} 
+
+The Road is: x1
+-----------------
+insert:
+BLI_strcasecmp_natural : &SymRegion{reg_$4<const char * a.name>} &SymRegion{reg_$5<const char * b.name>} 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+-----------------
+Now have BLI_strcasecmp_natural
+insert:
+BLI_strcasecmp_natural : &SymRegion{reg_$5<const char * b.name>} &SymRegion{reg_$4<const char * a.name>} 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+insert:
+BLI_strcasecmp_natural : &SymRegion{reg_$4<const char * a.name>} &SymRegion{reg_$5<const char * b.name>} 
+
+The Road is: x2
+-----------------
+insert:
+BLI_strcasecmp_natural : &SymRegion{reg_$4<const char * a.name>} &SymRegion{reg_$5<const char * b.name>} 
+
+The Road is: x1
+-----------------
+insert:
+BLI_strcasecmp_natural : &SymRegion{reg_$4<const char * a.name>} &SymRegion{reg_$5<const char * b.name>} 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x08
+The road length:2
+The road length:2
+The road length:2
+
+The Road is: x080
+-----------------
+Now have BLI_strcasecmp_natural
+insert:
+BLI_strcasecmp_natural : &SymRegion{reg_$5<const char * b.name>} &SymRegion{reg_$7<const char * c.name>} 
+
+The Road is: x082
+-----------------
+Now have BLI_strcasecmp_natural
+insert:
+BLI_strcasecmp_natural : &SymRegion{reg_$5<const char * b.name>} &SymRegion{reg_$7<const char * c.name>} 
+
+The Road is: x081
+-----------------
+Now have BLI_strcasecmp_natural
+insert:
+BLI_strcasecmp_natural : &SymRegion{reg_$5<const char * b.name>} &SymRegion{reg_$7<const char * c.name>} 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x0808
+
+The Road is: x0808
+-----------------
+Now have BLI_strcasecmp_natural
+Now have BLI_strcasecmp_natural
+insert:
+BLI_strcasecmp_natural : &SymRegion{reg_$7<const char * c.name>} &SymRegion{reg_$4<const char * a.name>} 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+insert:
+BLI_strcasecmp_natural : &SymRegion{reg_$4<const char * a.name>} &SymRegion{reg_$5<const char * b.name>} 
+
+The Road is: x2
+-----------------
+insert:
+BLI_strcasecmp_natural : &SymRegion{reg_$4<const char * a.name>} &SymRegion{reg_$5<const char * b.name>} 
+
+The Road is: x1
+-----------------
+insert:
+BLI_strcasecmp_natural : &SymRegion{reg_$4<const char * a.name>} &SymRegion{reg_$5<const char * b.name>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x18
+The road length:2
+The road length:2
+The road length:2
+
+The Road is: x180
+-----------------
+Now have BLI_strcasecmp_natural
+insert:
+BLI_strcasecmp_natural : &SymRegion{reg_$5<const char * b.name>} &SymRegion{reg_$7<const char * c.name>} 
+
+The Road is: x182
+-----------------
+Now have BLI_strcasecmp_natural
+insert:
+BLI_strcasecmp_natural : &SymRegion{reg_$5<const char * b.name>} &SymRegion{reg_$7<const char * c.name>} 
+
+The Road is: x181
+-----------------
+Now have BLI_strcasecmp_natural
+insert:
+BLI_strcasecmp_natural : &SymRegion{reg_$5<const char * b.name>} &SymRegion{reg_$7<const char * c.name>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x1818
+
+The Road is: x1818
+-----------------
+Now have BLI_strcasecmp_natural
+Now have BLI_strcasecmp_natural
+insert:
+BLI_strcasecmp_natural : &SymRegion{reg_$4<const char * a.name>} &SymRegion{reg_$7<const char * c.name>} 
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x28
+The road length:2
+The road length:2
+The road length:2
+
+The Road is: x280
+-----------------
+Now have BLI_strcasecmp_natural
+insert:
+BLI_strcasecmp_natural : &SymRegion{reg_$5<const char * b.name>} &SymRegion{reg_$7<const char * c.name>} 
+
+The Road is: x282
+-----------------
+Now have BLI_strcasecmp_natural
+
+The Road is: x281
+-----------------
+Now have BLI_strcasecmp_natural
+insert:
+BLI_strcasecmp_natural : &SymRegion{reg_$5<const char * b.name>} &SymRegion{reg_$7<const char * c.name>} 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x1828
+
+The Road is: x1828
+-----------------
+Now have BLI_strcasecmp_natural
+Now have BLI_strcasecmp_natural
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x2818
+
+The Road is: x2818
+-----------------
+Now have BLI_strcasecmp_natural
+Now have BLI_strcasecmp_natural
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x2828
+
+The Road is: x2828
+-----------------
+Now have BLI_strcasecmp_natural
+
+Total paths analyzed: 0
+Total paths analyzed: 0
+Total paths analyzed: 0
+Total paths analyzed: 0
+Total paths analyzed: 0

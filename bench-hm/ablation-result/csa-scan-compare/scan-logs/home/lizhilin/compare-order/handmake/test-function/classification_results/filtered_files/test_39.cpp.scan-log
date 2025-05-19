@@ -1,0 +1,588 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+-----------------
+insert:
+strcmp : &SymRegion{reg_$5<const char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var4>} &SymRegion{reg_$5<const char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var4>} 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+insert:
+strcmp : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var4>} &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var4>} 
+
+The Road is: x2
+-----------------
+insert:
+strcmp : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var4>} &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var4>} 
+
+The Road is: x1
+-----------------
+insert:
+strcmp : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var4>} &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var4>} 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x1988
+
+The Road is: x1988
+-----------------
+Now have strcmp
+insert:
+strcmp : &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var4>} &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var4>} 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x088
+
+The Road is: x088
+-----------------
+Now have strcmp
+insert:
+strcmp : &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var4>} &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var4>} 
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x2988
+
+The Road is: x2988
+-----------------
+Now have strcmp
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+insert:
+strcmp : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var4>} &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var4>} 
+
+The Road is: x2
+-----------------
+insert:
+strcmp : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var4>} &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var4>} 
+
+The Road is: x1
+-----------------
+insert:
+strcmp : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var4>} &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var4>} 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x1988
+
+The Road is: x1988
+-----------------
+Now have strcmp
+insert:
+strcmp : &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var4>} &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var4>} 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x088
+
+The Road is: x088
+-----------------
+Now have strcmp
+insert:
+strcmp : &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var4>} &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var4>} 
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x2988
+
+The Road is: x2988
+-----------------
+Now have strcmp
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+insert:
+strcmp : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var4>} &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var4>} 
+
+The Road is: x2
+-----------------
+insert:
+strcmp : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var4>} &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var4>} 
+
+The Road is: x1
+-----------------
+insert:
+strcmp : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var4>} &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var4>} 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x1988
+The road length:4
+The road length:4
+The road length:4
+
+The Road is: x19880
+-----------------
+Now have strcmp
+insert:
+strcmp : &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var4>} &SymRegion{reg_$12<const char * Element{SymRegion{reg_$11<testclass * c>},0 S64b,struct testclass}.var4>} 
+
+The Road is: x19882
+-----------------
+Now have strcmp
+insert:
+strcmp : &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var4>} &SymRegion{reg_$12<const char * Element{SymRegion{reg_$11<testclass * c>},0 S64b,struct testclass}.var4>} 
+
+The Road is: x19881
+-----------------
+Now have strcmp
+insert:
+strcmp : &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var4>} &SymRegion{reg_$12<const char * Element{SymRegion{reg_$11<testclass * c>},0 S64b,struct testclass}.var4>} 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x19881988
+
+The Road is: x19881988
+-----------------
+Now have strcmp
+Now have strcmp
+insert:
+strcmp : &SymRegion{reg_$12<const char * Element{SymRegion{reg_$11<testclass * c>},0 S64b,struct testclass}.var4>} &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var4>} 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x088
+The road length:3
+The road length:3
+The road length:3
+
+The Road is: x0880
+-----------------
+Now have strcmp
+insert:
+strcmp : &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var4>} &SymRegion{reg_$12<const char * Element{SymRegion{reg_$11<testclass * c>},0 S64b,struct testclass}.var4>} 
+
+The Road is: x0882
+-----------------
+Now have strcmp
+insert:
+strcmp : &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var4>} &SymRegion{reg_$12<const char * Element{SymRegion{reg_$11<testclass * c>},0 S64b,struct testclass}.var4>} 
+
+The Road is: x0881
+-----------------
+Now have strcmp
+insert:
+strcmp : &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var4>} &SymRegion{reg_$12<const char * Element{SymRegion{reg_$11<testclass * c>},0 S64b,struct testclass}.var4>} 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x1988088
+The road length:7
+The road length:7
+The road length:7
+
+The Road is: x19880880
+-----------------
+Now have strcmp
+Now have strcmp
+insert:
+strcmp : &SymRegion{reg_$12<const char * Element{SymRegion{reg_$11<testclass * c>},0 S64b,struct testclass}.var4>} &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var4>} 
+
+The Road is: x19880882
+-----------------
+Now have strcmp
+Now have strcmp
+insert:
+strcmp : &SymRegion{reg_$12<const char * Element{SymRegion{reg_$11<testclass * c>},0 S64b,struct testclass}.var4>} &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var4>} 
+
+The Road is: x19880881
+-----------------
+Now have strcmp
+Now have strcmp
+insert:
+strcmp : &SymRegion{reg_$12<const char * Element{SymRegion{reg_$11<testclass * c>},0 S64b,struct testclass}.var4>} &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var4>} 
+
+
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x2988
+The road length:4
+The road length:4
+The road length:4
+
+The Road is: x29880
+-----------------
+Now have strcmp
+insert:
+strcmp : &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var4>} &SymRegion{reg_$12<const char * Element{SymRegion{reg_$11<testclass * c>},0 S64b,struct testclass}.var4>} 
+
+The Road is: x29882
+-----------------
+Now have strcmp
+
+The Road is: x29881
+-----------------
+Now have strcmp
+insert:
+strcmp : &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var4>} &SymRegion{reg_$12<const char * Element{SymRegion{reg_$11<testclass * c>},0 S64b,struct testclass}.var4>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x088088
+
+The Road is: x088088
+-----------------
+Now have strcmp
+Now have strcmp
+insert:
+strcmp : &SymRegion{reg_$12<const char * Element{SymRegion{reg_$11<testclass * c>},0 S64b,struct testclass}.var4>} &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var4>} 
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x19882988
+
+The Road is: x19882988
+-----------------
+Now have strcmp
+Now have strcmp
+insert:
+strcmp : &SymRegion{reg_$12<const char * Element{SymRegion{reg_$11<testclass * c>},0 S64b,struct testclass}.var4>} &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var4>} 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x2988088
+
+The Road is: x2988088
+-----------------
+Now have strcmp
+Now have strcmp
+insert:
+strcmp : &SymRegion{reg_$12<const char * Element{SymRegion{reg_$11<testclass * c>},0 S64b,struct testclass}.var4>} &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var4>} 
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x0881988
+The road length:7
+The road length:7
+The road length:7
+
+The Road is: x08819880
+-----------------
+Now have strcmp
+Now have strcmp
+insert:
+strcmp : &SymRegion{reg_$12<const char * Element{SymRegion{reg_$11<testclass * c>},0 S64b,struct testclass}.var4>} &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var4>} 
+
+The Road is: x08819882
+-----------------
+Now have strcmp
+Now have strcmp
+insert:
+strcmp : &SymRegion{reg_$12<const char * Element{SymRegion{reg_$11<testclass * c>},0 S64b,struct testclass}.var4>} &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var4>} 
+
+The Road is: x08819881
+-----------------
+Now have strcmp
+Now have strcmp
+insert:
+strcmp : &SymRegion{reg_$12<const char * Element{SymRegion{reg_$11<testclass * c>},0 S64b,struct testclass}.var4>} &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var4>} 
+
+
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x0882988
+
+The Road is: x0882988
+-----------------
+Now have strcmp
+Now have strcmp
+insert:
+strcmp : &SymRegion{reg_$12<const char * Element{SymRegion{reg_$11<testclass * c>},0 S64b,struct testclass}.var4>} &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var4>} 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x29881988
+
+The Road is: x29881988
+-----------------
+Now have strcmp
+Now have strcmp
+insert:
+strcmp : &SymRegion{reg_$12<const char * Element{SymRegion{reg_$11<testclass * c>},0 S64b,struct testclass}.var4>} &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var4>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x29882988
+
+The Road is: x29882988
+-----------------
+Now have strcmp
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+insert:
+strcmp : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var4>} &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var4>} 
+
+The Road is: x2
+-----------------
+insert:
+strcmp : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var4>} &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var4>} 
+
+The Road is: x1
+-----------------
+insert:
+strcmp : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var4>} &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var4>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x1998
+The road length:4
+The road length:4
+The road length:4
+
+The Road is: x19980
+-----------------
+Now have strcmp
+insert:
+strcmp : &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var4>} &SymRegion{reg_$12<const char * Element{SymRegion{reg_$11<testclass * c>},0 S64b,struct testclass}.var4>} 
+
+The Road is: x19982
+-----------------
+Now have strcmp
+insert:
+strcmp : &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var4>} &SymRegion{reg_$12<const char * Element{SymRegion{reg_$11<testclass * c>},0 S64b,struct testclass}.var4>} 
+
+The Road is: x19981
+-----------------
+Now have strcmp
+insert:
+strcmp : &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var4>} &SymRegion{reg_$12<const char * Element{SymRegion{reg_$11<testclass * c>},0 S64b,struct testclass}.var4>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x19981998
+
+The Road is: x19981998
+-----------------
+Now have strcmp
+Now have strcmp
+insert:
+strcmp : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var4>} &SymRegion{reg_$12<const char * Element{SymRegion{reg_$11<testclass * c>},0 S64b,struct testclass}.var4>} 
+
+
+
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x2998
+The road length:4
+The road length:4
+The road length:4
+
+The Road is: x29980
+-----------------
+Now have strcmp
+insert:
+strcmp : &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var4>} &SymRegion{reg_$12<const char * Element{SymRegion{reg_$11<testclass * c>},0 S64b,struct testclass}.var4>} 
+
+The Road is: x29982
+-----------------
+Now have strcmp
+
+The Road is: x29981
+-----------------
+Now have strcmp
+insert:
+strcmp : &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var4>} &SymRegion{reg_$12<const char * Element{SymRegion{reg_$11<testclass * c>},0 S64b,struct testclass}.var4>} 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x19982998
+
+The Road is: x19982998
+-----------------
+Now have strcmp
+Now have strcmp
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x29981998
+
+The Road is: x29981998
+-----------------
+Now have strcmp
+Now have strcmp
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x29982998
+
+The Road is: x29982998
+-----------------
+Now have strcmp
+
+
+/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_39.cpp:30:9: warning: Violation of Transitivity [CompareCheck.FunctionChecker]
+   30 |         TransiveChecker();
+      |         ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_39.cpp:36:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   36 |         SymmetryChecker();
+      |         ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_39.cpp:42:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   42 |         SymmetryChecker();
+      |         ^~~~~~~~~~~~~~~~~
+3 warnings generated.
+Total paths analyzed: 2
+Total paths analyzed: 6
+Total paths analyzed: 6
+Total paths analyzed: 23
+Total paths analyzed: 12

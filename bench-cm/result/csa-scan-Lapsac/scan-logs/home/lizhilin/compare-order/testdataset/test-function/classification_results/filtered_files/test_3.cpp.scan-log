@@ -1,0 +1,341 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+-----------------
+insert:
+compare : &a.first &a.first 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+insert:
+compare : &a.first &b.first 
+
+The Road is: x2
+-----------------
+insert:
+compare : &a.first &b.first 
+
+The Road is: x1
+-----------------
+insert:
+compare : &a.first &b.first 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x28
+
+The Road is: x28
+-----------------
+Now have compare
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+-----------------
+Now have compare
+insert:
+compare : &b.first &a.first 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+insert:
+compare : &a.first &b.first 
+
+The Road is: x2
+-----------------
+insert:
+compare : &a.first &b.first 
+
+The Road is: x1
+-----------------
+insert:
+compare : &a.first &b.first 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x28
+
+The Road is: x28
+-----------------
+Now have compare
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+-----------------
+Now have compare
+insert:
+compare : &b.first &a.first 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+insert:
+compare : &a.first &b.first 
+
+The Road is: x2
+-----------------
+insert:
+compare : &a.first &b.first 
+
+The Road is: x1
+-----------------
+insert:
+compare : &a.first &b.first 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x28
+The road length:2
+The road length:2
+The road length:2
+
+The Road is: x280
+-----------------
+Now have compare
+insert:
+compare : &b.first &c.first 
+
+The Road is: x282
+-----------------
+Now have compare
+
+The Road is: x281
+-----------------
+Now have compare
+insert:
+compare : &b.first &c.first 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x2828
+
+The Road is: x2828
+-----------------
+Now have compare
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x08
+The road length:2
+The road length:2
+The road length:2
+
+The Road is: x080
+-----------------
+Now have compare
+insert:
+compare : &b.first &c.first 
+
+The Road is: x082
+-----------------
+Now have compare
+insert:
+compare : &b.first &c.first 
+
+The Road is: x081
+-----------------
+Now have compare
+insert:
+compare : &b.first &c.first 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x2808
+
+The Road is: x2808
+-----------------
+Now have compare
+Now have compare
+insert:
+compare : &c.first &a.first 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x0828
+
+The Road is: x0828
+-----------------
+Now have compare
+Now have compare
+insert:
+compare : &c.first &a.first 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x0808
+
+The Road is: x0808
+-----------------
+Now have compare
+Now have compare
+insert:
+compare : &c.first &a.first 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+insert:
+compare : &a.first &b.first 
+
+The Road is: x2
+-----------------
+insert:
+compare : &a.first &b.first 
+
+The Road is: x1
+-----------------
+insert:
+compare : &a.first &b.first 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x18
+The road length:2
+The road length:2
+The road length:2
+
+The Road is: x180
+-----------------
+Now have compare
+insert:
+compare : &b.first &c.first 
+
+The Road is: x182
+-----------------
+Now have compare
+insert:
+compare : &b.first &c.first 
+
+The Road is: x181
+-----------------
+Now have compare
+insert:
+compare : &b.first &c.first 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x1818
+
+The Road is: x1818
+-----------------
+Now have compare
+Now have compare
+insert:
+compare : &a.first &c.first 
+
+
+
+
+
+/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_3.cpp:34:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   34 |         SymmetryChecker();
+      |         ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_3.cpp:40:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   40 |         SymmetryChecker();
+      |         ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_3.cpp:46:9: warning: Violation of Anti-Reflexivity [CompareCheck.FunctionChecker]
+   46 |         ReflexivityChecker();
+      |         ^~~~~~~~~~~~~~~~~~~~
+3 warnings generated.
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 0

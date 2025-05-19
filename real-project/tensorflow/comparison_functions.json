@@ -1,0 +1,106 @@
+{
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/tools/android/test/jni/object_tracking/keypoint_detector.cc": [
+        {
+            "header": "int KeypointCompare",
+            "params": "const void* const a, const void* const b",
+            "is_const": false,
+            "body": "return (reinterpret_cast<const Keypoint*>(a)->score_ -\n          reinterpret_cast<const Keypoint*>(b)->score_) <= 0 ? 1 : -1;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/tools/android/test/jni/object_tracking/frame_pair.cc": [
+        {
+            "header": "int WeightedDeltaCompare",
+            "params": "const void* const a, const void* const b",
+            "is_const": false,
+            "body": "return (reinterpret_cast<const WeightedDelta*>(a)->delta -\n          reinterpret_cast<const WeightedDelta*>(b)->delta) <= 0 ? 1 : -1;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/tools/android/test/jni/object_tracking/flow_cache.h": [
+        {
+            "header": "int Compare",
+            "params": "const void* a, const void* b",
+            "is_const": false,
+            "body": "return *reinterpret_cast<const float*>(a) -\n           *reinterpret_cast<const float*>(b);"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/core/data/dataset_test_base.cc": [
+        {
+            "header": "bool compare",
+            "params": "const Tensor& t1, const Tensor& t2",
+            "is_const": false,
+            "body": "auto flat_t1 = t1.flat<T>();\n  auto flat_t2 = t2.flat<T>();\n  auto length = std::min(flat_t1.size(), flat_t2.size());\n  for (int i = 0; i < length; ++i) {\n    if (flat_t1(i) < flat_t2(i)) return true;\n    if (flat_t1(i) > flat_t2(i)) return false;\n  }\n  return flat_t1.size() < length;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/core/profiler/convert/inference_stats_grouping.cc": [
+        {
+            "header": "bool CompareByDuration",
+            "params": "const DataType* a, const DataType* b",
+            "is_const": false,
+            "body": "return Timespan::ByDuration(\n      Timespan::FromEndPoints(a->start_time_ps(), a->end_time_ps()),\n      Timespan::FromEndPoints(b->start_time_ps(), b->end_time_ps()));"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/core/profiler/convert/inference_stats.cc": [
+        {
+            "header": "bool CompareByDuration",
+            "params": "const DataType& a, const DataType& b",
+            "is_const": false,
+            "body": "return Timespan::ByDuration(\n      Timespan::FromEndPoints(a.start_time_ps(), a.end_time_ps()),\n      Timespan::FromEndPoints(b.start_time_ps(), b.end_time_ps()));"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/core/grappler/optimizers/data/graph_utils.cc": [
+        {
+            "header": "bool Compare",
+            "params": "const GraphDef& g1, const GraphDef& g2",
+            "is_const": false,
+            "body": "if (g1.node_size() != g2.node_size()) {\n    return false;\n  }\n  std::vector<int> name_index1 = CreateNameIndex(g1);\n  std::vector<int> name_index2 = CreateNameIndex(g2);\n  for (int i = 0; i < g1.node_size(); ++i) {\n    int idx1 = name_index1[i];\n    int idx2 = name_index2[i];\n    if (g1.node(idx1).op() != g2.node(idx2).op()) {\n      return false;\n    }\n    if (g1.node(idx1).name() != g2.node(idx2).name()) {\n      return false;\n    }\n    if (g1.node(idx1).input_size() != g2.node(idx2).input_size()) {\n      return false;\n    }\n    std::vector<int> input_index1 = CreateInputIndex(g1.node(idx1));\n    std::vector<int> input_index2 = CreateInputIndex(g2.node(idx2));\n    for (int j = 0; j < g1.node(idx1).input_size(); ++j) {\n      if (!IsSameInput(g1.node(idx1).input(input_index1[j]),\n                       g2.node(idx2).input(input_index2[j]))) {\n        return false;\n      }\n    }\n  }\n  return true;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/core/common_runtime/propagator_state.h": [
+        {
+            "header": "bool compare",
+            "params": "TaggedNode const& lhs, TaggedNode const& rhs",
+            "is_const": false,
+            "body": "std::tuple<int, uint64, int64_t> lhs_prio{lhs.node_item->node_id,\n                                                lhs.input_frame->frame_id,\n                                                lhs.input_iter->iter_num};\n      std::tuple<int, uint64, int64_t> rhs_prio{rhs.node_item->node_id,\n                                                rhs.input_frame->frame_id,\n                                                rhs.input_iter->iter_num};\n      return lhs_prio < rhs_prio;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/lite/kernels/topk_v2.cc": [
+        {
+            "header": "bool compare_fun",
+            "params": "Tidx a, Tidx b",
+            "is_const": true,
+            "body": "if (values_[b] < values_[a]) {\n      return true;\n    } else if (values_[b] > values_[a]) {\n      return false;\n    } else {\n      return a < b;\n    }"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/tensorflow/lite/delegates/gpu/common/memory_management/internal.cc": [
+        {
+            "header": "bool CompareBySize",
+            "params": "const TensorUsageWithIndex<size_t>& first,\n                   const TensorUsageWithIndex<size_t>& second",
+            "is_const": false,
+            "body": "return first.usage_record->tensor_size > second.usage_record->tensor_size;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/third_party/xla/xla/comparison_util.h": [
+        {
+            "header": "bool Compare",
+            "params": "const T a, const T b",
+            "is_const": true,
+            "body": "DCHECK(primitive_util::CanRepresent<T>(primitive_type_));\n    if constexpr (is_specialized_floating_point_v<T>) {\n      if (IsTotalOrder()) {\n        \n        \n        \n        if constexpr (std::numeric_limits<T>::is_signed) {\n          using R = SignedIntegerTypeForSizeType<sizeof(T)>;\n          return GetComparator<R>()(ToSignMagnitude(a), ToSignMagnitude(b));\n        } else {\n          using R = UnsignedIntegerTypeForSizeType<sizeof(T)>;\n          return GetComparator<R>()(ToSignMagnitude(a), ToSignMagnitude(b));\n        }\n      }\n    }\n    \n    return GetComparator<T>()(a, b);"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/third_party/xla/xla/service/gpu/kernels/topk_kernel.cu.h": [
+        {
+            "header": "bool cmp",
+            "params": "const KVT& lhs, const KVT& rhs",
+            "is_const": false,
+            "body": "return lhs.key == rhs.key ? lhs.idx < rhs.idx : lhs.key > rhs.key;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/tensorflow/third_party/xla/xla/tsl/lib/io/block.cc": [
+        {
+            "header": "int Compare",
+            "params": "const absl::string_view a,\n                     const absl::string_view b",
+            "is_const": true,
+            "body": "return a.compare(b);"
+        }
+    ]
+}

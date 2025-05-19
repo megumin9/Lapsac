@@ -1,0 +1,134 @@
+{
+    "/home/lizhilin/compare-order/real-project/gdal/alg/internal_libqhull/io_r.c": [
+        {
+            "header": "int qh_compare_facetarea",
+            "params": "const void *p1, const void *p2",
+            "is_const": false,
+            "body": "const facetT *a= *((facetT *const*)p1), *b= *((facetT *const*)p2);\n\n  if (!a->isarea)\n    return -1;\n  if (!b->isarea)\n    return 1;\n  if (a->f.area > b->f.area)\n    return 1;\n  else if (a->f.area == b->f.area)\n    return 0;\n  return -1;"
+        },
+        {
+            "header": "int qh_compare_facetvisit",
+            "params": "const void *p1, const void *p2",
+            "is_const": false,
+            "body": "const facetT *a= *((facetT *const*)p1), *b= *((facetT *const*)p2);\n  int i,j;\n\n  if (!(i= (int)a->visitid))\n    i= (int)(0 - a->id); \n  if (!(j= (int)b->visitid))\n    j= (int)(0 - b->id);\n  return(i - j);"
+        },
+        {
+            "header": "int qh_compare_nummerge",
+            "params": "const void *p1, const void *p2",
+            "is_const": false,
+            "body": "const facetT *a= *((facetT *const*)p1), *b= *((facetT *const*)p2);\n\n  return(a->nummerge - b->nummerge);"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/gdal/alg/internal_libqhull/mem_r.c": [
+        {
+            "header": "int qh_intcompare",
+            "params": "const void *i, const void *j",
+            "is_const": false,
+            "body": "return(*((const int *)i) - *((const int *)j));"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/gdal/alg/internal_libqhull/merge_r.c": [
+        {
+            "header": "int qh_compare_anglemerge",
+            "params": "const void *p1, const void *p2",
+            "is_const": false,
+            "body": "const mergeT *a= *((mergeT *const*)p1), *b= *((mergeT *const*)p2);\n\n  if (a->mergetype != b->mergetype)\n    return (a->mergetype < b->mergetype ? 1 : -1); \n  else\n    return (a->angle > b->angle ? 1 : -1);"
+        },
+        {
+            "header": "int qh_compare_facetmerge",
+            "params": "const void *p1, const void *p2",
+            "is_const": false,
+            "body": "const mergeT *a= *((mergeT *const*)p1), *b= *((mergeT *const*)p2);\n\n  if (a->mergetype != b->mergetype)\n    return (a->mergetype < b->mergetype ? 1 : -1); \n  else if (a->mergetype == MRGanglecoplanar)\n    return (a->angle > b->angle ? 1 : -1);         \n  else\n    return (a->distance < b->distance ? 1 : -1);"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/gdal/frmts/grib/degrib/degrib/metaparse.cpp": [
+        {
+            "header": "int freqCompare",
+            "params": "const void *A, const void *B",
+            "is_const": false,
+            "body": "const freqType *a = (freqType *) A;\n   const freqType *b = (freqType *) B;\n\n   if (a->value < b->value)\n      return -1;\n   if (a->value > b->value)\n      return 1;\n   return 0;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/gdal/frmts/wcs/wcsutils.cpp": [
+        {
+            "header": "bool CompareStrings",
+            "params": "const std::string &a, const std::string &b",
+            "is_const": false,
+            "body": "return a.compare(b) < 0;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/gdal/frmts/gtiff/libtiff/tif_dirinfo.c": [
+        {
+            "header": "int tagCompare",
+            "params": "const void *a, const void *b",
+            "is_const": false,
+            "body": "const TIFFField *ta = *(const TIFFField **)a;\n    const TIFFField *tb = *(const TIFFField **)b;\n    \n    if (ta->field_tag != tb->field_tag)\n        return (int)ta->field_tag - (int)tb->field_tag;\n    else\n        return (ta->field_type == TIFF_ANY)\n                   ? 0\n                   : ((int)tb->field_type - (int)ta->field_type);"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/gdal/frmts/gtiff/libtiff/tif_dirread.c": [
+        {
+            "header": "int cmpTIFFEntryOffsetAndLength",
+            "params": "const void *a, const void *b",
+            "is_const": false,
+            "body": "const TIFFEntryOffsetAndLength *ta = (const TIFFEntryOffsetAndLength *)a;\n    const TIFFEntryOffsetAndLength *tb = (const TIFFEntryOffsetAndLength *)b;\n    \n    if (ta->offset > tb->offset)\n        return 1;\n    else if (ta->offset < tb->offset)\n        return -1;\n    else\n        return 0;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/gdal/ogr/ogrgeometryfactory.cpp": [
+        {
+            "header": "bool OGRGeometryFactoryCompareArea",
+            "params": "const sPolyExtended &sPoly1,\n                                          const sPolyExtended &sPoly2",
+            "is_const": false,
+            "body": "return sPoly2.dfArea < sPoly1.dfArea;"
+        },
+        {
+            "header": "bool OGRGeometryFactoryCompareByIndex",
+            "params": "const sPolyExtended &sPoly1,\n                                             const sPolyExtended &sPoly2",
+            "is_const": false,
+            "body": "return sPoly1.nInitialIndex < sPoly2.nInitialIndex;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/gdal/ogr/ogrsf_frmts/s57/ddfrecordindex.cpp": [
+        {
+            "header": "int DDFCompare",
+            "params": "const void *pRec1, const void *pRec2",
+            "is_const": false,
+            "body": "if (((const DDFIndexedRecord *)pRec1)->nKey ==\n        ((const DDFIndexedRecord *)pRec2)->nKey)\n        return 0;\n    if (((const DDFIndexedRecord *)pRec1)->nKey <\n        ((const DDFIndexedRecord *)pRec2)->nKey)\n        return -1;\n\n    return 1;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/gdal/ogr/ogrsf_frmts/sqlite/sqlite_rtree_bulk_load/sqlite_rtree_bulk_load.c": [
+        {
+            "header": "int CompareAxis0",
+            "params": "const void *a, const void *b",
+            "is_const": false,
+            "body": "const SortType* sa = STATIC_CAST(const SortType*, a);\n    const SortType* sb = STATIC_CAST(const SortType*, b);\n    if (sa->rects[sa->i].min[0] < sb->rects[sb->i].min[0])\n        return -1;\n    if (sa->rects[sa->i].min[0] == sb->rects[sb->i].min[0])\n    {\n        if (sa->rects[sa->i].max[0] < sb->rects[sb->i].max[0])\n            return -1;\n        if (sa->rects[sa->i].max[0] == sb->rects[sb->i].max[0])\n            return 0;\n        return 1;\n    }\n    return 1;"
+        },
+        {
+            "header": "int CompareAxis1",
+            "params": "const void *a, const void *b",
+            "is_const": false,
+            "body": "const SortType* sa = STATIC_CAST(const SortType*, a);\n    const SortType* sb = STATIC_CAST(const SortType*, b);\n    if (sa->rects[sa->i].min[1] < sb->rects[sb->i].min[1])\n        return -1;\n    if (sa->rects[sa->i].min[1] == sb->rects[sb->i].min[1])\n    {\n        if (sa->rects[sa->i].max[1] < sb->rects[sb->i].max[1])\n            return -1;\n        if (sa->rects[sa->i].max[1] == sb->rects[sb->i].max[1])\n            return 0;\n        return 1;\n    }\n    return 1;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/gdal/ogr/ogrsf_frmts/shape/shptree.c": [
+        {
+            "header": "int SHPTreeCompareInts",
+            "params": "const void *a, const void *b",
+            "is_const": false,
+            "body": "return *REINTERPRET_CAST(const int *, a) -\n           *REINTERPRET_CAST(const int *, b);"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/gdal/ogr/ogrsf_frmts/shape/sbnsearch.c": [
+        {
+            "header": "int SBNCompareNodeIdBinStartPairs",
+            "params": "const void *a, const void *b",
+            "is_const": false,
+            "body": "return STATIC_CAST(const SBNNodeIdBinStartPair *, a)->nBinStart -\n           STATIC_CAST(const SBNNodeIdBinStartPair *, b)->nBinStart;"
+        },
+        {
+            "header": "int compare_ints",
+            "params": "const void *a, const void *b",
+            "is_const": false,
+            "body": "return *STATIC_CAST(const int *, a) - *STATIC_CAST(const int *, b);"
+        }
+    ]
+}

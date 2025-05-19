@@ -1,0 +1,4 @@
+/home/lizhilin/compare-order/real-project/QGIS/test-lambda/classification_results/non_compilable/test_19.cpp:1:10: fatal error: 'QtCore/QPair' file not found
+    1 | #include <QtCore/QPair>
+      |          ^~~~~~~~~~~~~~
+1 error generated.

@@ -1,0 +1,10 @@
+{
+    "/home/lizhilin/compare-order/real-project/dolphin/Externals/WIL/tests/catch.hpp": [
+        {
+            "header": "bool lambda0",
+            "params": "hashedTest const& lhs, hashedTest const& rhs",
+            "is_const": false,
+            "body": "if (lhs.first == rhs.first) {\n                              return lhs.second->name < rhs.second->name;\n                          }\n                          return lhs.first < rhs.first;"
+        }
+    ]
+}

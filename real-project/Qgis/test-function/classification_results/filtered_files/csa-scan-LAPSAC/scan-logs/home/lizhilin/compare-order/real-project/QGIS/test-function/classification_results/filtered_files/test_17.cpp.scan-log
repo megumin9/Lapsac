@@ -1,0 +1,426 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+text : &SymRegion{reg_$4<QAction * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+Now have text
+insert:
+localeAwareCompare : &temp_object{QString, S6166895} &temp_object{QString, S6166971} 
+
+The Road is: x2
+-----------------
+Now have text
+insert:
+localeAwareCompare : &temp_object{QString, S6166895} &temp_object{QString, S6166971} 
+
+The Road is: x1
+-----------------
+Now have text
+insert:
+localeAwareCompare : &temp_object{QString, S6166895} &temp_object{QString, S6166971} 
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+text : &SymRegion{reg_$4<QAction * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+text : &SymRegion{reg_$5<QAction * b>} NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+Now have text
+Now have text
+insert:
+localeAwareCompare : &temp_object{QString, S6166895} &temp_object{QString, S6166971} 
+
+The Road is: x2
+-----------------
+Now have text
+Now have text
+insert:
+localeAwareCompare : &temp_object{QString, S6166895} &temp_object{QString, S6166971} 
+
+The Road is: x1
+-----------------
+Now have text
+Now have text
+insert:
+localeAwareCompare : &temp_object{QString, S6166895} &temp_object{QString, S6166971} 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+-----------------
+Now have text
+Now have text
+Now have localeAwareCompare
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+text : &SymRegion{reg_$4<QAction * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+text : &SymRegion{reg_$5<QAction * b>} NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+Now have text
+Now have text
+insert:
+localeAwareCompare : &temp_object{QString, S6166895} &temp_object{QString, S6166971} 
+
+The Road is: x2
+-----------------
+Now have text
+Now have text
+insert:
+localeAwareCompare : &temp_object{QString, S6166895} &temp_object{QString, S6166971} 
+
+The Road is: x1
+-----------------
+Now have text
+Now have text
+insert:
+localeAwareCompare : &temp_object{QString, S6166895} &temp_object{QString, S6166971} 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+-----------------
+Now have text
+Now have text
+Now have localeAwareCompare
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+text : &SymRegion{reg_$4<QAction * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+text : &SymRegion{reg_$5<QAction * b>} NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+Now have text
+Now have text
+insert:
+localeAwareCompare : &temp_object{QString, S6166895} &temp_object{QString, S6166971} 
+
+The Road is: x2
+-----------------
+Now have text
+Now have text
+insert:
+localeAwareCompare : &temp_object{QString, S6166895} &temp_object{QString, S6166971} 
+
+The Road is: x1
+-----------------
+Now have text
+Now have text
+insert:
+localeAwareCompare : &temp_object{QString, S6166895} &temp_object{QString, S6166971} 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+insert:
+text : &SymRegion{reg_$15<QAction * c>} NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+-----------------
+Now have text
+Now have text
+Now have localeAwareCompare
+Now have text
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x088
+
+The Road is: x088
+NowTime: 0
+
+The Road is: x088
+
+The Road is: x088
+NowTime: 0
+
+The Road is: x088
+
+The Road is: x088
+-----------------
+Now have text
+Now have text
+Now have localeAwareCompare
+Now have text
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+text : &SymRegion{reg_$4<QAction * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+text : &SymRegion{reg_$5<QAction * b>} NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+Now have text
+Now have text
+insert:
+localeAwareCompare : &temp_object{QString, S6166895} &temp_object{QString, S6166971} 
+
+The Road is: x2
+-----------------
+Now have text
+Now have text
+insert:
+localeAwareCompare : &temp_object{QString, S6166895} &temp_object{QString, S6166971} 
+
+The Road is: x1
+-----------------
+Now have text
+Now have text
+insert:
+localeAwareCompare : &temp_object{QString, S6166895} &temp_object{QString, S6166971} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+insert:
+text : &SymRegion{reg_$15<QAction * c>} NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+-----------------
+Now have text
+Now have text
+Now have localeAwareCompare
+Now have text
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 0
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 0
+
+The Road is: x188
+
+The Road is: x188
+-----------------
+Now have text
+Now have text
+Now have localeAwareCompare
+Now have text
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x28
+
+The Road is: x28
+NowTime: 0
+
+The Road is: x28
+
+The Road is: x28
+insert:
+text : &SymRegion{reg_$15<QAction * c>} NowTime: 0
+
+The Road is: x28
+
+The Road is: x28
+-----------------
+Now have text
+Now have text
+Now have localeAwareCompare
+Now have text
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x288
+
+The Road is: x288
+NowTime: 0
+
+The Road is: x288
+
+The Road is: x288
+NowTime: 0
+
+The Road is: x288
+
+The Road is: x288
+-----------------
+Now have text
+Now have text
+Now have localeAwareCompare
+Now have text
+
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 0

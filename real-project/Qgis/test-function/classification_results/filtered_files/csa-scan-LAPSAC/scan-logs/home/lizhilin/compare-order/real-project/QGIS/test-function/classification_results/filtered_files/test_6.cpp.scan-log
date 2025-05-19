@@ -1,0 +1,232 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+-----------------
+insert:
+valueLessThan : &SymRegion{reg_$4<const QgsRendererRange & a>} &SymRegion{reg_$4<const QgsRendererRange & a>} 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x0
+-----------------
+insert:
+valueLessThan : &SymRegion{reg_$4<const QgsRendererRange & a>} &SymRegion{reg_$5<const QgsRendererRange & b>} 
+
+The Road is: x1
+-----------------
+insert:
+valueLessThan : &SymRegion{reg_$4<const QgsRendererRange & a>} &SymRegion{reg_$5<const QgsRendererRange & b>} 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x080
+-----------------
+Now have valueLessThan
+insert:
+valueLessThan : &SymRegion{reg_$5<const QgsRendererRange & b>} &SymRegion{reg_$4<const QgsRendererRange & a>} 
+
+The Road is: x081
+-----------------
+Now have valueLessThan
+insert:
+valueLessThan : &SymRegion{reg_$5<const QgsRendererRange & b>} &SymRegion{reg_$4<const QgsRendererRange & a>} 
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x0
+-----------------
+insert:
+valueLessThan : &SymRegion{reg_$4<const QgsRendererRange & a>} &SymRegion{reg_$5<const QgsRendererRange & b>} 
+
+The Road is: x1
+-----------------
+insert:
+valueLessThan : &SymRegion{reg_$4<const QgsRendererRange & a>} &SymRegion{reg_$5<const QgsRendererRange & b>} 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x080
+-----------------
+Now have valueLessThan
+insert:
+valueLessThan : &SymRegion{reg_$5<const QgsRendererRange & b>} &SymRegion{reg_$4<const QgsRendererRange & a>} 
+
+The Road is: x081
+-----------------
+Now have valueLessThan
+insert:
+valueLessThan : &SymRegion{reg_$5<const QgsRendererRange & b>} &SymRegion{reg_$4<const QgsRendererRange & a>} 
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x0
+-----------------
+insert:
+valueLessThan : &SymRegion{reg_$4<const QgsRendererRange & a>} &SymRegion{reg_$5<const QgsRendererRange & b>} 
+
+The Road is: x1
+-----------------
+insert:
+valueLessThan : &SymRegion{reg_$4<const QgsRendererRange & a>} &SymRegion{reg_$5<const QgsRendererRange & b>} 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x080
+-----------------
+Now have valueLessThan
+insert:
+valueLessThan : &SymRegion{reg_$5<const QgsRendererRange & b>} &SymRegion{reg_$7<const QgsRendererRange & c>} 
+
+The Road is: x081
+-----------------
+Now have valueLessThan
+insert:
+valueLessThan : &SymRegion{reg_$5<const QgsRendererRange & b>} &SymRegion{reg_$7<const QgsRendererRange & c>} 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x0808
+
+The Road is: x08080
+-----------------
+Now have valueLessThan
+Now have valueLessThan
+insert:
+valueLessThan : &SymRegion{reg_$7<const QgsRendererRange & c>} &SymRegion{reg_$4<const QgsRendererRange & a>} 
+
+The Road is: x08081
+-----------------
+Now have valueLessThan
+Now have valueLessThan
+insert:
+valueLessThan : &SymRegion{reg_$7<const QgsRendererRange & c>} &SymRegion{reg_$4<const QgsRendererRange & a>} 
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x0
+-----------------
+insert:
+valueLessThan : &SymRegion{reg_$4<const QgsRendererRange & a>} &SymRegion{reg_$5<const QgsRendererRange & b>} 
+
+The Road is: x1
+-----------------
+insert:
+valueLessThan : &SymRegion{reg_$4<const QgsRendererRange & a>} &SymRegion{reg_$5<const QgsRendererRange & b>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x180
+-----------------
+Now have valueLessThan
+insert:
+valueLessThan : &SymRegion{reg_$5<const QgsRendererRange & b>} &SymRegion{reg_$7<const QgsRendererRange & c>} 
+
+The Road is: x181
+-----------------
+Now have valueLessThan
+insert:
+valueLessThan : &SymRegion{reg_$5<const QgsRendererRange & b>} &SymRegion{reg_$7<const QgsRendererRange & c>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x1818
+
+The Road is: x18180
+-----------------
+Now have valueLessThan
+Now have valueLessThan
+insert:
+valueLessThan : &SymRegion{reg_$4<const QgsRendererRange & a>} &SymRegion{reg_$7<const QgsRendererRange & c>} 
+
+The Road is: x18181
+-----------------
+Now have valueLessThan
+Now have valueLessThan
+insert:
+valueLessThan : &SymRegion{reg_$4<const QgsRendererRange & a>} &SymRegion{reg_$7<const QgsRendererRange & c>} 
+
+
+
+
+/home/lizhilin/compare-order/real-project/QGIS/test-function/classification_results/filtered_files/test_6.cpp:30:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   30 |         SymmetryChecker();
+      |         ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/real-project/QGIS/test-function/classification_results/filtered_files/test_6.cpp:36:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   36 |         SymmetryChecker();
+      |         ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/real-project/QGIS/test-function/classification_results/filtered_files/test_6.cpp:42:9: warning: Violation of Anti-Reflexivity [CompareCheck.FunctionChecker]
+   42 |         ReflexivityChecker();
+      |         ^~~~~~~~~~~~~~~~~~~~
+3 warnings generated.
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 1

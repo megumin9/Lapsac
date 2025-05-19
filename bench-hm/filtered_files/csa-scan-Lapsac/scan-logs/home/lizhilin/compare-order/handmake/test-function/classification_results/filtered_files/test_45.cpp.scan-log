@@ -1,0 +1,507 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+NowTime: 0
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+NowTime: 0
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+
+
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+
+
+
+
+The Error Road is: x99888898889988
+
+NowTime: 0
+
+NowTime: 0
+
+
+
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+
+
+The Error Road is: x88988889888899988
+NowTime: 0
+
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+
+
+The Error Road is: x88999888898888988
+NowTime: 0
+
+
+
+
+
+
+
+
+
+The Error Road is: x8899988889888899988
+NowTime: 0
+
+
+
+
+
+
+The Error Road is: x88988899889988
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+
+
+The Error Road is: x88988889998888988
+
+
+
+The Error Road is: x8898888999888899988
+
+
+
+The Error Road is: x89988998888988
+The Error Road is: x8899988889998888988
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+
+
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+
+
+
+NowTime: 1
+
+
+
+
+
+
+NowTime: 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_45.cpp:34:1: warning: Violation of Consistency [CompareCheck.FunctionChecker]
+   34 | ConsistencyChecker();
+      | ^~~~~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_45.cpp:40:1: warning: Violation of Transitivity [CompareCheck.FunctionChecker]
+   40 | TransiveChecker();
+      | ^~~~~~~~~~~~~~~~~
+2 warnings generated.
+Total paths analyzed: 1
+Total paths analyzed: 3
+Total paths analyzed: 3
+Total paths analyzed: 26
+Total paths analyzed: 62

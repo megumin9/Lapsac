@@ -1,0 +1,322 @@
+{
+    "/home/lizhilin/compare-order/handmake/test/Consistency/int/wrongcase/test3.cpp": [
+        {
+            "header": "int cmp",
+            "params": "testclass *a,testclass *b",
+            "is_const": false,
+            "body": "int x = strlen(a->var4);\n  int y = strlen(b->var4);\n  \n  if (a->var5 && b->var5) {\n    if (x < y)\n      return 1;\n    if (x > y)\n      return -1;\n  }\n  \n  return 0;"
+        }
+    ],
+    "/home/lizhilin/compare-order/handmake/test/Consistency/int/wrongcase/test2.cpp": [
+        {
+            "header": "int cmp",
+            "params": "testclass *a,testclass *b",
+            "is_const": false,
+            "body": "if (a->var5 && b->var5){\n    if (a->var3.size() < b->var3.size())\n      return -1;\n    if (a->var3.size() > b->var3.size())\n      return 1;\n  }\n  return 0;"
+        }
+    ],
+    "/home/lizhilin/compare-order/handmake/test/Consistency/int/wrongcase/test5.cpp": [
+        {
+            "header": "int cmp",
+            "params": "testclass *a,testclass *b",
+            "is_const": false,
+            "body": "if (a->var5 && b->var5) \n    return strcmp(a->var4, b->var4);\n    \n  return 0;"
+        }
+    ],
+    "/home/lizhilin/compare-order/handmake/test/Consistency/int/wrongcase/test4.cpp": [
+        {
+            "header": "int cmp",
+            "params": "testclass *a,testclass *b",
+            "is_const": false,
+            "body": "if (a->var5 && b->var5) {\n    if (strlen(a->var4) < strlen(b->var4))\n      return -1;\n    if (strlen(a->var4) > strlen(b->var4))\n      return 1;\n  }\n\n  return 0;"
+        }
+    ],
+    "/home/lizhilin/compare-order/handmake/test/Consistency/int/wrongcase/test1.cpp": [
+        {
+            "header": "int cmp",
+            "params": "testclass *a,testclass *b",
+            "is_const": false,
+            "body": "if (a->var5 && b->var5) {\n    if (a->var1 < b->var1)\n      return 1;\n    if (a->var1 > b->var1)\n      return -1;\n  }\n  return 0;"
+        }
+    ],
+    "/home/lizhilin/compare-order/handmake/test/Consistency/bool/wrongcase/test3.cpp": [
+        {
+            "header": "bool cmp",
+            "params": "testclass *a,testclass *b",
+            "is_const": false,
+            "body": "int x = strlen(a->var4);\n  int y = strlen(b->var4);\n  \n  if (a->var5 && b->var5) \n    return x < y;\n  \n  return false;"
+        }
+    ],
+    "/home/lizhilin/compare-order/handmake/test/Consistency/bool/wrongcase/test2.cpp": [
+        {
+            "header": "bool cmp",
+            "params": "testclass *a,testclass *b",
+            "is_const": false,
+            "body": "if (a->var5 && b->var5)\n    return a->var3.size() < b->var3.size();\n  \n  return false;"
+        }
+    ],
+    "/home/lizhilin/compare-order/handmake/test/Consistency/bool/wrongcase/test4.cpp": [
+        {
+            "header": "bool cmp",
+            "params": "testclass *a,testclass *b",
+            "is_const": false,
+            "body": "if (a->var5 && b->var5) {\n    return strlen(a->var4) < strlen(b->var4);\n  }\n\n  return false;"
+        }
+    ],
+    "/home/lizhilin/compare-order/handmake/test/Consistency/bool/wrongcase/test1.cpp": [
+        {
+            "header": "bool cmp",
+            "params": "testclass *a,testclass *b",
+            "is_const": false,
+            "body": "if (a->var5 && b->var5)\n    return a->var1 < b->var1;\n  \n  return false;"
+        }
+    ],
+    "/home/lizhilin/compare-order/handmake/test/Consistency/bool/wrongcase/test5.cpp": [
+        {
+            "header": "bool cmp",
+            "params": "testclass *a,testclass *b",
+            "is_const": false,
+            "body": "if (a->var5 && b->var5) \n    return strcmp(a->var4, b->var4) < 0;\n    \n  return false;"
+        }
+    ],
+    "/home/lizhilin/compare-order/handmake/test/Ir-reflexity/int/wrongcase/test3.cpp": [
+        {
+            "header": "int cmp",
+            "params": "testclass *a,testclass *b",
+            "is_const": false,
+            "body": "int x = strlen(a->var4);\n  int y = strlen(b->var4);\n  \n  return x < y ? 1 : -1;"
+        }
+    ],
+    "/home/lizhilin/compare-order/handmake/test/Ir-reflexity/int/wrongcase/test2.cpp": [
+        {
+            "header": "int cmp",
+            "params": "testclass *a,testclass *b",
+            "is_const": false,
+            "body": "if (a->var3.size() < b->var3.size())\n    return 1;\n  if (a->var3.size() > b->var3.size()) \n    return -1;\n  \n  return a->var1 < b->var1 ? 1 : -1;"
+        }
+    ],
+    "/home/lizhilin/compare-order/handmake/test/Ir-reflexity/int/wrongcase/test4.cpp": [
+        {
+            "header": "int cmp",
+            "params": "testclass *a,testclass *b",
+            "is_const": false,
+            "body": "if (a->var5)\n    return 1;\n\n  if (b->var5)\n    return -1;\n\n  if (a->var1 < b->var1)\n    return 1;\n\n  if (a->var1 > b->var1)\n    return -1;\n    \n  return 0;"
+        }
+    ],
+    "/home/lizhilin/compare-order/handmake/test/Ir-reflexity/int/wrongcase/test5.cpp": [
+        {
+            "header": "int cmp",
+            "params": "testclass *a,testclass *b",
+            "is_const": false,
+            "body": "return strcmp(a->var4, b->var4) < 0 ? 1 : -1;"
+        }
+    ],
+    "/home/lizhilin/compare-order/handmake/test/Ir-reflexity/int/wrongcase/test1.cpp": [
+        {
+            "header": "int cmp",
+            "params": "testclass *a,testclass *b",
+            "is_const": false,
+            "body": "return a->var1 < b->var1 ? 1 : -1;"
+        }
+    ],
+    "/home/lizhilin/compare-order/handmake/test/Ir-reflexity/bool/wrongcase/test2.cpp": [
+        {
+            "header": "bool cmp",
+            "params": "testclass *a,testclass *b",
+            "is_const": false,
+            "body": "if (a->var3.size() < b->var3.size())\n    return true;\n  if (a->var3.size() > b->var3.size()) \n    return false;\n  \n  return a->var1 <= b->var1;"
+        }
+    ],
+    "/home/lizhilin/compare-order/handmake/test/Ir-reflexity/bool/wrongcase/test3.cpp": [
+        {
+            "header": "bool cmp",
+            "params": "testclass *a,testclass *b",
+            "is_const": false,
+            "body": "int x = strlen(a->var4);\n  int y = strlen(b->var4);\n  \n  return x <= y;"
+        }
+    ],
+    "/home/lizhilin/compare-order/handmake/test/Ir-reflexity/bool/wrongcase/test4.cpp": [
+        {
+            "header": "bool cmp",
+            "params": "testclass *a,testclass *b",
+            "is_const": false,
+            "body": "if (a->var5)\n    return true;\n\n  if (b->var5)\n    return false;\n\n  return a->var1 < b->var2;"
+        }
+    ],
+    "/home/lizhilin/compare-order/handmake/test/Ir-reflexity/bool/wrongcase/test5.cpp": [
+        {
+            "header": "bool cmp",
+            "params": "testclass *a,testclass *b",
+            "is_const": false,
+            "body": "return strcmp(a->var4, b->var4) <= 0;"
+        }
+    ],
+    "/home/lizhilin/compare-order/handmake/test/Ir-reflexity/bool/wrongcase/test1.cpp": [
+        {
+            "header": "bool cmp",
+            "params": "testclass *a,testclass *b",
+            "is_const": false,
+            "body": "return a->var1 <= b->var1;"
+        }
+    ],
+    "/home/lizhilin/compare-order/handmake/test/Transitivity/int/wrongcase/test2.cpp": [
+        {
+            "header": "int cmp",
+            "params": "testclass *a,testclass *b",
+            "is_const": false,
+            "body": "if (a->var5 && b->var5) {\n    if (a->var3.size() < b->var3.size())\n      return -1;\n    if (a->var3.size() > b->var3.size())\n      return 1;\n  }\n  \n  if (a->var1 < b->var1)\n    return 1;\n  if (a->var1 > b->var1)\n    return -1;\n  return 0;"
+        }
+    ],
+    "/home/lizhilin/compare-order/handmake/test/Transitivity/int/wrongcase/test3.cpp": [
+        {
+            "header": "int cmp",
+            "params": "testclass *a,testclass *b",
+            "is_const": false,
+            "body": "int x = strlen(a->var4);\n  int y = strlen(b->var4);\n  \n  if (a->var5 && b->var5) {\n    if (x < y)\n      return 1;\n    if (x > y)\n      return -1;\n  }\n  \n  if (a->var1 < b->var1)\n    return 1;\n  if (a->var1 > b->var1)\n    return -1;\n  return 0;"
+        }
+    ],
+    "/home/lizhilin/compare-order/handmake/test/Transitivity/int/wrongcase/test4.cpp": [
+        {
+            "header": "int cmp",
+            "params": "testclass *a,testclass *b",
+            "is_const": false,
+            "body": "if (a->var5 && b->var5) {\n    if (strlen(a->var4) < strlen(b->var4))\n      return 1;\n    if (strlen(a->var4) > strlen(b->var4))\n      return -1;\n  }\n\n  if (a->var1 < b->var1)\n    return 1;\n  if (a->var1 > b->var1)\n    return -1;\n  return 0;"
+        }
+    ],
+    "/home/lizhilin/compare-order/handmake/test/Transitivity/int/wrongcase/test5.cpp": [
+        {
+            "header": "int cmp",
+            "params": "testclass *a,testclass *b",
+            "is_const": false,
+            "body": "if (a->var5 && b->var5) \n    return strcmp(a->var4, b->var4);\n    \n  if (a->var1 < b->var1)\n    return 1;\n  if (a->var1 > b->var1)\n    return -1;\n  return 0;"
+        }
+    ],
+    "/home/lizhilin/compare-order/handmake/test/Transitivity/int/wrongcase/test1.cpp": [
+        {
+            "header": "int cmp",
+            "params": "testclass *a,testclass *b",
+            "is_const": false,
+            "body": "if (a->var5 && b->var5) {\n    if (a->var1 < b->var1)\n      return 1;\n    if (a->var1 > b->var1)\n      return -1;\n  }\n  \n  if (a->var2 < b->var2)\n    return 1;\n  if (a->var2 > b->var2)\n    return -1;\n  return 0;"
+        }
+    ],
+    "/home/lizhilin/compare-order/handmake/test/Transitivity/bool/wrongcase/test2.cpp": [
+        {
+            "header": "bool cmp",
+            "params": "testclass *a,testclass *b",
+            "is_const": false,
+            "body": "if (a->var5 && b->var5)\n    return a->var3.size() < b->var3.size();\n  \n  return a->var1 < b->var1;"
+        }
+    ],
+    "/home/lizhilin/compare-order/handmake/test/Transitivity/bool/wrongcase/test3.cpp": [
+        {
+            "header": "bool cmp",
+            "params": "testclass *a,testclass *b",
+            "is_const": false,
+            "body": "int x = strlen(a->var4);\n  int y = strlen(b->var4);\n  \n  if (a->var5 && b->var5) \n    return x < y;\n  \n  return a->var1 < b->var1;"
+        }
+    ],
+    "/home/lizhilin/compare-order/handmake/test/Transitivity/bool/wrongcase/test4.cpp": [
+        {
+            "header": "bool cmp",
+            "params": "testclass *a,testclass *b",
+            "is_const": false,
+            "body": "if (a->var5 && b->var5) {\n    return strlen(a->var4) < strlen(b->var4);\n  }\n\n  return a->var1 < b->var1;"
+        }
+    ],
+    "/home/lizhilin/compare-order/handmake/test/Transitivity/bool/wrongcase/test1.cpp": [
+        {
+            "header": "bool cmp",
+            "params": "testclass *a,testclass *b",
+            "is_const": false,
+            "body": "if (a->var5 && b->var5)\n    return a->var1 < b->var1;\n  \n  return a->var2 < b->var2;"
+        }
+    ],
+    "/home/lizhilin/compare-order/handmake/test/Transitivity/bool/wrongcase/test5.cpp": [
+        {
+            "header": "bool cmp",
+            "params": "testclass *a,testclass *b",
+            "is_const": false,
+            "body": "if (a->var5 && b->var5) \n    return strcmp(a->var4, b->var4) < 0;\n    \n  return a->var1 < b->var1;"
+        }
+    ],
+    "/home/lizhilin/compare-order/handmake/test/Asymmetry/int/wrongcase/test3.cpp": [
+        {
+            "header": "int cmp",
+            "params": "testclass *a,testclass *b",
+            "is_const": false,
+            "body": "int x = strlen(a->var4);\n  int y = strlen(b->var4);\n  \n  if (x < y)\n    return 1;\n   \n  if (a->var1 < b->var1)\n    return 1;\n  \n  if (x > y)\n    return -1;\n  \n  if (a->var1 < b->var1)\n    return -1;\n\n  return 0;"
+        }
+    ],
+    "/home/lizhilin/compare-order/handmake/test/Asymmetry/int/wrongcase/test2.cpp": [
+        {
+            "header": "int cmp",
+            "params": "testclass *a,testclass *b",
+            "is_const": false,
+            "body": "if (a->var3.size() < b->var3.size())\n    return 1;\n  \n  if (a->var1 < b->var1)\n    return 1;\n  \n  if (a->var3.size() > b->var3.size())\n    return -1;\n\n  if (a->var1 > b->var1)\n    return -1;\n  \n  return 0;"
+        }
+    ],
+    "/home/lizhilin/compare-order/handmake/test/Asymmetry/int/wrongcase/test4.cpp": [
+        {
+            "header": "int cmp",
+            "params": "testclass *a,testclass *b",
+            "is_const": false,
+            "body": "if (a->var5 && !b->var5)\n    return 1;\n  \n  if (a->var1 < b->var1)\n    return 1;\n  \n  if (!a->var5 && b->var5)\n    return -1;\n\n  if (a->var1 > b->var1)\n    return -1;\n\n  return 0;"
+        }
+    ],
+    "/home/lizhilin/compare-order/handmake/test/Asymmetry/int/wrongcase/test5.cpp": [
+        {
+            "header": "int cmp",
+            "params": "testclass *a,testclass *b",
+            "is_const": false,
+            "body": "if (a->var1 < b->var1)\n    return 1;\n  \n  if (strcmp(a->var4, b->var4) < 0)\n    return 1; \n  \n  if (a->var1 > b->var1)\n    return -1;\n  \n  if (strcmp(a->var4, b->var4) > 0)\n    return -1;\n\n  return 0;"
+        }
+    ],
+    "/home/lizhilin/compare-order/handmake/test/Asymmetry/int/wrongcase/test1.cpp": [
+        {
+            "header": "int cmp",
+            "params": "testclass *a,testclass *b",
+            "is_const": false,
+            "body": "if (a->var1 < b->var1)\n    return 1;\n  \n  if (a->var2 < b->var2)\n    return 1;\n  \n  if (a->var1 > b->var1)\n    return -1;\n  \n  if (a->var2 > b->var2)\n    return -1;\n\n  return 0;"
+        }
+    ],
+    "/home/lizhilin/compare-order/handmake/test/Asymmetry/bool/wrongcase/test3.cpp": [
+        {
+            "header": "bool cmp",
+            "params": "testclass *a,testclass *b",
+            "is_const": false,
+            "body": "int x = strlen(a->var4);\n  int y = strlen(b->var4);\n  \n  if (x < y)\n    return true;\n  \n  if (a->var1 < b->var1)\n    return true;\n  \n  return false;"
+        }
+    ],
+    "/home/lizhilin/compare-order/handmake/test/Asymmetry/bool/wrongcase/test2.cpp": [
+        {
+            "header": "bool cmp",
+            "params": "testclass *a,testclass *b",
+            "is_const": false,
+            "body": "if (a->var3.size() < b->var3.size())\n    return true;\n  \n  if (a->var1 < b->var1)\n    return true;\n  \n  return false;"
+        }
+    ],
+    "/home/lizhilin/compare-order/handmake/test/Asymmetry/bool/wrongcase/test4.cpp": [
+        {
+            "header": "bool cmp",
+            "params": "testclass *a,testclass *b",
+            "is_const": false,
+            "body": "if (a->var5 && !b->var5)\n    return true;\n\n  return a->var1 < b->var1;"
+        }
+    ],
+    "/home/lizhilin/compare-order/handmake/test/Asymmetry/bool/wrongcase/test5.cpp": [
+        {
+            "header": "bool cmp",
+            "params": "testclass *a,testclass *b",
+            "is_const": false,
+            "body": "if (strcmp(a->var4, b->var4) < 0)\n    return true;\n  \n  if (a->var1 < b->var1)\n    return true;\n\n  return false;"
+        }
+    ],
+    "/home/lizhilin/compare-order/handmake/test/Asymmetry/bool/wrongcase/test1.cpp": [
+        {
+            "header": "bool cmp",
+            "params": "testclass *a,testclass *b",
+            "is_const": false,
+            "body": "if (a->var1 < b->var1)\n    return true;\n  \n  if (a->var2 < b->var2)\n    return true;\n\n  return false;"
+        }
+    ]
+}

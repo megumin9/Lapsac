@@ -1,0 +1,1694 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getDefiningOp : &Element{SymRegion{reg_$4<BroadcastIntent & a>},0 S64b,struct BroadcastIntent}.targetValue NowTime: 0
+
+The Road is: x
+
+The Road is: x
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+getBlock : &SymRegion{conj_$8{Operation *, LC2, S6167144, #1}} NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+insert:
+isBeforeInBlock : &SymRegion{conj_$8{Operation *, LC2, S6167144, #1}} &SymRegion{conj_$8{Operation *, LC2, S6167144, #1}} 
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getDefiningOp : &Element{SymRegion{reg_$4<BroadcastIntent & a>},0 S64b,struct BroadcastIntent}.targetValue NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getDefiningOp : &Element{SymRegion{reg_$5<BroadcastIntent & b>},0 S64b,struct BroadcastIntent}.targetValue 
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+insert:
+getBlock : &SymRegion{conj_$13{Operation *, LC4, S6167215, #1}} NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+getBlock : &SymRegion{conj_$9{Operation *, LC4, S6167144, #1}} NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+getBlock : &SymRegion{conj_$13{Operation *, LC4, S6167215, #1}} 
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98988
+
+The Road is: x98988
+NowTime: 0
+
+The Road is: x98988
+
+The Road is: x98988
+NowTime: 0
+
+The Road is: x989888
+
+The Road is: x989888
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88988
+
+The Road is: x88988
+NowTime: 0
+
+The Road is: x88988
+
+The Road is: x88988
+NowTime: 0
+
+The Road is: x889888
+
+The Road is: x889888
+NowTime: 0
+
+The Road is: x8898888
+
+The Road is: x8898888
+
+
+NowTime: 0
+
+The Road is: x8898888
+
+The Road is: x8898888
+
+NowTime: 0
+
+The Road is: x889888888
+
+The Road is: x889888888
+insert:
+isBeforeInBlock : &SymRegion{conj_$13{Operation *, LC4, S6167215, #1}} &SymRegion{conj_$9{Operation *, LC4, S6167144, #1}} 
+
+
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+insert:
+isBeforeInBlock : &SymRegion{conj_$9{Operation *, LC4, S6167144, #1}} &SymRegion{conj_$13{Operation *, LC4, S6167215, #1}} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88888
+
+The Road is: x88888
+NowTime: 0
+
+The Road is: x88888
+
+The Road is: x88888
+NowTime: 0
+
+The Road is: x888888
+
+The Road is: x888888
+NowTime: 0
+
+The Road is: x8888888
+
+The Road is: x8888888
+NowTime: 0
+
+The Road is: x8888888
+
+The Road is: x8888888
+
+
+
+NowTime: 0
+
+The Road is: x888888888
+
+The Road is: x888888888
+insert:
+isBeforeInBlock : &SymRegion{conj_$13{Operation *, LC4, S6167215, #1}} &SymRegion{conj_$9{Operation *, LC4, S6167144, #1}} 
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getDefiningOp : &Element{SymRegion{reg_$4<BroadcastIntent & a>},0 S64b,struct BroadcastIntent}.targetValue NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getDefiningOp : &Element{SymRegion{reg_$5<BroadcastIntent & b>},0 S64b,struct BroadcastIntent}.targetValue 
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+insert:
+getBlock : &SymRegion{conj_$13{Operation *, LC7, S6167215, #1}} NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+getBlock : &SymRegion{conj_$9{Operation *, LC7, S6167144, #1}} NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+getBlock : &SymRegion{conj_$13{Operation *, LC7, S6167215, #1}} 
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98988
+
+The Road is: x98988
+NowTime: 0
+
+The Road is: x98988
+
+The Road is: x98988
+NowTime: 0
+
+The Road is: x989888
+
+The Road is: x989888
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88988
+
+The Road is: x88988
+NowTime: 0
+
+The Road is: x88988
+
+The Road is: x88988
+NowTime: 0
+
+The Road is: x889888
+
+The Road is: x889888
+NowTime: 0
+
+The Road is: x8898888
+
+The Road is: x8898888
+
+
+NowTime: 0
+
+The Road is: x8898888
+
+The Road is: x8898888
+
+NowTime: 0
+
+The Road is: x889888888
+
+The Road is: x889888888
+insert:
+isBeforeInBlock : &SymRegion{conj_$13{Operation *, LC7, S6167215, #1}} &SymRegion{conj_$9{Operation *, LC7, S6167144, #1}} 
+
+
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+insert:
+isBeforeInBlock : &SymRegion{conj_$9{Operation *, LC7, S6167144, #1}} &SymRegion{conj_$13{Operation *, LC7, S6167215, #1}} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88888
+
+The Road is: x88888
+NowTime: 0
+
+The Road is: x88888
+
+The Road is: x88888
+NowTime: 0
+
+The Road is: x888888
+
+The Road is: x888888
+NowTime: 0
+
+The Road is: x8888888
+
+The Road is: x8888888
+NowTime: 0
+
+The Road is: x8888888
+
+The Road is: x8888888
+
+
+
+NowTime: 0
+
+The Road is: x888888888
+
+The Road is: x888888888
+insert:
+isBeforeInBlock : &SymRegion{conj_$13{Operation *, LC7, S6167215, #1}} &SymRegion{conj_$9{Operation *, LC7, S6167144, #1}} 
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getDefiningOp : &Element{SymRegion{reg_$4<BroadcastIntent & a>},0 S64b,struct BroadcastIntent}.targetValue NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getDefiningOp : &Element{SymRegion{reg_$5<BroadcastIntent & b>},0 S64b,struct BroadcastIntent}.targetValue 
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+insert:
+getBlock : &SymRegion{conj_$13{Operation *, LC10, S6167215, #1}} NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+getBlock : &SymRegion{conj_$9{Operation *, LC10, S6167144, #1}} NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+getBlock : &SymRegion{conj_$13{Operation *, LC10, S6167215, #1}} 
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98988
+
+The Road is: x98988
+NowTime: 0
+
+The Road is: x98988
+
+The Road is: x98988
+insert:
+getDefiningOp : &Element{SymRegion{reg_$26<BroadcastIntent & c>},0 S64b,struct BroadcastIntent}.targetValue NowTime: 0
+
+The Road is: x989888
+
+The Road is: x989888
+
+NowTime: 0
+
+The Road is: x9898888
+
+The Road is: x9898888
+insert:
+getBlock : &SymRegion{conj_$34{Operation *, LC11, S6167215, #1}} NowTime: 0
+
+The Road is: x9898888
+
+The Road is: x9898888
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9898888988
+
+The Road is: x9898888988
+NowTime: 0
+
+The Road is: x9898888988
+
+The Road is: x9898888988
+NowTime: 0
+
+The Road is: x98988889888
+
+The Road is: x98988889888
+
+
+
+
+
+
+NowTime: 0
+
+The Road is: x989888888
+
+The Road is: x989888888
+insert:
+isBeforeInBlock : &SymRegion{conj_$13{Operation *, LC10, S6167215, #1}} &SymRegion{conj_$34{Operation *, LC11, S6167215, #1}} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9898888888
+
+The Road is: x9898888888
+NowTime: 0
+
+The Road is: x9898888888
+
+The Road is: x9898888888
+NowTime: 0
+
+The Road is: x98988888888
+
+The Road is: x98988888888
+
+
+
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x88988
+
+The Road is: x88988
+NowTime: 1
+
+The Road is: x88988
+
+The Road is: x88988
+insert:
+getDefiningOp : &Element{SymRegion{reg_$26<BroadcastIntent & c>},0 S64b,struct BroadcastIntent}.targetValue NowTime: 1
+
+The Road is: x889888
+
+The Road is: x889888
+NowTime: 1
+
+The Road is: x8898888
+
+The Road is: x8898888
+insert:
+getBlock : &SymRegion{conj_$34{Operation *, LC11, S6167215, #1}} NowTime: 1
+
+The Road is: x8898888
+
+The Road is: x8898888
+
+
+
+
+
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x8898888988
+
+The Road is: x8898888988
+NowTime: 1
+
+The Road is: x8898888988
+
+The Road is: x8898888988
+NowTime: 1
+
+The Road is: x88988889888
+
+The Road is: x88988889888
+NowTime: 1
+
+The Road is: x889888898888
+
+The Road is: x889888898888
+
+
+NowTime: 1
+
+The Road is: x889888898888
+
+The Road is: x889888898888
+
+NowTime: 2
+
+The Road is: x88988889888888
+
+The Road is: x88988889888888
+insert:
+isBeforeInBlock : &SymRegion{conj_$34{Operation *, LC11, S6167215, #1}} &SymRegion{conj_$9{Operation *, LC10, S6167144, #1}} 
+The Error Road is: x889888898888888
+NowTime: 2
+
+The Road is: x8888
+
+The Road is: x8888
+insert:
+isBeforeInBlock : &SymRegion{conj_$9{Operation *, LC10, S6167144, #1}} &SymRegion{conj_$13{Operation *, LC10, S6167215, #1}} 
+NowTime: 2
+
+NowTime: 2
+
+The Road is: x88888
+
+The Road is: x88888
+NowTime: 2
+
+The Road is: x88888
+
+The Road is: x88888
+insert:
+getDefiningOp : &Element{SymRegion{reg_$26<BroadcastIntent & c>},0 S64b,struct BroadcastIntent}.targetValue NowTime: 2
+
+The Road is: x888888
+
+The Road is: x888888
+NowTime: 2
+
+The Road is: x8888888
+
+The Road is: x8888888
+insert:
+getBlock : &SymRegion{conj_$34{Operation *, LC11, S6167215, #1}} NowTime: 2
+
+The Road is: x8888888
+
+The Road is: x8888888
+
+
+NowTime: 2
+
+The Road is: x889888888
+
+The Road is: x889888888
+insert:
+isBeforeInBlock : &SymRegion{conj_$13{Operation *, LC10, S6167215, #1}} &SymRegion{conj_$34{Operation *, LC11, S6167215, #1}} 
+NowTime: 2
+
+NowTime: 2
+
+The Road is: x8898888888
+
+The Road is: x8898888888
+NowTime: 2
+
+The Road is: x8898888888
+
+The Road is: x8898888888
+NowTime: 2
+
+The Road is: x88988888888
+
+The Road is: x88988888888
+NowTime: 2
+
+The Road is: x889888888888
+
+The Road is: x889888888888
+NowTime: 2
+
+The Road is: x889888888888
+
+The Road is: x889888888888
+
+
+The Error Road is: x889888888888988
+
+NowTime: 3
+
+The Road is: x88988888888888
+
+The Road is: x88988888888888
+insert:
+isBeforeInBlock : &SymRegion{conj_$34{Operation *, LC11, S6167215, #1}} &SymRegion{conj_$9{Operation *, LC10, S6167144, #1}} 
+The Error Road is: x889888888888888
+
+
+
+NowTime: 3
+
+NowTime: 3
+
+The Road is: x8888888988
+
+The Road is: x8888888988
+NowTime: 3
+
+The Road is: x8888888988
+
+The Road is: x8888888988
+NowTime: 3
+
+The Road is: x88888889888
+
+The Road is: x88888889888
+NowTime: 3
+
+The Road is: x888888898888
+
+The Road is: x888888898888
+NowTime: 3
+
+The Road is: x888888898888
+
+The Road is: x888888898888
+
+
+The Error Road is: x888888898888988
+
+NowTime: 4
+
+The Road is: x88888889888888
+
+The Road is: x88888889888888
+insert:
+isBeforeInBlock : &SymRegion{conj_$34{Operation *, LC11, S6167215, #1}} &SymRegion{conj_$9{Operation *, LC10, S6167144, #1}} 
+The Error Road is: x888888898888888
+
+
+NowTime: 4
+
+The Road is: x888888888
+
+The Road is: x888888888
+insert:
+isBeforeInBlock : &SymRegion{conj_$13{Operation *, LC10, S6167215, #1}} &SymRegion{conj_$34{Operation *, LC11, S6167215, #1}} 
+NowTime: 4
+
+NowTime: 4
+
+The Road is: x8888888888
+
+The Road is: x8888888888
+NowTime: 4
+
+The Road is: x8888888888
+
+The Road is: x8888888888
+NowTime: 4
+
+The Road is: x88888888888
+
+The Road is: x88888888888
+NowTime: 4
+
+The Road is: x888888888888
+
+The Road is: x888888888888
+NowTime: 4
+
+The Road is: x888888888888
+
+The Road is: x888888888888
+
+
+The Error Road is: x888888888888988
+
+NowTime: 5
+
+The Road is: x88888888888888
+
+The Road is: x88888888888888
+insert:
+isBeforeInBlock : &SymRegion{conj_$34{Operation *, LC11, S6167215, #1}} &SymRegion{conj_$9{Operation *, LC10, S6167144, #1}} 
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getDefiningOp : &Element{SymRegion{reg_$4<BroadcastIntent & a>},0 S64b,struct BroadcastIntent}.targetValue NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getDefiningOp : &Element{SymRegion{reg_$5<BroadcastIntent & b>},0 S64b,struct BroadcastIntent}.targetValue 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x99988
+
+The Road is: x99988
+NowTime: 0
+
+The Road is: x99988
+
+The Road is: x99988
+insert:
+getDefiningOp : &Element{SymRegion{reg_$14<BroadcastIntent & c>},0 S64b,struct BroadcastIntent}.targetValue 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9998899988
+
+The Road is: x9998899988
+NowTime: 0
+
+The Road is: x9998899988
+
+The Road is: x9998899988
+
+NowTime: 0
+
+The Road is: x9998898
+
+The Road is: x9998898
+insert:
+getBlock : &SymRegion{conj_$22{Operation *, LC15, S6167215, #1}} NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+insert:
+getBlock : &SymRegion{conj_$13{Operation *, LC14, S6167215, #1}} NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+getBlock : &SymRegion{conj_$9{Operation *, LC14, S6167144, #1}} NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+getBlock : &SymRegion{conj_$13{Operation *, LC14, S6167215, #1}} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98988
+
+The Road is: x98988
+NowTime: 0
+
+The Road is: x98988
+
+The Road is: x98988
+insert:
+getDefiningOp : &Element{SymRegion{reg_$14<BroadcastIntent & c>},0 S64b,struct BroadcastIntent}.targetValue NowTime: 0
+
+The Road is: x989888
+
+The Road is: x989888
+NowTime: 0
+
+The Road is: x9898888
+
+The Road is: x9898888
+insert:
+getBlock : &SymRegion{conj_$22{Operation *, LC15, S6167215, #1}} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9998898988
+
+The Road is: x9998898988
+NowTime: 0
+
+The Road is: x9998898988
+
+The Road is: x9998898988
+NowTime: 0
+
+The Road is: x999889898898
+
+The Road is: x999889898898
+
+
+NowTime: 0
+
+The Road is: x9898888
+
+The Road is: x9898888
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9898889988
+
+The Road is: x9898889988
+NowTime: 0
+
+The Road is: x9898889988
+
+The Road is: x9898889988
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x89988
+
+The Road is: x89988
+NowTime: 0
+
+The Road is: x89988
+
+The Road is: x89988
+insert:
+getDefiningOp : &Element{SymRegion{reg_$14<BroadcastIntent & c>},0 S64b,struct BroadcastIntent}.targetValue NowTime: 0
+
+The Road is: x8998898
+
+The Road is: x8998898
+insert:
+getBlock : &SymRegion{conj_$22{Operation *, LC15, S6167215, #1}} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9898888988
+
+The Road is: x9898888988
+NowTime: 0
+
+The Road is: x9898888988
+
+The Road is: x9898888988
+NowTime: 0
+
+The Road is: x989888898898
+
+The Road is: x989888898898
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88988
+
+The Road is: x88988
+NowTime: 0
+
+The Road is: x88988
+
+The Road is: x88988
+insert:
+getDefiningOp : &Element{SymRegion{reg_$14<BroadcastIntent & c>},0 S64b,struct BroadcastIntent}.targetValue NowTime: 0
+
+The Road is: x889888
+
+The Road is: x889888
+NowTime: 0
+
+The Road is: x8898888
+
+The Road is: x8898888
+insert:
+getBlock : &SymRegion{conj_$22{Operation *, LC15, S6167215, #1}} NowTime: 0
+
+The Road is: x8898888
+
+The Road is: x8898888
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x898998
+
+The Road is: x898998
+NowTime: 1
+
+The Road is: x898998
+
+The Road is: x898998
+insert:
+getDefiningOp : &Element{SymRegion{reg_$14<BroadcastIntent & c>},0 S64b,struct BroadcastIntent}.targetValue NowTime: 1
+
+The Road is: x89899898
+
+The Road is: x89899898
+insert:
+getBlock : &SymRegion{conj_$22{Operation *, LC15, S6167215, #1}} 
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x98988898998
+
+The Road is: x98988898998
+NowTime: 1
+
+The Road is: x98988898998
+
+The Road is: x98988898998
+
+
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x888998
+
+The Road is: x888998
+NowTime: 1
+
+The Road is: x888998
+
+The Road is: x888998
+insert:
+getDefiningOp : &Element{SymRegion{reg_$14<BroadcastIntent & c>},0 S64b,struct BroadcastIntent}.targetValue NowTime: 1
+
+The Road is: x8889988
+
+The Road is: x8889988
+NowTime: 1
+
+The Road is: x88899888
+
+The Road is: x88899888
+insert:
+getBlock : &SymRegion{conj_$22{Operation *, LC15, S6167215, #1}} 
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x98988888998
+
+The Road is: x98988888998
+NowTime: 1
+
+The Road is: x98988888998
+
+The Road is: x98988888998
+NowTime: 1
+
+The Road is: x9898888899898
+
+The Road is: x9898888899898
+
+
+NowTime: 1
+
+The Road is: x88899888
+
+The Road is: x88899888
+NowTime: 1
+
+The Road is: x8888
+
+The Road is: x8888
+insert:
+isBeforeInBlock : &SymRegion{conj_$9{Operation *, LC14, S6167144, #1}} &SymRegion{conj_$13{Operation *, LC14, S6167215, #1}} 
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x88888
+
+The Road is: x88888
+NowTime: 1
+
+The Road is: x88888
+
+The Road is: x88888
+insert:
+getDefiningOp : &Element{SymRegion{reg_$14<BroadcastIntent & c>},0 S64b,struct BroadcastIntent}.targetValue NowTime: 1
+
+The Road is: x888888
+
+The Road is: x888888
+NowTime: 1
+
+The Road is: x989888888
+
+The Road is: x989888888
+insert:
+isBeforeInBlock : &SymRegion{conj_$13{Operation *, LC14, S6167215, #1}} &SymRegion{conj_$22{Operation *, LC15, S6167215, #1}} 
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x9898888888
+
+The Road is: x9898888888
+NowTime: 1
+
+The Road is: x9898888888
+
+The Road is: x9898888888
+NowTime: 1
+
+The Road is: x989888888898
+
+The Road is: x989888888898
+
+NowTime: 2
+
+The Road is: x8888888
+
+The Road is: x8888888
+insert:
+getBlock : &SymRegion{conj_$22{Operation *, LC15, S6167215, #1}} 
+NowTime: 2
+
+NowTime: 2
+
+The Road is: x8998899988
+
+The Road is: x8998899988
+NowTime: 2
+
+The Road is: x8998899988
+
+The Road is: x8998899988
+NowTime: 2
+
+The Road is: x89988999888
+
+The Road is: x89988999888
+
+NowTime: 2
+
+The Road is: x8888888
+
+The Road is: x8888888
+
+NowTime: 2
+
+NowTime: 2
+
+The Road is: x8998898988
+
+The Road is: x8998898988
+NowTime: 2
+
+The Road is: x8998898988
+
+The Road is: x8998898988
+NowTime: 2
+
+The Road is: x89988989888
+
+The Road is: x89988989888
+NowTime: 2
+
+The Road is: x899889898888
+
+The Road is: x899889898888
+NowTime: 2
+
+The Road is: x899889898888
+
+The Road is: x899889898888
+
+
+
+
+NowTime: 2
+
+NowTime: 2
+
+The Road is: x8898889988
+
+The Road is: x8898889988
+NowTime: 2
+
+The Road is: x8898889988
+
+The Road is: x8898889988
+NowTime: 2
+
+The Road is: x88988899888
+
+The Road is: x88988899888
+
+
+NowTime: 3
+
+NowTime: 3
+
+The Road is: x8898888988
+
+The Road is: x8898888988
+NowTime: 3
+
+The Road is: x8898888988
+
+The Road is: x8898888988
+NowTime: 3
+
+The Road is: x88988889888
+
+The Road is: x88988889888
+NowTime: 3
+
+The Road is: x889888898888
+
+The Road is: x889888898888
+NowTime: 4
+
+The Road is: x889888898888
+
+The Road is: x889888898888
+
+
+
+
+NowTime: 4
+
+NowTime: 4
+
+The Road is: x88988898998
+
+The Road is: x88988898998
+NowTime: 4
+
+The Road is: x88988898998
+
+The Road is: x88988898998
+NowTime: 4
+
+The Road is: x889888989988
+
+The Road is: x889888989988
+NowTime: 5
+
+The Road is: x89988989888888
+
+The Road is: x89988989888888
+insert:
+isBeforeInBlock : &SymRegion{conj_$9{Operation *, LC14, S6167144, #1}} &SymRegion{conj_$22{Operation *, LC15, S6167215, #1}} 
+
+NowTime: 5
+
+NowTime: 5
+
+The Road is: x88988888998
+
+The Road is: x88988888998
+NowTime: 5
+
+The Road is: x88988888998
+
+The Road is: x88988888998
+NowTime: 5
+
+The Road is: x889888889988
+
+The Road is: x889888889988
+NowTime: 5
+
+The Road is: x8898888899888
+
+The Road is: x8898888899888
+
+NowTime: 5
+
+The Road is: x889888888
+
+The Road is: x889888888
+insert:
+isBeforeInBlock : &SymRegion{conj_$13{Operation *, LC14, S6167215, #1}} &SymRegion{conj_$22{Operation *, LC15, S6167215, #1}} 
+NowTime: 5
+
+NowTime: 5
+
+The Road is: x8898888888
+
+The Road is: x8898888888
+NowTime: 5
+
+The Road is: x8898888888
+
+The Road is: x8898888888
+NowTime: 6
+
+The Road is: x88988888888
+
+The Road is: x88988888888
+NowTime: 6
+
+The Road is: x8898888899888
+
+The Road is: x8898888899888
+
+
+NowTime: 6
+
+NowTime: 6
+
+The Road is: x89899899988
+
+The Road is: x89899899988
+NowTime: 6
+
+The Road is: x89899899988
+
+The Road is: x89899899988
+NowTime: 6
+
+The Road is: x898998999888
+
+The Road is: x898998999888
+NowTime: 6
+
+The Road is: x889888888888
+
+The Road is: x889888888888
+
+
+NowTime: 7
+
+NowTime: 7
+
+The Road is: x89899898988
+
+The Road is: x89899898988
+NowTime: 7
+
+The Road is: x89899898988
+
+The Road is: x89899898988
+NowTime: 7
+
+The Road is: x898998989888
+
+The Road is: x898998989888
+NowTime: 7
+
+The Road is: x889888888888
+
+The Road is: x889888888888
+
+
+
+
+NowTime: 7
+
+NowTime: 7
+
+The Road is: x88899889988
+
+The Road is: x88899889988
+NowTime: 7
+
+The Road is: x88899889988
+
+The Road is: x88899889988
+NowTime: 7
+
+The Road is: x888998899888
+
+The Road is: x888998899888
+NowTime: 8
+
+The Road is: x88988889888888
+
+The Road is: x88988889888888
+insert:
+isBeforeInBlock : &SymRegion{conj_$9{Operation *, LC14, S6167144, #1}} &SymRegion{conj_$22{Operation *, LC15, S6167215, #1}} 
+
+NowTime: 8
+
+NowTime: 8
+
+The Road is: x88899888988
+
+The Road is: x88899888988
+NowTime: 8
+
+The Road is: x88899888988
+
+The Road is: x88899888988
+NowTime: 8
+
+The Road is: x888998889888
+
+The Road is: x888998889888
+NowTime: 8
+
+The Road is: x8989989898888
+
+The Road is: x8989989898888
+
+
+NowTime: 8
+
+The Road is: x8989989898888
+
+The Road is: x8989989898888
+
+
+NowTime: 8
+
+NowTime: 8
+
+The Road is: x888998898998
+
+The Road is: x888998898998
+NowTime: 8
+
+The Road is: x888998898998
+
+The Road is: x888998898998
+NowTime: 9
+
+The Road is: x8889988989988
+
+The Road is: x8889988989988
+
+
+NowTime: 9
+
+NowTime: 9
+
+The Road is: x888998888998
+
+The Road is: x888998888998
+NowTime: 9
+
+The Road is: x888998888998
+
+The Road is: x888998888998
+NowTime: 9
+
+The Road is: x8889988889988
+
+The Road is: x8889988889988
+
+NowTime: 10
+
+The Road is: x8889988888
+
+The Road is: x8889988888
+insert:
+isBeforeInBlock : &SymRegion{conj_$13{Operation *, LC14, S6167215, #1}} &SymRegion{conj_$22{Operation *, LC15, S6167215, #1}} 
+NowTime: 10
+
+NowTime: 10
+
+The Road is: x88899888888
+
+The Road is: x88899888888
+NowTime: 10
+
+The Road is: x88899888888
+
+The Road is: x88899888888
+NowTime: 10
+
+The Road is: x888998888888
+
+The Road is: x888998888888
+NowTime: 10
+
+The Road is: x8889988898888
+
+The Road is: x8889988898888
+
+
+NowTime: 10
+
+NowTime: 10
+
+The Road is: x8888889988
+
+The Road is: x8888889988
+NowTime: 10
+
+The Road is: x8888889988
+
+The Road is: x8888889988
+NowTime: 11
+
+The Road is: x88888899888
+
+The Road is: x88888899888
+NowTime: 11
+
+The Road is: x8889988898888
+
+The Road is: x8889988898888
+NowTime: 11
+
+The Road is: x889888889988888
+
+The Road is: x889888889988888
+insert:
+isBeforeInBlock : &SymRegion{conj_$9{Operation *, LC14, S6167144, #1}} &SymRegion{conj_$22{Operation *, LC15, S6167215, #1}} 
+
+NowTime: 11
+
+NowTime: 11
+
+The Road is: x8888888988
+
+The Road is: x8888888988
+NowTime: 11
+
+The Road is: x8888888988
+
+The Road is: x8888888988
+NowTime: 11
+
+The Road is: x88888889888
+
+The Road is: x88888889888
+
+
+
+
+NowTime: 12
+
+NowTime: 12
+
+The Road is: x88888898998
+
+The Road is: x88888898998
+NowTime: 12
+
+The Road is: x88888898998
+
+The Road is: x88888898998
+NowTime: 12
+
+The Road is: x888888989988
+
+The Road is: x888888989988
+NowTime: 12
+
+The Road is: x88899888899888
+
+The Road is: x88899888899888
+
+
+NowTime: 13
+
+NowTime: 13
+
+The Road is: x88888888998
+
+The Road is: x88888888998
+NowTime: 13
+
+The Road is: x88888888998
+
+The Road is: x88888888998
+NowTime: 13
+
+The Road is: x888888889988
+
+The Road is: x888888889988
+NowTime: 13
+
+The Road is: x88899888899888
+
+The Road is: x88899888899888
+NowTime: 14
+
+The Road is: x88988888888888
+
+The Road is: x88988888888888
+insert:
+isBeforeInBlock : &SymRegion{conj_$9{Operation *, LC14, S6167144, #1}} &SymRegion{conj_$22{Operation *, LC15, S6167215, #1}} 
+NowTime: 14
+
+The Road is: x888888888
+
+The Road is: x888888888
+insert:
+isBeforeInBlock : &SymRegion{conj_$13{Operation *, LC14, S6167215, #1}} &SymRegion{conj_$22{Operation *, LC15, S6167215, #1}} 
+NowTime: 14
+
+NowTime: 14
+
+The Road is: x8888888888
+
+The Road is: x8888888888
+NowTime: 14
+
+The Road is: x8888888888
+
+The Road is: x8888888888
+NowTime: 14
+
+The Road is: x88888888888
+
+The Road is: x88888888888
+NowTime: 14
+
+The Road is: x8889988888888
+
+The Road is: x8889988888888
+
+NowTime: 15
+
+The Road is: x8889988888888
+
+The Road is: x8889988888888
+
+
+
+NowTime: 15
+
+The Road is: x888888898888
+
+The Road is: x888888898888
+
+NowTime: 16
+
+The Road is: x888888898888
+
+The Road is: x888888898888
+NowTime: 16
+
+The Road is: x898998989888888
+
+The Road is: x898998989888888
+insert:
+isBeforeInBlock : &SymRegion{conj_$9{Operation *, LC14, S6167144, #1}} &SymRegion{conj_$22{Operation *, LC15, S6167215, #1}} 
+
+
+NowTime: 17
+
+The Road is: x8888888899888
+
+The Road is: x8888888899888
+
+NowTime: 17
+
+The Road is: x8888888899888
+
+The Road is: x8888888899888
+
+NowTime: 17
+
+The Road is: x888888888888
+
+The Road is: x888888888888
+
+NowTime: 18
+
+The Road is: x888888888888
+
+The Road is: x888888888888
+NowTime: 18
+
+The Road is: x888998889888888
+
+The Road is: x888998889888888
+insert:
+isBeforeInBlock : &SymRegion{conj_$9{Operation *, LC14, S6167144, #1}} &SymRegion{conj_$22{Operation *, LC15, S6167215, #1}} 
+
+
+
+
+
+NowTime: 18
+
+The Road is: x8889988889988888
+
+The Road is: x8889988889988888
+insert:
+isBeforeInBlock : &SymRegion{conj_$9{Operation *, LC14, S6167144, #1}} &SymRegion{conj_$22{Operation *, LC15, S6167215, #1}} 
+
+
+
+NowTime: 18
+
+The Road is: x888998888888888
+
+The Road is: x888998888888888
+insert:
+isBeforeInBlock : &SymRegion{conj_$9{Operation *, LC14, S6167144, #1}} &SymRegion{conj_$22{Operation *, LC15, S6167215, #1}} 
+
+
+
+
+
+NowTime: 18
+
+The Road is: x88888889888888
+
+The Road is: x88888889888888
+insert:
+isBeforeInBlock : &SymRegion{conj_$9{Operation *, LC14, S6167144, #1}} &SymRegion{conj_$22{Operation *, LC15, S6167215, #1}} 
+
+
+
+
+
+NowTime: 18
+
+The Road is: x888888889988888
+
+The Road is: x888888889988888
+insert:
+isBeforeInBlock : &SymRegion{conj_$9{Operation *, LC14, S6167144, #1}} &SymRegion{conj_$22{Operation *, LC15, S6167215, #1}} 
+
+
+
+NowTime: 18
+
+The Road is: x88888888888888
+
+The Road is: x88888888888888
+insert:
+isBeforeInBlock : &SymRegion{conj_$9{Operation *, LC14, S6167144, #1}} &SymRegion{conj_$22{Operation *, LC15, S6167215, #1}} 
+/home/lizhilin/compare-order/real-project/tensorflow/test-lambda/classification_results/filtered_files/test_93.cpp:47:5: warning: Violation of Consistency [CompareCheck.FunctionChecker]
+   47 |     ConsistencyChecker();
+      |     ^~~~~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/real-project/tensorflow/test-lambda/classification_results/filtered_files/test_93.cpp:53:5: warning: Violation of Transitivity [CompareCheck.FunctionChecker]
+   53 |     TransiveChecker();
+      |     ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/real-project/tensorflow/test-lambda/classification_results/filtered_files/test_93.cpp:59:5: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   59 |     SymmetryChecker();
+      |     ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/real-project/tensorflow/test-lambda/classification_results/filtered_files/test_93.cpp:65:5: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   65 |     SymmetryChecker();
+      |     ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/real-project/tensorflow/test-lambda/classification_results/filtered_files/test_93.cpp:71:5: warning: Violation of Anti-Reflexivity [CompareCheck.FunctionChecker]
+   71 |     ReflexivityChecker();
+      |     ^~~~~~~~~~~~~~~~~~~~
+5 warnings generated.
+Total paths analyzed: 2
+Total paths analyzed: 4
+Total paths analyzed: 4
+Total paths analyzed: 8
+Total paths analyzed: 26

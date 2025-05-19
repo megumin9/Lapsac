@@ -1,0 +1,6177 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x99
+NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+get : &Base{a,__shared_ptr} 
+The Road is: x99
+insert:
+_M_get : &Base{Base{a,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+hilbert : reg_$10<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$11{conj_$2{int, LC1, S6203686, #1},HILBERT_MAX} derived_$12{conj_$2{int, LC1, S6203686, #1},minX} derived_$13{conj_$2{int, LC1, S6203686, #1},minY} derived_$14{conj_$2{int, LC1, S6203686, #1},width} derived_$15{conj_$2{int, LC1, S6203686, #1},height} NowTime: 0
+NowTime: 0
+
+The Road is: x99
+NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+get : &Base{b,__shared_ptr} 
+The Road is: x99
+insert:
+_M_get : &Base{Base{b,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+hilbert : reg_$10<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$20{conj_$17{int, LC2, S6189019, #1},HILBERT_MAX} derived_$21{conj_$17{int, LC2, S6189019, #1},minX} derived_$22{conj_$17{int, LC2, S6189019, #1},minY} derived_$23{conj_$17{int, LC2, S6189019, #1},width} derived_$24{conj_$17{int, LC2, S6189019, #1},height} 
+
+NowTime: 0
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+__gthread_active_p : NowTime: 0
+
+The Road is: x89
+
+The Road is: x89
+insert:
+__atomic_add_single : &Element{SymRegion{reg_$6<_Sp_counted_base<(_Lock_policy)2U> * Base{a,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x89
+insert:
+__atomic_add_dispatch : &Element{SymRegion{reg_$6<_Sp_counted_base<(_Lock_policy)2U> * Base{a,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x89
+insert:
+_M_add_ref_copy : &SymRegion{reg_$6<_Sp_counted_base<(_Lock_policy)2U> * Base{a,__shared_ptr}._M_refcount._M_pi>} 
+The Road is: x8
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+__atomic_add : &Element{SymRegion{reg_$6<_Sp_counted_base<(_Lock_policy)2U> * Base{a,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x88
+insert:
+__atomic_add_dispatch : &Element{SymRegion{reg_$6<_Sp_counted_base<(_Lock_policy)2U> * Base{a,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x88
+insert:
+_M_add_ref_copy : &SymRegion{reg_$6<_Sp_counted_base<(_Lock_policy)2U> * Base{a,__shared_ptr}._M_refcount._M_pi>} NowTime: 0
+
+The Road is: x898
+NowTime: 0
+
+The Road is: x898
+NowTime: 0
+
+The Road is: x898
+
+The Road is: x898
+NowTime: 0
+
+The Road is: x8989
+
+The Road is: x8989
+
+The Road is: x8989
+
+The Road is: x8989
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x8989
+NowTime: 0
+
+The Road is: x8989
+
+The Road is: x8989
+insert:
+get : &Base{a,__shared_ptr} 
+The Road is: x8989
+insert:
+_M_get : &Base{Base{a,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x8989
+
+The Road is: x8989
+insert:
+hilbert : reg_$10<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$11{conj_$2{int, LC1, S6203686, #1},HILBERT_MAX} derived_$12{conj_$2{int, LC1, S6203686, #1},minX} derived_$13{conj_$2{int, LC1, S6203686, #1},minY} derived_$14{conj_$2{int, LC1, S6203686, #1},width} derived_$15{conj_$2{int, LC1, S6203686, #1},height} NowTime: 0
+NowTime: 0
+
+The Road is: x8989
+NowTime: 0
+
+The Road is: x8989
+
+The Road is: x8989
+insert:
+get : &Base{b,__shared_ptr} 
+The Road is: x8989
+insert:
+_M_get : &Base{Base{b,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x8989
+
+The Road is: x8989
+insert:
+hilbert : reg_$10<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$20{conj_$17{int, LC2, S6189019, #1},HILBERT_MAX} derived_$21{conj_$17{int, LC2, S6189019, #1},minX} derived_$22{conj_$17{int, LC2, S6189019, #1},minY} derived_$23{conj_$17{int, LC2, S6189019, #1},width} derived_$24{conj_$17{int, LC2, S6189019, #1},height} 
+
+NowTime: 0
+
+The Road is: x888
+NowTime: 0
+
+The Road is: x888
+NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+
+The Road is: x8888
+
+The Road is: x8888
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x8888
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+insert:
+get : &Base{a,__shared_ptr} 
+The Road is: x8888
+insert:
+_M_get : &Base{Base{a,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+insert:
+hilbert : reg_$10<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$11{conj_$2{int, LC1, S6203686, #1},HILBERT_MAX} derived_$12{conj_$2{int, LC1, S6203686, #1},minX} derived_$13{conj_$2{int, LC1, S6203686, #1},minY} derived_$14{conj_$2{int, LC1, S6203686, #1},width} derived_$15{conj_$2{int, LC1, S6203686, #1},height} NowTime: 0
+NowTime: 0
+
+The Road is: x8888
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+insert:
+get : &Base{b,__shared_ptr} 
+The Road is: x8888
+insert:
+_M_get : &Base{Base{b,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+insert:
+hilbert : reg_$10<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$20{conj_$17{int, LC2, S6189019, #1},HILBERT_MAX} derived_$21{conj_$17{int, LC2, S6189019, #1},minX} derived_$22{conj_$17{int, LC2, S6189019, #1},minY} derived_$23{conj_$17{int, LC2, S6189019, #1},width} derived_$24{conj_$17{int, LC2, S6189019, #1},height} 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x99
+NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+get : &Base{a,__shared_ptr} 
+The Road is: x99
+insert:
+_M_get : &Base{Base{a,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$13{conj_$2{int, LC25, S6202075, #1},HILBERT_MAX} derived_$14{conj_$2{int, LC25, S6202075, #1},minX} derived_$15{conj_$2{int, LC25, S6202075, #1},minY} derived_$16{conj_$2{int, LC25, S6202075, #1},width} derived_$17{conj_$2{int, LC25, S6202075, #1},height} NowTime: 0
+NowTime: 0
+
+The Road is: x99
+NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+get : &Base{b,__shared_ptr} 
+The Road is: x99
+insert:
+_M_get : &Base{Base{b,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$23{conj_$19{int, LC26, S6189019, #1},HILBERT_MAX} derived_$24{conj_$19{int, LC26, S6189019, #1},minX} derived_$25{conj_$19{int, LC26, S6189019, #1},minY} derived_$26{conj_$19{int, LC26, S6189019, #1},width} derived_$27{conj_$19{int, LC26, S6189019, #1},height} 
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x99899
+NowTime: 0
+
+The Road is: x99899
+
+The Road is: x99899
+
+The Road is: x99899
+NowTime: 0
+
+The Road is: x99899
+
+The Road is: x99899
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$44{conj_$29{int, LC26, S6189129, #1},HILBERT_MAX} derived_$45{conj_$29{int, LC26, S6189129, #1},minX} derived_$46{conj_$29{int, LC26, S6189129, #1},minY} derived_$47{conj_$29{int, LC26, S6189129, #1},width} derived_$48{conj_$29{int, LC26, S6189129, #1},height} NowTime: 0
+NowTime: 0
+
+The Road is: x99899
+NowTime: 0
+
+The Road is: x99899
+
+The Road is: x99899
+
+The Road is: x99899
+NowTime: 0
+
+The Road is: x99899
+
+The Road is: x99899
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$53{conj_$50{int, LC39, S6189019, #1},HILBERT_MAX} derived_$54{conj_$50{int, LC39, S6189019, #1},minX} derived_$55{conj_$50{int, LC39, S6189019, #1},minY} derived_$56{conj_$50{int, LC39, S6189019, #1},width} derived_$57{conj_$50{int, LC39, S6189019, #1},height} 
+
+NowTime: 0
+
+The Road is: x98
+NowTime: 0
+
+The Road is: x98
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+insert:
+__gthread_active_p : NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+insert:
+__atomic_add_single : &Element{SymRegion{reg_$10<_Sp_counted_base<(_Lock_policy)2U> * Base{b,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x989
+insert:
+__atomic_add_dispatch : &Element{SymRegion{reg_$10<_Sp_counted_base<(_Lock_policy)2U> * Base{b,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x989
+insert:
+_M_add_ref_copy : &SymRegion{reg_$10<_Sp_counted_base<(_Lock_policy)2U> * Base{b,__shared_ptr}._M_refcount._M_pi>} NowTime: 0
+
+
+The Road is: x98
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+insert:
+__atomic_add : &Element{SymRegion{reg_$10<_Sp_counted_base<(_Lock_policy)2U> * Base{b,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x988
+insert:
+__atomic_add_dispatch : &Element{SymRegion{reg_$10<_Sp_counted_base<(_Lock_policy)2U> * Base{b,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x988
+insert:
+_M_add_ref_copy : &SymRegion{reg_$10<_Sp_counted_base<(_Lock_policy)2U> * Base{b,__shared_ptr}._M_refcount._M_pi>} NowTime: 0
+
+NowTime: 0
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+__gthread_active_p : NowTime: 0
+
+The Road is: x89
+
+The Road is: x89
+insert:
+__atomic_add_single : &Element{SymRegion{reg_$6<_Sp_counted_base<(_Lock_policy)2U> * Base{a,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x89
+insert:
+__atomic_add_dispatch : &Element{SymRegion{reg_$6<_Sp_counted_base<(_Lock_policy)2U> * Base{a,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x89
+insert:
+_M_add_ref_copy : &SymRegion{reg_$6<_Sp_counted_base<(_Lock_policy)2U> * Base{a,__shared_ptr}._M_refcount._M_pi>} 
+The Road is: x8
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+__atomic_add : &Element{SymRegion{reg_$6<_Sp_counted_base<(_Lock_policy)2U> * Base{a,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x88
+insert:
+__atomic_add_dispatch : &Element{SymRegion{reg_$6<_Sp_counted_base<(_Lock_policy)2U> * Base{a,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x88
+insert:
+_M_add_ref_copy : &SymRegion{reg_$6<_Sp_counted_base<(_Lock_policy)2U> * Base{a,__shared_ptr}._M_refcount._M_pi>} NowTime: 0
+
+NowTime: 0
+
+The Road is: x898
+NowTime: 0
+
+The Road is: x898
+NowTime: 0
+
+The Road is: x898
+
+The Road is: x898
+NowTime: 0
+
+The Road is: x8989
+
+The Road is: x8989
+insert:
+__atomic_add_single : &Element{SymRegion{reg_$10<_Sp_counted_base<(_Lock_policy)2U> * Base{b,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x8989
+insert:
+__atomic_add_dispatch : &Element{SymRegion{reg_$10<_Sp_counted_base<(_Lock_policy)2U> * Base{b,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x8989
+insert:
+_M_add_ref_copy : &SymRegion{reg_$10<_Sp_counted_base<(_Lock_policy)2U> * Base{b,__shared_ptr}._M_refcount._M_pi>} NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x989
+NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+insert:
+get : &Base{a,__shared_ptr} 
+The Road is: x989
+insert:
+_M_get : &Base{Base{a,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$13{conj_$2{int, LC25, S6202075, #1},HILBERT_MAX} derived_$14{conj_$2{int, LC25, S6202075, #1},minX} derived_$15{conj_$2{int, LC25, S6202075, #1},minY} derived_$16{conj_$2{int, LC25, S6202075, #1},width} derived_$17{conj_$2{int, LC25, S6202075, #1},height} NowTime: 0
+NowTime: 0
+
+The Road is: x989
+NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+insert:
+get : &Base{b,__shared_ptr} 
+The Road is: x989
+insert:
+_M_get : &Base{Base{b,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$23{conj_$19{int, LC26, S6189019, #1},HILBERT_MAX} derived_$24{conj_$19{int, LC26, S6189019, #1},minX} derived_$25{conj_$19{int, LC26, S6189019, #1},minY} derived_$26{conj_$19{int, LC26, S6189019, #1},width} derived_$27{conj_$19{int, LC26, S6189019, #1},height} 
+
+NowTime: 0
+
+The Road is: x98988
+NowTime: 0
+
+The Road is: x98988
+NowTime: 0
+
+The Road is: x98988
+
+The Road is: x98988
+NowTime: 0
+
+The Road is: x989889
+
+The Road is: x989889
+
+The Road is: x989889
+
+The Road is: x989889
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x9898899
+NowTime: 0
+
+The Road is: x9898899
+
+The Road is: x9898899
+
+The Road is: x9898899
+NowTime: 0
+
+The Road is: x9898899
+
+The Road is: x9898899
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$44{conj_$29{int, LC26, S6189129, #1},HILBERT_MAX} derived_$45{conj_$29{int, LC26, S6189129, #1},minX} derived_$46{conj_$29{int, LC26, S6189129, #1},minY} derived_$47{conj_$29{int, LC26, S6189129, #1},width} derived_$48{conj_$29{int, LC26, S6189129, #1},height} NowTime: 0
+NowTime: 0
+
+The Road is: x9898899
+NowTime: 0
+
+The Road is: x9898899
+
+The Road is: x9898899
+
+The Road is: x9898899
+NowTime: 0
+
+The Road is: x9898899
+
+The Road is: x9898899
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$53{conj_$50{int, LC39, S6189019, #1},HILBERT_MAX} derived_$54{conj_$50{int, LC39, S6189019, #1},minX} derived_$55{conj_$50{int, LC39, S6189019, #1},minY} derived_$56{conj_$50{int, LC39, S6189019, #1},width} derived_$57{conj_$50{int, LC39, S6189019, #1},height} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x888
+NowTime: 0
+
+The Road is: x888
+NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+insert:
+__atomic_add : &Element{SymRegion{reg_$10<_Sp_counted_base<(_Lock_policy)2U> * Base{b,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x8888
+insert:
+__atomic_add_dispatch : &Element{SymRegion{reg_$10<_Sp_counted_base<(_Lock_policy)2U> * Base{b,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x8888
+insert:
+_M_add_ref_copy : &SymRegion{reg_$10<_Sp_counted_base<(_Lock_policy)2U> * Base{b,__shared_ptr}._M_refcount._M_pi>} NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x988
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+insert:
+get : &Base{a,__shared_ptr} 
+The Road is: x988
+insert:
+_M_get : &Base{Base{a,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$13{conj_$2{int, LC25, S6202075, #1},HILBERT_MAX} derived_$14{conj_$2{int, LC25, S6202075, #1},minX} derived_$15{conj_$2{int, LC25, S6202075, #1},minY} derived_$16{conj_$2{int, LC25, S6202075, #1},width} derived_$17{conj_$2{int, LC25, S6202075, #1},height} NowTime: 0
+NowTime: 0
+
+The Road is: x988
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+insert:
+get : &Base{b,__shared_ptr} 
+The Road is: x988
+insert:
+_M_get : &Base{Base{b,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$23{conj_$19{int, LC26, S6189019, #1},HILBERT_MAX} derived_$24{conj_$19{int, LC26, S6189019, #1},minX} derived_$25{conj_$19{int, LC26, S6189019, #1},minY} derived_$26{conj_$19{int, LC26, S6189019, #1},width} derived_$27{conj_$19{int, LC26, S6189019, #1},height} 
+
+NowTime: 0
+
+The Road is: x98888
+NowTime: 0
+
+The Road is: x98888
+NowTime: 0
+
+The Road is: x98888
+
+The Road is: x98888
+NowTime: 0
+
+The Road is: x988888
+
+The Road is: x988888
+
+The Road is: x988888
+
+The Road is: x988888
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x9888889
+NowTime: 0
+
+The Road is: x9888889
+
+The Road is: x9888889
+
+The Road is: x9888889
+NowTime: 0
+
+The Road is: x9888889
+
+The Road is: x9888889
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$44{conj_$29{int, LC26, S6189129, #1},HILBERT_MAX} derived_$45{conj_$29{int, LC26, S6189129, #1},minX} derived_$46{conj_$29{int, LC26, S6189129, #1},minY} derived_$47{conj_$29{int, LC26, S6189129, #1},width} derived_$48{conj_$29{int, LC26, S6189129, #1},height} NowTime: 0
+NowTime: 0
+
+The Road is: x9888889
+NowTime: 0
+
+The Road is: x9888889
+
+The Road is: x9888889
+
+The Road is: x9888889
+NowTime: 0
+
+The Road is: x9888889
+
+The Road is: x9888889
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$53{conj_$50{int, LC39, S6189019, #1},HILBERT_MAX} derived_$54{conj_$50{int, LC39, S6189019, #1},minX} derived_$55{conj_$50{int, LC39, S6189019, #1},minY} derived_$56{conj_$50{int, LC39, S6189019, #1},width} derived_$57{conj_$50{int, LC39, S6189019, #1},height} 
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x899
+NowTime: 0
+
+The Road is: x899
+
+The Road is: x899
+insert:
+get : &Base{a,__shared_ptr} 
+The Road is: x899
+insert:
+_M_get : &Base{Base{a,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x899
+
+The Road is: x899
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$13{conj_$2{int, LC25, S6202075, #1},HILBERT_MAX} derived_$14{conj_$2{int, LC25, S6202075, #1},minX} derived_$15{conj_$2{int, LC25, S6202075, #1},minY} derived_$16{conj_$2{int, LC25, S6202075, #1},width} derived_$17{conj_$2{int, LC25, S6202075, #1},height} NowTime: 0
+NowTime: 0
+
+The Road is: x899
+NowTime: 0
+
+The Road is: x899
+
+The Road is: x899
+insert:
+get : &Base{b,__shared_ptr} 
+The Road is: x899
+insert:
+_M_get : &Base{Base{b,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x899
+
+The Road is: x899
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$23{conj_$19{int, LC26, S6189019, #1},HILBERT_MAX} derived_$24{conj_$19{int, LC26, S6189019, #1},minX} derived_$25{conj_$19{int, LC26, S6189019, #1},minY} derived_$26{conj_$19{int, LC26, S6189019, #1},width} derived_$27{conj_$19{int, LC26, S6189019, #1},height} 
+
+NowTime: 0
+
+The Road is: x899898
+NowTime: 0
+
+The Road is: x899898
+NowTime: 0
+
+The Road is: x899898
+
+The Road is: x899898
+NowTime: 0
+
+The Road is: x8998989
+
+The Road is: x8998989
+
+The Road is: x8998989
+
+The Road is: x8998989
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x8998989
+NowTime: 0
+
+The Road is: x8998989
+
+The Road is: x8998989
+
+The Road is: x8998989
+NowTime: 0
+
+The Road is: x8998989
+
+The Road is: x8998989
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$44{conj_$29{int, LC26, S6189129, #1},HILBERT_MAX} derived_$45{conj_$29{int, LC26, S6189129, #1},minX} derived_$46{conj_$29{int, LC26, S6189129, #1},minY} derived_$47{conj_$29{int, LC26, S6189129, #1},width} derived_$48{conj_$29{int, LC26, S6189129, #1},height} NowTime: 0
+NowTime: 0
+
+The Road is: x8998989
+NowTime: 0
+
+The Road is: x8998989
+
+The Road is: x8998989
+
+The Road is: x8998989
+NowTime: 0
+
+The Road is: x8998989
+
+The Road is: x8998989
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$53{conj_$50{int, LC39, S6189019, #1},HILBERT_MAX} derived_$54{conj_$50{int, LC39, S6189019, #1},minX} derived_$55{conj_$50{int, LC39, S6189019, #1},minY} derived_$56{conj_$50{int, LC39, S6189019, #1},width} derived_$57{conj_$50{int, LC39, S6189019, #1},height} 
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x8989
+NowTime: 0
+
+The Road is: x8989
+
+The Road is: x8989
+insert:
+get : &Base{a,__shared_ptr} 
+The Road is: x8989
+insert:
+_M_get : &Base{Base{a,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x8989
+
+The Road is: x8989
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$13{conj_$2{int, LC25, S6202075, #1},HILBERT_MAX} derived_$14{conj_$2{int, LC25, S6202075, #1},minX} derived_$15{conj_$2{int, LC25, S6202075, #1},minY} derived_$16{conj_$2{int, LC25, S6202075, #1},width} derived_$17{conj_$2{int, LC25, S6202075, #1},height} NowTime: 0
+NowTime: 0
+
+The Road is: x8989
+NowTime: 0
+
+The Road is: x8989
+
+The Road is: x8989
+insert:
+get : &Base{b,__shared_ptr} 
+The Road is: x8989
+insert:
+_M_get : &Base{Base{b,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x8989
+
+The Road is: x8989
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$23{conj_$19{int, LC26, S6189019, #1},HILBERT_MAX} derived_$24{conj_$19{int, LC26, S6189019, #1},minX} derived_$25{conj_$19{int, LC26, S6189019, #1},minY} derived_$26{conj_$19{int, LC26, S6189019, #1},width} derived_$27{conj_$19{int, LC26, S6189019, #1},height} 
+
+NowTime: 0
+
+The Road is: x898988
+NowTime: 0
+
+The Road is: x898988
+NowTime: 0
+
+The Road is: x898988
+
+The Road is: x898988
+NowTime: 0
+
+The Road is: x8989889
+
+The Road is: x8989889
+
+The Road is: x8989889
+
+The Road is: x8989889
+NowTime: 0
+
+The Road is: x89898898
+NowTime: 0
+
+The Road is: x89898898
+NowTime: 0
+
+The Road is: x89898898
+
+The Road is: x89898898
+NowTime: 0
+
+The Road is: x898988989
+
+The Road is: x898988989
+
+The Road is: x898988989
+
+The Road is: x898988989
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x898988989
+NowTime: 0
+
+The Road is: x898988989
+
+The Road is: x898988989
+
+The Road is: x898988989
+NowTime: 0
+
+The Road is: x898988989
+
+The Road is: x898988989
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$44{conj_$29{int, LC26, S6189129, #1},HILBERT_MAX} derived_$45{conj_$29{int, LC26, S6189129, #1},minX} derived_$46{conj_$29{int, LC26, S6189129, #1},minY} derived_$47{conj_$29{int, LC26, S6189129, #1},width} derived_$48{conj_$29{int, LC26, S6189129, #1},height} NowTime: 0
+NowTime: 0
+
+The Road is: x898988989
+NowTime: 0
+
+The Road is: x898988989
+
+The Road is: x898988989
+
+The Road is: x898988989
+NowTime: 0
+
+The Road is: x898988989
+
+The Road is: x898988989
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$53{conj_$50{int, LC39, S6189019, #1},HILBERT_MAX} derived_$54{conj_$50{int, LC39, S6189019, #1},minX} derived_$55{conj_$50{int, LC39, S6189019, #1},minY} derived_$56{conj_$50{int, LC39, S6189019, #1},width} derived_$57{conj_$50{int, LC39, S6189019, #1},height} 
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x889
+NowTime: 0
+
+The Road is: x889
+
+The Road is: x889
+insert:
+get : &Base{a,__shared_ptr} 
+The Road is: x889
+insert:
+_M_get : &Base{Base{a,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x889
+
+The Road is: x889
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$13{conj_$2{int, LC25, S6202075, #1},HILBERT_MAX} derived_$14{conj_$2{int, LC25, S6202075, #1},minX} derived_$15{conj_$2{int, LC25, S6202075, #1},minY} derived_$16{conj_$2{int, LC25, S6202075, #1},width} derived_$17{conj_$2{int, LC25, S6202075, #1},height} NowTime: 0
+NowTime: 0
+
+The Road is: x889
+NowTime: 0
+
+The Road is: x889
+
+The Road is: x889
+insert:
+get : &Base{b,__shared_ptr} 
+The Road is: x889
+insert:
+_M_get : &Base{Base{b,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x889
+
+The Road is: x889
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$23{conj_$19{int, LC26, S6189019, #1},HILBERT_MAX} derived_$24{conj_$19{int, LC26, S6189019, #1},minX} derived_$25{conj_$19{int, LC26, S6189019, #1},minY} derived_$26{conj_$19{int, LC26, S6189019, #1},width} derived_$27{conj_$19{int, LC26, S6189019, #1},height} 
+
+NowTime: 0
+
+The Road is: x889898
+NowTime: 0
+
+The Road is: x889898
+NowTime: 0
+
+The Road is: x889898
+
+The Road is: x889898
+NowTime: 0
+
+The Road is: x8898988
+
+The Road is: x8898988
+
+The Road is: x8898988
+
+The Road is: x8898988
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x8898988
+NowTime: 0
+
+The Road is: x8898988
+
+The Road is: x8898988
+
+The Road is: x8898988
+NowTime: 0
+
+The Road is: x8898988
+
+The Road is: x8898988
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$44{conj_$29{int, LC26, S6189129, #1},HILBERT_MAX} derived_$45{conj_$29{int, LC26, S6189129, #1},minX} derived_$46{conj_$29{int, LC26, S6189129, #1},minY} derived_$47{conj_$29{int, LC26, S6189129, #1},width} derived_$48{conj_$29{int, LC26, S6189129, #1},height} NowTime: 0
+NowTime: 0
+
+The Road is: x8898988
+NowTime: 0
+
+The Road is: x8898988
+
+The Road is: x8898988
+
+The Road is: x8898988
+NowTime: 0
+
+The Road is: x8898988
+
+The Road is: x8898988
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$53{conj_$50{int, LC39, S6189019, #1},HILBERT_MAX} derived_$54{conj_$50{int, LC39, S6189019, #1},minX} derived_$55{conj_$50{int, LC39, S6189019, #1},minY} derived_$56{conj_$50{int, LC39, S6189019, #1},width} derived_$57{conj_$50{int, LC39, S6189019, #1},height} 
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x8888
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+insert:
+get : &Base{a,__shared_ptr} 
+The Road is: x8888
+insert:
+_M_get : &Base{Base{a,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$13{conj_$2{int, LC25, S6202075, #1},HILBERT_MAX} derived_$14{conj_$2{int, LC25, S6202075, #1},minX} derived_$15{conj_$2{int, LC25, S6202075, #1},minY} derived_$16{conj_$2{int, LC25, S6202075, #1},width} derived_$17{conj_$2{int, LC25, S6202075, #1},height} NowTime: 0
+NowTime: 0
+
+The Road is: x8888
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+insert:
+get : &Base{b,__shared_ptr} 
+The Road is: x8888
+insert:
+_M_get : &Base{Base{b,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$23{conj_$19{int, LC26, S6189019, #1},HILBERT_MAX} derived_$24{conj_$19{int, LC26, S6189019, #1},minX} derived_$25{conj_$19{int, LC26, S6189019, #1},minY} derived_$26{conj_$19{int, LC26, S6189019, #1},width} derived_$27{conj_$19{int, LC26, S6189019, #1},height} 
+
+NowTime: 0
+
+The Road is: x888888
+NowTime: 0
+
+The Road is: x888888
+NowTime: 0
+
+The Road is: x888888
+
+The Road is: x888888
+NowTime: 0
+
+The Road is: x8888888
+
+The Road is: x8888888
+
+The Road is: x8888888
+
+The Road is: x8888888
+NowTime: 1
+
+The Road is: x88888888
+NowTime: 1
+
+The Road is: x88888888
+NowTime: 1
+
+The Road is: x88888888
+
+The Road is: x88888888
+NowTime: 1
+
+The Road is: x888888888
+
+The Road is: x888888888
+
+The Road is: x888888888
+
+The Road is: x888888888
+NowTime: 1
+
+NowTime: 1
+NowTime: 1
+
+The Road is: x888888888
+NowTime: 1
+
+The Road is: x888888888
+
+The Road is: x888888888
+
+The Road is: x888888888
+NowTime: 1
+
+The Road is: x888888888
+
+The Road is: x888888888
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$44{conj_$29{int, LC26, S6189129, #1},HILBERT_MAX} derived_$45{conj_$29{int, LC26, S6189129, #1},minX} derived_$46{conj_$29{int, LC26, S6189129, #1},minY} derived_$47{conj_$29{int, LC26, S6189129, #1},width} derived_$48{conj_$29{int, LC26, S6189129, #1},height} NowTime: 1
+NowTime: 1
+
+The Road is: x888888888
+NowTime: 1
+
+The Road is: x888888888
+
+The Road is: x888888888
+
+The Road is: x888888888
+NowTime: 1
+
+The Road is: x888888888
+
+The Road is: x888888888
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$53{conj_$50{int, LC39, S6189019, #1},HILBERT_MAX} derived_$54{conj_$50{int, LC39, S6189019, #1},minX} derived_$55{conj_$50{int, LC39, S6189019, #1},minY} derived_$56{conj_$50{int, LC39, S6189019, #1},width} derived_$57{conj_$50{int, LC39, S6189019, #1},height} 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x99
+NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+get : &Base{a,__shared_ptr} 
+The Road is: x99
+insert:
+_M_get : &Base{Base{a,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$13{conj_$2{int, LC72, S6200423, #1},HILBERT_MAX} derived_$14{conj_$2{int, LC72, S6200423, #1},minX} derived_$15{conj_$2{int, LC72, S6200423, #1},minY} derived_$16{conj_$2{int, LC72, S6200423, #1},width} derived_$17{conj_$2{int, LC72, S6200423, #1},height} NowTime: 0
+NowTime: 0
+
+The Road is: x99
+NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+get : &Base{b,__shared_ptr} 
+The Road is: x99
+insert:
+_M_get : &Base{Base{b,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$23{conj_$19{int, LC73, S6189019, #1},HILBERT_MAX} derived_$24{conj_$19{int, LC73, S6189019, #1},minX} derived_$25{conj_$19{int, LC73, S6189019, #1},minY} derived_$26{conj_$19{int, LC73, S6189019, #1},width} derived_$27{conj_$19{int, LC73, S6189019, #1},height} 
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x99899
+NowTime: 0
+
+The Road is: x99899
+
+The Road is: x99899
+
+The Road is: x99899
+NowTime: 0
+
+The Road is: x99899
+
+The Road is: x99899
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$44{conj_$29{int, LC73, S6189129, #1},HILBERT_MAX} derived_$45{conj_$29{int, LC73, S6189129, #1},minX} derived_$46{conj_$29{int, LC73, S6189129, #1},minY} derived_$47{conj_$29{int, LC73, S6189129, #1},width} derived_$48{conj_$29{int, LC73, S6189129, #1},height} NowTime: 0
+NowTime: 0
+
+The Road is: x99899
+NowTime: 0
+
+The Road is: x99899
+
+The Road is: x99899
+
+The Road is: x99899
+NowTime: 0
+
+The Road is: x99899
+
+The Road is: x99899
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$53{conj_$50{int, LC86, S6189019, #1},HILBERT_MAX} derived_$54{conj_$50{int, LC86, S6189019, #1},minX} derived_$55{conj_$50{int, LC86, S6189019, #1},minY} derived_$56{conj_$50{int, LC86, S6189019, #1},width} derived_$57{conj_$50{int, LC86, S6189019, #1},height} 
+
+NowTime: 0
+
+The Road is: x98
+NowTime: 0
+
+The Road is: x98
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+insert:
+__gthread_active_p : NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+insert:
+__atomic_add_single : &Element{SymRegion{reg_$10<_Sp_counted_base<(_Lock_policy)2U> * Base{b,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x989
+insert:
+__atomic_add_dispatch : &Element{SymRegion{reg_$10<_Sp_counted_base<(_Lock_policy)2U> * Base{b,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x989
+insert:
+_M_add_ref_copy : &SymRegion{reg_$10<_Sp_counted_base<(_Lock_policy)2U> * Base{b,__shared_ptr}._M_refcount._M_pi>} NowTime: 0
+
+
+The Road is: x98
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+insert:
+__atomic_add : &Element{SymRegion{reg_$10<_Sp_counted_base<(_Lock_policy)2U> * Base{b,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x988
+insert:
+__atomic_add_dispatch : &Element{SymRegion{reg_$10<_Sp_counted_base<(_Lock_policy)2U> * Base{b,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x988
+insert:
+_M_add_ref_copy : &SymRegion{reg_$10<_Sp_counted_base<(_Lock_policy)2U> * Base{b,__shared_ptr}._M_refcount._M_pi>} NowTime: 0
+
+NowTime: 0
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+__gthread_active_p : NowTime: 0
+
+The Road is: x89
+
+The Road is: x89
+insert:
+__atomic_add_single : &Element{SymRegion{reg_$6<_Sp_counted_base<(_Lock_policy)2U> * Base{a,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x89
+insert:
+__atomic_add_dispatch : &Element{SymRegion{reg_$6<_Sp_counted_base<(_Lock_policy)2U> * Base{a,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x89
+insert:
+_M_add_ref_copy : &SymRegion{reg_$6<_Sp_counted_base<(_Lock_policy)2U> * Base{a,__shared_ptr}._M_refcount._M_pi>} 
+The Road is: x8
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+__atomic_add : &Element{SymRegion{reg_$6<_Sp_counted_base<(_Lock_policy)2U> * Base{a,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x88
+insert:
+__atomic_add_dispatch : &Element{SymRegion{reg_$6<_Sp_counted_base<(_Lock_policy)2U> * Base{a,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x88
+insert:
+_M_add_ref_copy : &SymRegion{reg_$6<_Sp_counted_base<(_Lock_policy)2U> * Base{a,__shared_ptr}._M_refcount._M_pi>} NowTime: 0
+
+NowTime: 0
+
+The Road is: x898
+NowTime: 0
+
+The Road is: x898
+NowTime: 0
+
+The Road is: x898
+
+The Road is: x898
+NowTime: 0
+
+The Road is: x8989
+
+The Road is: x8989
+insert:
+__atomic_add_single : &Element{SymRegion{reg_$10<_Sp_counted_base<(_Lock_policy)2U> * Base{b,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x8989
+insert:
+__atomic_add_dispatch : &Element{SymRegion{reg_$10<_Sp_counted_base<(_Lock_policy)2U> * Base{b,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x8989
+insert:
+_M_add_ref_copy : &SymRegion{reg_$10<_Sp_counted_base<(_Lock_policy)2U> * Base{b,__shared_ptr}._M_refcount._M_pi>} NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x989
+NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+insert:
+get : &Base{a,__shared_ptr} 
+The Road is: x989
+insert:
+_M_get : &Base{Base{a,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$13{conj_$2{int, LC72, S6200423, #1},HILBERT_MAX} derived_$14{conj_$2{int, LC72, S6200423, #1},minX} derived_$15{conj_$2{int, LC72, S6200423, #1},minY} derived_$16{conj_$2{int, LC72, S6200423, #1},width} derived_$17{conj_$2{int, LC72, S6200423, #1},height} NowTime: 0
+NowTime: 0
+
+The Road is: x989
+NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+insert:
+get : &Base{b,__shared_ptr} 
+The Road is: x989
+insert:
+_M_get : &Base{Base{b,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$23{conj_$19{int, LC73, S6189019, #1},HILBERT_MAX} derived_$24{conj_$19{int, LC73, S6189019, #1},minX} derived_$25{conj_$19{int, LC73, S6189019, #1},minY} derived_$26{conj_$19{int, LC73, S6189019, #1},width} derived_$27{conj_$19{int, LC73, S6189019, #1},height} 
+
+NowTime: 0
+
+The Road is: x98988
+NowTime: 0
+
+The Road is: x98988
+NowTime: 0
+
+The Road is: x98988
+
+The Road is: x98988
+NowTime: 0
+
+The Road is: x989889
+
+The Road is: x989889
+
+The Road is: x989889
+
+The Road is: x989889
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x9898899
+NowTime: 0
+
+The Road is: x9898899
+
+The Road is: x9898899
+
+The Road is: x9898899
+NowTime: 0
+
+The Road is: x9898899
+
+The Road is: x9898899
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$44{conj_$29{int, LC73, S6189129, #1},HILBERT_MAX} derived_$45{conj_$29{int, LC73, S6189129, #1},minX} derived_$46{conj_$29{int, LC73, S6189129, #1},minY} derived_$47{conj_$29{int, LC73, S6189129, #1},width} derived_$48{conj_$29{int, LC73, S6189129, #1},height} NowTime: 0
+NowTime: 0
+
+The Road is: x9898899
+NowTime: 0
+
+The Road is: x9898899
+
+The Road is: x9898899
+
+The Road is: x9898899
+NowTime: 0
+
+The Road is: x9898899
+
+The Road is: x9898899
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$53{conj_$50{int, LC86, S6189019, #1},HILBERT_MAX} derived_$54{conj_$50{int, LC86, S6189019, #1},minX} derived_$55{conj_$50{int, LC86, S6189019, #1},minY} derived_$56{conj_$50{int, LC86, S6189019, #1},width} derived_$57{conj_$50{int, LC86, S6189019, #1},height} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x888
+NowTime: 0
+
+The Road is: x888
+NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+insert:
+__atomic_add : &Element{SymRegion{reg_$10<_Sp_counted_base<(_Lock_policy)2U> * Base{b,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x8888
+insert:
+__atomic_add_dispatch : &Element{SymRegion{reg_$10<_Sp_counted_base<(_Lock_policy)2U> * Base{b,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x8888
+insert:
+_M_add_ref_copy : &SymRegion{reg_$10<_Sp_counted_base<(_Lock_policy)2U> * Base{b,__shared_ptr}._M_refcount._M_pi>} NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x988
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+insert:
+get : &Base{a,__shared_ptr} 
+The Road is: x988
+insert:
+_M_get : &Base{Base{a,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$13{conj_$2{int, LC72, S6200423, #1},HILBERT_MAX} derived_$14{conj_$2{int, LC72, S6200423, #1},minX} derived_$15{conj_$2{int, LC72, S6200423, #1},minY} derived_$16{conj_$2{int, LC72, S6200423, #1},width} derived_$17{conj_$2{int, LC72, S6200423, #1},height} NowTime: 0
+NowTime: 0
+
+The Road is: x988
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+insert:
+get : &Base{b,__shared_ptr} 
+The Road is: x988
+insert:
+_M_get : &Base{Base{b,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$23{conj_$19{int, LC73, S6189019, #1},HILBERT_MAX} derived_$24{conj_$19{int, LC73, S6189019, #1},minX} derived_$25{conj_$19{int, LC73, S6189019, #1},minY} derived_$26{conj_$19{int, LC73, S6189019, #1},width} derived_$27{conj_$19{int, LC73, S6189019, #1},height} 
+
+NowTime: 0
+
+The Road is: x98888
+NowTime: 0
+
+The Road is: x98888
+NowTime: 0
+
+The Road is: x98888
+
+The Road is: x98888
+NowTime: 0
+
+The Road is: x988888
+
+The Road is: x988888
+
+The Road is: x988888
+
+The Road is: x988888
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x9888889
+NowTime: 0
+
+The Road is: x9888889
+
+The Road is: x9888889
+
+The Road is: x9888889
+NowTime: 0
+
+The Road is: x9888889
+
+The Road is: x9888889
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$44{conj_$29{int, LC73, S6189129, #1},HILBERT_MAX} derived_$45{conj_$29{int, LC73, S6189129, #1},minX} derived_$46{conj_$29{int, LC73, S6189129, #1},minY} derived_$47{conj_$29{int, LC73, S6189129, #1},width} derived_$48{conj_$29{int, LC73, S6189129, #1},height} NowTime: 0
+NowTime: 0
+
+The Road is: x9888889
+NowTime: 0
+
+The Road is: x9888889
+
+The Road is: x9888889
+
+The Road is: x9888889
+NowTime: 0
+
+The Road is: x9888889
+
+The Road is: x9888889
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$53{conj_$50{int, LC86, S6189019, #1},HILBERT_MAX} derived_$54{conj_$50{int, LC86, S6189019, #1},minX} derived_$55{conj_$50{int, LC86, S6189019, #1},minY} derived_$56{conj_$50{int, LC86, S6189019, #1},width} derived_$57{conj_$50{int, LC86, S6189019, #1},height} 
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x899
+NowTime: 0
+
+The Road is: x899
+
+The Road is: x899
+insert:
+get : &Base{a,__shared_ptr} 
+The Road is: x899
+insert:
+_M_get : &Base{Base{a,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x899
+
+The Road is: x899
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$13{conj_$2{int, LC72, S6200423, #1},HILBERT_MAX} derived_$14{conj_$2{int, LC72, S6200423, #1},minX} derived_$15{conj_$2{int, LC72, S6200423, #1},minY} derived_$16{conj_$2{int, LC72, S6200423, #1},width} derived_$17{conj_$2{int, LC72, S6200423, #1},height} NowTime: 0
+NowTime: 0
+
+The Road is: x899
+NowTime: 0
+
+The Road is: x899
+
+The Road is: x899
+insert:
+get : &Base{b,__shared_ptr} 
+The Road is: x899
+insert:
+_M_get : &Base{Base{b,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x899
+
+The Road is: x899
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$23{conj_$19{int, LC73, S6189019, #1},HILBERT_MAX} derived_$24{conj_$19{int, LC73, S6189019, #1},minX} derived_$25{conj_$19{int, LC73, S6189019, #1},minY} derived_$26{conj_$19{int, LC73, S6189019, #1},width} derived_$27{conj_$19{int, LC73, S6189019, #1},height} 
+
+NowTime: 0
+
+The Road is: x899898
+NowTime: 0
+
+The Road is: x899898
+NowTime: 0
+
+The Road is: x899898
+
+The Road is: x899898
+NowTime: 0
+
+The Road is: x8998989
+
+The Road is: x8998989
+
+The Road is: x8998989
+
+The Road is: x8998989
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x8998989
+NowTime: 0
+
+The Road is: x8998989
+
+The Road is: x8998989
+
+The Road is: x8998989
+NowTime: 0
+
+The Road is: x8998989
+
+The Road is: x8998989
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$44{conj_$29{int, LC73, S6189129, #1},HILBERT_MAX} derived_$45{conj_$29{int, LC73, S6189129, #1},minX} derived_$46{conj_$29{int, LC73, S6189129, #1},minY} derived_$47{conj_$29{int, LC73, S6189129, #1},width} derived_$48{conj_$29{int, LC73, S6189129, #1},height} NowTime: 0
+NowTime: 0
+
+The Road is: x8998989
+NowTime: 0
+
+The Road is: x8998989
+
+The Road is: x8998989
+
+The Road is: x8998989
+NowTime: 0
+
+The Road is: x8998989
+
+The Road is: x8998989
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$53{conj_$50{int, LC86, S6189019, #1},HILBERT_MAX} derived_$54{conj_$50{int, LC86, S6189019, #1},minX} derived_$55{conj_$50{int, LC86, S6189019, #1},minY} derived_$56{conj_$50{int, LC86, S6189019, #1},width} derived_$57{conj_$50{int, LC86, S6189019, #1},height} 
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x8989
+NowTime: 0
+
+The Road is: x8989
+
+The Road is: x8989
+insert:
+get : &Base{a,__shared_ptr} 
+The Road is: x8989
+insert:
+_M_get : &Base{Base{a,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x8989
+
+The Road is: x8989
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$13{conj_$2{int, LC72, S6200423, #1},HILBERT_MAX} derived_$14{conj_$2{int, LC72, S6200423, #1},minX} derived_$15{conj_$2{int, LC72, S6200423, #1},minY} derived_$16{conj_$2{int, LC72, S6200423, #1},width} derived_$17{conj_$2{int, LC72, S6200423, #1},height} NowTime: 0
+NowTime: 0
+
+The Road is: x8989
+NowTime: 0
+
+The Road is: x8989
+
+The Road is: x8989
+insert:
+get : &Base{b,__shared_ptr} 
+The Road is: x8989
+insert:
+_M_get : &Base{Base{b,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x8989
+
+The Road is: x8989
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$23{conj_$19{int, LC73, S6189019, #1},HILBERT_MAX} derived_$24{conj_$19{int, LC73, S6189019, #1},minX} derived_$25{conj_$19{int, LC73, S6189019, #1},minY} derived_$26{conj_$19{int, LC73, S6189019, #1},width} derived_$27{conj_$19{int, LC73, S6189019, #1},height} 
+
+NowTime: 0
+
+The Road is: x898988
+NowTime: 0
+
+The Road is: x898988
+NowTime: 0
+
+The Road is: x898988
+
+The Road is: x898988
+NowTime: 0
+
+The Road is: x8989889
+
+The Road is: x8989889
+
+The Road is: x8989889
+
+The Road is: x8989889
+NowTime: 0
+
+The Road is: x89898898
+NowTime: 0
+
+The Road is: x89898898
+NowTime: 0
+
+The Road is: x89898898
+
+The Road is: x89898898
+NowTime: 0
+
+The Road is: x898988989
+
+The Road is: x898988989
+
+The Road is: x898988989
+
+The Road is: x898988989
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x898988989
+NowTime: 0
+
+The Road is: x898988989
+
+The Road is: x898988989
+
+The Road is: x898988989
+NowTime: 0
+
+The Road is: x898988989
+
+The Road is: x898988989
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$44{conj_$29{int, LC73, S6189129, #1},HILBERT_MAX} derived_$45{conj_$29{int, LC73, S6189129, #1},minX} derived_$46{conj_$29{int, LC73, S6189129, #1},minY} derived_$47{conj_$29{int, LC73, S6189129, #1},width} derived_$48{conj_$29{int, LC73, S6189129, #1},height} NowTime: 0
+NowTime: 0
+
+The Road is: x898988989
+NowTime: 0
+
+The Road is: x898988989
+
+The Road is: x898988989
+
+The Road is: x898988989
+NowTime: 0
+
+The Road is: x898988989
+
+The Road is: x898988989
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$53{conj_$50{int, LC86, S6189019, #1},HILBERT_MAX} derived_$54{conj_$50{int, LC86, S6189019, #1},minX} derived_$55{conj_$50{int, LC86, S6189019, #1},minY} derived_$56{conj_$50{int, LC86, S6189019, #1},width} derived_$57{conj_$50{int, LC86, S6189019, #1},height} 
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x889
+NowTime: 0
+
+The Road is: x889
+
+The Road is: x889
+insert:
+get : &Base{a,__shared_ptr} 
+The Road is: x889
+insert:
+_M_get : &Base{Base{a,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x889
+
+The Road is: x889
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$13{conj_$2{int, LC72, S6200423, #1},HILBERT_MAX} derived_$14{conj_$2{int, LC72, S6200423, #1},minX} derived_$15{conj_$2{int, LC72, S6200423, #1},minY} derived_$16{conj_$2{int, LC72, S6200423, #1},width} derived_$17{conj_$2{int, LC72, S6200423, #1},height} NowTime: 0
+NowTime: 0
+
+The Road is: x889
+NowTime: 0
+
+The Road is: x889
+
+The Road is: x889
+insert:
+get : &Base{b,__shared_ptr} 
+The Road is: x889
+insert:
+_M_get : &Base{Base{b,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x889
+
+The Road is: x889
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$23{conj_$19{int, LC73, S6189019, #1},HILBERT_MAX} derived_$24{conj_$19{int, LC73, S6189019, #1},minX} derived_$25{conj_$19{int, LC73, S6189019, #1},minY} derived_$26{conj_$19{int, LC73, S6189019, #1},width} derived_$27{conj_$19{int, LC73, S6189019, #1},height} 
+
+NowTime: 0
+
+The Road is: x889898
+NowTime: 0
+
+The Road is: x889898
+NowTime: 0
+
+The Road is: x889898
+
+The Road is: x889898
+NowTime: 0
+
+The Road is: x8898988
+
+The Road is: x8898988
+
+The Road is: x8898988
+
+The Road is: x8898988
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x8898988
+NowTime: 0
+
+The Road is: x8898988
+
+The Road is: x8898988
+
+The Road is: x8898988
+NowTime: 0
+
+The Road is: x8898988
+
+The Road is: x8898988
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$44{conj_$29{int, LC73, S6189129, #1},HILBERT_MAX} derived_$45{conj_$29{int, LC73, S6189129, #1},minX} derived_$46{conj_$29{int, LC73, S6189129, #1},minY} derived_$47{conj_$29{int, LC73, S6189129, #1},width} derived_$48{conj_$29{int, LC73, S6189129, #1},height} NowTime: 0
+NowTime: 0
+
+The Road is: x8898988
+NowTime: 0
+
+The Road is: x8898988
+
+The Road is: x8898988
+
+The Road is: x8898988
+NowTime: 0
+
+The Road is: x8898988
+
+The Road is: x8898988
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$53{conj_$50{int, LC86, S6189019, #1},HILBERT_MAX} derived_$54{conj_$50{int, LC86, S6189019, #1},minX} derived_$55{conj_$50{int, LC86, S6189019, #1},minY} derived_$56{conj_$50{int, LC86, S6189019, #1},width} derived_$57{conj_$50{int, LC86, S6189019, #1},height} 
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x8888
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+insert:
+get : &Base{a,__shared_ptr} 
+The Road is: x8888
+insert:
+_M_get : &Base{Base{a,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$13{conj_$2{int, LC72, S6200423, #1},HILBERT_MAX} derived_$14{conj_$2{int, LC72, S6200423, #1},minX} derived_$15{conj_$2{int, LC72, S6200423, #1},minY} derived_$16{conj_$2{int, LC72, S6200423, #1},width} derived_$17{conj_$2{int, LC72, S6200423, #1},height} NowTime: 0
+NowTime: 0
+
+The Road is: x8888
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+insert:
+get : &Base{b,__shared_ptr} 
+The Road is: x8888
+insert:
+_M_get : &Base{Base{b,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$23{conj_$19{int, LC73, S6189019, #1},HILBERT_MAX} derived_$24{conj_$19{int, LC73, S6189019, #1},minX} derived_$25{conj_$19{int, LC73, S6189019, #1},minY} derived_$26{conj_$19{int, LC73, S6189019, #1},width} derived_$27{conj_$19{int, LC73, S6189019, #1},height} 
+
+NowTime: 0
+
+The Road is: x888888
+NowTime: 0
+
+The Road is: x888888
+NowTime: 0
+
+The Road is: x888888
+
+The Road is: x888888
+NowTime: 0
+
+The Road is: x8888888
+
+The Road is: x8888888
+
+The Road is: x8888888
+
+The Road is: x8888888
+NowTime: 1
+
+The Road is: x88888888
+NowTime: 1
+
+The Road is: x88888888
+NowTime: 1
+
+The Road is: x88888888
+
+The Road is: x88888888
+NowTime: 1
+
+The Road is: x888888888
+
+The Road is: x888888888
+
+The Road is: x888888888
+
+The Road is: x888888888
+NowTime: 1
+
+NowTime: 1
+NowTime: 1
+
+The Road is: x888888888
+NowTime: 1
+
+The Road is: x888888888
+
+The Road is: x888888888
+
+The Road is: x888888888
+NowTime: 1
+
+The Road is: x888888888
+
+The Road is: x888888888
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$44{conj_$29{int, LC73, S6189129, #1},HILBERT_MAX} derived_$45{conj_$29{int, LC73, S6189129, #1},minX} derived_$46{conj_$29{int, LC73, S6189129, #1},minY} derived_$47{conj_$29{int, LC73, S6189129, #1},width} derived_$48{conj_$29{int, LC73, S6189129, #1},height} NowTime: 1
+NowTime: 1
+
+The Road is: x888888888
+NowTime: 1
+
+The Road is: x888888888
+
+The Road is: x888888888
+
+The Road is: x888888888
+NowTime: 1
+
+The Road is: x888888888
+
+The Road is: x888888888
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$53{conj_$50{int, LC86, S6189019, #1},HILBERT_MAX} derived_$54{conj_$50{int, LC86, S6189019, #1},minX} derived_$55{conj_$50{int, LC86, S6189019, #1},minY} derived_$56{conj_$50{int, LC86, S6189019, #1},width} derived_$57{conj_$50{int, LC86, S6189019, #1},height} 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x99
+NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+get : &Base{a,__shared_ptr} 
+The Road is: x99
+insert:
+_M_get : &Base{Base{a,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$13{conj_$2{int, LC72, S6198026, #1},HILBERT_MAX} derived_$14{conj_$2{int, LC72, S6198026, #1},minX} derived_$15{conj_$2{int, LC72, S6198026, #1},minY} derived_$16{conj_$2{int, LC72, S6198026, #1},width} derived_$17{conj_$2{int, LC72, S6198026, #1},height} NowTime: 0
+NowTime: 0
+
+The Road is: x99
+NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+get : &Base{b,__shared_ptr} 
+The Road is: x99
+insert:
+_M_get : &Base{Base{b,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$23{conj_$19{int, LC119, S6189019, #1},HILBERT_MAX} derived_$24{conj_$19{int, LC119, S6189019, #1},minX} derived_$25{conj_$19{int, LC119, S6189019, #1},minY} derived_$26{conj_$19{int, LC119, S6189019, #1},width} derived_$27{conj_$19{int, LC119, S6189019, #1},height} 
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x99899
+NowTime: 0
+
+The Road is: x99899
+
+The Road is: x99899
+
+The Road is: x99899
+NowTime: 0
+
+The Road is: x99899
+
+The Road is: x99899
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$46{conj_$29{int, LC119, S6189129, #1},HILBERT_MAX} derived_$47{conj_$29{int, LC119, S6189129, #1},minX} derived_$48{conj_$29{int, LC119, S6189129, #1},minY} derived_$49{conj_$29{int, LC119, S6189129, #1},width} derived_$50{conj_$29{int, LC119, S6189129, #1},height} NowTime: 0
+NowTime: 0
+
+The Road is: x99899
+NowTime: 0
+
+The Road is: x99899
+
+The Road is: x99899
+
+The Road is: x99899
+NowTime: 0
+
+The Road is: x99899
+
+The Road is: x99899
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$55{conj_$52{int, LC132, S6189019, #1},HILBERT_MAX} derived_$56{conj_$52{int, LC132, S6189019, #1},minX} derived_$57{conj_$52{int, LC132, S6189019, #1},minY} derived_$58{conj_$52{int, LC132, S6189019, #1},width} derived_$59{conj_$52{int, LC132, S6189019, #1},height} 
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x99899899
+NowTime: 0
+
+The Road is: x99899899
+
+The Road is: x99899899
+
+The Road is: x99899899
+NowTime: 0
+
+The Road is: x99899899
+
+The Road is: x99899899
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$68{conj_$61{int, LC132, S6189129, #1},HILBERT_MAX} derived_$69{conj_$61{int, LC132, S6189129, #1},minX} derived_$70{conj_$61{int, LC132, S6189129, #1},minY} derived_$71{conj_$61{int, LC132, S6189129, #1},width} derived_$72{conj_$61{int, LC132, S6189129, #1},height} NowTime: 0
+NowTime: 0
+
+The Road is: x99899899
+NowTime: 0
+
+The Road is: x99899899
+
+The Road is: x99899899
+
+The Road is: x99899899
+NowTime: 0
+
+The Road is: x99899899
+
+The Road is: x99899899
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$77{conj_$74{int, LC145, S6189019, #1},HILBERT_MAX} derived_$78{conj_$74{int, LC145, S6189019, #1},minX} derived_$79{conj_$74{int, LC145, S6189019, #1},minY} derived_$80{conj_$74{int, LC145, S6189019, #1},width} derived_$81{conj_$74{int, LC145, S6189019, #1},height} 
+
+NowTime: 0
+
+The Road is: x99898
+NowTime: 0
+
+The Road is: x99898
+NowTime: 0
+
+The Road is: x99898
+
+The Road is: x99898
+insert:
+__gthread_active_p : NowTime: 0
+
+The Road is: x998989
+
+The Road is: x998989
+insert:
+__atomic_add_single : &Element{SymRegion{reg_$44<_Sp_counted_base<(_Lock_policy)2U> * Base{c,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x998989
+insert:
+__atomic_add_dispatch : &Element{SymRegion{reg_$44<_Sp_counted_base<(_Lock_policy)2U> * Base{c,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x998989
+insert:
+_M_add_ref_copy : &SymRegion{reg_$44<_Sp_counted_base<(_Lock_policy)2U> * Base{c,__shared_ptr}._M_refcount._M_pi>} NowTime: 0
+
+
+The Road is: x99898
+NowTime: 0
+
+The Road is: x998988
+
+The Road is: x998988
+insert:
+__atomic_add : &Element{SymRegion{reg_$44<_Sp_counted_base<(_Lock_policy)2U> * Base{c,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x998988
+insert:
+__atomic_add_dispatch : &Element{SymRegion{reg_$44<_Sp_counted_base<(_Lock_policy)2U> * Base{c,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x998988
+insert:
+_M_add_ref_copy : &SymRegion{reg_$44<_Sp_counted_base<(_Lock_policy)2U> * Base{c,__shared_ptr}._M_refcount._M_pi>} NowTime: 0
+
+NowTime: 0
+
+The Road is: x98
+NowTime: 0
+
+The Road is: x98
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+insert:
+__gthread_active_p : NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+insert:
+__atomic_add_single : &Element{SymRegion{reg_$10<_Sp_counted_base<(_Lock_policy)2U> * Base{b,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x989
+insert:
+__atomic_add_dispatch : &Element{SymRegion{reg_$10<_Sp_counted_base<(_Lock_policy)2U> * Base{b,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x989
+insert:
+_M_add_ref_copy : &SymRegion{reg_$10<_Sp_counted_base<(_Lock_policy)2U> * Base{b,__shared_ptr}._M_refcount._M_pi>} NowTime: 0
+
+
+The Road is: x98
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+insert:
+__atomic_add : &Element{SymRegion{reg_$10<_Sp_counted_base<(_Lock_policy)2U> * Base{b,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x988
+insert:
+__atomic_add_dispatch : &Element{SymRegion{reg_$10<_Sp_counted_base<(_Lock_policy)2U> * Base{b,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x988
+insert:
+_M_add_ref_copy : &SymRegion{reg_$10<_Sp_counted_base<(_Lock_policy)2U> * Base{b,__shared_ptr}._M_refcount._M_pi>} NowTime: 0
+
+NowTime: 0
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+__gthread_active_p : NowTime: 0
+
+The Road is: x89
+
+The Road is: x89
+insert:
+__atomic_add_single : &Element{SymRegion{reg_$6<_Sp_counted_base<(_Lock_policy)2U> * Base{a,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x89
+insert:
+__atomic_add_dispatch : &Element{SymRegion{reg_$6<_Sp_counted_base<(_Lock_policy)2U> * Base{a,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x89
+insert:
+_M_add_ref_copy : &SymRegion{reg_$6<_Sp_counted_base<(_Lock_policy)2U> * Base{a,__shared_ptr}._M_refcount._M_pi>} 
+The Road is: x8
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+__atomic_add : &Element{SymRegion{reg_$6<_Sp_counted_base<(_Lock_policy)2U> * Base{a,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x88
+insert:
+__atomic_add_dispatch : &Element{SymRegion{reg_$6<_Sp_counted_base<(_Lock_policy)2U> * Base{a,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x88
+insert:
+_M_add_ref_copy : &SymRegion{reg_$6<_Sp_counted_base<(_Lock_policy)2U> * Base{a,__shared_ptr}._M_refcount._M_pi>} NowTime: 0
+
+NowTime: 0
+
+The Road is: x898
+NowTime: 0
+
+The Road is: x898
+NowTime: 0
+
+The Road is: x898
+
+The Road is: x898
+NowTime: 0
+
+The Road is: x8989
+
+The Road is: x8989
+insert:
+__atomic_add_single : &Element{SymRegion{reg_$10<_Sp_counted_base<(_Lock_policy)2U> * Base{b,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x8989
+insert:
+__atomic_add_dispatch : &Element{SymRegion{reg_$10<_Sp_counted_base<(_Lock_policy)2U> * Base{b,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x8989
+insert:
+_M_add_ref_copy : &SymRegion{reg_$10<_Sp_counted_base<(_Lock_policy)2U> * Base{b,__shared_ptr}._M_refcount._M_pi>} NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x989
+NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+insert:
+get : &Base{a,__shared_ptr} 
+The Road is: x989
+insert:
+_M_get : &Base{Base{a,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$13{conj_$2{int, LC72, S6198026, #1},HILBERT_MAX} derived_$14{conj_$2{int, LC72, S6198026, #1},minX} derived_$15{conj_$2{int, LC72, S6198026, #1},minY} derived_$16{conj_$2{int, LC72, S6198026, #1},width} derived_$17{conj_$2{int, LC72, S6198026, #1},height} NowTime: 0
+NowTime: 0
+
+The Road is: x989
+NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+insert:
+get : &Base{b,__shared_ptr} 
+The Road is: x989
+insert:
+_M_get : &Base{Base{b,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$23{conj_$19{int, LC119, S6189019, #1},HILBERT_MAX} derived_$24{conj_$19{int, LC119, S6189019, #1},minX} derived_$25{conj_$19{int, LC119, S6189019, #1},minY} derived_$26{conj_$19{int, LC119, S6189019, #1},width} derived_$27{conj_$19{int, LC119, S6189019, #1},height} 
+
+NowTime: 0
+
+The Road is: x98988
+NowTime: 0
+
+The Road is: x98988
+NowTime: 0
+
+The Road is: x98988
+
+The Road is: x98988
+NowTime: 0
+
+The Road is: x989889
+
+The Road is: x989889
+
+The Road is: x989889
+
+The Road is: x989889
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9898898
+NowTime: 0
+
+The Road is: x9898898
+NowTime: 0
+
+The Road is: x9898898
+
+The Road is: x9898898
+NowTime: 0
+
+The Road is: x98988989
+
+The Road is: x98988989
+insert:
+__atomic_add_single : &Element{SymRegion{reg_$44<_Sp_counted_base<(_Lock_policy)2U> * Base{c,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x98988989
+insert:
+__atomic_add_dispatch : &Element{SymRegion{reg_$44<_Sp_counted_base<(_Lock_policy)2U> * Base{c,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x98988989
+insert:
+_M_add_ref_copy : &SymRegion{reg_$44<_Sp_counted_base<(_Lock_policy)2U> * Base{c,__shared_ptr}._M_refcount._M_pi>} NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x998989
+NowTime: 0
+
+The Road is: x998989
+
+The Road is: x998989
+
+The Road is: x998989
+NowTime: 0
+
+The Road is: x998989
+
+The Road is: x998989
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$46{conj_$29{int, LC119, S6189129, #1},HILBERT_MAX} derived_$47{conj_$29{int, LC119, S6189129, #1},minX} derived_$48{conj_$29{int, LC119, S6189129, #1},minY} derived_$49{conj_$29{int, LC119, S6189129, #1},width} derived_$50{conj_$29{int, LC119, S6189129, #1},height} NowTime: 0
+NowTime: 0
+
+The Road is: x998989
+NowTime: 0
+
+The Road is: x998989
+
+The Road is: x998989
+
+The Road is: x998989
+NowTime: 0
+
+The Road is: x998989
+
+The Road is: x998989
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$55{conj_$52{int, LC132, S6189019, #1},HILBERT_MAX} derived_$56{conj_$52{int, LC132, S6189019, #1},minX} derived_$57{conj_$52{int, LC132, S6189019, #1},minY} derived_$58{conj_$52{int, LC132, S6189019, #1},width} derived_$59{conj_$52{int, LC132, S6189019, #1},height} 
+
+NowTime: 0
+
+The Road is: x99898988
+NowTime: 0
+
+The Road is: x99898988
+NowTime: 0
+
+The Road is: x99898988
+
+The Road is: x99898988
+NowTime: 0
+
+The Road is: x998989889
+
+The Road is: x998989889
+
+The Road is: x998989889
+
+The Road is: x998989889
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x9989898899
+NowTime: 0
+
+The Road is: x9989898899
+
+The Road is: x9989898899
+
+The Road is: x9989898899
+NowTime: 0
+
+The Road is: x9989898899
+
+The Road is: x9989898899
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$68{conj_$61{int, LC132, S6189129, #1},HILBERT_MAX} derived_$69{conj_$61{int, LC132, S6189129, #1},minX} derived_$70{conj_$61{int, LC132, S6189129, #1},minY} derived_$71{conj_$61{int, LC132, S6189129, #1},width} derived_$72{conj_$61{int, LC132, S6189129, #1},height} NowTime: 0
+NowTime: 0
+
+The Road is: x9989898899
+NowTime: 0
+
+The Road is: x9989898899
+
+The Road is: x9989898899
+
+The Road is: x9989898899
+NowTime: 0
+
+The Road is: x9989898899
+
+The Road is: x9989898899
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$77{conj_$74{int, LC145, S6189019, #1},HILBERT_MAX} derived_$78{conj_$74{int, LC145, S6189019, #1},minX} derived_$79{conj_$74{int, LC145, S6189019, #1},minY} derived_$80{conj_$74{int, LC145, S6189019, #1},width} derived_$81{conj_$74{int, LC145, S6189019, #1},height} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x888
+NowTime: 0
+
+The Road is: x888
+NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+insert:
+__atomic_add : &Element{SymRegion{reg_$10<_Sp_counted_base<(_Lock_policy)2U> * Base{b,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x8888
+insert:
+__atomic_add_dispatch : &Element{SymRegion{reg_$10<_Sp_counted_base<(_Lock_policy)2U> * Base{b,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x8888
+insert:
+_M_add_ref_copy : &SymRegion{reg_$10<_Sp_counted_base<(_Lock_policy)2U> * Base{b,__shared_ptr}._M_refcount._M_pi>} NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x988
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+insert:
+get : &Base{a,__shared_ptr} 
+The Road is: x988
+insert:
+_M_get : &Base{Base{a,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$13{conj_$2{int, LC72, S6198026, #1},HILBERT_MAX} derived_$14{conj_$2{int, LC72, S6198026, #1},minX} derived_$15{conj_$2{int, LC72, S6198026, #1},minY} derived_$16{conj_$2{int, LC72, S6198026, #1},width} derived_$17{conj_$2{int, LC72, S6198026, #1},height} NowTime: 0
+NowTime: 0
+
+The Road is: x988
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+insert:
+get : &Base{b,__shared_ptr} 
+The Road is: x988
+insert:
+_M_get : &Base{Base{b,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$23{conj_$19{int, LC119, S6189019, #1},HILBERT_MAX} derived_$24{conj_$19{int, LC119, S6189019, #1},minX} derived_$25{conj_$19{int, LC119, S6189019, #1},minY} derived_$26{conj_$19{int, LC119, S6189019, #1},width} derived_$27{conj_$19{int, LC119, S6189019, #1},height} 
+
+NowTime: 0
+
+The Road is: x98888
+NowTime: 0
+
+The Road is: x98888
+NowTime: 0
+
+The Road is: x98888
+
+The Road is: x98888
+NowTime: 0
+
+The Road is: x988888
+
+The Road is: x988888
+
+The Road is: x988888
+
+The Road is: x988888
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9888888
+NowTime: 0
+
+The Road is: x9888888
+NowTime: 0
+
+The Road is: x9888888
+
+The Road is: x9888888
+NowTime: 0
+
+The Road is: x98888888
+
+The Road is: x98888888
+insert:
+__atomic_add : &Element{SymRegion{reg_$44<_Sp_counted_base<(_Lock_policy)2U> * Base{c,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x98888888
+insert:
+__atomic_add_dispatch : &Element{SymRegion{reg_$44<_Sp_counted_base<(_Lock_policy)2U> * Base{c,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x98888888
+insert:
+_M_add_ref_copy : &SymRegion{reg_$44<_Sp_counted_base<(_Lock_policy)2U> * Base{c,__shared_ptr}._M_refcount._M_pi>} NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x998988
+NowTime: 0
+
+The Road is: x998988
+
+The Road is: x998988
+
+The Road is: x998988
+NowTime: 0
+
+The Road is: x998988
+
+The Road is: x998988
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$46{conj_$29{int, LC119, S6189129, #1},HILBERT_MAX} derived_$47{conj_$29{int, LC119, S6189129, #1},minX} derived_$48{conj_$29{int, LC119, S6189129, #1},minY} derived_$49{conj_$29{int, LC119, S6189129, #1},width} derived_$50{conj_$29{int, LC119, S6189129, #1},height} NowTime: 0
+NowTime: 0
+
+The Road is: x998988
+NowTime: 0
+
+The Road is: x998988
+
+The Road is: x998988
+
+The Road is: x998988
+NowTime: 0
+
+The Road is: x998988
+
+The Road is: x998988
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$55{conj_$52{int, LC132, S6189019, #1},HILBERT_MAX} derived_$56{conj_$52{int, LC132, S6189019, #1},minX} derived_$57{conj_$52{int, LC132, S6189019, #1},minY} derived_$58{conj_$52{int, LC132, S6189019, #1},width} derived_$59{conj_$52{int, LC132, S6189019, #1},height} 
+
+NowTime: 0
+
+The Road is: x99898888
+NowTime: 0
+
+The Road is: x99898888
+NowTime: 0
+
+The Road is: x99898888
+
+The Road is: x99898888
+NowTime: 0
+
+The Road is: x998988888
+
+The Road is: x998988888
+
+The Road is: x998988888
+
+The Road is: x998988888
+NowTime: 1
+
+NowTime: 1
+NowTime: 1
+
+The Road is: x9989888889
+NowTime: 1
+
+The Road is: x9989888889
+
+The Road is: x9989888889
+
+The Road is: x9989888889
+NowTime: 1
+
+The Road is: x9989888889
+
+The Road is: x9989888889
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$68{conj_$61{int, LC132, S6189129, #1},HILBERT_MAX} derived_$69{conj_$61{int, LC132, S6189129, #1},minX} derived_$70{conj_$61{int, LC132, S6189129, #1},minY} derived_$71{conj_$61{int, LC132, S6189129, #1},width} derived_$72{conj_$61{int, LC132, S6189129, #1},height} NowTime: 1
+NowTime: 1
+
+The Road is: x9989888889
+NowTime: 1
+
+The Road is: x9989888889
+
+The Road is: x9989888889
+
+The Road is: x9989888889
+NowTime: 1
+
+The Road is: x9989888889
+
+The Road is: x9989888889
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$77{conj_$74{int, LC145, S6189019, #1},HILBERT_MAX} derived_$78{conj_$74{int, LC145, S6189019, #1},minX} derived_$79{conj_$74{int, LC145, S6189019, #1},minY} derived_$80{conj_$74{int, LC145, S6189019, #1},width} derived_$81{conj_$74{int, LC145, S6189019, #1},height} 
+
+NowTime: 1
+NowTime: 1
+
+The Road is: x9898899
+NowTime: 1
+
+The Road is: x9898899
+
+The Road is: x9898899
+
+The Road is: x9898899
+NowTime: 1
+
+The Road is: x9898899
+
+The Road is: x9898899
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$46{conj_$29{int, LC119, S6189129, #1},HILBERT_MAX} derived_$47{conj_$29{int, LC119, S6189129, #1},minX} derived_$48{conj_$29{int, LC119, S6189129, #1},minY} derived_$49{conj_$29{int, LC119, S6189129, #1},width} derived_$50{conj_$29{int, LC119, S6189129, #1},height} NowTime: 1
+NowTime: 1
+
+The Road is: x9898899
+NowTime: 1
+
+The Road is: x9898899
+
+The Road is: x9898899
+
+The Road is: x9898899
+NowTime: 1
+
+The Road is: x9898899
+
+The Road is: x9898899
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$55{conj_$52{int, LC132, S6189019, #1},HILBERT_MAX} derived_$56{conj_$52{int, LC132, S6189019, #1},minX} derived_$57{conj_$52{int, LC132, S6189019, #1},minY} derived_$58{conj_$52{int, LC132, S6189019, #1},width} derived_$59{conj_$52{int, LC132, S6189019, #1},height} 
+
+NowTime: 1
+
+NowTime: 1
+NowTime: 1
+
+The Road is: x9898899899
+NowTime: 1
+
+The Road is: x9898899899
+
+The Road is: x9898899899
+
+The Road is: x9898899899
+NowTime: 1
+
+The Road is: x9898899899
+
+The Road is: x9898899899
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$68{conj_$61{int, LC132, S6189129, #1},HILBERT_MAX} derived_$69{conj_$61{int, LC132, S6189129, #1},minX} derived_$70{conj_$61{int, LC132, S6189129, #1},minY} derived_$71{conj_$61{int, LC132, S6189129, #1},width} derived_$72{conj_$61{int, LC132, S6189129, #1},height} NowTime: 1
+NowTime: 1
+
+The Road is: x9898899899
+NowTime: 1
+
+The Road is: x9898899899
+
+The Road is: x9898899899
+
+The Road is: x9898899899
+NowTime: 1
+
+The Road is: x9898899899
+
+The Road is: x9898899899
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$77{conj_$74{int, LC145, S6189019, #1},HILBERT_MAX} derived_$78{conj_$74{int, LC145, S6189019, #1},minX} derived_$79{conj_$74{int, LC145, S6189019, #1},minY} derived_$80{conj_$74{int, LC145, S6189019, #1},width} derived_$81{conj_$74{int, LC145, S6189019, #1},height} 
+
+NowTime: 1
+NowTime: 1
+
+The Road is: x899
+NowTime: 1
+
+The Road is: x899
+
+The Road is: x899
+insert:
+get : &Base{a,__shared_ptr} 
+The Road is: x899
+insert:
+_M_get : &Base{Base{a,__shared_ptr},__shared_ptr_access} NowTime: 1
+
+The Road is: x899
+
+The Road is: x899
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$13{conj_$2{int, LC72, S6198026, #1},HILBERT_MAX} derived_$14{conj_$2{int, LC72, S6198026, #1},minX} derived_$15{conj_$2{int, LC72, S6198026, #1},minY} derived_$16{conj_$2{int, LC72, S6198026, #1},width} derived_$17{conj_$2{int, LC72, S6198026, #1},height} NowTime: 1
+NowTime: 1
+
+The Road is: x899
+NowTime: 1
+
+The Road is: x899
+
+The Road is: x899
+insert:
+get : &Base{b,__shared_ptr} 
+The Road is: x899
+insert:
+_M_get : &Base{Base{b,__shared_ptr},__shared_ptr_access} NowTime: 1
+
+The Road is: x899
+
+The Road is: x899
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$23{conj_$19{int, LC119, S6189019, #1},HILBERT_MAX} derived_$24{conj_$19{int, LC119, S6189019, #1},minX} derived_$25{conj_$19{int, LC119, S6189019, #1},minY} derived_$26{conj_$19{int, LC119, S6189019, #1},width} derived_$27{conj_$19{int, LC119, S6189019, #1},height} 
+
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x899898
+NowTime: 1
+
+The Road is: x899898
+NowTime: 1
+
+The Road is: x899898
+
+The Road is: x899898
+NowTime: 1
+
+The Road is: x8998989
+
+The Road is: x8998989
+insert:
+__atomic_add_single : &Element{SymRegion{reg_$44<_Sp_counted_base<(_Lock_policy)2U> * Base{c,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x8998989
+insert:
+__atomic_add_dispatch : &Element{SymRegion{reg_$44<_Sp_counted_base<(_Lock_policy)2U> * Base{c,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x8998989
+insert:
+_M_add_ref_copy : &SymRegion{reg_$44<_Sp_counted_base<(_Lock_policy)2U> * Base{c,__shared_ptr}._M_refcount._M_pi>} NowTime: 1
+
+NowTime: 1
+NowTime: 1
+
+The Road is: x98988989
+NowTime: 1
+
+The Road is: x98988989
+
+The Road is: x98988989
+
+The Road is: x98988989
+NowTime: 1
+
+The Road is: x98988989
+
+The Road is: x98988989
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$46{conj_$29{int, LC119, S6189129, #1},HILBERT_MAX} derived_$47{conj_$29{int, LC119, S6189129, #1},minX} derived_$48{conj_$29{int, LC119, S6189129, #1},minY} derived_$49{conj_$29{int, LC119, S6189129, #1},width} derived_$50{conj_$29{int, LC119, S6189129, #1},height} NowTime: 1
+NowTime: 1
+
+The Road is: x98988989
+NowTime: 1
+
+The Road is: x98988989
+
+The Road is: x98988989
+
+The Road is: x98988989
+NowTime: 1
+
+The Road is: x98988989
+
+The Road is: x98988989
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$55{conj_$52{int, LC132, S6189019, #1},HILBERT_MAX} derived_$56{conj_$52{int, LC132, S6189019, #1},minX} derived_$57{conj_$52{int, LC132, S6189019, #1},minY} derived_$58{conj_$52{int, LC132, S6189019, #1},width} derived_$59{conj_$52{int, LC132, S6189019, #1},height} 
+
+NowTime: 1
+
+The Road is: x9898898988
+NowTime: 1
+
+The Road is: x9898898988
+NowTime: 1
+
+The Road is: x9898898988
+
+The Road is: x9898898988
+NowTime: 1
+
+The Road is: x98988989889
+
+The Road is: x98988989889
+
+The Road is: x98988989889
+
+The Road is: x98988989889
+NowTime: 2
+
+NowTime: 2
+NowTime: 2
+
+The Road is: x989889898899
+NowTime: 2
+
+The Road is: x989889898899
+
+The Road is: x989889898899
+
+The Road is: x989889898899
+NowTime: 2
+
+The Road is: x989889898899
+
+The Road is: x989889898899
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$68{conj_$61{int, LC132, S6189129, #1},HILBERT_MAX} derived_$69{conj_$61{int, LC132, S6189129, #1},minX} derived_$70{conj_$61{int, LC132, S6189129, #1},minY} derived_$71{conj_$61{int, LC132, S6189129, #1},width} derived_$72{conj_$61{int, LC132, S6189129, #1},height} NowTime: 2
+NowTime: 2
+
+The Road is: x989889898899
+NowTime: 2
+
+The Road is: x989889898899
+
+The Road is: x989889898899
+
+The Road is: x989889898899
+NowTime: 2
+
+The Road is: x989889898899
+
+The Road is: x989889898899
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$77{conj_$74{int, LC145, S6189019, #1},HILBERT_MAX} derived_$78{conj_$74{int, LC145, S6189019, #1},minX} derived_$79{conj_$74{int, LC145, S6189019, #1},minY} derived_$80{conj_$74{int, LC145, S6189019, #1},width} derived_$81{conj_$74{int, LC145, S6189019, #1},height} 
+
+NowTime: 2
+NowTime: 2
+
+The Road is: x8989
+NowTime: 2
+
+The Road is: x8989
+
+The Road is: x8989
+insert:
+get : &Base{a,__shared_ptr} 
+The Road is: x8989
+insert:
+_M_get : &Base{Base{a,__shared_ptr},__shared_ptr_access} NowTime: 2
+
+The Road is: x8989
+
+The Road is: x8989
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$13{conj_$2{int, LC72, S6198026, #1},HILBERT_MAX} derived_$14{conj_$2{int, LC72, S6198026, #1},minX} derived_$15{conj_$2{int, LC72, S6198026, #1},minY} derived_$16{conj_$2{int, LC72, S6198026, #1},width} derived_$17{conj_$2{int, LC72, S6198026, #1},height} NowTime: 2
+NowTime: 2
+
+The Road is: x8989
+NowTime: 2
+
+The Road is: x8989
+
+The Road is: x8989
+insert:
+get : &Base{b,__shared_ptr} 
+The Road is: x8989
+insert:
+_M_get : &Base{Base{b,__shared_ptr},__shared_ptr_access} NowTime: 2
+
+The Road is: x8989
+
+The Road is: x8989
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$23{conj_$19{int, LC119, S6189019, #1},HILBERT_MAX} derived_$24{conj_$19{int, LC119, S6189019, #1},minX} derived_$25{conj_$19{int, LC119, S6189019, #1},minY} derived_$26{conj_$19{int, LC119, S6189019, #1},width} derived_$27{conj_$19{int, LC119, S6189019, #1},height} 
+
+NowTime: 2
+
+The Road is: x898988
+NowTime: 2
+
+The Road is: x898988
+NowTime: 2
+
+The Road is: x898988
+
+The Road is: x898988
+NowTime: 2
+
+The Road is: x8989889
+
+The Road is: x8989889
+
+The Road is: x8989889
+
+The Road is: x8989889
+NowTime: 2
+
+NowTime: 2
+
+The Road is: x89898898
+NowTime: 2
+
+The Road is: x89898898
+NowTime: 2
+
+The Road is: x89898898
+
+The Road is: x89898898
+NowTime: 2
+
+The Road is: x898988989
+
+The Road is: x898988989
+insert:
+__atomic_add_single : &Element{SymRegion{reg_$44<_Sp_counted_base<(_Lock_policy)2U> * Base{c,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x898988989
+insert:
+__atomic_add_dispatch : &Element{SymRegion{reg_$44<_Sp_counted_base<(_Lock_policy)2U> * Base{c,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x898988989
+insert:
+_M_add_ref_copy : &SymRegion{reg_$44<_Sp_counted_base<(_Lock_policy)2U> * Base{c,__shared_ptr}._M_refcount._M_pi>} NowTime: 2
+
+NowTime: 2
+NowTime: 2
+
+The Road is: x9888889
+NowTime: 2
+
+The Road is: x9888889
+
+The Road is: x9888889
+
+The Road is: x9888889
+NowTime: 2
+
+The Road is: x9888889
+
+The Road is: x9888889
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$46{conj_$29{int, LC119, S6189129, #1},HILBERT_MAX} derived_$47{conj_$29{int, LC119, S6189129, #1},minX} derived_$48{conj_$29{int, LC119, S6189129, #1},minY} derived_$49{conj_$29{int, LC119, S6189129, #1},width} derived_$50{conj_$29{int, LC119, S6189129, #1},height} NowTime: 2
+NowTime: 2
+
+The Road is: x9888889
+NowTime: 2
+
+The Road is: x9888889
+
+The Road is: x9888889
+
+The Road is: x9888889
+NowTime: 2
+
+The Road is: x9888889
+
+The Road is: x9888889
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$55{conj_$52{int, LC132, S6189019, #1},HILBERT_MAX} derived_$56{conj_$52{int, LC132, S6189019, #1},minX} derived_$57{conj_$52{int, LC132, S6189019, #1},minY} derived_$58{conj_$52{int, LC132, S6189019, #1},width} derived_$59{conj_$52{int, LC132, S6189019, #1},height} 
+
+NowTime: 2
+
+NowTime: 2
+NowTime: 2
+
+The Road is: x9888889899
+NowTime: 2
+
+The Road is: x9888889899
+
+The Road is: x9888889899
+
+The Road is: x9888889899
+NowTime: 3
+
+The Road is: x9888889899
+
+The Road is: x9888889899
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$68{conj_$61{int, LC132, S6189129, #1},HILBERT_MAX} derived_$69{conj_$61{int, LC132, S6189129, #1},minX} derived_$70{conj_$61{int, LC132, S6189129, #1},minY} derived_$71{conj_$61{int, LC132, S6189129, #1},width} derived_$72{conj_$61{int, LC132, S6189129, #1},height} NowTime: 3
+NowTime: 3
+
+The Road is: x9888889899
+NowTime: 3
+
+The Road is: x9888889899
+
+The Road is: x9888889899
+
+The Road is: x9888889899
+NowTime: 3
+
+The Road is: x9888889899
+
+The Road is: x9888889899
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$77{conj_$74{int, LC145, S6189019, #1},HILBERT_MAX} derived_$78{conj_$74{int, LC145, S6189019, #1},minX} derived_$79{conj_$74{int, LC145, S6189019, #1},minY} derived_$80{conj_$74{int, LC145, S6189019, #1},width} derived_$81{conj_$74{int, LC145, S6189019, #1},height} 
+
+NowTime: 3
+NowTime: 3
+
+The Road is: x889
+NowTime: 3
+
+The Road is: x889
+
+The Road is: x889
+insert:
+get : &Base{a,__shared_ptr} 
+The Road is: x889
+insert:
+_M_get : &Base{Base{a,__shared_ptr},__shared_ptr_access} NowTime: 3
+
+The Road is: x889
+
+The Road is: x889
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$13{conj_$2{int, LC72, S6198026, #1},HILBERT_MAX} derived_$14{conj_$2{int, LC72, S6198026, #1},minX} derived_$15{conj_$2{int, LC72, S6198026, #1},minY} derived_$16{conj_$2{int, LC72, S6198026, #1},width} derived_$17{conj_$2{int, LC72, S6198026, #1},height} NowTime: 3
+NowTime: 3
+
+The Road is: x889
+NowTime: 3
+
+The Road is: x889
+
+The Road is: x889
+insert:
+get : &Base{b,__shared_ptr} 
+The Road is: x889
+insert:
+_M_get : &Base{Base{b,__shared_ptr},__shared_ptr_access} NowTime: 3
+
+The Road is: x889
+
+The Road is: x889
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$23{conj_$19{int, LC119, S6189019, #1},HILBERT_MAX} derived_$24{conj_$19{int, LC119, S6189019, #1},minX} derived_$25{conj_$19{int, LC119, S6189019, #1},minY} derived_$26{conj_$19{int, LC119, S6189019, #1},width} derived_$27{conj_$19{int, LC119, S6189019, #1},height} 
+
+NowTime: 3
+
+NowTime: 3
+
+The Road is: x889898
+NowTime: 3
+
+The Road is: x889898
+NowTime: 3
+
+The Road is: x889898
+
+The Road is: x889898
+NowTime: 3
+
+The Road is: x8898988
+
+The Road is: x8898988
+insert:
+__atomic_add : &Element{SymRegion{reg_$44<_Sp_counted_base<(_Lock_policy)2U> * Base{c,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x8898988
+insert:
+__atomic_add_dispatch : &Element{SymRegion{reg_$44<_Sp_counted_base<(_Lock_policy)2U> * Base{c,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x8898988
+insert:
+_M_add_ref_copy : &SymRegion{reg_$44<_Sp_counted_base<(_Lock_policy)2U> * Base{c,__shared_ptr}._M_refcount._M_pi>} NowTime: 3
+
+NowTime: 3
+NowTime: 3
+
+The Road is: x98888888
+NowTime: 3
+
+The Road is: x98888888
+
+The Road is: x98888888
+
+The Road is: x98888888
+NowTime: 3
+
+The Road is: x98888888
+
+The Road is: x98888888
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$46{conj_$29{int, LC119, S6189129, #1},HILBERT_MAX} derived_$47{conj_$29{int, LC119, S6189129, #1},minX} derived_$48{conj_$29{int, LC119, S6189129, #1},minY} derived_$49{conj_$29{int, LC119, S6189129, #1},width} derived_$50{conj_$29{int, LC119, S6189129, #1},height} NowTime: 3
+NowTime: 3
+
+The Road is: x98888888
+NowTime: 3
+
+The Road is: x98888888
+
+The Road is: x98888888
+
+The Road is: x98888888
+NowTime: 3
+
+The Road is: x98888888
+
+The Road is: x98888888
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$55{conj_$52{int, LC132, S6189019, #1},HILBERT_MAX} derived_$56{conj_$52{int, LC132, S6189019, #1},minX} derived_$57{conj_$52{int, LC132, S6189019, #1},minY} derived_$58{conj_$52{int, LC132, S6189019, #1},width} derived_$59{conj_$52{int, LC132, S6189019, #1},height} 
+
+NowTime: 3
+
+The Road is: x9888888888
+NowTime: 3
+
+The Road is: x9888888888
+NowTime: 3
+
+The Road is: x9888888888
+
+The Road is: x9888888888
+NowTime: 3
+
+The Road is: x98888888888
+
+The Road is: x98888888888
+
+The Road is: x98888888888
+
+The Road is: x98888888888
+NowTime: 3
+
+NowTime: 3
+NowTime: 3
+
+The Road is: x988888888889
+NowTime: 3
+
+The Road is: x988888888889
+
+The Road is: x988888888889
+
+The Road is: x988888888889
+NowTime: 4
+
+The Road is: x988888888889
+
+The Road is: x988888888889
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$68{conj_$61{int, LC132, S6189129, #1},HILBERT_MAX} derived_$69{conj_$61{int, LC132, S6189129, #1},minX} derived_$70{conj_$61{int, LC132, S6189129, #1},minY} derived_$71{conj_$61{int, LC132, S6189129, #1},width} derived_$72{conj_$61{int, LC132, S6189129, #1},height} NowTime: 4
+NowTime: 4
+
+The Road is: x988888888889
+NowTime: 4
+
+The Road is: x988888888889
+
+The Road is: x988888888889
+
+The Road is: x988888888889
+NowTime: 4
+
+The Road is: x988888888889
+
+The Road is: x988888888889
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$77{conj_$74{int, LC145, S6189019, #1},HILBERT_MAX} derived_$78{conj_$74{int, LC145, S6189019, #1},minX} derived_$79{conj_$74{int, LC145, S6189019, #1},minY} derived_$80{conj_$74{int, LC145, S6189019, #1},width} derived_$81{conj_$74{int, LC145, S6189019, #1},height} 
+
+NowTime: 4
+NowTime: 4
+
+The Road is: x8888
+NowTime: 4
+
+The Road is: x8888
+
+The Road is: x8888
+insert:
+get : &Base{a,__shared_ptr} 
+The Road is: x8888
+insert:
+_M_get : &Base{Base{a,__shared_ptr},__shared_ptr_access} NowTime: 4
+
+The Road is: x8888
+
+The Road is: x8888
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$13{conj_$2{int, LC72, S6198026, #1},HILBERT_MAX} derived_$14{conj_$2{int, LC72, S6198026, #1},minX} derived_$15{conj_$2{int, LC72, S6198026, #1},minY} derived_$16{conj_$2{int, LC72, S6198026, #1},width} derived_$17{conj_$2{int, LC72, S6198026, #1},height} NowTime: 4
+NowTime: 4
+
+The Road is: x8888
+NowTime: 4
+
+The Road is: x8888
+
+The Road is: x8888
+insert:
+get : &Base{b,__shared_ptr} 
+The Road is: x8888
+insert:
+_M_get : &Base{Base{b,__shared_ptr},__shared_ptr_access} NowTime: 4
+
+The Road is: x8888
+
+The Road is: x8888
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$23{conj_$19{int, LC119, S6189019, #1},HILBERT_MAX} derived_$24{conj_$19{int, LC119, S6189019, #1},minX} derived_$25{conj_$19{int, LC119, S6189019, #1},minY} derived_$26{conj_$19{int, LC119, S6189019, #1},width} derived_$27{conj_$19{int, LC119, S6189019, #1},height} 
+
+NowTime: 4
+
+The Road is: x888888
+NowTime: 4
+
+The Road is: x888888
+NowTime: 4
+
+The Road is: x888888
+
+The Road is: x888888
+NowTime: 4
+
+The Road is: x8888888
+
+The Road is: x8888888
+
+The Road is: x8888888
+
+The Road is: x8888888
+NowTime: 4
+
+NowTime: 4
+
+The Road is: x88888888
+NowTime: 4
+
+The Road is: x88888888
+NowTime: 4
+
+The Road is: x88888888
+
+The Road is: x88888888
+NowTime: 4
+
+The Road is: x888888888
+
+The Road is: x888888888
+insert:
+__atomic_add : &Element{SymRegion{reg_$44<_Sp_counted_base<(_Lock_policy)2U> * Base{c,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x888888888
+insert:
+__atomic_add_dispatch : &Element{SymRegion{reg_$44<_Sp_counted_base<(_Lock_policy)2U> * Base{c,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x888888888
+insert:
+_M_add_ref_copy : &SymRegion{reg_$44<_Sp_counted_base<(_Lock_policy)2U> * Base{c,__shared_ptr}._M_refcount._M_pi>} NowTime: 4
+
+NowTime: 4
+NowTime: 4
+
+The Road is: x899899
+NowTime: 4
+
+The Road is: x899899
+
+The Road is: x899899
+
+The Road is: x899899
+NowTime: 4
+
+The Road is: x899899
+
+The Road is: x899899
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$46{conj_$29{int, LC119, S6189129, #1},HILBERT_MAX} derived_$47{conj_$29{int, LC119, S6189129, #1},minX} derived_$48{conj_$29{int, LC119, S6189129, #1},minY} derived_$49{conj_$29{int, LC119, S6189129, #1},width} derived_$50{conj_$29{int, LC119, S6189129, #1},height} NowTime: 4
+NowTime: 4
+
+The Road is: x899899
+NowTime: 4
+
+The Road is: x899899
+
+The Road is: x899899
+
+The Road is: x899899
+NowTime: 4
+
+The Road is: x899899
+
+The Road is: x899899
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$55{conj_$52{int, LC132, S6189019, #1},HILBERT_MAX} derived_$56{conj_$52{int, LC132, S6189019, #1},minX} derived_$57{conj_$52{int, LC132, S6189019, #1},minY} derived_$58{conj_$52{int, LC132, S6189019, #1},width} derived_$59{conj_$52{int, LC132, S6189019, #1},height} 
+
+NowTime: 4
+
+The Road is: x899899898
+NowTime: 4
+
+The Road is: x899899898
+NowTime: 4
+
+The Road is: x899899898
+
+The Road is: x899899898
+NowTime: 4
+
+The Road is: x8998998989
+
+The Road is: x8998998989
+
+The Road is: x8998998989
+
+The Road is: x8998998989
+NowTime: 5
+
+NowTime: 5
+NowTime: 5
+
+The Road is: x8998998989
+NowTime: 5
+
+The Road is: x8998998989
+
+The Road is: x8998998989
+
+The Road is: x8998998989
+NowTime: 5
+
+The Road is: x8998998989
+
+The Road is: x8998998989
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$68{conj_$61{int, LC132, S6189129, #1},HILBERT_MAX} derived_$69{conj_$61{int, LC132, S6189129, #1},minX} derived_$70{conj_$61{int, LC132, S6189129, #1},minY} derived_$71{conj_$61{int, LC132, S6189129, #1},width} derived_$72{conj_$61{int, LC132, S6189129, #1},height} NowTime: 5
+NowTime: 5
+
+The Road is: x8998998989
+NowTime: 5
+
+The Road is: x8998998989
+
+The Road is: x8998998989
+
+The Road is: x8998998989
+NowTime: 5
+
+The Road is: x8998998989
+
+The Road is: x8998998989
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$77{conj_$74{int, LC145, S6189019, #1},HILBERT_MAX} derived_$78{conj_$74{int, LC145, S6189019, #1},minX} derived_$79{conj_$74{int, LC145, S6189019, #1},minY} derived_$80{conj_$74{int, LC145, S6189019, #1},width} derived_$81{conj_$74{int, LC145, S6189019, #1},height} 
+
+NowTime: 5
+NowTime: 5
+
+The Road is: x8998989
+NowTime: 5
+
+The Road is: x8998989
+
+The Road is: x8998989
+
+The Road is: x8998989
+NowTime: 5
+
+The Road is: x8998989
+
+The Road is: x8998989
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$46{conj_$29{int, LC119, S6189129, #1},HILBERT_MAX} derived_$47{conj_$29{int, LC119, S6189129, #1},minX} derived_$48{conj_$29{int, LC119, S6189129, #1},minY} derived_$49{conj_$29{int, LC119, S6189129, #1},width} derived_$50{conj_$29{int, LC119, S6189129, #1},height} NowTime: 5
+NowTime: 5
+
+The Road is: x8998989
+NowTime: 5
+
+The Road is: x8998989
+
+The Road is: x8998989
+
+The Road is: x8998989
+NowTime: 5
+
+The Road is: x8998989
+
+The Road is: x8998989
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$55{conj_$52{int, LC132, S6189019, #1},HILBERT_MAX} derived_$56{conj_$52{int, LC132, S6189019, #1},minX} derived_$57{conj_$52{int, LC132, S6189019, #1},minY} derived_$58{conj_$52{int, LC132, S6189019, #1},width} derived_$59{conj_$52{int, LC132, S6189019, #1},height} 
+
+NowTime: 5
+
+The Road is: x899898988
+NowTime: 5
+
+The Road is: x899898988
+NowTime: 5
+
+The Road is: x899898988
+
+The Road is: x899898988
+NowTime: 5
+
+The Road is: x8998989889
+
+The Road is: x8998989889
+
+The Road is: x8998989889
+
+The Road is: x8998989889
+NowTime: 6
+
+The Road is: x89989898898
+NowTime: 6
+
+The Road is: x89989898898
+NowTime: 6
+
+The Road is: x89989898898
+
+The Road is: x89989898898
+NowTime: 6
+
+The Road is: x899898988989
+
+The Road is: x899898988989
+
+The Road is: x899898988989
+
+The Road is: x899898988989
+NowTime: 6
+
+NowTime: 6
+NowTime: 6
+
+The Road is: x899898988989
+NowTime: 6
+
+The Road is: x899898988989
+
+The Road is: x899898988989
+
+The Road is: x899898988989
+NowTime: 6
+
+The Road is: x899898988989
+
+The Road is: x899898988989
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$68{conj_$61{int, LC132, S6189129, #1},HILBERT_MAX} derived_$69{conj_$61{int, LC132, S6189129, #1},minX} derived_$70{conj_$61{int, LC132, S6189129, #1},minY} derived_$71{conj_$61{int, LC132, S6189129, #1},width} derived_$72{conj_$61{int, LC132, S6189129, #1},height} NowTime: 6
+NowTime: 6
+
+The Road is: x899898988989
+NowTime: 6
+
+The Road is: x899898988989
+
+The Road is: x899898988989
+
+The Road is: x899898988989
+NowTime: 7
+
+The Road is: x899898988989
+
+The Road is: x899898988989
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$77{conj_$74{int, LC145, S6189019, #1},HILBERT_MAX} derived_$78{conj_$74{int, LC145, S6189019, #1},minX} derived_$79{conj_$74{int, LC145, S6189019, #1},minY} derived_$80{conj_$74{int, LC145, S6189019, #1},width} derived_$81{conj_$74{int, LC145, S6189019, #1},height} 
+
+NowTime: 7
+NowTime: 7
+
+The Road is: x89898899
+NowTime: 7
+
+The Road is: x89898899
+
+The Road is: x89898899
+
+The Road is: x89898899
+NowTime: 7
+
+The Road is: x89898899
+
+The Road is: x89898899
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$46{conj_$29{int, LC119, S6189129, #1},HILBERT_MAX} derived_$47{conj_$29{int, LC119, S6189129, #1},minX} derived_$48{conj_$29{int, LC119, S6189129, #1},minY} derived_$49{conj_$29{int, LC119, S6189129, #1},width} derived_$50{conj_$29{int, LC119, S6189129, #1},height} NowTime: 7
+NowTime: 7
+
+The Road is: x89898899
+NowTime: 7
+
+The Road is: x89898899
+
+The Road is: x89898899
+
+The Road is: x89898899
+NowTime: 7
+
+The Road is: x89898899
+
+The Road is: x89898899
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$55{conj_$52{int, LC132, S6189019, #1},HILBERT_MAX} derived_$56{conj_$52{int, LC132, S6189019, #1},minX} derived_$57{conj_$52{int, LC132, S6189019, #1},minY} derived_$58{conj_$52{int, LC132, S6189019, #1},width} derived_$59{conj_$52{int, LC132, S6189019, #1},height} 
+
+NowTime: 7
+
+The Road is: x89898899898
+NowTime: 7
+
+The Road is: x89898899898
+NowTime: 7
+
+The Road is: x89898899898
+
+The Road is: x89898899898
+NowTime: 8
+
+The Road is: x898988998989
+
+The Road is: x898988998989
+
+The Road is: x898988998989
+
+The Road is: x898988998989
+NowTime: 8
+
+NowTime: 8
+NowTime: 8
+
+The Road is: x898988998989
+NowTime: 8
+
+The Road is: x898988998989
+
+The Road is: x898988998989
+
+The Road is: x898988998989
+NowTime: 8
+
+The Road is: x898988998989
+
+The Road is: x898988998989
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$68{conj_$61{int, LC132, S6189129, #1},HILBERT_MAX} derived_$69{conj_$61{int, LC132, S6189129, #1},minX} derived_$70{conj_$61{int, LC132, S6189129, #1},minY} derived_$71{conj_$61{int, LC132, S6189129, #1},width} derived_$72{conj_$61{int, LC132, S6189129, #1},height} NowTime: 8
+NowTime: 8
+
+The Road is: x898988998989
+NowTime: 8
+
+The Road is: x898988998989
+
+The Road is: x898988998989
+
+The Road is: x898988998989
+NowTime: 9
+
+The Road is: x898988998989
+
+The Road is: x898988998989
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$77{conj_$74{int, LC145, S6189019, #1},HILBERT_MAX} derived_$78{conj_$74{int, LC145, S6189019, #1},minX} derived_$79{conj_$74{int, LC145, S6189019, #1},minY} derived_$80{conj_$74{int, LC145, S6189019, #1},width} derived_$81{conj_$74{int, LC145, S6189019, #1},height} 
+
+NowTime: 9
+NowTime: 9
+
+The Road is: x898988989
+NowTime: 9
+
+The Road is: x898988989
+
+The Road is: x898988989
+
+The Road is: x898988989
+NowTime: 9
+
+The Road is: x898988989
+
+The Road is: x898988989
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$46{conj_$29{int, LC119, S6189129, #1},HILBERT_MAX} derived_$47{conj_$29{int, LC119, S6189129, #1},minX} derived_$48{conj_$29{int, LC119, S6189129, #1},minY} derived_$49{conj_$29{int, LC119, S6189129, #1},width} derived_$50{conj_$29{int, LC119, S6189129, #1},height} NowTime: 9
+NowTime: 9
+
+The Road is: x898988989
+NowTime: 9
+
+The Road is: x898988989
+
+The Road is: x898988989
+
+The Road is: x898988989
+NowTime: 9
+
+The Road is: x898988989
+
+The Road is: x898988989
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$55{conj_$52{int, LC132, S6189019, #1},HILBERT_MAX} derived_$56{conj_$52{int, LC132, S6189019, #1},minX} derived_$57{conj_$52{int, LC132, S6189019, #1},minY} derived_$58{conj_$52{int, LC132, S6189019, #1},width} derived_$59{conj_$52{int, LC132, S6189019, #1},height} 
+
+NowTime: 9
+
+The Road is: x89898898988
+NowTime: 9
+
+The Road is: x89898898988
+NowTime: 9
+
+The Road is: x89898898988
+
+The Road is: x89898898988
+NowTime: 9
+
+The Road is: x898988989889
+
+The Road is: x898988989889
+
+The Road is: x898988989889
+
+The Road is: x898988989889
+NowTime: 10
+
+The Road is: x8989889898898
+NowTime: 10
+
+The Road is: x8989889898898
+NowTime: 10
+
+The Road is: x8989889898898
+
+The Road is: x8989889898898
+NowTime: 10
+
+The Road is: x89898898988989
+
+The Road is: x89898898988989
+
+The Road is: x89898898988989
+
+The Road is: x89898898988989
+NowTime: 10
+
+NowTime: 10
+NowTime: 10
+
+The Road is: x89898898988989
+NowTime: 10
+
+The Road is: x89898898988989
+
+The Road is: x89898898988989
+
+The Road is: x89898898988989
+NowTime: 11
+
+The Road is: x89898898988989
+
+The Road is: x89898898988989
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$68{conj_$61{int, LC132, S6189129, #1},HILBERT_MAX} derived_$69{conj_$61{int, LC132, S6189129, #1},minX} derived_$70{conj_$61{int, LC132, S6189129, #1},minY} derived_$71{conj_$61{int, LC132, S6189129, #1},width} derived_$72{conj_$61{int, LC132, S6189129, #1},height} NowTime: 11
+NowTime: 11
+
+The Road is: x89898898988989
+NowTime: 11
+
+The Road is: x89898898988989
+
+The Road is: x89898898988989
+
+The Road is: x89898898988989
+NowTime: 12
+
+The Road is: x89898898988989
+
+The Road is: x89898898988989
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$77{conj_$74{int, LC145, S6189019, #1},HILBERT_MAX} derived_$78{conj_$74{int, LC145, S6189019, #1},minX} derived_$79{conj_$74{int, LC145, S6189019, #1},minY} derived_$80{conj_$74{int, LC145, S6189019, #1},width} derived_$81{conj_$74{int, LC145, S6189019, #1},height} 
+
+NowTime: 12
+NowTime: 12
+
+The Road is: x889899
+NowTime: 12
+
+The Road is: x889899
+
+The Road is: x889899
+
+The Road is: x889899
+NowTime: 12
+
+The Road is: x889899
+
+The Road is: x889899
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$46{conj_$29{int, LC119, S6189129, #1},HILBERT_MAX} derived_$47{conj_$29{int, LC119, S6189129, #1},minX} derived_$48{conj_$29{int, LC119, S6189129, #1},minY} derived_$49{conj_$29{int, LC119, S6189129, #1},width} derived_$50{conj_$29{int, LC119, S6189129, #1},height} NowTime: 12
+NowTime: 12
+
+The Road is: x889899
+NowTime: 12
+
+The Road is: x889899
+
+The Road is: x889899
+
+The Road is: x889899
+NowTime: 12
+
+The Road is: x889899
+
+The Road is: x889899
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$55{conj_$52{int, LC132, S6189019, #1},HILBERT_MAX} derived_$56{conj_$52{int, LC132, S6189019, #1},minX} derived_$57{conj_$52{int, LC132, S6189019, #1},minY} derived_$58{conj_$52{int, LC132, S6189019, #1},width} derived_$59{conj_$52{int, LC132, S6189019, #1},height} 
+
+NowTime: 12
+
+The Road is: x889899898
+NowTime: 12
+
+The Road is: x889899898
+NowTime: 12
+
+The Road is: x889899898
+
+The Road is: x889899898
+NowTime: 12
+
+The Road is: x8898998988
+
+The Road is: x8898998988
+
+The Road is: x8898998988
+
+The Road is: x8898998988
+NowTime: 13
+
+NowTime: 13
+NowTime: 13
+
+The Road is: x8898998988
+NowTime: 13
+
+The Road is: x8898998988
+
+The Road is: x8898998988
+
+The Road is: x8898998988
+NowTime: 13
+
+The Road is: x8898998988
+
+The Road is: x8898998988
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$68{conj_$61{int, LC132, S6189129, #1},HILBERT_MAX} derived_$69{conj_$61{int, LC132, S6189129, #1},minX} derived_$70{conj_$61{int, LC132, S6189129, #1},minY} derived_$71{conj_$61{int, LC132, S6189129, #1},width} derived_$72{conj_$61{int, LC132, S6189129, #1},height} NowTime: 13
+NowTime: 13
+
+The Road is: x8898998988
+NowTime: 13
+
+The Road is: x8898998988
+
+The Road is: x8898998988
+
+The Road is: x8898998988
+NowTime: 14
+
+The Road is: x8898998988
+
+The Road is: x8898998988
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$77{conj_$74{int, LC145, S6189019, #1},HILBERT_MAX} derived_$78{conj_$74{int, LC145, S6189019, #1},minX} derived_$79{conj_$74{int, LC145, S6189019, #1},minY} derived_$80{conj_$74{int, LC145, S6189019, #1},width} derived_$81{conj_$74{int, LC145, S6189019, #1},height} 
+
+NowTime: 14
+NowTime: 14
+
+The Road is: x8898988
+NowTime: 14
+
+The Road is: x8898988
+
+The Road is: x8898988
+
+The Road is: x8898988
+NowTime: 14
+
+The Road is: x8898988
+
+The Road is: x8898988
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$46{conj_$29{int, LC119, S6189129, #1},HILBERT_MAX} derived_$47{conj_$29{int, LC119, S6189129, #1},minX} derived_$48{conj_$29{int, LC119, S6189129, #1},minY} derived_$49{conj_$29{int, LC119, S6189129, #1},width} derived_$50{conj_$29{int, LC119, S6189129, #1},height} NowTime: 14
+NowTime: 14
+
+The Road is: x8898988
+NowTime: 14
+
+The Road is: x8898988
+
+The Road is: x8898988
+
+The Road is: x8898988
+NowTime: 14
+
+The Road is: x8898988
+
+The Road is: x8898988
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$55{conj_$52{int, LC132, S6189019, #1},HILBERT_MAX} derived_$56{conj_$52{int, LC132, S6189019, #1},minX} derived_$57{conj_$52{int, LC132, S6189019, #1},minY} derived_$58{conj_$52{int, LC132, S6189019, #1},width} derived_$59{conj_$52{int, LC132, S6189019, #1},height} 
+
+NowTime: 15
+
+The Road is: x889898888
+NowTime: 15
+
+The Road is: x889898888
+NowTime: 15
+
+The Road is: x889898888
+
+The Road is: x889898888
+NowTime: 15
+
+The Road is: x8898988888
+
+The Road is: x8898988888
+
+The Road is: x8898988888
+
+The Road is: x8898988888
+NowTime: 15
+
+The Road is: x88989888888
+NowTime: 15
+
+The Road is: x88989888888
+NowTime: 15
+
+The Road is: x88989888888
+
+The Road is: x88989888888
+NowTime: 15
+
+The Road is: x889898888888
+
+The Road is: x889898888888
+
+The Road is: x889898888888
+
+The Road is: x889898888888
+NowTime: 16
+
+NowTime: 16
+NowTime: 16
+
+The Road is: x889898888888
+NowTime: 16
+
+The Road is: x889898888888
+
+The Road is: x889898888888
+
+The Road is: x889898888888
+NowTime: 16
+
+The Road is: x889898888888
+
+The Road is: x889898888888
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$68{conj_$61{int, LC132, S6189129, #1},HILBERT_MAX} derived_$69{conj_$61{int, LC132, S6189129, #1},minX} derived_$70{conj_$61{int, LC132, S6189129, #1},minY} derived_$71{conj_$61{int, LC132, S6189129, #1},width} derived_$72{conj_$61{int, LC132, S6189129, #1},height} NowTime: 16
+NowTime: 16
+
+The Road is: x889898888888
+NowTime: 16
+
+The Road is: x889898888888
+
+The Road is: x889898888888
+
+The Road is: x889898888888
+NowTime: 17
+
+The Road is: x889898888888
+
+The Road is: x889898888888
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$77{conj_$74{int, LC145, S6189019, #1},HILBERT_MAX} derived_$78{conj_$74{int, LC145, S6189019, #1},minX} derived_$79{conj_$74{int, LC145, S6189019, #1},minY} derived_$80{conj_$74{int, LC145, S6189019, #1},width} derived_$81{conj_$74{int, LC145, S6189019, #1},height} 
+
+NowTime: 17
+NowTime: 17
+
+The Road is: x88888889
+NowTime: 17
+
+The Road is: x88888889
+
+The Road is: x88888889
+
+The Road is: x88888889
+NowTime: 17
+
+The Road is: x88888889
+
+The Road is: x88888889
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$46{conj_$29{int, LC119, S6189129, #1},HILBERT_MAX} derived_$47{conj_$29{int, LC119, S6189129, #1},minX} derived_$48{conj_$29{int, LC119, S6189129, #1},minY} derived_$49{conj_$29{int, LC119, S6189129, #1},width} derived_$50{conj_$29{int, LC119, S6189129, #1},height} NowTime: 17
+NowTime: 17
+
+The Road is: x88888889
+NowTime: 17
+
+The Road is: x88888889
+
+The Road is: x88888889
+
+The Road is: x88888889
+NowTime: 18
+
+The Road is: x88888889
+
+The Road is: x88888889
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$55{conj_$52{int, LC132, S6189019, #1},HILBERT_MAX} derived_$56{conj_$52{int, LC132, S6189019, #1},minX} derived_$57{conj_$52{int, LC132, S6189019, #1},minY} derived_$58{conj_$52{int, LC132, S6189019, #1},width} derived_$59{conj_$52{int, LC132, S6189019, #1},height} 
+
+NowTime: 18
+
+The Road is: x88888889898
+NowTime: 18
+
+The Road is: x88888889898
+NowTime: 18
+
+The Road is: x88888889898
+
+The Road is: x88888889898
+NowTime: 18
+
+The Road is: x888888898988
+
+The Road is: x888888898988
+
+The Road is: x888888898988
+
+The Road is: x888888898988
+NowTime: 19
+
+NowTime: 19
+NowTime: 19
+
+The Road is: x888888898988
+NowTime: 19
+
+The Road is: x888888898988
+
+The Road is: x888888898988
+
+The Road is: x888888898988
+NowTime: 20
+
+The Road is: x888888898988
+
+The Road is: x888888898988
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$68{conj_$61{int, LC132, S6189129, #1},HILBERT_MAX} derived_$69{conj_$61{int, LC132, S6189129, #1},minX} derived_$70{conj_$61{int, LC132, S6189129, #1},minY} derived_$71{conj_$61{int, LC132, S6189129, #1},width} derived_$72{conj_$61{int, LC132, S6189129, #1},height} NowTime: 20
+NowTime: 20
+
+The Road is: x888888898988
+NowTime: 20
+
+The Road is: x888888898988
+
+The Road is: x888888898988
+
+The Road is: x888888898988
+NowTime: 20
+
+The Road is: x888888898988
+
+The Road is: x888888898988
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$77{conj_$74{int, LC145, S6189019, #1},HILBERT_MAX} derived_$78{conj_$74{int, LC145, S6189019, #1},minX} derived_$79{conj_$74{int, LC145, S6189019, #1},minY} derived_$80{conj_$74{int, LC145, S6189019, #1},width} derived_$81{conj_$74{int, LC145, S6189019, #1},height} 
+
+NowTime: 20
+NowTime: 20
+
+The Road is: x888888888
+NowTime: 20
+
+The Road is: x888888888
+
+The Road is: x888888888
+
+The Road is: x888888888
+NowTime: 21
+
+The Road is: x888888888
+
+The Road is: x888888888
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$46{conj_$29{int, LC119, S6189129, #1},HILBERT_MAX} derived_$47{conj_$29{int, LC119, S6189129, #1},minX} derived_$48{conj_$29{int, LC119, S6189129, #1},minY} derived_$49{conj_$29{int, LC119, S6189129, #1},width} derived_$50{conj_$29{int, LC119, S6189129, #1},height} NowTime: 21
+NowTime: 21
+
+The Road is: x888888888
+NowTime: 21
+
+The Road is: x888888888
+
+The Road is: x888888888
+
+The Road is: x888888888
+NowTime: 21
+
+The Road is: x888888888
+
+The Road is: x888888888
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$55{conj_$52{int, LC132, S6189019, #1},HILBERT_MAX} derived_$56{conj_$52{int, LC132, S6189019, #1},minX} derived_$57{conj_$52{int, LC132, S6189019, #1},minY} derived_$58{conj_$52{int, LC132, S6189019, #1},width} derived_$59{conj_$52{int, LC132, S6189019, #1},height} 
+
+NowTime: 21
+
+The Road is: x88888888888
+NowTime: 21
+
+The Road is: x88888888888
+NowTime: 21
+
+The Road is: x88888888888
+
+The Road is: x88888888888
+NowTime: 21
+
+The Road is: x888888888888
+
+The Road is: x888888888888
+
+The Road is: x888888888888
+
+The Road is: x888888888888
+NowTime: 22
+
+The Road is: x8888888888888
+NowTime: 22
+
+The Road is: x8888888888888
+NowTime: 22
+
+The Road is: x8888888888888
+
+The Road is: x8888888888888
+NowTime: 22
+
+The Road is: x88888888888888
+
+The Road is: x88888888888888
+
+The Road is: x88888888888888
+
+The Road is: x88888888888888
+NowTime: 23
+
+NowTime: 23
+NowTime: 23
+
+The Road is: x88888888888888
+NowTime: 23
+
+The Road is: x88888888888888
+
+The Road is: x88888888888888
+
+The Road is: x88888888888888
+NowTime: 24
+
+The Road is: x88888888888888
+
+The Road is: x88888888888888
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$68{conj_$61{int, LC132, S6189129, #1},HILBERT_MAX} derived_$69{conj_$61{int, LC132, S6189129, #1},minX} derived_$70{conj_$61{int, LC132, S6189129, #1},minY} derived_$71{conj_$61{int, LC132, S6189129, #1},width} derived_$72{conj_$61{int, LC132, S6189129, #1},height} NowTime: 24
+NowTime: 24
+
+The Road is: x88888888888888
+NowTime: 24
+
+The Road is: x88888888888888
+
+The Road is: x88888888888888
+
+The Road is: x88888888888888
+NowTime: 25
+
+The Road is: x88888888888888
+
+The Road is: x88888888888888
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$77{conj_$74{int, LC145, S6189019, #1},HILBERT_MAX} derived_$78{conj_$74{int, LC145, S6189019, #1},minX} derived_$79{conj_$74{int, LC145, S6189019, #1},minY} derived_$80{conj_$74{int, LC145, S6189019, #1},width} derived_$81{conj_$74{int, LC145, S6189019, #1},height} 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x99
+NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+get : &Base{a,__shared_ptr} 
+The Road is: x99
+insert:
+_M_get : &Base{Base{a,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$13{conj_$2{int, LC72, S6189388, #1},HILBERT_MAX} derived_$14{conj_$2{int, LC72, S6189388, #1},minX} derived_$15{conj_$2{int, LC72, S6189388, #1},minY} derived_$16{conj_$2{int, LC72, S6189388, #1},width} derived_$17{conj_$2{int, LC72, S6189388, #1},height} NowTime: 0
+NowTime: 0
+
+The Road is: x99
+NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+get : &Base{b,__shared_ptr} 
+The Road is: x99
+insert:
+_M_get : &Base{Base{b,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$23{conj_$19{int, LC188, S6189019, #1},HILBERT_MAX} derived_$24{conj_$19{int, LC188, S6189019, #1},minX} derived_$25{conj_$19{int, LC188, S6189019, #1},minY} derived_$26{conj_$19{int, LC188, S6189019, #1},width} derived_$27{conj_$19{int, LC188, S6189019, #1},height} 
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x99899
+NowTime: 0
+
+The Road is: x99899
+
+The Road is: x99899
+
+The Road is: x99899
+NowTime: 0
+
+The Road is: x99899
+
+The Road is: x99899
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$38{conj_$29{int, LC188, S6189129, #1},HILBERT_MAX} derived_$39{conj_$29{int, LC188, S6189129, #1},minX} derived_$40{conj_$29{int, LC188, S6189129, #1},minY} derived_$41{conj_$29{int, LC188, S6189129, #1},width} derived_$42{conj_$29{int, LC188, S6189129, #1},height} NowTime: 0
+NowTime: 0
+
+The Road is: x99899
+NowTime: 0
+
+The Road is: x99899
+
+The Road is: x99899
+
+The Road is: x99899
+NowTime: 0
+
+The Road is: x99899
+
+The Road is: x99899
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$47{conj_$44{int, LC201, S6189019, #1},HILBERT_MAX} derived_$48{conj_$44{int, LC201, S6189019, #1},minX} derived_$49{conj_$44{int, LC201, S6189019, #1},minY} derived_$50{conj_$44{int, LC201, S6189019, #1},width} derived_$51{conj_$44{int, LC201, S6189019, #1},height} 
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x99899899
+NowTime: 0
+
+The Road is: x99899899
+
+The Road is: x99899899
+
+The Road is: x99899899
+NowTime: 0
+
+The Road is: x99899899
+
+The Road is: x99899899
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$60{conj_$53{int, LC201, S6189129, #1},HILBERT_MAX} derived_$61{conj_$53{int, LC201, S6189129, #1},minX} derived_$62{conj_$53{int, LC201, S6189129, #1},minY} derived_$63{conj_$53{int, LC201, S6189129, #1},width} derived_$64{conj_$53{int, LC201, S6189129, #1},height} NowTime: 0
+NowTime: 0
+
+The Road is: x99899899
+NowTime: 0
+
+The Road is: x99899899
+
+The Road is: x99899899
+
+The Road is: x99899899
+NowTime: 0
+
+The Road is: x99899899
+
+The Road is: x99899899
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$69{conj_$66{int, LC214, S6189019, #1},HILBERT_MAX} derived_$70{conj_$66{int, LC214, S6189019, #1},minX} derived_$71{conj_$66{int, LC214, S6189019, #1},minY} derived_$72{conj_$66{int, LC214, S6189019, #1},width} derived_$73{conj_$66{int, LC214, S6189019, #1},height} 
+
+
+NowTime: 0
+
+The Road is: x99898
+NowTime: 0
+
+The Road is: x99898
+NowTime: 0
+
+The Road is: x99898
+
+The Road is: x99898
+insert:
+__gthread_active_p : NowTime: 0
+
+The Road is: x998989
+
+The Road is: x998989
+insert:
+__atomic_add_single : &Element{SymRegion{reg_$36<_Sp_counted_base<(_Lock_policy)2U> * Base{c,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x998989
+insert:
+__atomic_add_dispatch : &Element{SymRegion{reg_$36<_Sp_counted_base<(_Lock_policy)2U> * Base{c,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x998989
+insert:
+_M_add_ref_copy : &SymRegion{reg_$36<_Sp_counted_base<(_Lock_policy)2U> * Base{c,__shared_ptr}._M_refcount._M_pi>} NowTime: 0
+
+
+The Road is: x99898
+NowTime: 0
+
+The Road is: x998988
+
+The Road is: x998988
+insert:
+__atomic_add : &Element{SymRegion{reg_$36<_Sp_counted_base<(_Lock_policy)2U> * Base{c,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x998988
+insert:
+__atomic_add_dispatch : &Element{SymRegion{reg_$36<_Sp_counted_base<(_Lock_policy)2U> * Base{c,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x998988
+insert:
+_M_add_ref_copy : &SymRegion{reg_$36<_Sp_counted_base<(_Lock_policy)2U> * Base{c,__shared_ptr}._M_refcount._M_pi>} NowTime: 0
+
+
+NowTime: 0
+
+The Road is: x98
+NowTime: 0
+
+The Road is: x98
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+insert:
+__gthread_active_p : NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+insert:
+__atomic_add_single : &Element{SymRegion{reg_$10<_Sp_counted_base<(_Lock_policy)2U> * Base{b,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x989
+insert:
+__atomic_add_dispatch : &Element{SymRegion{reg_$10<_Sp_counted_base<(_Lock_policy)2U> * Base{b,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x989
+insert:
+_M_add_ref_copy : &SymRegion{reg_$10<_Sp_counted_base<(_Lock_policy)2U> * Base{b,__shared_ptr}._M_refcount._M_pi>} NowTime: 0
+
+
+The Road is: x98
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+insert:
+__atomic_add : &Element{SymRegion{reg_$10<_Sp_counted_base<(_Lock_policy)2U> * Base{b,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x988
+insert:
+__atomic_add_dispatch : &Element{SymRegion{reg_$10<_Sp_counted_base<(_Lock_policy)2U> * Base{b,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x988
+insert:
+_M_add_ref_copy : &SymRegion{reg_$10<_Sp_counted_base<(_Lock_policy)2U> * Base{b,__shared_ptr}._M_refcount._M_pi>} NowTime: 0
+
+NowTime: 0
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+__gthread_active_p : NowTime: 0
+
+The Road is: x89
+
+The Road is: x89
+insert:
+__atomic_add_single : &Element{SymRegion{reg_$6<_Sp_counted_base<(_Lock_policy)2U> * Base{a,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x89
+insert:
+__atomic_add_dispatch : &Element{SymRegion{reg_$6<_Sp_counted_base<(_Lock_policy)2U> * Base{a,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x89
+insert:
+_M_add_ref_copy : &SymRegion{reg_$6<_Sp_counted_base<(_Lock_policy)2U> * Base{a,__shared_ptr}._M_refcount._M_pi>} 
+The Road is: x8
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+__atomic_add : &Element{SymRegion{reg_$6<_Sp_counted_base<(_Lock_policy)2U> * Base{a,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x88
+insert:
+__atomic_add_dispatch : &Element{SymRegion{reg_$6<_Sp_counted_base<(_Lock_policy)2U> * Base{a,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x88
+insert:
+_M_add_ref_copy : &SymRegion{reg_$6<_Sp_counted_base<(_Lock_policy)2U> * Base{a,__shared_ptr}._M_refcount._M_pi>} NowTime: 0
+
+NowTime: 0
+
+The Road is: x898
+NowTime: 0
+
+The Road is: x898
+NowTime: 0
+
+The Road is: x898
+
+The Road is: x898
+NowTime: 0
+
+The Road is: x8989
+
+The Road is: x8989
+insert:
+__atomic_add_single : &Element{SymRegion{reg_$10<_Sp_counted_base<(_Lock_policy)2U> * Base{b,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x8989
+insert:
+__atomic_add_dispatch : &Element{SymRegion{reg_$10<_Sp_counted_base<(_Lock_policy)2U> * Base{b,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x8989
+insert:
+_M_add_ref_copy : &SymRegion{reg_$10<_Sp_counted_base<(_Lock_policy)2U> * Base{b,__shared_ptr}._M_refcount._M_pi>} NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x989
+NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+insert:
+get : &Base{a,__shared_ptr} 
+The Road is: x989
+insert:
+_M_get : &Base{Base{a,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$13{conj_$2{int, LC72, S6189388, #1},HILBERT_MAX} derived_$14{conj_$2{int, LC72, S6189388, #1},minX} derived_$15{conj_$2{int, LC72, S6189388, #1},minY} derived_$16{conj_$2{int, LC72, S6189388, #1},width} derived_$17{conj_$2{int, LC72, S6189388, #1},height} NowTime: 0
+NowTime: 0
+
+The Road is: x989
+NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+insert:
+get : &Base{b,__shared_ptr} 
+The Road is: x989
+insert:
+_M_get : &Base{Base{b,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$23{conj_$19{int, LC188, S6189019, #1},HILBERT_MAX} derived_$24{conj_$19{int, LC188, S6189019, #1},minX} derived_$25{conj_$19{int, LC188, S6189019, #1},minY} derived_$26{conj_$19{int, LC188, S6189019, #1},width} derived_$27{conj_$19{int, LC188, S6189019, #1},height} 
+
+NowTime: 0
+
+The Road is: x98988
+NowTime: 0
+
+The Road is: x98988
+NowTime: 0
+
+The Road is: x98988
+
+The Road is: x98988
+NowTime: 0
+
+The Road is: x989889
+
+The Road is: x989889
+
+The Road is: x989889
+
+The Road is: x989889
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9898898
+NowTime: 0
+
+The Road is: x9898898
+NowTime: 0
+
+The Road is: x9898898
+
+The Road is: x9898898
+NowTime: 0
+
+The Road is: x98988989
+
+The Road is: x98988989
+insert:
+__atomic_add_single : &Element{SymRegion{reg_$36<_Sp_counted_base<(_Lock_policy)2U> * Base{c,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x98988989
+insert:
+__atomic_add_dispatch : &Element{SymRegion{reg_$36<_Sp_counted_base<(_Lock_policy)2U> * Base{c,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x98988989
+insert:
+_M_add_ref_copy : &SymRegion{reg_$36<_Sp_counted_base<(_Lock_policy)2U> * Base{c,__shared_ptr}._M_refcount._M_pi>} NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x998989
+NowTime: 0
+
+The Road is: x998989
+
+The Road is: x998989
+
+The Road is: x998989
+NowTime: 0
+
+The Road is: x998989
+
+The Road is: x998989
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$38{conj_$29{int, LC188, S6189129, #1},HILBERT_MAX} derived_$39{conj_$29{int, LC188, S6189129, #1},minX} derived_$40{conj_$29{int, LC188, S6189129, #1},minY} derived_$41{conj_$29{int, LC188, S6189129, #1},width} derived_$42{conj_$29{int, LC188, S6189129, #1},height} NowTime: 0
+NowTime: 0
+
+The Road is: x998989
+NowTime: 0
+
+The Road is: x998989
+
+The Road is: x998989
+
+The Road is: x998989
+NowTime: 0
+
+The Road is: x998989
+
+The Road is: x998989
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$47{conj_$44{int, LC201, S6189019, #1},HILBERT_MAX} derived_$48{conj_$44{int, LC201, S6189019, #1},minX} derived_$49{conj_$44{int, LC201, S6189019, #1},minY} derived_$50{conj_$44{int, LC201, S6189019, #1},width} derived_$51{conj_$44{int, LC201, S6189019, #1},height} 
+
+NowTime: 0
+
+The Road is: x998989898
+NowTime: 0
+
+The Road is: x998989898
+NowTime: 0
+
+The Road is: x998989898
+
+The Road is: x998989898
+NowTime: 0
+
+The Road is: x9989898989
+
+The Road is: x9989898989
+
+The Road is: x9989898989
+
+The Road is: x9989898989
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x9989898989
+NowTime: 0
+
+The Road is: x9989898989
+
+The Road is: x9989898989
+
+The Road is: x9989898989
+NowTime: 0
+
+The Road is: x9989898989
+
+The Road is: x9989898989
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$60{conj_$53{int, LC201, S6189129, #1},HILBERT_MAX} derived_$61{conj_$53{int, LC201, S6189129, #1},minX} derived_$62{conj_$53{int, LC201, S6189129, #1},minY} derived_$63{conj_$53{int, LC201, S6189129, #1},width} derived_$64{conj_$53{int, LC201, S6189129, #1},height} NowTime: 0
+NowTime: 0
+
+The Road is: x9989898989
+NowTime: 0
+
+The Road is: x9989898989
+
+The Road is: x9989898989
+
+The Road is: x9989898989
+NowTime: 0
+
+The Road is: x9989898989
+
+The Road is: x9989898989
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$69{conj_$66{int, LC214, S6189019, #1},HILBERT_MAX} derived_$70{conj_$66{int, LC214, S6189019, #1},minX} derived_$71{conj_$66{int, LC214, S6189019, #1},minY} derived_$72{conj_$66{int, LC214, S6189019, #1},width} derived_$73{conj_$66{int, LC214, S6189019, #1},height} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x888
+NowTime: 0
+
+The Road is: x888
+NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+insert:
+__atomic_add : &Element{SymRegion{reg_$10<_Sp_counted_base<(_Lock_policy)2U> * Base{b,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x8888
+insert:
+__atomic_add_dispatch : &Element{SymRegion{reg_$10<_Sp_counted_base<(_Lock_policy)2U> * Base{b,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x8888
+insert:
+_M_add_ref_copy : &SymRegion{reg_$10<_Sp_counted_base<(_Lock_policy)2U> * Base{b,__shared_ptr}._M_refcount._M_pi>} NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x988
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+insert:
+get : &Base{a,__shared_ptr} 
+The Road is: x988
+insert:
+_M_get : &Base{Base{a,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$13{conj_$2{int, LC72, S6189388, #1},HILBERT_MAX} derived_$14{conj_$2{int, LC72, S6189388, #1},minX} derived_$15{conj_$2{int, LC72, S6189388, #1},minY} derived_$16{conj_$2{int, LC72, S6189388, #1},width} derived_$17{conj_$2{int, LC72, S6189388, #1},height} NowTime: 0
+NowTime: 0
+
+The Road is: x988
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+insert:
+get : &Base{b,__shared_ptr} 
+The Road is: x988
+insert:
+_M_get : &Base{Base{b,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$23{conj_$19{int, LC188, S6189019, #1},HILBERT_MAX} derived_$24{conj_$19{int, LC188, S6189019, #1},minX} derived_$25{conj_$19{int, LC188, S6189019, #1},minY} derived_$26{conj_$19{int, LC188, S6189019, #1},width} derived_$27{conj_$19{int, LC188, S6189019, #1},height} 
+
+NowTime: 0
+
+The Road is: x98888
+NowTime: 0
+
+The Road is: x98888
+NowTime: 0
+
+The Road is: x98888
+
+The Road is: x98888
+NowTime: 0
+
+The Road is: x988888
+
+The Road is: x988888
+
+The Road is: x988888
+
+The Road is: x988888
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9888888
+NowTime: 0
+
+The Road is: x9888888
+NowTime: 0
+
+The Road is: x9888888
+
+The Road is: x9888888
+NowTime: 0
+
+The Road is: x98888888
+
+The Road is: x98888888
+insert:
+__atomic_add : &Element{SymRegion{reg_$36<_Sp_counted_base<(_Lock_policy)2U> * Base{c,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x98888888
+insert:
+__atomic_add_dispatch : &Element{SymRegion{reg_$36<_Sp_counted_base<(_Lock_policy)2U> * Base{c,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x98888888
+insert:
+_M_add_ref_copy : &SymRegion{reg_$36<_Sp_counted_base<(_Lock_policy)2U> * Base{c,__shared_ptr}._M_refcount._M_pi>} NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x998988
+NowTime: 0
+
+The Road is: x998988
+
+The Road is: x998988
+
+The Road is: x998988
+NowTime: 0
+
+The Road is: x998988
+
+The Road is: x998988
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$38{conj_$29{int, LC188, S6189129, #1},HILBERT_MAX} derived_$39{conj_$29{int, LC188, S6189129, #1},minX} derived_$40{conj_$29{int, LC188, S6189129, #1},minY} derived_$41{conj_$29{int, LC188, S6189129, #1},width} derived_$42{conj_$29{int, LC188, S6189129, #1},height} NowTime: 0
+NowTime: 0
+
+The Road is: x998988
+NowTime: 0
+
+The Road is: x998988
+
+The Road is: x998988
+
+The Road is: x998988
+NowTime: 1
+
+The Road is: x998988
+
+The Road is: x998988
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$47{conj_$44{int, LC201, S6189019, #1},HILBERT_MAX} derived_$48{conj_$44{int, LC201, S6189019, #1},minX} derived_$49{conj_$44{int, LC201, S6189019, #1},minY} derived_$50{conj_$44{int, LC201, S6189019, #1},width} derived_$51{conj_$44{int, LC201, S6189019, #1},height} 
+
+NowTime: 1
+
+The Road is: x998988898
+NowTime: 1
+
+The Road is: x998988898
+NowTime: 1
+
+The Road is: x998988898
+
+The Road is: x998988898
+NowTime: 1
+
+The Road is: x9989888988
+
+The Road is: x9989888988
+
+The Road is: x9989888988
+
+The Road is: x9989888988
+NowTime: 1
+
+NowTime: 1
+NowTime: 1
+
+The Road is: x9989888988
+NowTime: 1
+
+The Road is: x9989888988
+
+The Road is: x9989888988
+
+The Road is: x9989888988
+NowTime: 1
+
+The Road is: x9989888988
+
+The Road is: x9989888988
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$60{conj_$53{int, LC201, S6189129, #1},HILBERT_MAX} derived_$61{conj_$53{int, LC201, S6189129, #1},minX} derived_$62{conj_$53{int, LC201, S6189129, #1},minY} derived_$63{conj_$53{int, LC201, S6189129, #1},width} derived_$64{conj_$53{int, LC201, S6189129, #1},height} NowTime: 1
+NowTime: 1
+
+The Road is: x9989888988
+NowTime: 1
+
+The Road is: x9989888988
+
+The Road is: x9989888988
+
+The Road is: x9989888988
+NowTime: 1
+
+The Road is: x9989888988
+
+The Road is: x9989888988
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$69{conj_$66{int, LC214, S6189019, #1},HILBERT_MAX} derived_$70{conj_$66{int, LC214, S6189019, #1},minX} derived_$71{conj_$66{int, LC214, S6189019, #1},minY} derived_$72{conj_$66{int, LC214, S6189019, #1},width} derived_$73{conj_$66{int, LC214, S6189019, #1},height} 
+
+NowTime: 1
+NowTime: 1
+
+The Road is: x9898899
+NowTime: 1
+
+The Road is: x9898899
+
+The Road is: x9898899
+
+The Road is: x9898899
+NowTime: 1
+
+The Road is: x9898899
+
+The Road is: x9898899
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$38{conj_$29{int, LC188, S6189129, #1},HILBERT_MAX} derived_$39{conj_$29{int, LC188, S6189129, #1},minX} derived_$40{conj_$29{int, LC188, S6189129, #1},minY} derived_$41{conj_$29{int, LC188, S6189129, #1},width} derived_$42{conj_$29{int, LC188, S6189129, #1},height} NowTime: 1
+NowTime: 1
+
+The Road is: x9898899
+NowTime: 1
+
+The Road is: x9898899
+
+The Road is: x9898899
+
+The Road is: x9898899
+NowTime: 1
+
+The Road is: x9898899
+
+The Road is: x9898899
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$47{conj_$44{int, LC201, S6189019, #1},HILBERT_MAX} derived_$48{conj_$44{int, LC201, S6189019, #1},minX} derived_$49{conj_$44{int, LC201, S6189019, #1},minY} derived_$50{conj_$44{int, LC201, S6189019, #1},width} derived_$51{conj_$44{int, LC201, S6189019, #1},height} 
+
+NowTime: 1
+
+NowTime: 1
+NowTime: 1
+
+The Road is: x9898899899
+NowTime: 1
+
+The Road is: x9898899899
+
+The Road is: x9898899899
+
+The Road is: x9898899899
+NowTime: 1
+
+The Road is: x9898899899
+
+The Road is: x9898899899
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$60{conj_$53{int, LC201, S6189129, #1},HILBERT_MAX} derived_$61{conj_$53{int, LC201, S6189129, #1},minX} derived_$62{conj_$53{int, LC201, S6189129, #1},minY} derived_$63{conj_$53{int, LC201, S6189129, #1},width} derived_$64{conj_$53{int, LC201, S6189129, #1},height} NowTime: 1
+NowTime: 1
+
+The Road is: x9898899899
+NowTime: 1
+
+The Road is: x9898899899
+
+The Road is: x9898899899
+
+The Road is: x9898899899
+NowTime: 2
+
+The Road is: x9898899899
+
+The Road is: x9898899899
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$69{conj_$66{int, LC214, S6189019, #1},HILBERT_MAX} derived_$70{conj_$66{int, LC214, S6189019, #1},minX} derived_$71{conj_$66{int, LC214, S6189019, #1},minY} derived_$72{conj_$66{int, LC214, S6189019, #1},width} derived_$73{conj_$66{int, LC214, S6189019, #1},height} 
+
+NowTime: 2
+NowTime: 2
+
+The Road is: x899
+NowTime: 2
+
+The Road is: x899
+
+The Road is: x899
+insert:
+get : &Base{a,__shared_ptr} 
+The Road is: x899
+insert:
+_M_get : &Base{Base{a,__shared_ptr},__shared_ptr_access} NowTime: 2
+
+The Road is: x899
+
+The Road is: x899
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$13{conj_$2{int, LC72, S6189388, #1},HILBERT_MAX} derived_$14{conj_$2{int, LC72, S6189388, #1},minX} derived_$15{conj_$2{int, LC72, S6189388, #1},minY} derived_$16{conj_$2{int, LC72, S6189388, #1},width} derived_$17{conj_$2{int, LC72, S6189388, #1},height} NowTime: 2
+NowTime: 2
+
+The Road is: x899
+NowTime: 2
+
+The Road is: x899
+
+The Road is: x899
+insert:
+get : &Base{b,__shared_ptr} 
+The Road is: x899
+insert:
+_M_get : &Base{Base{b,__shared_ptr},__shared_ptr_access} NowTime: 2
+
+The Road is: x899
+
+The Road is: x899
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$23{conj_$19{int, LC188, S6189019, #1},HILBERT_MAX} derived_$24{conj_$19{int, LC188, S6189019, #1},minX} derived_$25{conj_$19{int, LC188, S6189019, #1},minY} derived_$26{conj_$19{int, LC188, S6189019, #1},width} derived_$27{conj_$19{int, LC188, S6189019, #1},height} 
+
+NowTime: 2
+
+NowTime: 2
+
+The Road is: x899898
+NowTime: 2
+
+The Road is: x899898
+NowTime: 2
+
+The Road is: x899898
+
+The Road is: x899898
+NowTime: 2
+
+The Road is: x8998989
+
+The Road is: x8998989
+insert:
+__atomic_add_single : &Element{SymRegion{reg_$36<_Sp_counted_base<(_Lock_policy)2U> * Base{c,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x8998989
+insert:
+__atomic_add_dispatch : &Element{SymRegion{reg_$36<_Sp_counted_base<(_Lock_policy)2U> * Base{c,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x8998989
+insert:
+_M_add_ref_copy : &SymRegion{reg_$36<_Sp_counted_base<(_Lock_policy)2U> * Base{c,__shared_ptr}._M_refcount._M_pi>} NowTime: 2
+
+NowTime: 2
+NowTime: 2
+
+The Road is: x98988989
+NowTime: 2
+
+The Road is: x98988989
+
+The Road is: x98988989
+
+The Road is: x98988989
+NowTime: 2
+
+The Road is: x98988989
+
+The Road is: x98988989
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$38{conj_$29{int, LC188, S6189129, #1},HILBERT_MAX} derived_$39{conj_$29{int, LC188, S6189129, #1},minX} derived_$40{conj_$29{int, LC188, S6189129, #1},minY} derived_$41{conj_$29{int, LC188, S6189129, #1},width} derived_$42{conj_$29{int, LC188, S6189129, #1},height} NowTime: 2
+NowTime: 2
+
+The Road is: x98988989
+NowTime: 2
+
+The Road is: x98988989
+
+The Road is: x98988989
+
+The Road is: x98988989
+NowTime: 2
+
+The Road is: x98988989
+
+The Road is: x98988989
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$47{conj_$44{int, LC201, S6189019, #1},HILBERT_MAX} derived_$48{conj_$44{int, LC201, S6189019, #1},minX} derived_$49{conj_$44{int, LC201, S6189019, #1},minY} derived_$50{conj_$44{int, LC201, S6189019, #1},width} derived_$51{conj_$44{int, LC201, S6189019, #1},height} 
+
+NowTime: 2
+
+The Road is: x98988989898
+NowTime: 2
+
+The Road is: x98988989898
+NowTime: 2
+
+The Road is: x98988989898
+
+The Road is: x98988989898
+NowTime: 2
+
+The Road is: x989889898989
+
+The Road is: x989889898989
+
+The Road is: x989889898989
+
+The Road is: x989889898989
+NowTime: 2
+
+NowTime: 2
+NowTime: 2
+
+The Road is: x989889898989
+NowTime: 2
+
+The Road is: x989889898989
+
+The Road is: x989889898989
+
+The Road is: x989889898989
+NowTime: 2
+
+The Road is: x989889898989
+
+The Road is: x989889898989
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$60{conj_$53{int, LC201, S6189129, #1},HILBERT_MAX} derived_$61{conj_$53{int, LC201, S6189129, #1},minX} derived_$62{conj_$53{int, LC201, S6189129, #1},minY} derived_$63{conj_$53{int, LC201, S6189129, #1},width} derived_$64{conj_$53{int, LC201, S6189129, #1},height} NowTime: 2
+NowTime: 2
+
+The Road is: x989889898989
+NowTime: 2
+
+The Road is: x989889898989
+
+The Road is: x989889898989
+
+The Road is: x989889898989
+NowTime: 3
+
+The Road is: x989889898989
+
+The Road is: x989889898989
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$69{conj_$66{int, LC214, S6189019, #1},HILBERT_MAX} derived_$70{conj_$66{int, LC214, S6189019, #1},minX} derived_$71{conj_$66{int, LC214, S6189019, #1},minY} derived_$72{conj_$66{int, LC214, S6189019, #1},width} derived_$73{conj_$66{int, LC214, S6189019, #1},height} 
+
+NowTime: 3
+NowTime: 3
+
+The Road is: x8989
+NowTime: 3
+
+The Road is: x8989
+
+The Road is: x8989
+insert:
+get : &Base{a,__shared_ptr} 
+The Road is: x8989
+insert:
+_M_get : &Base{Base{a,__shared_ptr},__shared_ptr_access} NowTime: 3
+
+The Road is: x8989
+
+The Road is: x8989
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$13{conj_$2{int, LC72, S6189388, #1},HILBERT_MAX} derived_$14{conj_$2{int, LC72, S6189388, #1},minX} derived_$15{conj_$2{int, LC72, S6189388, #1},minY} derived_$16{conj_$2{int, LC72, S6189388, #1},width} derived_$17{conj_$2{int, LC72, S6189388, #1},height} NowTime: 3
+NowTime: 3
+
+The Road is: x8989
+NowTime: 3
+
+The Road is: x8989
+
+The Road is: x8989
+insert:
+get : &Base{b,__shared_ptr} 
+The Road is: x8989
+insert:
+_M_get : &Base{Base{b,__shared_ptr},__shared_ptr_access} NowTime: 3
+
+The Road is: x8989
+
+The Road is: x8989
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$23{conj_$19{int, LC188, S6189019, #1},HILBERT_MAX} derived_$24{conj_$19{int, LC188, S6189019, #1},minX} derived_$25{conj_$19{int, LC188, S6189019, #1},minY} derived_$26{conj_$19{int, LC188, S6189019, #1},width} derived_$27{conj_$19{int, LC188, S6189019, #1},height} 
+
+NowTime: 3
+
+The Road is: x898988
+NowTime: 3
+
+The Road is: x898988
+NowTime: 3
+
+The Road is: x898988
+
+The Road is: x898988
+NowTime: 3
+
+The Road is: x8989889
+
+The Road is: x8989889
+
+The Road is: x8989889
+
+The Road is: x8989889
+NowTime: 3
+
+NowTime: 3
+
+The Road is: x89898898
+NowTime: 3
+
+The Road is: x89898898
+NowTime: 3
+
+The Road is: x89898898
+
+The Road is: x89898898
+NowTime: 3
+
+The Road is: x898988989
+
+The Road is: x898988989
+insert:
+__atomic_add_single : &Element{SymRegion{reg_$36<_Sp_counted_base<(_Lock_policy)2U> * Base{c,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x898988989
+insert:
+__atomic_add_dispatch : &Element{SymRegion{reg_$36<_Sp_counted_base<(_Lock_policy)2U> * Base{c,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x898988989
+insert:
+_M_add_ref_copy : &SymRegion{reg_$36<_Sp_counted_base<(_Lock_policy)2U> * Base{c,__shared_ptr}._M_refcount._M_pi>} NowTime: 3
+
+NowTime: 3
+NowTime: 3
+
+The Road is: x9888889
+NowTime: 3
+
+The Road is: x9888889
+
+The Road is: x9888889
+
+The Road is: x9888889
+NowTime: 3
+
+The Road is: x9888889
+
+The Road is: x9888889
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$38{conj_$29{int, LC188, S6189129, #1},HILBERT_MAX} derived_$39{conj_$29{int, LC188, S6189129, #1},minX} derived_$40{conj_$29{int, LC188, S6189129, #1},minY} derived_$41{conj_$29{int, LC188, S6189129, #1},width} derived_$42{conj_$29{int, LC188, S6189129, #1},height} NowTime: 3
+NowTime: 3
+
+The Road is: x9888889
+NowTime: 3
+
+The Road is: x9888889
+
+The Road is: x9888889
+
+The Road is: x9888889
+NowTime: 3
+
+The Road is: x9888889
+
+The Road is: x9888889
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$47{conj_$44{int, LC201, S6189019, #1},HILBERT_MAX} derived_$48{conj_$44{int, LC201, S6189019, #1},minX} derived_$49{conj_$44{int, LC201, S6189019, #1},minY} derived_$50{conj_$44{int, LC201, S6189019, #1},width} derived_$51{conj_$44{int, LC201, S6189019, #1},height} 
+
+NowTime: 3
+
+NowTime: 3
+NowTime: 3
+
+The Road is: x9888889899
+NowTime: 3
+
+The Road is: x9888889899
+
+The Road is: x9888889899
+
+The Road is: x9888889899
+NowTime: 3
+
+The Road is: x9888889899
+
+The Road is: x9888889899
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$60{conj_$53{int, LC201, S6189129, #1},HILBERT_MAX} derived_$61{conj_$53{int, LC201, S6189129, #1},minX} derived_$62{conj_$53{int, LC201, S6189129, #1},minY} derived_$63{conj_$53{int, LC201, S6189129, #1},width} derived_$64{conj_$53{int, LC201, S6189129, #1},height} NowTime: 3
+NowTime: 3
+
+The Road is: x9888889899
+NowTime: 3
+
+The Road is: x9888889899
+
+The Road is: x9888889899
+
+The Road is: x9888889899
+NowTime: 4
+
+The Road is: x9888889899
+
+The Road is: x9888889899
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$69{conj_$66{int, LC214, S6189019, #1},HILBERT_MAX} derived_$70{conj_$66{int, LC214, S6189019, #1},minX} derived_$71{conj_$66{int, LC214, S6189019, #1},minY} derived_$72{conj_$66{int, LC214, S6189019, #1},width} derived_$73{conj_$66{int, LC214, S6189019, #1},height} 
+
+NowTime: 4
+NowTime: 4
+
+The Road is: x889
+NowTime: 4
+
+The Road is: x889
+
+The Road is: x889
+insert:
+get : &Base{a,__shared_ptr} 
+The Road is: x889
+insert:
+_M_get : &Base{Base{a,__shared_ptr},__shared_ptr_access} NowTime: 4
+
+The Road is: x889
+
+The Road is: x889
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$13{conj_$2{int, LC72, S6189388, #1},HILBERT_MAX} derived_$14{conj_$2{int, LC72, S6189388, #1},minX} derived_$15{conj_$2{int, LC72, S6189388, #1},minY} derived_$16{conj_$2{int, LC72, S6189388, #1},width} derived_$17{conj_$2{int, LC72, S6189388, #1},height} NowTime: 4
+NowTime: 4
+
+The Road is: x889
+NowTime: 4
+
+The Road is: x889
+
+The Road is: x889
+insert:
+get : &Base{b,__shared_ptr} 
+The Road is: x889
+insert:
+_M_get : &Base{Base{b,__shared_ptr},__shared_ptr_access} NowTime: 4
+
+The Road is: x889
+
+The Road is: x889
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$23{conj_$19{int, LC188, S6189019, #1},HILBERT_MAX} derived_$24{conj_$19{int, LC188, S6189019, #1},minX} derived_$25{conj_$19{int, LC188, S6189019, #1},minY} derived_$26{conj_$19{int, LC188, S6189019, #1},width} derived_$27{conj_$19{int, LC188, S6189019, #1},height} 
+
+NowTime: 4
+
+NowTime: 4
+
+The Road is: x889898
+NowTime: 4
+
+The Road is: x889898
+NowTime: 4
+
+The Road is: x889898
+
+The Road is: x889898
+NowTime: 4
+
+The Road is: x8898988
+
+The Road is: x8898988
+insert:
+__atomic_add : &Element{SymRegion{reg_$36<_Sp_counted_base<(_Lock_policy)2U> * Base{c,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x8898988
+insert:
+__atomic_add_dispatch : &Element{SymRegion{reg_$36<_Sp_counted_base<(_Lock_policy)2U> * Base{c,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x8898988
+insert:
+_M_add_ref_copy : &SymRegion{reg_$36<_Sp_counted_base<(_Lock_policy)2U> * Base{c,__shared_ptr}._M_refcount._M_pi>} NowTime: 4
+
+NowTime: 4
+NowTime: 4
+
+The Road is: x98888888
+NowTime: 4
+
+The Road is: x98888888
+
+The Road is: x98888888
+
+The Road is: x98888888
+NowTime: 4
+
+The Road is: x98888888
+
+The Road is: x98888888
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$38{conj_$29{int, LC188, S6189129, #1},HILBERT_MAX} derived_$39{conj_$29{int, LC188, S6189129, #1},minX} derived_$40{conj_$29{int, LC188, S6189129, #1},minY} derived_$41{conj_$29{int, LC188, S6189129, #1},width} derived_$42{conj_$29{int, LC188, S6189129, #1},height} NowTime: 4
+NowTime: 4
+
+The Road is: x98888888
+NowTime: 4
+
+The Road is: x98888888
+
+The Road is: x98888888
+
+The Road is: x98888888
+NowTime: 4
+
+The Road is: x98888888
+
+The Road is: x98888888
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$47{conj_$44{int, LC201, S6189019, #1},HILBERT_MAX} derived_$48{conj_$44{int, LC201, S6189019, #1},minX} derived_$49{conj_$44{int, LC201, S6189019, #1},minY} derived_$50{conj_$44{int, LC201, S6189019, #1},width} derived_$51{conj_$44{int, LC201, S6189019, #1},height} 
+
+NowTime: 4
+
+The Road is: x98888888898
+NowTime: 4
+
+The Road is: x98888888898
+NowTime: 4
+
+The Road is: x98888888898
+
+The Road is: x98888888898
+NowTime: 4
+
+The Road is: x988888888988
+
+The Road is: x988888888988
+
+The Road is: x988888888988
+
+The Road is: x988888888988
+NowTime: 4
+
+NowTime: 4
+NowTime: 4
+
+The Road is: x988888888988
+NowTime: 4
+
+The Road is: x988888888988
+
+The Road is: x988888888988
+
+The Road is: x988888888988
+NowTime: 5
+
+The Road is: x988888888988
+
+The Road is: x988888888988
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$60{conj_$53{int, LC201, S6189129, #1},HILBERT_MAX} derived_$61{conj_$53{int, LC201, S6189129, #1},minX} derived_$62{conj_$53{int, LC201, S6189129, #1},minY} derived_$63{conj_$53{int, LC201, S6189129, #1},width} derived_$64{conj_$53{int, LC201, S6189129, #1},height} NowTime: 5
+NowTime: 5
+
+The Road is: x988888888988
+NowTime: 5
+
+The Road is: x988888888988
+
+The Road is: x988888888988
+
+The Road is: x988888888988
+NowTime: 5
+
+The Road is: x988888888988
+
+The Road is: x988888888988
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$69{conj_$66{int, LC214, S6189019, #1},HILBERT_MAX} derived_$70{conj_$66{int, LC214, S6189019, #1},minX} derived_$71{conj_$66{int, LC214, S6189019, #1},minY} derived_$72{conj_$66{int, LC214, S6189019, #1},width} derived_$73{conj_$66{int, LC214, S6189019, #1},height} 
+
+NowTime: 5
+NowTime: 5
+
+The Road is: x8888
+NowTime: 5
+
+The Road is: x8888
+
+The Road is: x8888
+insert:
+get : &Base{a,__shared_ptr} 
+The Road is: x8888
+insert:
+_M_get : &Base{Base{a,__shared_ptr},__shared_ptr_access} NowTime: 5
+
+The Road is: x8888
+
+The Road is: x8888
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$13{conj_$2{int, LC72, S6189388, #1},HILBERT_MAX} derived_$14{conj_$2{int, LC72, S6189388, #1},minX} derived_$15{conj_$2{int, LC72, S6189388, #1},minY} derived_$16{conj_$2{int, LC72, S6189388, #1},width} derived_$17{conj_$2{int, LC72, S6189388, #1},height} NowTime: 5
+NowTime: 5
+
+The Road is: x8888
+NowTime: 5
+
+The Road is: x8888
+
+The Road is: x8888
+insert:
+get : &Base{b,__shared_ptr} 
+The Road is: x8888
+insert:
+_M_get : &Base{Base{b,__shared_ptr},__shared_ptr_access} NowTime: 5
+
+The Road is: x8888
+
+The Road is: x8888
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$23{conj_$19{int, LC188, S6189019, #1},HILBERT_MAX} derived_$24{conj_$19{int, LC188, S6189019, #1},minX} derived_$25{conj_$19{int, LC188, S6189019, #1},minY} derived_$26{conj_$19{int, LC188, S6189019, #1},width} derived_$27{conj_$19{int, LC188, S6189019, #1},height} 
+
+NowTime: 5
+
+The Road is: x888888
+NowTime: 5
+
+The Road is: x888888
+NowTime: 5
+
+The Road is: x888888
+
+The Road is: x888888
+NowTime: 5
+
+The Road is: x8888888
+
+The Road is: x8888888
+
+The Road is: x8888888
+
+The Road is: x8888888
+NowTime: 5
+
+NowTime: 5
+
+The Road is: x88888888
+NowTime: 5
+
+The Road is: x88888888
+NowTime: 5
+
+The Road is: x88888888
+
+The Road is: x88888888
+NowTime: 5
+
+The Road is: x888888888
+
+The Road is: x888888888
+insert:
+__atomic_add : &Element{SymRegion{reg_$36<_Sp_counted_base<(_Lock_policy)2U> * Base{c,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x888888888
+insert:
+__atomic_add_dispatch : &Element{SymRegion{reg_$36<_Sp_counted_base<(_Lock_policy)2U> * Base{c,__shared_ptr}._M_refcount._M_pi>},0 S64b,class std::_Sp_counted_base<>}._M_use_count 1 S32b 
+The Road is: x888888888
+insert:
+_M_add_ref_copy : &SymRegion{reg_$36<_Sp_counted_base<(_Lock_policy)2U> * Base{c,__shared_ptr}._M_refcount._M_pi>} NowTime: 5
+
+NowTime: 5
+NowTime: 5
+
+The Road is: x899899
+NowTime: 5
+
+The Road is: x899899
+
+The Road is: x899899
+
+The Road is: x899899
+NowTime: 5
+
+The Road is: x899899
+
+The Road is: x899899
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$38{conj_$29{int, LC188, S6189129, #1},HILBERT_MAX} derived_$39{conj_$29{int, LC188, S6189129, #1},minX} derived_$40{conj_$29{int, LC188, S6189129, #1},minY} derived_$41{conj_$29{int, LC188, S6189129, #1},width} derived_$42{conj_$29{int, LC188, S6189129, #1},height} NowTime: 5
+NowTime: 5
+
+The Road is: x899899
+NowTime: 5
+
+The Road is: x899899
+
+The Road is: x899899
+
+The Road is: x899899
+NowTime: 5
+
+The Road is: x899899
+
+The Road is: x899899
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$47{conj_$44{int, LC201, S6189019, #1},HILBERT_MAX} derived_$48{conj_$44{int, LC201, S6189019, #1},minX} derived_$49{conj_$44{int, LC201, S6189019, #1},minY} derived_$50{conj_$44{int, LC201, S6189019, #1},width} derived_$51{conj_$44{int, LC201, S6189019, #1},height} 
+
+NowTime: 5
+
+The Road is: x89989988
+NowTime: 5
+
+The Road is: x89989988
+NowTime: 5
+
+The Road is: x89989988
+
+The Road is: x89989988
+NowTime: 5
+
+The Road is: x899899889
+
+The Road is: x899899889
+
+The Road is: x899899889
+
+The Road is: x899899889
+NowTime: 6
+
+NowTime: 6
+NowTime: 6
+
+The Road is: x8998998899
+NowTime: 6
+
+The Road is: x8998998899
+
+The Road is: x8998998899
+
+The Road is: x8998998899
+NowTime: 6
+
+The Road is: x8998998899
+
+The Road is: x8998998899
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$60{conj_$53{int, LC201, S6189129, #1},HILBERT_MAX} derived_$61{conj_$53{int, LC201, S6189129, #1},minX} derived_$62{conj_$53{int, LC201, S6189129, #1},minY} derived_$63{conj_$53{int, LC201, S6189129, #1},width} derived_$64{conj_$53{int, LC201, S6189129, #1},height} NowTime: 6
+NowTime: 6
+
+The Road is: x8998998899
+NowTime: 6
+
+The Road is: x8998998899
+
+The Road is: x8998998899
+
+The Road is: x8998998899
+NowTime: 6
+
+The Road is: x8998998899
+
+The Road is: x8998998899
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$69{conj_$66{int, LC214, S6189019, #1},HILBERT_MAX} derived_$70{conj_$66{int, LC214, S6189019, #1},minX} derived_$71{conj_$66{int, LC214, S6189019, #1},minY} derived_$72{conj_$66{int, LC214, S6189019, #1},width} derived_$73{conj_$66{int, LC214, S6189019, #1},height} 
+
+NowTime: 6
+NowTime: 6
+
+The Road is: x8998989
+NowTime: 6
+
+The Road is: x8998989
+
+The Road is: x8998989
+
+The Road is: x8998989
+NowTime: 7
+
+The Road is: x8998989
+
+The Road is: x8998989
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$38{conj_$29{int, LC188, S6189129, #1},HILBERT_MAX} derived_$39{conj_$29{int, LC188, S6189129, #1},minX} derived_$40{conj_$29{int, LC188, S6189129, #1},minY} derived_$41{conj_$29{int, LC188, S6189129, #1},width} derived_$42{conj_$29{int, LC188, S6189129, #1},height} NowTime: 7
+NowTime: 7
+
+The Road is: x8998989
+NowTime: 7
+
+The Road is: x8998989
+
+The Road is: x8998989
+
+The Road is: x8998989
+NowTime: 7
+
+The Road is: x8998989
+
+The Road is: x8998989
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$47{conj_$44{int, LC201, S6189019, #1},HILBERT_MAX} derived_$48{conj_$44{int, LC201, S6189019, #1},minX} derived_$49{conj_$44{int, LC201, S6189019, #1},minY} derived_$50{conj_$44{int, LC201, S6189019, #1},width} derived_$51{conj_$44{int, LC201, S6189019, #1},height} 
+
+NowTime: 7
+
+The Road is: x899898988
+NowTime: 7
+
+The Road is: x899898988
+NowTime: 7
+
+The Road is: x899898988
+
+The Road is: x899898988
+NowTime: 7
+
+The Road is: x8998989889
+
+The Road is: x8998989889
+
+The Road is: x8998989889
+
+The Road is: x8998989889
+NowTime: 7
+
+The Road is: x89989898898
+NowTime: 7
+
+The Road is: x89989898898
+NowTime: 7
+
+The Road is: x89989898898
+
+The Road is: x89989898898
+NowTime: 7
+
+The Road is: x899898988989
+
+The Road is: x899898988989
+
+The Road is: x899898988989
+
+The Road is: x899898988989
+NowTime: 8
+
+NowTime: 8
+NowTime: 8
+
+The Road is: x899898988989
+NowTime: 8
+
+The Road is: x899898988989
+
+The Road is: x899898988989
+
+The Road is: x899898988989
+NowTime: 8
+
+The Road is: x899898988989
+
+The Road is: x899898988989
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$60{conj_$53{int, LC201, S6189129, #1},HILBERT_MAX} derived_$61{conj_$53{int, LC201, S6189129, #1},minX} derived_$62{conj_$53{int, LC201, S6189129, #1},minY} derived_$63{conj_$53{int, LC201, S6189129, #1},width} derived_$64{conj_$53{int, LC201, S6189129, #1},height} NowTime: 8
+NowTime: 8
+
+The Road is: x899898988989
+NowTime: 8
+
+The Road is: x899898988989
+
+The Road is: x899898988989
+
+The Road is: x899898988989
+NowTime: 8
+
+The Road is: x899898988989
+
+The Road is: x899898988989
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$69{conj_$66{int, LC214, S6189019, #1},HILBERT_MAX} derived_$70{conj_$66{int, LC214, S6189019, #1},minX} derived_$71{conj_$66{int, LC214, S6189019, #1},minY} derived_$72{conj_$66{int, LC214, S6189019, #1},width} derived_$73{conj_$66{int, LC214, S6189019, #1},height} 
+
+NowTime: 8
+NowTime: 8
+
+The Road is: x89898899
+NowTime: 8
+
+The Road is: x89898899
+
+The Road is: x89898899
+
+The Road is: x89898899
+NowTime: 9
+
+The Road is: x89898899
+
+The Road is: x89898899
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$38{conj_$29{int, LC188, S6189129, #1},HILBERT_MAX} derived_$39{conj_$29{int, LC188, S6189129, #1},minX} derived_$40{conj_$29{int, LC188, S6189129, #1},minY} derived_$41{conj_$29{int, LC188, S6189129, #1},width} derived_$42{conj_$29{int, LC188, S6189129, #1},height} NowTime: 9
+NowTime: 9
+
+The Road is: x89898899
+NowTime: 9
+
+The Road is: x89898899
+
+The Road is: x89898899
+
+The Road is: x89898899
+NowTime: 9
+
+The Road is: x89898899
+
+The Road is: x89898899
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$47{conj_$44{int, LC201, S6189019, #1},HILBERT_MAX} derived_$48{conj_$44{int, LC201, S6189019, #1},minX} derived_$49{conj_$44{int, LC201, S6189019, #1},minY} derived_$50{conj_$44{int, LC201, S6189019, #1},width} derived_$51{conj_$44{int, LC201, S6189019, #1},height} 
+
+NowTime: 9
+
+The Road is: x8989889988
+NowTime: 9
+
+The Road is: x8989889988
+NowTime: 9
+
+The Road is: x8989889988
+
+The Road is: x8989889988
+NowTime: 9
+
+The Road is: x89898899889
+
+The Road is: x89898899889
+
+The Road is: x89898899889
+
+The Road is: x89898899889
+NowTime: 9
+
+NowTime: 9
+NowTime: 9
+
+The Road is: x898988998899
+NowTime: 9
+
+The Road is: x898988998899
+
+The Road is: x898988998899
+
+The Road is: x898988998899
+NowTime: 10
+
+The Road is: x898988998899
+
+The Road is: x898988998899
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$60{conj_$53{int, LC201, S6189129, #1},HILBERT_MAX} derived_$61{conj_$53{int, LC201, S6189129, #1},minX} derived_$62{conj_$53{int, LC201, S6189129, #1},minY} derived_$63{conj_$53{int, LC201, S6189129, #1},width} derived_$64{conj_$53{int, LC201, S6189129, #1},height} NowTime: 10
+NowTime: 10
+
+The Road is: x898988998899
+NowTime: 10
+
+The Road is: x898988998899
+
+The Road is: x898988998899
+
+The Road is: x898988998899
+NowTime: 10
+
+The Road is: x898988998899
+
+The Road is: x898988998899
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$69{conj_$66{int, LC214, S6189019, #1},HILBERT_MAX} derived_$70{conj_$66{int, LC214, S6189019, #1},minX} derived_$71{conj_$66{int, LC214, S6189019, #1},minY} derived_$72{conj_$66{int, LC214, S6189019, #1},width} derived_$73{conj_$66{int, LC214, S6189019, #1},height} 
+
+NowTime: 10
+NowTime: 10
+
+The Road is: x898988989
+NowTime: 10
+
+The Road is: x898988989
+
+The Road is: x898988989
+
+The Road is: x898988989
+NowTime: 10
+
+The Road is: x898988989
+
+The Road is: x898988989
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$38{conj_$29{int, LC188, S6189129, #1},HILBERT_MAX} derived_$39{conj_$29{int, LC188, S6189129, #1},minX} derived_$40{conj_$29{int, LC188, S6189129, #1},minY} derived_$41{conj_$29{int, LC188, S6189129, #1},width} derived_$42{conj_$29{int, LC188, S6189129, #1},height} NowTime: 11
+NowTime: 11
+
+The Road is: x898988989
+NowTime: 11
+
+The Road is: x898988989
+
+The Road is: x898988989
+
+The Road is: x898988989
+NowTime: 11
+
+The Road is: x898988989
+
+The Road is: x898988989
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$47{conj_$44{int, LC201, S6189019, #1},HILBERT_MAX} derived_$48{conj_$44{int, LC201, S6189019, #1},minX} derived_$49{conj_$44{int, LC201, S6189019, #1},minY} derived_$50{conj_$44{int, LC201, S6189019, #1},width} derived_$51{conj_$44{int, LC201, S6189019, #1},height} 
+
+NowTime: 11
+
+The Road is: x89898898988
+NowTime: 11
+
+The Road is: x89898898988
+NowTime: 11
+
+The Road is: x89898898988
+
+The Road is: x89898898988
+NowTime: 11
+
+The Road is: x898988989889
+
+The Road is: x898988989889
+
+The Road is: x898988989889
+
+The Road is: x898988989889
+NowTime: 11
+
+The Road is: x8989889898898
+NowTime: 11
+
+The Road is: x8989889898898
+NowTime: 11
+
+The Road is: x8989889898898
+
+The Road is: x8989889898898
+NowTime: 11
+
+The Road is: x89898898988989
+
+The Road is: x89898898988989
+
+The Road is: x89898898988989
+
+The Road is: x89898898988989
+NowTime: 12
+
+NowTime: 12
+NowTime: 12
+
+The Road is: x89898898988989
+NowTime: 12
+
+The Road is: x89898898988989
+
+The Road is: x89898898988989
+
+The Road is: x89898898988989
+NowTime: 12
+
+The Road is: x89898898988989
+
+The Road is: x89898898988989
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$60{conj_$53{int, LC201, S6189129, #1},HILBERT_MAX} derived_$61{conj_$53{int, LC201, S6189129, #1},minX} derived_$62{conj_$53{int, LC201, S6189129, #1},minY} derived_$63{conj_$53{int, LC201, S6189129, #1},width} derived_$64{conj_$53{int, LC201, S6189129, #1},height} NowTime: 12
+NowTime: 12
+
+The Road is: x89898898988989
+NowTime: 12
+
+The Road is: x89898898988989
+
+The Road is: x89898898988989
+
+The Road is: x89898898988989
+NowTime: 13
+
+The Road is: x89898898988989
+
+The Road is: x89898898988989
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$69{conj_$66{int, LC214, S6189019, #1},HILBERT_MAX} derived_$70{conj_$66{int, LC214, S6189019, #1},minX} derived_$71{conj_$66{int, LC214, S6189019, #1},minY} derived_$72{conj_$66{int, LC214, S6189019, #1},width} derived_$73{conj_$66{int, LC214, S6189019, #1},height} 
+
+NowTime: 13
+NowTime: 13
+
+The Road is: x889899
+NowTime: 13
+
+The Road is: x889899
+
+The Road is: x889899
+
+The Road is: x889899
+NowTime: 13
+
+The Road is: x889899
+
+The Road is: x889899
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$38{conj_$29{int, LC188, S6189129, #1},HILBERT_MAX} derived_$39{conj_$29{int, LC188, S6189129, #1},minX} derived_$40{conj_$29{int, LC188, S6189129, #1},minY} derived_$41{conj_$29{int, LC188, S6189129, #1},width} derived_$42{conj_$29{int, LC188, S6189129, #1},height} NowTime: 13
+NowTime: 13
+
+The Road is: x889899
+NowTime: 13
+
+The Road is: x889899
+
+The Road is: x889899
+
+The Road is: x889899
+NowTime: 14
+
+The Road is: x889899
+
+The Road is: x889899
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$47{conj_$44{int, LC201, S6189019, #1},HILBERT_MAX} derived_$48{conj_$44{int, LC201, S6189019, #1},minX} derived_$49{conj_$44{int, LC201, S6189019, #1},minY} derived_$50{conj_$44{int, LC201, S6189019, #1},width} derived_$51{conj_$44{int, LC201, S6189019, #1},height} 
+
+NowTime: 14
+
+The Road is: x88989988
+NowTime: 14
+
+The Road is: x88989988
+NowTime: 14
+
+The Road is: x88989988
+
+The Road is: x88989988
+NowTime: 14
+
+The Road is: x889899888
+
+The Road is: x889899888
+
+The Road is: x889899888
+
+The Road is: x889899888
+NowTime: 14
+
+NowTime: 14
+NowTime: 14
+
+The Road is: x8898998889
+NowTime: 14
+
+The Road is: x8898998889
+
+The Road is: x8898998889
+
+The Road is: x8898998889
+NowTime: 15
+
+The Road is: x8898998889
+
+The Road is: x8898998889
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$60{conj_$53{int, LC201, S6189129, #1},HILBERT_MAX} derived_$61{conj_$53{int, LC201, S6189129, #1},minX} derived_$62{conj_$53{int, LC201, S6189129, #1},minY} derived_$63{conj_$53{int, LC201, S6189129, #1},width} derived_$64{conj_$53{int, LC201, S6189129, #1},height} NowTime: 15
+NowTime: 15
+
+The Road is: x8898998889
+NowTime: 15
+
+The Road is: x8898998889
+
+The Road is: x8898998889
+
+The Road is: x8898998889
+NowTime: 15
+
+The Road is: x8898998889
+
+The Road is: x8898998889
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$69{conj_$66{int, LC214, S6189019, #1},HILBERT_MAX} derived_$70{conj_$66{int, LC214, S6189019, #1},minX} derived_$71{conj_$66{int, LC214, S6189019, #1},minY} derived_$72{conj_$66{int, LC214, S6189019, #1},width} derived_$73{conj_$66{int, LC214, S6189019, #1},height} 
+
+NowTime: 15
+NowTime: 15
+
+The Road is: x8898988
+NowTime: 15
+
+The Road is: x8898988
+
+The Road is: x8898988
+
+The Road is: x8898988
+NowTime: 16
+
+The Road is: x8898988
+
+The Road is: x8898988
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$38{conj_$29{int, LC188, S6189129, #1},HILBERT_MAX} derived_$39{conj_$29{int, LC188, S6189129, #1},minX} derived_$40{conj_$29{int, LC188, S6189129, #1},minY} derived_$41{conj_$29{int, LC188, S6189129, #1},width} derived_$42{conj_$29{int, LC188, S6189129, #1},height} NowTime: 16
+NowTime: 16
+
+The Road is: x8898988
+NowTime: 16
+
+The Road is: x8898988
+
+The Road is: x8898988
+
+The Road is: x8898988
+NowTime: 16
+
+The Road is: x8898988
+
+The Road is: x8898988
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$47{conj_$44{int, LC201, S6189019, #1},HILBERT_MAX} derived_$48{conj_$44{int, LC201, S6189019, #1},minX} derived_$49{conj_$44{int, LC201, S6189019, #1},minY} derived_$50{conj_$44{int, LC201, S6189019, #1},width} derived_$51{conj_$44{int, LC201, S6189019, #1},height} 
+
+NowTime: 16
+
+The Road is: x889898888
+NowTime: 16
+
+The Road is: x889898888
+NowTime: 16
+
+The Road is: x889898888
+
+The Road is: x889898888
+NowTime: 16
+
+The Road is: x8898988888
+
+The Road is: x8898988888
+
+The Road is: x8898988888
+
+The Road is: x8898988888
+NowTime: 17
+
+The Road is: x88989888888
+NowTime: 17
+
+The Road is: x88989888888
+NowTime: 17
+
+The Road is: x88989888888
+
+The Road is: x88989888888
+NowTime: 17
+
+The Road is: x889898888888
+
+The Road is: x889898888888
+
+The Road is: x889898888888
+
+The Road is: x889898888888
+NowTime: 17
+
+NowTime: 17
+NowTime: 17
+
+The Road is: x889898888888
+NowTime: 17
+
+The Road is: x889898888888
+
+The Road is: x889898888888
+
+The Road is: x889898888888
+NowTime: 18
+
+The Road is: x889898888888
+
+The Road is: x889898888888
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$60{conj_$53{int, LC201, S6189129, #1},HILBERT_MAX} derived_$61{conj_$53{int, LC201, S6189129, #1},minX} derived_$62{conj_$53{int, LC201, S6189129, #1},minY} derived_$63{conj_$53{int, LC201, S6189129, #1},width} derived_$64{conj_$53{int, LC201, S6189129, #1},height} NowTime: 18
+NowTime: 18
+
+The Road is: x889898888888
+NowTime: 18
+
+The Road is: x889898888888
+
+The Road is: x889898888888
+
+The Road is: x889898888888
+NowTime: 19
+
+The Road is: x889898888888
+
+The Road is: x889898888888
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$69{conj_$66{int, LC214, S6189019, #1},HILBERT_MAX} derived_$70{conj_$66{int, LC214, S6189019, #1},minX} derived_$71{conj_$66{int, LC214, S6189019, #1},minY} derived_$72{conj_$66{int, LC214, S6189019, #1},width} derived_$73{conj_$66{int, LC214, S6189019, #1},height} 
+
+NowTime: 19
+NowTime: 19
+
+The Road is: x88888889
+NowTime: 19
+
+The Road is: x88888889
+
+The Road is: x88888889
+
+The Road is: x88888889
+NowTime: 19
+
+The Road is: x88888889
+
+The Road is: x88888889
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$38{conj_$29{int, LC188, S6189129, #1},HILBERT_MAX} derived_$39{conj_$29{int, LC188, S6189129, #1},minX} derived_$40{conj_$29{int, LC188, S6189129, #1},minY} derived_$41{conj_$29{int, LC188, S6189129, #1},width} derived_$42{conj_$29{int, LC188, S6189129, #1},height} NowTime: 19
+NowTime: 19
+
+The Road is: x88888889
+NowTime: 19
+
+The Road is: x88888889
+
+The Road is: x88888889
+
+The Road is: x88888889
+NowTime: 19
+
+The Road is: x88888889
+
+The Road is: x88888889
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$47{conj_$44{int, LC201, S6189019, #1},HILBERT_MAX} derived_$48{conj_$44{int, LC201, S6189019, #1},minX} derived_$49{conj_$44{int, LC201, S6189019, #1},minY} derived_$50{conj_$44{int, LC201, S6189019, #1},width} derived_$51{conj_$44{int, LC201, S6189019, #1},height} 
+
+NowTime: 19
+
+The Road is: x8888888988
+NowTime: 19
+
+The Road is: x8888888988
+NowTime: 19
+
+The Road is: x8888888988
+
+The Road is: x8888888988
+NowTime: 19
+
+The Road is: x88888889888
+
+The Road is: x88888889888
+
+The Road is: x88888889888
+
+The Road is: x88888889888
+NowTime: 20
+
+NowTime: 20
+NowTime: 20
+
+The Road is: x888888898889
+NowTime: 20
+
+The Road is: x888888898889
+
+The Road is: x888888898889
+
+The Road is: x888888898889
+NowTime: 21
+
+The Road is: x888888898889
+
+The Road is: x888888898889
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$60{conj_$53{int, LC201, S6189129, #1},HILBERT_MAX} derived_$61{conj_$53{int, LC201, S6189129, #1},minX} derived_$62{conj_$53{int, LC201, S6189129, #1},minY} derived_$63{conj_$53{int, LC201, S6189129, #1},width} derived_$64{conj_$53{int, LC201, S6189129, #1},height} NowTime: 21
+NowTime: 21
+
+The Road is: x888888898889
+NowTime: 21
+
+The Road is: x888888898889
+
+The Road is: x888888898889
+
+The Road is: x888888898889
+NowTime: 22
+
+The Road is: x888888898889
+
+The Road is: x888888898889
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$69{conj_$66{int, LC214, S6189019, #1},HILBERT_MAX} derived_$70{conj_$66{int, LC214, S6189019, #1},minX} derived_$71{conj_$66{int, LC214, S6189019, #1},minY} derived_$72{conj_$66{int, LC214, S6189019, #1},width} derived_$73{conj_$66{int, LC214, S6189019, #1},height} 
+
+NowTime: 22
+NowTime: 22
+
+The Road is: x888888888
+NowTime: 22
+
+The Road is: x888888888
+
+The Road is: x888888888
+
+The Road is: x888888888
+NowTime: 22
+
+The Road is: x888888888
+
+The Road is: x888888888
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$38{conj_$29{int, LC188, S6189129, #1},HILBERT_MAX} derived_$39{conj_$29{int, LC188, S6189129, #1},minX} derived_$40{conj_$29{int, LC188, S6189129, #1},minY} derived_$41{conj_$29{int, LC188, S6189129, #1},width} derived_$42{conj_$29{int, LC188, S6189129, #1},height} NowTime: 22
+NowTime: 22
+
+The Road is: x888888888
+NowTime: 22
+
+The Road is: x888888888
+
+The Road is: x888888888
+
+The Road is: x888888888
+NowTime: 23
+
+The Road is: x888888888
+
+The Road is: x888888888
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$47{conj_$44{int, LC201, S6189019, #1},HILBERT_MAX} derived_$48{conj_$44{int, LC201, S6189019, #1},minX} derived_$49{conj_$44{int, LC201, S6189019, #1},minY} derived_$50{conj_$44{int, LC201, S6189019, #1},width} derived_$51{conj_$44{int, LC201, S6189019, #1},height} 
+
+NowTime: 23
+
+The Road is: x88888888888
+NowTime: 23
+
+The Road is: x88888888888
+NowTime: 23
+
+The Road is: x88888888888
+
+The Road is: x88888888888
+NowTime: 23
+
+The Road is: x888888888888
+
+The Road is: x888888888888
+
+The Road is: x888888888888
+
+The Road is: x888888888888
+NowTime: 24
+
+The Road is: x8888888888888
+NowTime: 24
+
+The Road is: x8888888888888
+NowTime: 24
+
+The Road is: x8888888888888
+
+The Road is: x8888888888888
+NowTime: 24
+
+The Road is: x88888888888888
+
+The Road is: x88888888888888
+
+The Road is: x88888888888888
+
+The Road is: x88888888888888
+NowTime: 24
+
+NowTime: 24
+NowTime: 24
+
+The Road is: x88888888888888
+NowTime: 24
+
+The Road is: x88888888888888
+
+The Road is: x88888888888888
+
+The Road is: x88888888888888
+NowTime: 25
+
+The Road is: x88888888888888
+
+The Road is: x88888888888888
+insert:
+hilbert : reg_$12<int Element{SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$60{conj_$53{int, LC201, S6189129, #1},HILBERT_MAX} derived_$61{conj_$53{int, LC201, S6189129, #1},minX} derived_$62{conj_$53{int, LC201, S6189129, #1},minY} derived_$63{conj_$53{int, LC201, S6189129, #1},width} derived_$64{conj_$53{int, LC201, S6189129, #1},height} NowTime: 25
+NowTime: 25
+
+The Road is: x88888888888888
+NowTime: 25
+
+The Road is: x88888888888888
+
+The Road is: x88888888888888
+
+The Road is: x88888888888888
+NowTime: 26
+
+The Road is: x88888888888888
+
+The Road is: x88888888888888
+insert:
+hilbert : reg_$22<int Element{SymRegion{reg_$8<element_type * Base{b,__shared_ptr}._M_ptr>},0 S64b,struct Item}.nodeItem> derived_$69{conj_$66{int, LC214, S6189019, #1},HILBERT_MAX} derived_$70{conj_$66{int, LC214, S6189019, #1},minX} derived_$71{conj_$66{int, LC214, S6189019, #1},minY} derived_$72{conj_$66{int, LC214, S6189019, #1},width} derived_$73{conj_$66{int, LC214, S6189019, #1},height} 
+
+Total paths analyzed: 6
+Total paths analyzed: 21
+Total paths analyzed: 21
+Total paths analyzed: 29
+Total paths analyzed: 29

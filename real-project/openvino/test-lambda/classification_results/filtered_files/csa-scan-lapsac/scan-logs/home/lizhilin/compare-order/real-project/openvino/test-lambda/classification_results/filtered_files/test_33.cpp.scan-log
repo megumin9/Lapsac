@@ -1,0 +1,304 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get_output_layout : &SymRegion{reg_$4<program_node * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+bytes_count : &temp_object{layout, S6166823} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+bytes_count : &temp_object{layout, S6166947} 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get_output_layout : &SymRegion{reg_$4<program_node * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+bytes_count : &temp_object{layout, S6166823} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get_output_layout : &SymRegion{reg_$13<program_node * b>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+bytes_count : &temp_object{layout, S6166947} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get_output_layout : &SymRegion{reg_$4<program_node * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+bytes_count : &temp_object{layout, S6166823} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get_output_layout : &SymRegion{reg_$13<program_node * b>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+bytes_count : &temp_object{layout, S6166947} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get_output_layout : &SymRegion{reg_$4<program_node * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+bytes_count : &temp_object{layout, S6166823} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get_output_layout : &SymRegion{reg_$13<program_node * b>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+bytes_count : &temp_object{layout, S6166947} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+get_output_layout : &SymRegion{reg_$30<program_node * c>} NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get_output_layout : &SymRegion{reg_$4<program_node * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+bytes_count : &temp_object{layout, S6166823} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get_output_layout : &SymRegion{reg_$13<program_node * b>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+bytes_count : &temp_object{layout, S6166947} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+get_output_layout : &SymRegion{reg_$30<program_node * c>} NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 0

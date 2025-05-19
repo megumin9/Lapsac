@@ -1,0 +1,541 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+-----------------
+insert:
+_m3d_strcmp : &SymRegion{reg_$5<const char * Element{SymRegion{reg_$4<void * a>},0 S64b,struct m3dl_t}.lang>} &SymRegion{reg_$5<const char * Element{SymRegion{reg_$4<void * a>},0 S64b,struct m3dl_t}.lang>} 
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+-----------------
+Now have _m3d_strcmp
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+-----------------
+Now have _m3d_strcmp
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x889
+
+The Road is: x889
+-----------------
+Now have _m3d_strcmp
+NowTime: 0
+
+The Road is: x8898
+
+The Road is: x8898
+-----------------
+Now have _m3d_strcmp
+NowTime: 0
+
+The Road is: x88988
+
+The Road is: x88988
+-----------------
+Now have _m3d_strcmp
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+insert:
+_m3d_strcmp : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<void * a>},0 S64b,struct m3dl_t}.lang>} &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<void * b>},0 S64b,struct m3dl_t}.lang>} 
+
+The Road is: x2
+-----------------
+insert:
+_m3d_strcmp : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<void * a>},0 S64b,struct m3dl_t}.lang>} &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<void * b>},0 S64b,struct m3dl_t}.lang>} 
+
+The Road is: x1
+-----------------
+insert:
+_m3d_strcmp : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<void * a>},0 S64b,struct m3dl_t}.lang>} &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<void * b>},0 S64b,struct m3dl_t}.lang>} 
+
+NowTime: 0
+
+The Road is: x28
+
+The Road is: x28
+-----------------
+Now have _m3d_strcmp
+NowTime: 0
+
+The Road is: x288
+
+The Road is: x288
+-----------------
+Now have _m3d_strcmp
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x0998
+
+The Road is: x0998
+-----------------
+Now have _m3d_strcmp
+insert:
+_m3d_strcmp : &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<void * b>},0 S64b,struct m3dl_t}.lang>} &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<void * a>},0 S64b,struct m3dl_t}.lang>} 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+insert:
+_m3d_strcmp : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<void * a>},0 S64b,struct m3dl_t}.lang>} &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<void * b>},0 S64b,struct m3dl_t}.lang>} 
+
+The Road is: x2
+-----------------
+insert:
+_m3d_strcmp : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<void * a>},0 S64b,struct m3dl_t}.lang>} &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<void * b>},0 S64b,struct m3dl_t}.lang>} 
+
+The Road is: x1
+-----------------
+insert:
+_m3d_strcmp : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<void * a>},0 S64b,struct m3dl_t}.lang>} &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<void * b>},0 S64b,struct m3dl_t}.lang>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x1998
+
+The Road is: x1998
+-----------------
+Now have _m3d_strcmp
+insert:
+_m3d_strcmp : &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<void * b>},0 S64b,struct m3dl_t}.lang>} &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<void * a>},0 S64b,struct m3dl_t}.lang>} 
+
+NowTime: 0
+
+The Road is: x28
+
+The Road is: x28
+-----------------
+Now have _m3d_strcmp
+NowTime: 0
+
+The Road is: x288
+
+The Road is: x288
+-----------------
+Now have _m3d_strcmp
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+insert:
+_m3d_strcmp : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<void * a>},0 S64b,struct m3dl_t}.lang>} &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<void * b>},0 S64b,struct m3dl_t}.lang>} 
+
+The Road is: x2
+-----------------
+insert:
+_m3d_strcmp : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<void * a>},0 S64b,struct m3dl_t}.lang>} &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<void * b>},0 S64b,struct m3dl_t}.lang>} 
+
+The Road is: x1
+-----------------
+insert:
+_m3d_strcmp : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<void * a>},0 S64b,struct m3dl_t}.lang>} &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<void * b>},0 S64b,struct m3dl_t}.lang>} 
+
+NowTime: 0
+
+The Road is: x28
+
+The Road is: x28
+-----------------
+Now have _m3d_strcmp
+NowTime: 0
+
+The Road is: x288
+
+The Road is: x288
+-----------------
+Now have _m3d_strcmp
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x0998
+The road length:4
+The road length:4
+The road length:4
+
+The Road is: x09980
+-----------------
+Now have _m3d_strcmp
+insert:
+_m3d_strcmp : &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<void * b>},0 S64b,struct m3dl_t}.lang>} &SymRegion{reg_$16<const char * Element{SymRegion{reg_$15<void * c>},0 S64b,struct m3dl_t}.lang>} 
+
+The Road is: x09982
+-----------------
+Now have _m3d_strcmp
+insert:
+_m3d_strcmp : &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<void * b>},0 S64b,struct m3dl_t}.lang>} &SymRegion{reg_$16<const char * Element{SymRegion{reg_$15<void * c>},0 S64b,struct m3dl_t}.lang>} 
+
+The Road is: x09981
+-----------------
+Now have _m3d_strcmp
+insert:
+_m3d_strcmp : &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<void * b>},0 S64b,struct m3dl_t}.lang>} &SymRegion{reg_$16<const char * Element{SymRegion{reg_$15<void * c>},0 S64b,struct m3dl_t}.lang>} 
+
+NowTime: 0
+
+The Road is: x099828
+
+The Road is: x099828
+-----------------
+Now have _m3d_strcmp
+Now have _m3d_strcmp
+NowTime: 0
+
+The Road is: x0998288
+
+The Road is: x0998288
+-----------------
+Now have _m3d_strcmp
+Now have _m3d_strcmp
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x09980998
+
+The Road is: x09980998
+-----------------
+Now have _m3d_strcmp
+Now have _m3d_strcmp
+insert:
+_m3d_strcmp : &SymRegion{reg_$16<const char * Element{SymRegion{reg_$15<void * c>},0 S64b,struct m3dl_t}.lang>} &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<void * a>},0 S64b,struct m3dl_t}.lang>} 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+insert:
+_m3d_strcmp : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<void * a>},0 S64b,struct m3dl_t}.lang>} &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<void * b>},0 S64b,struct m3dl_t}.lang>} 
+
+The Road is: x2
+-----------------
+insert:
+_m3d_strcmp : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<void * a>},0 S64b,struct m3dl_t}.lang>} &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<void * b>},0 S64b,struct m3dl_t}.lang>} 
+
+The Road is: x1
+-----------------
+insert:
+_m3d_strcmp : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<void * a>},0 S64b,struct m3dl_t}.lang>} &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<void * b>},0 S64b,struct m3dl_t}.lang>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x1998
+The road length:4
+The road length:4
+The road length:4
+
+The Road is: x19980
+-----------------
+Now have _m3d_strcmp
+insert:
+_m3d_strcmp : &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<void * b>},0 S64b,struct m3dl_t}.lang>} &SymRegion{reg_$10<const char * Element{SymRegion{reg_$9<void * c>},0 S64b,struct m3dl_t}.lang>} 
+
+The Road is: x19982
+-----------------
+Now have _m3d_strcmp
+insert:
+_m3d_strcmp : &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<void * b>},0 S64b,struct m3dl_t}.lang>} &SymRegion{reg_$10<const char * Element{SymRegion{reg_$9<void * c>},0 S64b,struct m3dl_t}.lang>} 
+
+The Road is: x19981
+-----------------
+Now have _m3d_strcmp
+insert:
+_m3d_strcmp : &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<void * b>},0 S64b,struct m3dl_t}.lang>} &SymRegion{reg_$10<const char * Element{SymRegion{reg_$9<void * c>},0 S64b,struct m3dl_t}.lang>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x19981998
+
+The Road is: x19981998
+-----------------
+Now have _m3d_strcmp
+Now have _m3d_strcmp
+insert:
+_m3d_strcmp : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$4<void * a>},0 S64b,struct m3dl_t}.lang>} &SymRegion{reg_$10<const char * Element{SymRegion{reg_$9<void * c>},0 S64b,struct m3dl_t}.lang>} 
+
+NowTime: 0
+
+The Road is: x199828
+
+The Road is: x199828
+-----------------
+Now have _m3d_strcmp
+Now have _m3d_strcmp
+NowTime: 0
+
+The Road is: x28
+
+The Road is: x28
+-----------------
+Now have _m3d_strcmp
+NowTime: 0
+
+The Road is: x288
+
+The Road is: x288
+-----------------
+Now have _m3d_strcmp
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x2888
+The road length:4
+The road length:4
+The road length:4
+
+The Road is: x28880
+-----------------
+Now have _m3d_strcmp
+insert:
+_m3d_strcmp : &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<void * b>},0 S64b,struct m3dl_t}.lang>} &SymRegion{reg_$10<const char * Element{SymRegion{reg_$9<void * c>},0 S64b,struct m3dl_t}.lang>} 
+
+The Road is: x28882
+-----------------
+Now have _m3d_strcmp
+
+The Road is: x28881
+-----------------
+Now have _m3d_strcmp
+insert:
+_m3d_strcmp : &SymRegion{reg_$7<const char * Element{SymRegion{reg_$5<void * b>},0 S64b,struct m3dl_t}.lang>} &SymRegion{reg_$10<const char * Element{SymRegion{reg_$9<void * c>},0 S64b,struct m3dl_t}.lang>} 
+NowTime: 0
+
+The Road is: x288828
+The road length:6
+The road length:6
+The road length:6
+
+The Road is: x2888280
+-----------------
+Now have _m3d_strcmp
+insert:
+_m3d_strcmp : &SymRegion{reg_$13<const char * Element{SymRegion{reg_$5<void * b>},0 S64b,struct m3dl_t}.name>} &SymRegion{reg_$14<const char * Element{SymRegion{reg_$9<void * c>},0 S64b,struct m3dl_t}.name>} 
+
+The Road is: x2888282
+-----------------
+Now have _m3d_strcmp
+
+The Road is: x2888281
+-----------------
+Now have _m3d_strcmp
+insert:
+_m3d_strcmp : &SymRegion{reg_$13<const char * Element{SymRegion{reg_$5<void * b>},0 S64b,struct m3dl_t}.name>} &SymRegion{reg_$14<const char * Element{SymRegion{reg_$9<void * c>},0 S64b,struct m3dl_t}.name>} 
+NowTime: 1
+
+The Road is: x1998288
+
+The Road is: x1998288
+-----------------
+Now have _m3d_strcmp
+Now have _m3d_strcmp
+
+NowTime: 2
+
+NowTime: 2
+
+The Road is: x19982888
+
+The Road is: x19982888
+-----------------
+Now have _m3d_strcmp
+Now have _m3d_strcmp
+
+
+
+
+NowTime: 2
+
+NowTime: 2
+
+The Road is: x28881998
+
+The Road is: x28881998
+-----------------
+Now have _m3d_strcmp
+Now have _m3d_strcmp
+
+
+
+NowTime: 2
+
+NowTime: 2
+
+The Road is: x288828198
+
+The Road is: x288828198
+-----------------
+Now have _m3d_strcmp
+Now have _m3d_strcmp
+NowTime: 3
+
+The Road is: x2888281988
+
+The Road is: x2888281988
+-----------------
+Now have _m3d_strcmp
+Now have _m3d_strcmp
+
+NowTime: 3
+
+The Road is: x28882828
+The road length:8
+The road length:8
+The road length:8
+
+The Road is: x288828280
+-----------------
+Now have _m3d_strcmp
+insert:
+_m3d_strcmp : &SymRegion{reg_$19<const char * Element{SymRegion{reg_$5<void * b>},0 S64b,struct m3dl_t}.text>} &SymRegion{reg_$21<const char * Element{SymRegion{reg_$9<void * c>},0 S64b,struct m3dl_t}.text>} 
+
+The Road is: x288828282
+-----------------
+Now have _m3d_strcmp
+
+The Road is: x288828281
+-----------------
+Now have _m3d_strcmp
+insert:
+_m3d_strcmp : &SymRegion{reg_$19<const char * Element{SymRegion{reg_$5<void * b>},0 S64b,struct m3dl_t}.text>} &SymRegion{reg_$21<const char * Element{SymRegion{reg_$9<void * c>},0 S64b,struct m3dl_t}.text>} 
+
+NowTime: 5
+
+NowTime: 5
+
+The Road is: x2888282818
+
+The Road is: x2888282818
+-----------------
+Now have _m3d_strcmp
+Now have _m3d_strcmp
+NowTime: 7
+
+The Road is: x28882828188
+
+The Road is: x28882828188
+-----------------
+Now have _m3d_strcmp
+Now have _m3d_strcmp
+NowTime: 8
+
+The Road is: x288828281888
+
+The Road is: x288828281888
+-----------------
+Now have _m3d_strcmp
+Now have _m3d_strcmp
+
+
+NowTime: 11
+
+NowTime: 11
+
+The Road is: x2888282828
+
+The Road is: x2888282828
+-----------------
+Now have _m3d_strcmp
+NowTime: 13
+
+The Road is: x28882828288
+
+The Road is: x28882828288
+-----------------
+Now have _m3d_strcmp
+NowTime: 16
+
+The Road is: x288828282888
+
+The Road is: x288828282888
+-----------------
+Now have _m3d_strcmp
+
+
+
+Total paths analyzed: 1
+Total paths analyzed: 2
+Total paths analyzed: 2
+Total paths analyzed: 3
+Total paths analyzed: 4

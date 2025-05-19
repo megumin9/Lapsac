@@ -1,0 +1,31 @@
+/home/lizhilin/compare-order/real-project/openvino/test-lambda/test_31.cpp:18:9: error: use of undeclared identifier 'NewTest'
+   18 |         NewTest();
+      |         ^
+/home/lizhilin/compare-order/real-project/openvino/test-lambda/test_31.cpp:20:9: error: use of undeclared identifier 'ConsistencyChecker'
+   20 |         ConsistencyChecker();
+      |         ^
+/home/lizhilin/compare-order/real-project/openvino/test-lambda/test_31.cpp:24:9: error: use of undeclared identifier 'NewTest'
+   24 |         NewTest();
+      |         ^
+/home/lizhilin/compare-order/real-project/openvino/test-lambda/test_31.cpp:26:9: error: use of undeclared identifier 'TransiveChecker'
+   26 |         TransiveChecker();
+      |         ^
+/home/lizhilin/compare-order/real-project/openvino/test-lambda/test_31.cpp:30:9: error: use of undeclared identifier 'NewTest'
+   30 |         NewTest();
+      |         ^
+/home/lizhilin/compare-order/real-project/openvino/test-lambda/test_31.cpp:32:9: error: use of undeclared identifier 'SymmetryChecker'
+   32 |         SymmetryChecker();
+      |         ^
+/home/lizhilin/compare-order/real-project/openvino/test-lambda/test_31.cpp:36:9: error: use of undeclared identifier 'NewTest'
+   36 |         NewTest();
+      |         ^
+/home/lizhilin/compare-order/real-project/openvino/test-lambda/test_31.cpp:38:9: error: use of undeclared identifier 'SymmetryChecker'
+   38 |         SymmetryChecker();
+      |         ^
+/home/lizhilin/compare-order/real-project/openvino/test-lambda/test_31.cpp:42:9: error: use of undeclared identifier 'NewTest'
+   42 |         NewTest();
+      |         ^
+/home/lizhilin/compare-order/real-project/openvino/test-lambda/test_31.cpp:44:9: error: use of undeclared identifier 'ReflexivityChecker'
+   44 |         ReflexivityChecker();
+      |         ^
+10 errors generated.

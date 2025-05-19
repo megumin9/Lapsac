@@ -1,0 +1,451 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &Base{a,__shared_ptr} 
+The Road is: x
+insert:
+_M_get : &Base{Base{a,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getId : &SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>} NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &Base{a,__shared_ptr} 
+The Road is: x
+insert:
+_M_get : &Base{Base{a,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getId : &SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>} NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &Base{b,__shared_ptr} 
+The Road is: x
+insert:
+_M_get : &Base{Base{b,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getId : &SymRegion{reg_$9<element_type * Base{b,__shared_ptr}._M_ptr>} 
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+NowTime: 0
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &Base{a,__shared_ptr} 
+The Road is: x
+insert:
+_M_get : &Base{Base{a,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getId : &SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>} NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &Base{b,__shared_ptr} 
+The Road is: x
+insert:
+_M_get : &Base{Base{b,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getId : &SymRegion{reg_$9<element_type * Base{b,__shared_ptr}._M_ptr>} 
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+NowTime: 0
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &Base{a,__shared_ptr} 
+The Road is: x
+insert:
+_M_get : &Base{Base{a,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getId : &SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>} NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &Base{b,__shared_ptr} 
+The Road is: x
+insert:
+_M_get : &Base{Base{b,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getId : &SymRegion{reg_$9<element_type * Base{b,__shared_ptr}._M_ptr>} 
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+NowTime: 0
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+get : &Base{c,__shared_ptr} 
+The Road is: x8
+insert:
+_M_get : &Base{Base{c,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+getId : &SymRegion{reg_$18<element_type * Base{c,__shared_ptr}._M_ptr>} 
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+NowTime: 0
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &Base{a,__shared_ptr} 
+The Road is: x
+insert:
+_M_get : &Base{Base{a,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getId : &SymRegion{reg_$4<element_type * Base{a,__shared_ptr}._M_ptr>} NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &Base{b,__shared_ptr} 
+The Road is: x
+insert:
+_M_get : &Base{Base{b,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getId : &SymRegion{reg_$9<element_type * Base{b,__shared_ptr}._M_ptr>} 
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+NowTime: 0
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+get : &Base{c,__shared_ptr} 
+The Road is: x8
+insert:
+_M_get : &Base{Base{c,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+getId : &SymRegion{reg_$18<element_type * Base{c,__shared_ptr}._M_ptr>} 
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+NowTime: 0
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+
+
+
+Total paths analyzed: 0
+Total paths analyzed: 0
+Total paths analyzed: 0
+Total paths analyzed: 1
+Total paths analyzed: 1

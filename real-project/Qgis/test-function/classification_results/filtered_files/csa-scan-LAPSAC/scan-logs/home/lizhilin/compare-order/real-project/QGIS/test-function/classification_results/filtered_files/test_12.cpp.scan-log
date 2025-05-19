@@ -1,0 +1,232 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+-----------------
+insert:
+labelLessThan : &SymRegion{reg_$4<const QgsRendererCategory & a>} &SymRegion{reg_$4<const QgsRendererCategory & a>} 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x0
+-----------------
+insert:
+labelLessThan : &SymRegion{reg_$4<const QgsRendererCategory & a>} &SymRegion{reg_$5<const QgsRendererCategory & b>} 
+
+The Road is: x1
+-----------------
+insert:
+labelLessThan : &SymRegion{reg_$4<const QgsRendererCategory & a>} &SymRegion{reg_$5<const QgsRendererCategory & b>} 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x080
+-----------------
+Now have labelLessThan
+insert:
+labelLessThan : &SymRegion{reg_$5<const QgsRendererCategory & b>} &SymRegion{reg_$4<const QgsRendererCategory & a>} 
+
+The Road is: x081
+-----------------
+Now have labelLessThan
+insert:
+labelLessThan : &SymRegion{reg_$5<const QgsRendererCategory & b>} &SymRegion{reg_$4<const QgsRendererCategory & a>} 
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x0
+-----------------
+insert:
+labelLessThan : &SymRegion{reg_$4<const QgsRendererCategory & a>} &SymRegion{reg_$5<const QgsRendererCategory & b>} 
+
+The Road is: x1
+-----------------
+insert:
+labelLessThan : &SymRegion{reg_$4<const QgsRendererCategory & a>} &SymRegion{reg_$5<const QgsRendererCategory & b>} 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x080
+-----------------
+Now have labelLessThan
+insert:
+labelLessThan : &SymRegion{reg_$5<const QgsRendererCategory & b>} &SymRegion{reg_$4<const QgsRendererCategory & a>} 
+
+The Road is: x081
+-----------------
+Now have labelLessThan
+insert:
+labelLessThan : &SymRegion{reg_$5<const QgsRendererCategory & b>} &SymRegion{reg_$4<const QgsRendererCategory & a>} 
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x0
+-----------------
+insert:
+labelLessThan : &SymRegion{reg_$4<const QgsRendererCategory & a>} &SymRegion{reg_$5<const QgsRendererCategory & b>} 
+
+The Road is: x1
+-----------------
+insert:
+labelLessThan : &SymRegion{reg_$4<const QgsRendererCategory & a>} &SymRegion{reg_$5<const QgsRendererCategory & b>} 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x080
+-----------------
+Now have labelLessThan
+insert:
+labelLessThan : &SymRegion{reg_$5<const QgsRendererCategory & b>} &SymRegion{reg_$7<const QgsRendererCategory & c>} 
+
+The Road is: x081
+-----------------
+Now have labelLessThan
+insert:
+labelLessThan : &SymRegion{reg_$5<const QgsRendererCategory & b>} &SymRegion{reg_$7<const QgsRendererCategory & c>} 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x0808
+
+The Road is: x08080
+-----------------
+Now have labelLessThan
+Now have labelLessThan
+insert:
+labelLessThan : &SymRegion{reg_$7<const QgsRendererCategory & c>} &SymRegion{reg_$4<const QgsRendererCategory & a>} 
+
+The Road is: x08081
+-----------------
+Now have labelLessThan
+Now have labelLessThan
+insert:
+labelLessThan : &SymRegion{reg_$7<const QgsRendererCategory & c>} &SymRegion{reg_$4<const QgsRendererCategory & a>} 
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x0
+-----------------
+insert:
+labelLessThan : &SymRegion{reg_$4<const QgsRendererCategory & a>} &SymRegion{reg_$5<const QgsRendererCategory & b>} 
+
+The Road is: x1
+-----------------
+insert:
+labelLessThan : &SymRegion{reg_$4<const QgsRendererCategory & a>} &SymRegion{reg_$5<const QgsRendererCategory & b>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x180
+-----------------
+Now have labelLessThan
+insert:
+labelLessThan : &SymRegion{reg_$5<const QgsRendererCategory & b>} &SymRegion{reg_$7<const QgsRendererCategory & c>} 
+
+The Road is: x181
+-----------------
+Now have labelLessThan
+insert:
+labelLessThan : &SymRegion{reg_$5<const QgsRendererCategory & b>} &SymRegion{reg_$7<const QgsRendererCategory & c>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x1818
+
+The Road is: x18180
+-----------------
+Now have labelLessThan
+Now have labelLessThan
+insert:
+labelLessThan : &SymRegion{reg_$4<const QgsRendererCategory & a>} &SymRegion{reg_$7<const QgsRendererCategory & c>} 
+
+The Road is: x18181
+-----------------
+Now have labelLessThan
+Now have labelLessThan
+insert:
+labelLessThan : &SymRegion{reg_$4<const QgsRendererCategory & a>} &SymRegion{reg_$7<const QgsRendererCategory & c>} 
+
+
+
+
+/home/lizhilin/compare-order/real-project/QGIS/test-function/classification_results/filtered_files/test_12.cpp:33:5: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   33 |     SymmetryChecker();
+      |     ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/real-project/QGIS/test-function/classification_results/filtered_files/test_12.cpp:39:5: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   39 |     SymmetryChecker();
+      |     ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/real-project/QGIS/test-function/classification_results/filtered_files/test_12.cpp:45:5: warning: Violation of Anti-Reflexivity [CompareCheck.FunctionChecker]
+   45 |     ReflexivityChecker();
+      |     ^~~~~~~~~~~~~~~~~~~~
+3 warnings generated.
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 1

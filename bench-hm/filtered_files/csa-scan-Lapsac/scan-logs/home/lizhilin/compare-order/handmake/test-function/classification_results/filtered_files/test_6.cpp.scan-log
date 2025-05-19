@@ -1,0 +1,515 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var3 NowTime: 0
+
+The Road is: x
+
+The Road is: x
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var3 NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var3 
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x89
+
+The Road is: x89
+NowTime: 0
+
+The Road is: x89
+
+The Road is: x89
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+NowTime: 0
+
+The Road is: x88889
+
+The Road is: x88889
+NowTime: 0
+
+The Road is: x88889
+
+The Road is: x88889
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var3 NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var3 
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x89
+
+The Road is: x89
+NowTime: 0
+
+The Road is: x89
+
+The Road is: x89
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8988
+
+The Road is: x8988
+NowTime: 0
+
+The Road is: x8988
+
+The Road is: x8988
+NowTime: 0
+
+The Road is: x89888
+
+The Road is: x89888
+NowTime: 0
+
+The Road is: x89888
+
+The Road is: x89888
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var3 NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var3 
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x89
+
+The Road is: x89
+NowTime: 0
+
+The Road is: x89
+
+The Road is: x89
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+insert:
+size : &Element{SymRegion{reg_$24<testclass * c>},0 S64b,struct testclass}.var3 
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+NowTime: 0
+
+The Road is: x88889
+
+The Road is: x88889
+NowTime: 0
+
+The Road is: x88889
+
+The Road is: x88889
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x888888
+
+The Road is: x888888
+NowTime: 0
+
+The Road is: x888888
+
+The Road is: x888888
+
+NowTime: 0
+
+The Road is: x8888888
+
+The Road is: x8888888
+NowTime: 0
+
+The Road is: x8888888
+
+The Road is: x8888888
+NowTime: 0
+
+The Road is: x88888889
+
+The Road is: x88888889
+NowTime: 1
+
+The Road is: x88888889
+
+The Road is: x88888889
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var3 NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var3 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+insert:
+size : &Element{SymRegion{reg_$12<testclass * c>},0 S64b,struct testclass}.var3 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9898
+
+The Road is: x9898
+NowTime: 0
+
+The Road is: x9898
+
+The Road is: x9898
+
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+NowTime: 0
+
+The Road is: x9889
+
+The Road is: x9889
+NowTime: 0
+
+The Road is: x9889
+
+The Road is: x9889
+
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x89
+
+The Road is: x89
+NowTime: 0
+
+The Road is: x89
+
+The Road is: x89
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8988
+
+The Road is: x8988
+NowTime: 0
+
+The Road is: x8988
+
+The Road is: x8988
+insert:
+size : &Element{SymRegion{reg_$12<testclass * c>},0 S64b,struct testclass}.var3 NowTime: 0
+
+The Road is: x89888
+
+The Road is: x89888
+NowTime: 0
+
+The Road is: x89888
+
+The Road is: x89888
+
+NowTime: 0
+
+The Road is: x898889
+
+The Road is: x898889
+NowTime: 0
+
+The Road is: x898889
+
+The Road is: x898889
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x988988
+
+The Road is: x988988
+NowTime: 1
+
+The Road is: x988988
+
+The Road is: x988988
+NowTime: 1
+
+The Road is: x9889888
+
+The Road is: x9889888
+NowTime: 1
+
+The Road is: x9889888
+
+The Road is: x9889888
+NowTime: 1
+
+The Road is: x98898889
+
+The Road is: x98898889
+NowTime: 2
+
+The Road is: x98898889
+
+The Road is: x98898889
+
+
+NowTime: 2
+
+NowTime: 2
+
+The Road is: x89888988
+
+The Road is: x89888988
+NowTime: 2
+
+The Road is: x89888988
+
+The Road is: x89888988
+NowTime: 2
+
+The Road is: x898889888
+
+The Road is: x898889888
+NowTime: 3
+
+The Road is: x898889888
+
+The Road is: x898889888
+
+NowTime: 3
+
+The Road is: x8988898889
+
+The Road is: x8988898889
+NowTime: 4
+
+The Road is: x8988898889
+
+The Road is: x8988898889
+
+
+NowTime: 5
+
+NowTime: 5
+
+The Road is: x898898
+
+The Road is: x898898
+NowTime: 5
+
+The Road is: x898898
+
+The Road is: x898898
+NowTime: 5
+
+The Road is: x8988988
+
+The Road is: x8988988
+NowTime: 5
+
+The Road is: x8988988
+
+The Road is: x8988988
+
+NowTime: 5
+
+The Road is: x89889889
+
+The Road is: x89889889
+NowTime: 6
+
+The Road is: x89889889
+
+The Road is: x89889889
+
+Total paths analyzed: 0
+Total paths analyzed: 0
+Total paths analyzed: 0
+Total paths analyzed: 1
+Total paths analyzed: 3

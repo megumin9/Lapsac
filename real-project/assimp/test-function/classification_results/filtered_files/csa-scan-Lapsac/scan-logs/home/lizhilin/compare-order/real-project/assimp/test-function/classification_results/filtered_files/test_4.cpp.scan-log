@@ -1,0 +1,317 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+-----------------
+insert:
+memcmp : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$4<const void * a>} 1 U64b 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+-----------------
+Now have memcmp
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+insert:
+memcmp : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$5<const void * b>} 1 U64b 
+
+The Road is: x2
+-----------------
+insert:
+memcmp : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$5<const void * b>} 1 U64b 
+
+The Road is: x1
+-----------------
+insert:
+memcmp : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$5<const void * b>} 1 U64b 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+-----------------
+Now have memcmp
+insert:
+memcmp : &SymRegion{reg_$5<const void * b>} &SymRegion{reg_$4<const void * a>} 1 U64b 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+insert:
+memcmp : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$5<const void * b>} 1 U64b 
+
+The Road is: x2
+-----------------
+insert:
+memcmp : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$5<const void * b>} 1 U64b 
+
+The Road is: x1
+-----------------
+insert:
+memcmp : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$5<const void * b>} 1 U64b 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+-----------------
+Now have memcmp
+insert:
+memcmp : &SymRegion{reg_$5<const void * b>} &SymRegion{reg_$4<const void * a>} 1 U64b 
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+insert:
+memcmp : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$5<const void * b>} 1 U64b 
+
+The Road is: x2
+-----------------
+insert:
+memcmp : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$5<const void * b>} 1 U64b 
+
+The Road is: x1
+-----------------
+insert:
+memcmp : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$5<const void * b>} 1 U64b 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x08
+The road length:2
+The road length:2
+The road length:2
+
+The Road is: x080
+-----------------
+Now have memcmp
+insert:
+memcmp : &SymRegion{reg_$5<const void * b>} &SymRegion{reg_$7<const void * c>} 1 U64b 
+
+The Road is: x082
+-----------------
+Now have memcmp
+insert:
+memcmp : &SymRegion{reg_$5<const void * b>} &SymRegion{reg_$7<const void * c>} 1 U64b 
+
+The Road is: x081
+-----------------
+Now have memcmp
+insert:
+memcmp : &SymRegion{reg_$5<const void * b>} &SymRegion{reg_$7<const void * c>} 1 U64b 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x0808
+
+The Road is: x0808
+-----------------
+Now have memcmp
+Now have memcmp
+insert:
+memcmp : &SymRegion{reg_$7<const void * c>} &SymRegion{reg_$4<const void * a>} 1 U64b 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+insert:
+memcmp : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$5<const void * b>} 1 U64b 
+
+The Road is: x2
+-----------------
+insert:
+memcmp : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$5<const void * b>} 1 U64b 
+
+The Road is: x1
+-----------------
+insert:
+memcmp : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$5<const void * b>} 1 U64b 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x18
+The road length:2
+The road length:2
+The road length:2
+
+The Road is: x180
+-----------------
+Now have memcmp
+insert:
+memcmp : &SymRegion{reg_$5<const void * b>} &SymRegion{reg_$7<const void * c>} 1 U64b 
+
+The Road is: x182
+-----------------
+Now have memcmp
+insert:
+memcmp : &SymRegion{reg_$5<const void * b>} &SymRegion{reg_$7<const void * c>} 1 U64b 
+
+The Road is: x181
+-----------------
+Now have memcmp
+insert:
+memcmp : &SymRegion{reg_$5<const void * b>} &SymRegion{reg_$7<const void * c>} 1 U64b 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x1818
+
+The Road is: x1818
+-----------------
+Now have memcmp
+Now have memcmp
+insert:
+memcmp : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$7<const void * c>} 1 U64b 
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x28
+The road length:2
+The road length:2
+The road length:2
+
+The Road is: x280
+-----------------
+Now have memcmp
+insert:
+memcmp : &SymRegion{reg_$5<const void * b>} &SymRegion{reg_$7<const void * c>} 1 U64b 
+
+The Road is: x282
+-----------------
+Now have memcmp
+
+The Road is: x281
+-----------------
+Now have memcmp
+insert:
+memcmp : &SymRegion{reg_$5<const void * b>} &SymRegion{reg_$7<const void * c>} 1 U64b 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x1828
+
+The Road is: x1828
+-----------------
+Now have memcmp
+Now have memcmp
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x2818
+
+The Road is: x2818
+-----------------
+Now have memcmp
+Now have memcmp
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x2828
+
+The Road is: x2828
+-----------------
+Now have memcmp
+
+Total paths analyzed: 1
+Total paths analyzed: 2
+Total paths analyzed: 2
+Total paths analyzed: 3
+Total paths analyzed: 4

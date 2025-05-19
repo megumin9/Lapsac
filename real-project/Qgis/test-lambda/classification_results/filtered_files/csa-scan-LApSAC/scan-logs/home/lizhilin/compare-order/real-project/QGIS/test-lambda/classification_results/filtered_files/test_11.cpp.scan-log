@@ -1,0 +1,463 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+-----------------
+insert:
+compare : &Element{SymRegion{reg_$4<const QgsLabelPosition & a>},0 S64b,struct QgsLabelPosition}.labelText &Element{SymRegion{reg_$4<const QgsLabelPosition & a>},0 S64b,struct QgsLabelPosition}.labelText 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+The Road is: x8
+The road length:1
+The road length:1
+The road length:1
+
+The Road is: x80
+-----------------
+insert:
+compare : &Element{SymRegion{reg_$4<const QgsLabelPosition & a>},0 S64b,struct QgsLabelPosition}.labelText &Element{SymRegion{reg_$5<const QgsLabelPosition & b>},0 S64b,struct QgsLabelPosition}.labelText 
+
+The Road is: x82
+-----------------
+insert:
+compare : &Element{SymRegion{reg_$4<const QgsLabelPosition & a>},0 S64b,struct QgsLabelPosition}.labelText &Element{SymRegion{reg_$5<const QgsLabelPosition & b>},0 S64b,struct QgsLabelPosition}.labelText 
+
+The Road is: x81
+-----------------
+insert:
+compare : &Element{SymRegion{reg_$4<const QgsLabelPosition & a>},0 S64b,struct QgsLabelPosition}.labelText &Element{SymRegion{reg_$5<const QgsLabelPosition & b>},0 S64b,struct QgsLabelPosition}.labelText 
+
+NowTime: 0
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8088
+
+The Road is: x8088
+-----------------
+Now have compare
+insert:
+compare : &Element{SymRegion{reg_$5<const QgsLabelPosition & b>},0 S64b,struct QgsLabelPosition}.labelText &Element{SymRegion{reg_$4<const QgsLabelPosition & a>},0 S64b,struct QgsLabelPosition}.labelText 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+The Road is: x8
+The road length:1
+The road length:1
+The road length:1
+
+The Road is: x80
+-----------------
+insert:
+compare : &Element{SymRegion{reg_$4<const QgsLabelPosition & a>},0 S64b,struct QgsLabelPosition}.labelText &Element{SymRegion{reg_$5<const QgsLabelPosition & b>},0 S64b,struct QgsLabelPosition}.labelText 
+
+The Road is: x82
+-----------------
+insert:
+compare : &Element{SymRegion{reg_$4<const QgsLabelPosition & a>},0 S64b,struct QgsLabelPosition}.labelText &Element{SymRegion{reg_$5<const QgsLabelPosition & b>},0 S64b,struct QgsLabelPosition}.labelText 
+
+The Road is: x81
+-----------------
+insert:
+compare : &Element{SymRegion{reg_$4<const QgsLabelPosition & a>},0 S64b,struct QgsLabelPosition}.labelText &Element{SymRegion{reg_$5<const QgsLabelPosition & b>},0 S64b,struct QgsLabelPosition}.labelText 
+
+NowTime: 0
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8088
+
+The Road is: x8088
+-----------------
+Now have compare
+insert:
+compare : &Element{SymRegion{reg_$5<const QgsLabelPosition & b>},0 S64b,struct QgsLabelPosition}.labelText &Element{SymRegion{reg_$4<const QgsLabelPosition & a>},0 S64b,struct QgsLabelPosition}.labelText 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+The Road is: x8
+The road length:1
+The road length:1
+The road length:1
+
+The Road is: x80
+-----------------
+insert:
+compare : &Element{SymRegion{reg_$4<const QgsLabelPosition & a>},0 S64b,struct QgsLabelPosition}.labelText &Element{SymRegion{reg_$5<const QgsLabelPosition & b>},0 S64b,struct QgsLabelPosition}.labelText 
+
+The Road is: x82
+-----------------
+insert:
+compare : &Element{SymRegion{reg_$4<const QgsLabelPosition & a>},0 S64b,struct QgsLabelPosition}.labelText &Element{SymRegion{reg_$5<const QgsLabelPosition & b>},0 S64b,struct QgsLabelPosition}.labelText 
+
+The Road is: x81
+-----------------
+insert:
+compare : &Element{SymRegion{reg_$4<const QgsLabelPosition & a>},0 S64b,struct QgsLabelPosition}.labelText &Element{SymRegion{reg_$5<const QgsLabelPosition & b>},0 S64b,struct QgsLabelPosition}.labelText 
+
+NowTime: 0
+
+
+NowTime: 0
+
+The Road is: x988
+The road length:3
+The road length:3
+The road length:3
+
+The Road is: x9880
+-----------------
+insert:
+compare : &Element{SymRegion{reg_$5<const QgsLabelPosition & b>},0 S64b,struct QgsLabelPosition}.labelText &Element{SymRegion{reg_$9<const QgsLabelPosition & c>},0 S64b,struct QgsLabelPosition}.labelText 
+
+The Road is: x9882
+-----------------
+insert:
+compare : &Element{SymRegion{reg_$5<const QgsLabelPosition & b>},0 S64b,struct QgsLabelPosition}.labelText &Element{SymRegion{reg_$9<const QgsLabelPosition & c>},0 S64b,struct QgsLabelPosition}.labelText 
+
+The Road is: x9881
+-----------------
+insert:
+compare : &Element{SymRegion{reg_$5<const QgsLabelPosition & b>},0 S64b,struct QgsLabelPosition}.labelText &Element{SymRegion{reg_$9<const QgsLabelPosition & c>},0 S64b,struct QgsLabelPosition}.labelText 
+
+NowTime: 0
+
+
+NowTime: 0
+
+The Road is: x98988
+The road length:5
+The road length:5
+The road length:5
+
+The Road is: x989880
+-----------------
+insert:
+compare : &Element{SymRegion{reg_$9<const QgsLabelPosition & c>},0 S64b,struct QgsLabelPosition}.labelText &Element{SymRegion{reg_$4<const QgsLabelPosition & a>},0 S64b,struct QgsLabelPosition}.labelText 
+
+The Road is: x989882
+-----------------
+insert:
+compare : &Element{SymRegion{reg_$9<const QgsLabelPosition & c>},0 S64b,struct QgsLabelPosition}.labelText &Element{SymRegion{reg_$4<const QgsLabelPosition & a>},0 S64b,struct QgsLabelPosition}.labelText 
+
+The Road is: x989881
+-----------------
+insert:
+compare : &Element{SymRegion{reg_$9<const QgsLabelPosition & c>},0 S64b,struct QgsLabelPosition}.labelText &Element{SymRegion{reg_$4<const QgsLabelPosition & a>},0 S64b,struct QgsLabelPosition}.labelText 
+
+
+
+
+
+
+
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8088
+The road length:4
+The road length:4
+The road length:4
+
+The Road is: x80880
+-----------------
+Now have compare
+insert:
+compare : &Element{SymRegion{reg_$5<const QgsLabelPosition & b>},0 S64b,struct QgsLabelPosition}.labelText &Element{SymRegion{reg_$9<const QgsLabelPosition & c>},0 S64b,struct QgsLabelPosition}.labelText 
+
+The Road is: x80882
+-----------------
+Now have compare
+insert:
+compare : &Element{SymRegion{reg_$5<const QgsLabelPosition & b>},0 S64b,struct QgsLabelPosition}.labelText &Element{SymRegion{reg_$9<const QgsLabelPosition & c>},0 S64b,struct QgsLabelPosition}.labelText 
+
+The Road is: x80881
+-----------------
+Now have compare
+insert:
+compare : &Element{SymRegion{reg_$5<const QgsLabelPosition & b>},0 S64b,struct QgsLabelPosition}.labelText &Element{SymRegion{reg_$9<const QgsLabelPosition & c>},0 S64b,struct QgsLabelPosition}.labelText 
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8088088
+
+The Road is: x8088088
+-----------------
+Now have compare
+Now have compare
+insert:
+compare : &Element{SymRegion{reg_$9<const QgsLabelPosition & c>},0 S64b,struct QgsLabelPosition}.labelText &Element{SymRegion{reg_$4<const QgsLabelPosition & a>},0 S64b,struct QgsLabelPosition}.labelText 
+
+
+
+NowTime: 0
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+The Road is: x98988
+The road length:5
+The road length:5
+The road length:5
+
+The Road is: x989880
+-----------------
+insert:
+compare : &Element{SymRegion{reg_$4<const QgsLabelPosition & a>},0 S64b,struct QgsLabelPosition}.labelText &Element{SymRegion{reg_$8<const QgsLabelPosition & c>},0 S64b,struct QgsLabelPosition}.labelText 
+
+The Road is: x989882
+-----------------
+insert:
+compare : &Element{SymRegion{reg_$4<const QgsLabelPosition & a>},0 S64b,struct QgsLabelPosition}.labelText &Element{SymRegion{reg_$8<const QgsLabelPosition & c>},0 S64b,struct QgsLabelPosition}.labelText 
+
+The Road is: x989881
+-----------------
+insert:
+compare : &Element{SymRegion{reg_$4<const QgsLabelPosition & a>},0 S64b,struct QgsLabelPosition}.labelText &Element{SymRegion{reg_$8<const QgsLabelPosition & c>},0 S64b,struct QgsLabelPosition}.labelText 
+NowTime: 0
+
+The Road is: x988
+The road length:3
+The road length:3
+The road length:3
+
+The Road is: x9880
+-----------------
+insert:
+compare : &Element{SymRegion{reg_$5<const QgsLabelPosition & b>},0 S64b,struct QgsLabelPosition}.labelText &Element{SymRegion{reg_$8<const QgsLabelPosition & c>},0 S64b,struct QgsLabelPosition}.labelText 
+
+The Road is: x9882
+-----------------
+insert:
+compare : &Element{SymRegion{reg_$5<const QgsLabelPosition & b>},0 S64b,struct QgsLabelPosition}.labelText &Element{SymRegion{reg_$8<const QgsLabelPosition & c>},0 S64b,struct QgsLabelPosition}.labelText 
+
+The Road is: x9881
+-----------------
+insert:
+compare : &Element{SymRegion{reg_$5<const QgsLabelPosition & b>},0 S64b,struct QgsLabelPosition}.labelText &Element{SymRegion{reg_$8<const QgsLabelPosition & c>},0 S64b,struct QgsLabelPosition}.labelText 
+NowTime: 0
+
+The Road is: x8
+The road length:1
+The road length:1
+The road length:1
+
+The Road is: x80
+-----------------
+insert:
+compare : &Element{SymRegion{reg_$4<const QgsLabelPosition & a>},0 S64b,struct QgsLabelPosition}.labelText &Element{SymRegion{reg_$5<const QgsLabelPosition & b>},0 S64b,struct QgsLabelPosition}.labelText 
+
+The Road is: x82
+-----------------
+insert:
+compare : &Element{SymRegion{reg_$4<const QgsLabelPosition & a>},0 S64b,struct QgsLabelPosition}.labelText &Element{SymRegion{reg_$5<const QgsLabelPosition & b>},0 S64b,struct QgsLabelPosition}.labelText 
+
+The Road is: x81
+-----------------
+insert:
+compare : &Element{SymRegion{reg_$4<const QgsLabelPosition & a>},0 S64b,struct QgsLabelPosition}.labelText &Element{SymRegion{reg_$5<const QgsLabelPosition & b>},0 S64b,struct QgsLabelPosition}.labelText 
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8188
+The road length:4
+The road length:4
+The road length:4
+
+The Road is: x81880
+-----------------
+Now have compare
+insert:
+compare : &Element{SymRegion{reg_$5<const QgsLabelPosition & b>},0 S64b,struct QgsLabelPosition}.labelText &Element{SymRegion{reg_$8<const QgsLabelPosition & c>},0 S64b,struct QgsLabelPosition}.labelText 
+
+The Road is: x81882
+-----------------
+Now have compare
+insert:
+compare : &Element{SymRegion{reg_$5<const QgsLabelPosition & b>},0 S64b,struct QgsLabelPosition}.labelText &Element{SymRegion{reg_$8<const QgsLabelPosition & c>},0 S64b,struct QgsLabelPosition}.labelText 
+
+The Road is: x81881
+-----------------
+Now have compare
+insert:
+compare : &Element{SymRegion{reg_$5<const QgsLabelPosition & b>},0 S64b,struct QgsLabelPosition}.labelText &Element{SymRegion{reg_$8<const QgsLabelPosition & c>},0 S64b,struct QgsLabelPosition}.labelText 
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8288
+The road length:4
+The road length:4
+The road length:4
+
+The Road is: x82880
+-----------------
+Now have compare
+insert:
+compare : &Element{SymRegion{reg_$5<const QgsLabelPosition & b>},0 S64b,struct QgsLabelPosition}.labelText &Element{SymRegion{reg_$8<const QgsLabelPosition & c>},0 S64b,struct QgsLabelPosition}.labelText 
+
+The Road is: x82882
+-----------------
+Now have compare
+
+The Road is: x82881
+-----------------
+Now have compare
+insert:
+compare : &Element{SymRegion{reg_$5<const QgsLabelPosition & b>},0 S64b,struct QgsLabelPosition}.labelText &Element{SymRegion{reg_$8<const QgsLabelPosition & c>},0 S64b,struct QgsLabelPosition}.labelText 
+
+NowTime: 0
+
+
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8188188
+
+The Road is: x8188188
+-----------------
+Now have compare
+Now have compare
+insert:
+compare : &Element{SymRegion{reg_$4<const QgsLabelPosition & a>},0 S64b,struct QgsLabelPosition}.labelText &Element{SymRegion{reg_$8<const QgsLabelPosition & c>},0 S64b,struct QgsLabelPosition}.labelText 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8188288
+
+The Road is: x8188288
+-----------------
+Now have compare
+Now have compare
+
+
+
+
+NowTime: 0
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8288188
+
+The Road is: x8288188
+-----------------
+Now have compare
+Now have compare
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8288288
+
+The Road is: x8288288
+-----------------
+Now have compare
+
+
+
+
+NowTime: 0
+
+
+
+
+
+Total paths analyzed: 0
+Total paths analyzed: 0
+Total paths analyzed: 0
+Total paths analyzed: 4
+Total paths analyzed: 6

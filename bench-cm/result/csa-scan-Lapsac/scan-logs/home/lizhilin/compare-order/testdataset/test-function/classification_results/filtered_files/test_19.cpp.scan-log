@@ -1,0 +1,1232 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+isDir : &SymRegion{reg_$4<FileObject * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+GetPath : &SymRegion{reg_$4<FileObject * a>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+-----------------
+Now have isDir
+Now have GetPath
+insert:
+lstrcmpiA : &SymRegion{conj_$16{const char *, LC2, S6166930, #1}} &SymRegion{conj_$16{const char *, LC2, S6166930, #1}} 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+isDir : &SymRegion{reg_$4<FileObject * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+isDir : &SymRegion{reg_$5<FileObject * b>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+GetPath : &SymRegion{reg_$4<FileObject * a>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+GetPath : &SymRegion{reg_$5<FileObject * b>} NowTime: 0
+
+The Road is: x9
+The road length:1
+The road length:1
+The road length:1
+
+The Road is: x90
+-----------------
+Now have isDir
+Now have isDir
+Now have GetPath
+Now have GetPath
+insert:
+lstrcmpiA : &SymRegion{conj_$17{const char *, LC4, S6166930, #1}} &SymRegion{conj_$21{const char *, LC4, S6166947, #1}} 
+
+The Road is: x92
+-----------------
+Now have isDir
+Now have isDir
+Now have GetPath
+Now have GetPath
+insert:
+lstrcmpiA : &SymRegion{conj_$17{const char *, LC4, S6166930, #1}} &SymRegion{conj_$21{const char *, LC4, S6166947, #1}} 
+
+The Road is: x91
+-----------------
+Now have isDir
+Now have isDir
+Now have GetPath
+Now have GetPath
+insert:
+lstrcmpiA : &SymRegion{conj_$17{const char *, LC4, S6166930, #1}} &SymRegion{conj_$21{const char *, LC4, S6166947, #1}} 
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x908
+
+The Road is: x908
+NowTime: 0
+
+The Road is: x908
+
+The Road is: x908
+NowTime: 0
+
+The Road is: x9089
+
+The Road is: x9089
+NowTime: 0
+
+The Road is: x9089
+
+The Road is: x9089
+NowTime: 0
+
+The Road is: x9089
+
+The Road is: x9089
+-----------------
+Now have isDir
+Now have isDir
+Now have GetPath
+Now have GetPath
+Now have lstrcmpiA
+insert:
+lstrcmpiA : &SymRegion{conj_$21{const char *, LC4, S6166947, #1}} &SymRegion{conj_$17{const char *, LC4, S6166930, #1}} 
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+isDir : &SymRegion{reg_$4<FileObject * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+isDir : &SymRegion{reg_$5<FileObject * b>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+GetPath : &SymRegion{reg_$4<FileObject * a>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+GetPath : &SymRegion{reg_$5<FileObject * b>} NowTime: 0
+
+The Road is: x9
+The road length:1
+The road length:1
+The road length:1
+
+The Road is: x90
+-----------------
+Now have isDir
+Now have isDir
+Now have GetPath
+Now have GetPath
+insert:
+lstrcmpiA : &SymRegion{conj_$17{const char *, LC6, S6166930, #1}} &SymRegion{conj_$21{const char *, LC6, S6166947, #1}} 
+
+The Road is: x92
+-----------------
+Now have isDir
+Now have isDir
+Now have GetPath
+Now have GetPath
+insert:
+lstrcmpiA : &SymRegion{conj_$17{const char *, LC6, S6166930, #1}} &SymRegion{conj_$21{const char *, LC6, S6166947, #1}} 
+
+The Road is: x91
+-----------------
+Now have isDir
+Now have isDir
+Now have GetPath
+Now have GetPath
+insert:
+lstrcmpiA : &SymRegion{conj_$17{const char *, LC6, S6166930, #1}} &SymRegion{conj_$21{const char *, LC6, S6166947, #1}} 
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x908
+
+The Road is: x908
+NowTime: 0
+
+The Road is: x908
+
+The Road is: x908
+NowTime: 0
+
+The Road is: x9089
+
+The Road is: x9089
+NowTime: 0
+
+The Road is: x9089
+
+The Road is: x9089
+NowTime: 0
+
+The Road is: x9089
+
+The Road is: x9089
+-----------------
+Now have isDir
+Now have isDir
+Now have GetPath
+Now have GetPath
+Now have lstrcmpiA
+insert:
+lstrcmpiA : &SymRegion{conj_$21{const char *, LC6, S6166947, #1}} &SymRegion{conj_$17{const char *, LC6, S6166930, #1}} 
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+isDir : &SymRegion{reg_$4<FileObject * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+isDir : &SymRegion{reg_$5<FileObject * b>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+GetPath : &SymRegion{reg_$4<FileObject * a>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+GetPath : &SymRegion{reg_$5<FileObject * b>} NowTime: 0
+
+The Road is: x9
+The road length:1
+The road length:1
+The road length:1
+
+The Road is: x90
+-----------------
+Now have isDir
+Now have isDir
+Now have GetPath
+Now have GetPath
+insert:
+lstrcmpiA : &SymRegion{conj_$17{const char *, LC9, S6166930, #1}} &SymRegion{conj_$21{const char *, LC9, S6166947, #1}} 
+
+The Road is: x92
+-----------------
+Now have isDir
+Now have isDir
+Now have GetPath
+Now have GetPath
+insert:
+lstrcmpiA : &SymRegion{conj_$17{const char *, LC9, S6166930, #1}} &SymRegion{conj_$21{const char *, LC9, S6166947, #1}} 
+
+The Road is: x91
+-----------------
+Now have isDir
+Now have isDir
+Now have GetPath
+Now have GetPath
+insert:
+lstrcmpiA : &SymRegion{conj_$17{const char *, LC9, S6166930, #1}} &SymRegion{conj_$21{const char *, LC9, S6166947, #1}} 
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x908
+
+The Road is: x908
+NowTime: 0
+
+The Road is: x908
+
+The Road is: x908
+insert:
+isDir : &SymRegion{reg_$27<FileObject * c>} NowTime: 0
+
+The Road is: x9089
+
+The Road is: x9089
+NowTime: 0
+
+The Road is: x9089
+
+The Road is: x9089
+insert:
+GetPath : &SymRegion{reg_$27<FileObject * c>} NowTime: 0
+
+The Road is: x9089
+The road length:4
+The road length:4
+The road length:4
+
+The Road is: x90890
+-----------------
+Now have isDir
+Now have isDir
+Now have GetPath
+Now have GetPath
+Now have lstrcmpiA
+Now have isDir
+Now have GetPath
+insert:
+lstrcmpiA : &SymRegion{conj_$21{const char *, LC9, S6166947, #1}} &SymRegion{conj_$43{const char *, LC10, S6166947, #1}} 
+
+The Road is: x90892
+-----------------
+Now have isDir
+Now have isDir
+Now have GetPath
+Now have GetPath
+Now have lstrcmpiA
+Now have isDir
+Now have GetPath
+insert:
+lstrcmpiA : &SymRegion{conj_$21{const char *, LC9, S6166947, #1}} &SymRegion{conj_$43{const char *, LC10, S6166947, #1}} 
+
+The Road is: x90891
+-----------------
+Now have isDir
+Now have isDir
+Now have GetPath
+Now have GetPath
+Now have lstrcmpiA
+Now have isDir
+Now have GetPath
+insert:
+lstrcmpiA : &SymRegion{conj_$21{const char *, LC9, S6166947, #1}} &SymRegion{conj_$43{const char *, LC10, S6166947, #1}} 
+
+NowTime: 0
+
+The Road is: x9088
+
+The Road is: x9088
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x908908
+
+The Road is: x908908
+NowTime: 0
+
+The Road is: x908908
+
+The Road is: x908908
+NowTime: 0
+
+The Road is: x9089089
+
+The Road is: x9089089
+NowTime: 0
+
+The Road is: x9089089
+
+The Road is: x9089089
+NowTime: 0
+
+The Road is: x9089089
+
+The Road is: x9089089
+-----------------
+Now have isDir
+Now have isDir
+Now have GetPath
+Now have GetPath
+Now have lstrcmpiA
+Now have isDir
+Now have GetPath
+Now have lstrcmpiA
+insert:
+lstrcmpiA : &SymRegion{conj_$43{const char *, LC10, S6166947, #1}} &SymRegion{conj_$17{const char *, LC9, S6166930, #1}} 
+
+
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+isDir : &SymRegion{reg_$4<FileObject * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+isDir : &SymRegion{reg_$5<FileObject * b>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+GetPath : &SymRegion{reg_$4<FileObject * a>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+GetPath : &SymRegion{reg_$5<FileObject * b>} NowTime: 0
+
+The Road is: x9
+The road length:1
+The road length:1
+The road length:1
+
+The Road is: x90
+-----------------
+Now have isDir
+Now have isDir
+Now have GetPath
+Now have GetPath
+insert:
+lstrcmpiA : &SymRegion{conj_$17{const char *, LC12, S6166930, #1}} &SymRegion{conj_$21{const char *, LC12, S6166947, #1}} 
+
+The Road is: x92
+-----------------
+Now have isDir
+Now have isDir
+Now have GetPath
+Now have GetPath
+insert:
+lstrcmpiA : &SymRegion{conj_$17{const char *, LC12, S6166930, #1}} &SymRegion{conj_$21{const char *, LC12, S6166947, #1}} 
+
+The Road is: x91
+-----------------
+Now have isDir
+Now have isDir
+Now have GetPath
+Now have GetPath
+insert:
+lstrcmpiA : &SymRegion{conj_$17{const char *, LC12, S6166930, #1}} &SymRegion{conj_$21{const char *, LC12, S6166947, #1}} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x918
+
+The Road is: x918
+NowTime: 0
+
+The Road is: x918
+
+The Road is: x918
+insert:
+isDir : &SymRegion{reg_$23<FileObject * c>} NowTime: 0
+
+The Road is: x9189
+
+The Road is: x9189
+NowTime: 0
+
+The Road is: x9189
+
+The Road is: x9189
+insert:
+GetPath : &SymRegion{reg_$23<FileObject * c>} NowTime: 0
+
+The Road is: x9189
+The road length:4
+The road length:4
+The road length:4
+
+The Road is: x91890
+-----------------
+Now have isDir
+Now have isDir
+Now have GetPath
+Now have GetPath
+Now have lstrcmpiA
+Now have isDir
+Now have GetPath
+insert:
+lstrcmpiA : &SymRegion{conj_$21{const char *, LC12, S6166947, #1}} &SymRegion{conj_$39{const char *, LC13, S6166947, #1}} 
+
+The Road is: x91892
+-----------------
+Now have isDir
+Now have isDir
+Now have GetPath
+Now have GetPath
+Now have lstrcmpiA
+Now have isDir
+Now have GetPath
+insert:
+lstrcmpiA : &SymRegion{conj_$21{const char *, LC12, S6166947, #1}} &SymRegion{conj_$39{const char *, LC13, S6166947, #1}} 
+
+The Road is: x91891
+-----------------
+Now have isDir
+Now have isDir
+Now have GetPath
+Now have GetPath
+Now have lstrcmpiA
+Now have isDir
+Now have GetPath
+insert:
+lstrcmpiA : &SymRegion{conj_$21{const char *, LC12, S6166947, #1}} &SymRegion{conj_$39{const char *, LC13, S6166947, #1}} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x918918
+
+The Road is: x918918
+NowTime: 0
+
+The Road is: x918918
+
+The Road is: x918918
+NowTime: 0
+
+The Road is: x9189189
+
+The Road is: x9189189
+NowTime: 0
+
+The Road is: x9189189
+
+The Road is: x9189189
+NowTime: 0
+
+The Road is: x9189189
+
+The Road is: x9189189
+-----------------
+Now have isDir
+Now have isDir
+Now have GetPath
+Now have GetPath
+Now have lstrcmpiA
+Now have isDir
+Now have GetPath
+Now have lstrcmpiA
+insert:
+lstrcmpiA : &SymRegion{conj_$17{const char *, LC12, S6166930, #1}} &SymRegion{conj_$39{const char *, LC13, S6166947, #1}} 
+
+NowTime: 0
+
+The Road is: x9188
+
+The Road is: x9188
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x928
+
+The Road is: x928
+NowTime: 0
+
+The Road is: x928
+
+The Road is: x928
+insert:
+isDir : &SymRegion{reg_$23<FileObject * c>} NowTime: 0
+
+The Road is: x9288
+
+The Road is: x9288
+NowTime: 0
+
+The Road is: x9289
+
+The Road is: x9289
+NowTime: 0
+
+The Road is: x9289
+
+The Road is: x9289
+insert:
+GetPath : &SymRegion{reg_$23<FileObject * c>} NowTime: 0
+
+The Road is: x9289
+The road length:4
+The road length:4
+The road length:4
+
+The Road is: x92890
+-----------------
+Now have isDir
+Now have isDir
+Now have GetPath
+Now have GetPath
+Now have lstrcmpiA
+Now have isDir
+Now have GetPath
+insert:
+lstrcmpiA : &SymRegion{conj_$21{const char *, LC12, S6166947, #1}} &SymRegion{conj_$39{const char *, LC13, S6166947, #1}} 
+
+The Road is: x92892
+-----------------
+Now have isDir
+Now have isDir
+Now have GetPath
+Now have GetPath
+Now have lstrcmpiA
+Now have isDir
+Now have GetPath
+
+The Road is: x92891
+-----------------
+Now have isDir
+Now have isDir
+Now have GetPath
+Now have GetPath
+Now have lstrcmpiA
+Now have isDir
+Now have GetPath
+insert:
+lstrcmpiA : &SymRegion{conj_$21{const char *, LC12, S6166947, #1}} &SymRegion{conj_$39{const char *, LC13, S6166947, #1}} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x918928
+
+The Road is: x918928
+NowTime: 0
+
+The Road is: x918928
+
+The Road is: x918928
+NowTime: 0
+
+The Road is: x9189289
+
+The Road is: x9189289
+NowTime: 0
+
+The Road is: x9189289
+
+The Road is: x9189289
+NowTime: 0
+
+The Road is: x9189289
+
+The Road is: x9189289
+-----------------
+Now have isDir
+Now have isDir
+Now have GetPath
+Now have GetPath
+Now have lstrcmpiA
+Now have isDir
+Now have GetPath
+Now have lstrcmpiA
+
+
+
+
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x898
+
+The Road is: x898
+NowTime: 1
+
+The Road is: x898
+
+The Road is: x898
+insert:
+isDir : &SymRegion{reg_$23<FileObject * c>} NowTime: 1
+
+The Road is: x8988
+
+The Road is: x8988
+NowTime: 1
+
+The Road is: x8989
+
+The Road is: x8989
+insert:
+GetPath : &SymRegion{reg_$5<FileObject * b>} NowTime: 1
+
+The Road is: x8989
+
+The Road is: x8989
+insert:
+GetPath : &SymRegion{reg_$23<FileObject * c>} NowTime: 1
+
+The Road is: x8989
+The road length:4
+The road length:4
+The road length:4
+
+The Road is: x89890
+-----------------
+Now have isDir
+Now have isDir
+Now have isDir
+Now have GetPath
+Now have GetPath
+insert:
+lstrcmpiA : &SymRegion{conj_$35{const char *, LC13, S6166930, #1}} &SymRegion{conj_$39{const char *, LC13, S6166947, #1}} 
+
+The Road is: x89892
+-----------------
+Now have isDir
+Now have isDir
+Now have isDir
+Now have GetPath
+Now have GetPath
+insert:
+lstrcmpiA : &SymRegion{conj_$35{const char *, LC13, S6166930, #1}} &SymRegion{conj_$39{const char *, LC13, S6166947, #1}} 
+
+The Road is: x89891
+-----------------
+Now have isDir
+Now have isDir
+Now have isDir
+Now have GetPath
+Now have GetPath
+insert:
+lstrcmpiA : &SymRegion{conj_$35{const char *, LC13, S6166930, #1}} &SymRegion{conj_$39{const char *, LC13, S6166947, #1}} 
+
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x918898
+
+The Road is: x918898
+NowTime: 1
+
+The Road is: x918898
+
+The Road is: x918898
+NowTime: 1
+
+The Road is: x9188988
+
+The Road is: x9188988
+
+
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x928918
+
+The Road is: x928918
+NowTime: 1
+
+The Road is: x928918
+
+The Road is: x928918
+NowTime: 1
+
+The Road is: x9289189
+
+The Road is: x9289189
+NowTime: 1
+
+The Road is: x9289189
+
+The Road is: x9289189
+NowTime: 1
+
+The Road is: x9289189
+
+The Road is: x9289189
+-----------------
+Now have isDir
+Now have isDir
+Now have GetPath
+Now have GetPath
+Now have lstrcmpiA
+Now have isDir
+Now have GetPath
+Now have lstrcmpiA
+
+
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x888
+
+The Road is: x888
+NowTime: 1
+
+The Road is: x888
+
+The Road is: x888
+insert:
+isDir : &SymRegion{reg_$23<FileObject * c>} NowTime: 1
+
+The Road is: x8888
+
+The Road is: x8888
+NowTime: 1
+
+The Road is: x8889
+
+The Road is: x8889
+insert:
+GetPath : &SymRegion{reg_$5<FileObject * b>} NowTime: 1
+
+The Road is: x8889
+
+The Road is: x8889
+insert:
+GetPath : &SymRegion{reg_$23<FileObject * c>} NowTime: 1
+
+The Road is: x8889
+The road length:4
+The road length:4
+The road length:4
+
+The Road is: x88890
+-----------------
+Now have isDir
+Now have isDir
+Now have isDir
+Now have GetPath
+Now have GetPath
+insert:
+lstrcmpiA : &SymRegion{conj_$35{const char *, LC13, S6166930, #1}} &SymRegion{conj_$39{const char *, LC13, S6166947, #1}} 
+
+The Road is: x88892
+-----------------
+Now have isDir
+Now have isDir
+Now have isDir
+Now have GetPath
+Now have GetPath
+insert:
+lstrcmpiA : &SymRegion{conj_$35{const char *, LC13, S6166930, #1}} &SymRegion{conj_$39{const char *, LC13, S6166947, #1}} 
+
+The Road is: x88891
+-----------------
+Now have isDir
+Now have isDir
+Now have isDir
+Now have GetPath
+Now have GetPath
+insert:
+lstrcmpiA : &SymRegion{conj_$35{const char *, LC13, S6166930, #1}} &SymRegion{conj_$39{const char *, LC13, S6166947, #1}} 
+
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x928928
+
+The Road is: x928928
+NowTime: 1
+
+The Road is: x928928
+
+The Road is: x928928
+NowTime: 2
+
+The Road is: x9289289
+
+The Road is: x9289289
+NowTime: 2
+
+The Road is: x9289289
+
+The Road is: x9289289
+NowTime: 3
+
+The Road is: x9289289
+
+The Road is: x9289289
+-----------------
+Now have isDir
+Now have isDir
+Now have GetPath
+Now have GetPath
+Now have lstrcmpiA
+Now have isDir
+Now have GetPath
+
+
+
+NowTime: 4
+
+NowTime: 4
+
+The Road is: x918888
+
+The Road is: x918888
+NowTime: 4
+
+The Road is: x918888
+
+The Road is: x918888
+NowTime: 4
+
+The Road is: x9188888
+
+The Road is: x9188888
+
+
+NowTime: 4
+
+NowTime: 4
+
+The Road is: x928888
+
+The Road is: x928888
+NowTime: 4
+
+The Road is: x928888
+
+The Road is: x928888
+NowTime: 4
+
+The Road is: x9288888
+
+The Road is: x9288888
+
+
+NowTime: 4
+
+NowTime: 4
+
+The Road is: x928898
+
+The Road is: x928898
+NowTime: 4
+
+The Road is: x928898
+
+The Road is: x928898
+NowTime: 4
+
+The Road is: x9288988
+
+The Road is: x9288988
+
+
+NowTime: 4
+
+NowTime: 4
+
+The Road is: x898918
+
+The Road is: x898918
+NowTime: 4
+
+The Road is: x898918
+
+The Road is: x898918
+NowTime: 4
+
+The Road is: x8989188
+
+The Road is: x8989188
+
+
+NowTime: 4
+
+NowTime: 4
+
+The Road is: x898928
+
+The Road is: x898928
+NowTime: 4
+
+The Road is: x898928
+
+The Road is: x898928
+NowTime: 4
+
+The Road is: x8989288
+
+The Road is: x8989288
+
+
+
+NowTime: 4
+
+NowTime: 4
+
+The Road is: x898888
+
+The Road is: x898888
+NowTime: 5
+
+The Road is: x898888
+
+The Road is: x898888
+NowTime: 5
+
+The Road is: x8988889
+
+The Road is: x8988889
+insert:
+GetPath : &SymRegion{reg_$4<FileObject * a>} NowTime: 5
+
+The Road is: x8988889
+
+The Road is: x8988889
+insert:
+GetPath : &SymRegion{reg_$23<FileObject * c>} NowTime: 5
+
+The Road is: x8988889
+The road length:7
+The road length:7
+The road length:7
+
+The Road is: x89888890
+-----------------
+Now have isDir
+Now have isDir
+Now have isDir
+Now have GetPath
+Now have GetPath
+insert:
+lstrcmpiA : &SymRegion{conj_$52{const char *, LC14, S6166930, #1}} &SymRegion{conj_$56{const char *, LC14, S6166947, #1}} 
+
+The Road is: x89888892
+-----------------
+Now have isDir
+Now have isDir
+Now have isDir
+Now have GetPath
+Now have GetPath
+insert:
+lstrcmpiA : &SymRegion{conj_$52{const char *, LC14, S6166930, #1}} &SymRegion{conj_$56{const char *, LC14, S6166947, #1}} 
+
+The Road is: x89888891
+-----------------
+Now have isDir
+Now have isDir
+Now have isDir
+Now have GetPath
+Now have GetPath
+insert:
+lstrcmpiA : &SymRegion{conj_$52{const char *, LC14, S6166930, #1}} &SymRegion{conj_$56{const char *, LC14, S6166947, #1}} 
+
+
+
+
+NowTime: 5
+
+NowTime: 5
+
+The Road is: x888918
+
+The Road is: x888918
+NowTime: 5
+
+The Road is: x888918
+
+The Road is: x888918
+NowTime: 5
+
+The Road is: x8889188
+
+The Road is: x8889188
+
+
+NowTime: 5
+
+NowTime: 5
+
+The Road is: x888928
+
+The Road is: x888928
+NowTime: 5
+
+The Road is: x888928
+
+The Road is: x888928
+NowTime: 5
+
+The Road is: x8889288
+
+The Road is: x8889288
+
+
+
+NowTime: 5
+
+NowTime: 5
+
+The Road is: x888898
+
+The Road is: x888898
+NowTime: 5
+
+The Road is: x888898
+
+The Road is: x888898
+NowTime: 5
+
+The Road is: x8888989
+
+The Road is: x8888989
+insert:
+GetPath : &SymRegion{reg_$4<FileObject * a>} NowTime: 5
+
+The Road is: x8888989
+
+The Road is: x8888989
+insert:
+GetPath : &SymRegion{reg_$23<FileObject * c>} NowTime: 5
+
+The Road is: x8888989
+The road length:7
+The road length:7
+The road length:7
+
+The Road is: x88889890
+-----------------
+Now have isDir
+Now have isDir
+Now have isDir
+Now have GetPath
+Now have GetPath
+insert:
+lstrcmpiA : &SymRegion{conj_$52{const char *, LC14, S6166930, #1}} &SymRegion{conj_$56{const char *, LC14, S6166947, #1}} 
+
+The Road is: x88889892
+-----------------
+Now have isDir
+Now have isDir
+Now have isDir
+Now have GetPath
+Now have GetPath
+insert:
+lstrcmpiA : &SymRegion{conj_$52{const char *, LC14, S6166930, #1}} &SymRegion{conj_$56{const char *, LC14, S6166947, #1}} 
+
+The Road is: x88889891
+-----------------
+Now have isDir
+Now have isDir
+Now have isDir
+Now have GetPath
+Now have GetPath
+insert:
+lstrcmpiA : &SymRegion{conj_$52{const char *, LC14, S6166930, #1}} &SymRegion{conj_$56{const char *, LC14, S6166947, #1}} 
+
+
+
+Total paths analyzed: 0
+Total paths analyzed: 0
+Total paths analyzed: 0
+Total paths analyzed: 0
+Total paths analyzed: 2

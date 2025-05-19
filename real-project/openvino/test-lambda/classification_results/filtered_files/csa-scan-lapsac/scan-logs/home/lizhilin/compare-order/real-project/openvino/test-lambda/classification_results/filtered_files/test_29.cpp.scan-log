@@ -1,0 +1,653 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x99
+insert:
+_M_get_use_count : &Base{locked_graph,__shared_ptr}._M_refcount 
+The Road is: x999
+insert:
+lock : &m_graph NowTime: 0
+NowTime: 0
+
+The Road is: x999
+NowTime: 0
+
+The Road is: x999
+
+The Road is: x999
+insert:
+get : &Base{locked_graph,__shared_ptr} 
+The Road is: x999
+insert:
+_M_get : &Base{Base{locked_graph,__shared_ptr},__shared_ptr_access} NowTime: 0
+NowTime: 0
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+_M_get_use_count : &SymRegion{derived_$5{conj_$2{int, LC1, S6198634, #1},Base{m_graph,__weak_ptr}._M_refcount._M_pi}} 
+The Road is: x89
+insert:
+_M_add_ref_lock_nothrow : &SymRegion{derived_$5{conj_$2{int, LC1, S6198634, #1},Base{m_graph,__weak_ptr}._M_refcount._M_pi}} NowTime: 0
+
+The Road is: x899
+
+The Road is: x88
+insert:
+_M_add_ref_lock_nothrow : &SymRegion{derived_$5{conj_$2{int, LC1, S6198634, #1},Base{m_graph,__weak_ptr}._M_refcount._M_pi}} NowTime: 0
+
+The Road is: x888
+
+The Road is: x898
+NowTime: 0
+
+The Road is: x8988
+
+The Road is: x899
+NowTime: 0
+
+The Road is: x8999
+NowTime: 0
+
+The Road is: x8998
+
+The Road is: x8998
+
+The Road is: x8998
+insert:
+_M_get_use_count : &Base{locked_graph,__shared_ptr}._M_refcount 
+The Road is: x8998
+insert:
+lock : &m_graph NowTime: 0
+NowTime: 0
+
+The Road is: x8998
+NowTime: 0
+
+The Road is: x8998
+
+The Road is: x8998
+insert:
+get : &Base{locked_graph,__shared_ptr} 
+The Road is: x8998
+insert:
+_M_get : &Base{Base{locked_graph,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x8998
+
+The Road is: x8998
+insert:
+meta : &SymRegion{derived_$13{conj_$2{int, LC1, S6198634, #1},Base{m_graph,__weak_ptr}._M_ptr}} &SymRegion{reg_$4<const own::ade::NodeHandle & a>} NowTime: 0
+
+The Road is: x8998
+
+The Road is: x8998
+insert:
+get : &temp_object{MetaData, S6197117} NowTime: 0
+NowTime: 0
+
+The Road is: x8998
+NowTime: 0
+
+The Road is: x8998
+
+The Road is: x8998
+
+The Road is: x8998
+NowTime: 0
+
+The Road is: x8998
+
+The Road is: x8998
+NowTime: 0
+
+The Road is: x8998
+
+The Road is: x8998
+insert:
+get : &temp_object{MetaData, S6197443} 
+
+
+The Road is: x8998
+NowTime: 0
+NowTime: 0
+
+The Road is: x8998
+NowTime: 0
+
+The Road is: x8998
+
+The Road is: x8998
+
+The Road is: x8998
+NowTime: 0
+
+The Road is: x8998
+
+The Road is: x8998
+NowTime: 0
+
+The Road is: x8998
+
+The Road is: x8998
+NowTime: 0
+NowTime: 0
+
+The Road is: x8998
+NowTime: 0
+
+The Road is: x8998
+
+The Road is: x8998
+
+The Road is: x8998
+NowTime: 0
+
+The Road is: x8998
+
+The Road is: x8998
+NowTime: 0
+
+The Road is: x8998
+
+The Road is: x8998
+
+
+
+The Road is: x8889
+insert:
+_M_get_use_count : &Base{locked_graph,__shared_ptr}._M_refcount 
+The Road is: x88899
+insert:
+lock : &m_graph NowTime: 0
+NowTime: 0
+
+The Road is: x88899
+NowTime: 0
+
+The Road is: x88899
+
+The Road is: x88899
+insert:
+get : &Base{locked_graph,__shared_ptr} 
+The Road is: x88899
+insert:
+_M_get : &Base{Base{locked_graph,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x89889
+insert:
+_M_get_use_count : &Base{locked_graph,__shared_ptr}._M_refcount 
+The Road is: x898899
+insert:
+lock : &m_graph NowTime: 0
+NowTime: 0
+
+The Road is: x898899
+NowTime: 0
+
+The Road is: x898899
+
+The Road is: x898899
+insert:
+get : &Base{locked_graph,__shared_ptr} 
+The Road is: x898899
+insert:
+_M_get : &Base{Base{locked_graph,__shared_ptr},__shared_ptr_access} NowTime: 0
+NowTime: 0
+
+The Road is: x89998
+
+The Road is: x89998
+
+The Road is: x89998
+insert:
+_M_get_use_count : &Base{locked_graph,__shared_ptr}._M_refcount 
+The Road is: x89998
+insert:
+lock : &m_graph NowTime: 0
+NowTime: 0
+
+The Road is: x89998
+NowTime: 0
+
+The Road is: x89998
+
+The Road is: x89998
+insert:
+get : &Base{locked_graph,__shared_ptr} 
+The Road is: x89998
+insert:
+_M_get : &Base{Base{locked_graph,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x89998
+
+The Road is: x89998
+insert:
+meta : &SymRegion{derived_$13{conj_$2{int, LC1, S6198634, #1},Base{m_graph,__weak_ptr}._M_ptr}} &SymRegion{reg_$4<const own::ade::NodeHandle & a>} NowTime: 0
+
+The Road is: x89998
+
+The Road is: x89998
+insert:
+get : &temp_object{MetaData, S6197117} NowTime: 0
+NowTime: 0
+
+The Road is: x89998
+NowTime: 0
+
+The Road is: x89998
+
+The Road is: x89998
+
+The Road is: x89998
+NowTime: 0
+
+The Road is: x89998
+
+The Road is: x89998
+NowTime: 0
+
+The Road is: x89998
+
+The Road is: x89998
+insert:
+get : &temp_object{MetaData, S6197443} 
+
+
+The Road is: x89998
+NowTime: 0
+NowTime: 0
+
+The Road is: x89998
+NowTime: 0
+
+The Road is: x89998
+
+The Road is: x89998
+
+The Road is: x89998
+NowTime: 0
+
+The Road is: x89998
+
+The Road is: x89998
+NowTime: 0
+
+The Road is: x89998
+
+The Road is: x89998
+NowTime: 0
+NowTime: 0
+
+The Road is: x89998
+NowTime: 0
+
+The Road is: x89998
+
+The Road is: x89998
+
+The Road is: x89998
+NowTime: 0
+
+The Road is: x89998
+
+The Road is: x89998
+NowTime: 0
+
+The Road is: x89998
+
+The Road is: x89998
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x99
+insert:
+_M_get_use_count : &Base{locked_graph,__shared_ptr}._M_refcount 
+The Road is: x999
+insert:
+lock : &m_graph NowTime: 0
+NowTime: 0
+
+The Road is: x999
+NowTime: 0
+
+The Road is: x999
+
+The Road is: x999
+insert:
+get : &Base{locked_graph,__shared_ptr} 
+The Road is: x999
+insert:
+_M_get : &Base{Base{locked_graph,__shared_ptr},__shared_ptr_access} NowTime: 0
+NowTime: 0
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+_M_get_use_count : &SymRegion{derived_$6{conj_$2{int, LC18, S6198454, #1},Base{m_graph,__weak_ptr}._M_refcount._M_pi}} 
+The Road is: x89
+insert:
+_M_add_ref_lock_nothrow : &SymRegion{derived_$6{conj_$2{int, LC18, S6198454, #1},Base{m_graph,__weak_ptr}._M_refcount._M_pi}} NowTime: 0
+
+The Road is: x899
+
+The Road is: x88
+insert:
+_M_add_ref_lock_nothrow : &SymRegion{derived_$6{conj_$2{int, LC18, S6198454, #1},Base{m_graph,__weak_ptr}._M_refcount._M_pi}} NowTime: 0
+
+The Road is: x888
+
+The Road is: x898
+NowTime: 0
+
+The Road is: x8988
+
+The Road is: x899
+NowTime: 0
+
+The Road is: x8999
+NowTime: 0
+
+The Road is: x8998
+
+The Road is: x8998
+
+The Road is: x8998
+insert:
+_M_get_use_count : &Base{locked_graph,__shared_ptr}._M_refcount 
+The Road is: x8998
+insert:
+lock : &m_graph NowTime: 0
+NowTime: 0
+
+The Road is: x8998
+NowTime: 0
+
+The Road is: x8998
+
+The Road is: x8998
+insert:
+get : &Base{locked_graph,__shared_ptr} 
+The Road is: x8998
+insert:
+_M_get : &Base{Base{locked_graph,__shared_ptr},__shared_ptr_access} NowTime: 0
+
+The Road is: x8998
+
+The Road is: x8998
+insert:
+meta : &SymRegion{derived_$14{conj_$2{int, LC18, S6198454, #1},Base{m_graph,__weak_ptr}._M_ptr}} &SymRegion{reg_$4<const own::ade::NodeHandle & a>} NowTime: 0
+
+The Road is: x8998
+
+The Road is: x8998
+insert:
+get : &temp_object{MetaData, S6197117} NowTime: 0
+NowTime: 0
+
+The Road is: x8998
+NowTime: 0
+
+The Road is: x8998
+
+The Road is: x8998
+
+The Road is: x8998
+NowTime: 0
+
+The Road is: x8998
+
+The Road is: x8998
+insert:
+meta : &SymRegion{derived_$14{conj_$2{int, LC18, S6198454, #1},Base{m_graph,__weak_ptr}._M_ptr}} &SymRegion{reg_$5<const own::ade::NodeHandle & b>} NowTime: 0
+
+The Road is: x8998
+
+The Road is: x8998
+insert:
+get : &temp_object{MetaData, S6197443} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x89988
+NowTime: 0
+
+The Road is: x899889
+
+The Road is: x8998899
+
+The Road is: x8998899
+NowTime: 0
+NowTime: 0
+
+The Road is: x8998899
+NowTime: 0
+
+The Road is: x8998899
+
+The Road is: x8998899
+
+The Road is: x8998899
+NowTime: 0
+
+The Road is: x8998899
+
+The Road is: x8998899
+NowTime: 0
+
+The Road is: x8998899
+
+The Road is: x8998899
+NowTime: 0
+NowTime: 0
+
+The Road is: x8998899
+NowTime: 0
+
+The Road is: x8998899
+
+The Road is: x8998899
+
+The Road is: x8998899
+NowTime: 0
+
+The Road is: x8998899
+
+The Road is: x8998899
+NowTime: 0
+
+The Road is: x8998899
+
+The Road is: x8998899
+
+
+NowTime: 0
+
+The Road is: x899888
+NowTime: 0
+
+The Road is: x899888
+
+The Road is: x899888
+insert:
+_M_get_use_count : &SymRegion{derived_$38{conj_$29{int, LC19, S6197522, #1},Base{m_graph,__weak_ptr}._M_refcount._M_pi}} 
+The Road is: x8998889
+insert:
+_M_add_ref_lock_nothrow : &SymRegion{derived_$38{conj_$29{int, LC19, S6197522, #1},Base{m_graph,__weak_ptr}._M_refcount._M_pi}} NowTime: 0
+
+The Road is: x89988899
+
+The Road is: x8998888
+insert:
+_M_add_ref_lock_nothrow : &SymRegion{derived_$38{conj_$29{int, LC19, S6197522, #1},Base{m_graph,__weak_ptr}._M_refcount._M_pi}} NowTime: 0
+
+The Road is: x89988888
+
+The Road is: x89988898
+NowTime: 0
+
+The Road is: x899888988
+
+The Road is: x89988899
+NowTime: 0
+
+The Road is: x899888999
+NowTime: 0
+
+The Road is: x899888998
+
+The Road is: x899888998
+
+The Road is: x899888998
+
+The Road is: x8998899
+NowTime: 0
+NowTime: 0
+
+The Road is: x8998899
+NowTime: 0
+
+The Road is: x8998899
+
+The Road is: x8998899
+
+The Road is: x8998899
+NowTime: 0
+
+The Road is: x8998899
+
+The Road is: x8998899
+NowTime: 0
+
+The Road is: x8998899
+
+The Road is: x8998899
+NowTime: 0
+NowTime: 0
+
+The Road is: x8998899
+NowTime: 0
+
+The Road is: x8998899
+
+The Road is: x8998899
+
+The Road is: x8998899
+NowTime: 0
+
+The Road is: x8998899
+
+The Road is: x8998899
+NowTime: 0
+
+The Road is: x8998899
+
+The Road is: x8998899
+
+
+
+The Road is: x8998
+NowTime: 0
+NowTime: 0
+
+The Road is: x8998
+NowTime: 0
+
+The Road is: x8998
+
+The Road is: x8998
+
+The Road is: x8998
+NowTime: 0
+
+The Road is: x8998
+
+The Road is: x8998
+NowTime: 0
+
+The Road is: x8998
+
+The Road is: x8998
+NowTime: 0
+NowTime: 0
+
+The Road is: x8998
+NowTime: 0
+
+The Road is: x8998
+
+The Road is: x8998
+
+The Road is: x8998
+NowTime: 0
+
+The Road is: x8998
+
+The Road is: x8998
+NowTime: 0
+
+The Road is: x8998
+
+The Road is: x8998
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x89988
+NowTime: 0
+
+The Road is: x899889
+NowTime: 0
+
+The Road is: x899888
+NowTime: 0
+
+The Road is: x899888
+
+The Road is: x899888
+
+The Road is: x8998888
+NowTime: 0
+
+The Road is: x89988888
+
+The Road is: x8998889
+NowTime: 0
+
+The Road is: x89988899
+
+The Road is: x899888998

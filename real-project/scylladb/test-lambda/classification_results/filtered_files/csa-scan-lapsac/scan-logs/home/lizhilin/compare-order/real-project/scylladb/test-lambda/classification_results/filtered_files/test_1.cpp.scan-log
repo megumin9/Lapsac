@@ -1,0 +1,754 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+keyspace : &SymRegion{reg_$4<const ss::table_sstables & a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+insert:
+table : &SymRegion{reg_$4<const ss::table_sstables & a>} NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+keyspace : &SymRegion{reg_$4<const ss::table_sstables & a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+keyspace : &SymRegion{reg_$5<const ss::table_sstables & b>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+insert:
+table : &SymRegion{reg_$4<const ss::table_sstables & a>} NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+insert:
+table : &SymRegion{reg_$5<const ss::table_sstables & b>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+NowTime: 0
+
+The Road is: x9889
+
+The Road is: x9889
+NowTime: 0
+
+The Road is: x9889
+
+The Road is: x9889
+NowTime: 0
+
+The Road is: x98898
+
+The Road is: x98898
+NowTime: 0
+
+The Road is: x98898
+
+The Road is: x98898
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x889
+
+The Road is: x889
+NowTime: 0
+
+The Road is: x889
+
+The Road is: x889
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+keyspace : &SymRegion{reg_$4<const ss::table_sstables & a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+keyspace : &SymRegion{reg_$5<const ss::table_sstables & b>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+insert:
+table : &SymRegion{reg_$4<const ss::table_sstables & a>} NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+insert:
+table : &SymRegion{reg_$5<const ss::table_sstables & b>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+NowTime: 0
+
+The Road is: x9889
+
+The Road is: x9889
+NowTime: 0
+
+The Road is: x9889
+
+The Road is: x9889
+NowTime: 0
+
+The Road is: x98898
+
+The Road is: x98898
+NowTime: 0
+
+The Road is: x98898
+
+The Road is: x98898
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x889
+
+The Road is: x889
+NowTime: 0
+
+The Road is: x889
+
+The Road is: x889
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+keyspace : &SymRegion{reg_$4<const ss::table_sstables & a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+keyspace : &SymRegion{reg_$5<const ss::table_sstables & b>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+insert:
+table : &SymRegion{reg_$4<const ss::table_sstables & a>} NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+insert:
+table : &SymRegion{reg_$5<const ss::table_sstables & b>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+insert:
+keyspace : &SymRegion{reg_$30<const ss::table_sstables & c>} NowTime: 0
+
+The Road is: x9889
+
+The Road is: x9889
+NowTime: 0
+
+The Road is: x9889
+
+The Road is: x9889
+
+NowTime: 0
+
+The Road is: x98898
+
+The Road is: x98898
+NowTime: 0
+
+The Road is: x98898
+
+The Road is: x98898
+insert:
+table : &SymRegion{reg_$30<const ss::table_sstables & c>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x988988
+
+The Road is: x988988
+NowTime: 0
+
+The Road is: x988988
+
+The Road is: x988988
+NowTime: 0
+
+The Road is: x9889889
+
+The Road is: x9889889
+NowTime: 0
+
+The Road is: x9889889
+
+The Road is: x9889889
+NowTime: 1
+
+The Road is: x98898898
+
+The Road is: x98898898
+NowTime: 1
+
+The Road is: x98898898
+
+The Road is: x98898898
+
+
+
+
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x98888
+
+The Road is: x98888
+NowTime: 1
+
+The Road is: x98888
+
+The Road is: x98888
+NowTime: 1
+
+The Road is: x988889
+
+The Road is: x988889
+NowTime: 1
+
+The Road is: x988889
+
+The Road is: x988889
+NowTime: 1
+
+The Road is: x9888898
+
+The Road is: x9888898
+insert:
+table : &SymRegion{reg_$30<const ss::table_sstables & c>} NowTime: 1
+
+The Road is: x9888898
+
+The Road is: x9888898
+
+
+NowTime: 2
+
+NowTime: 2
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 2
+
+The Road is: x88
+
+The Road is: x88
+insert:
+keyspace : &SymRegion{reg_$30<const ss::table_sstables & c>} NowTime: 2
+
+The Road is: x889
+
+The Road is: x889
+NowTime: 2
+
+The Road is: x889
+
+The Road is: x889
+NowTime: 2
+
+The Road is: x8898
+
+The Road is: x8898
+insert:
+table : &SymRegion{reg_$5<const ss::table_sstables & b>} NowTime: 2
+
+The Road is: x8898
+
+The Road is: x8898
+insert:
+table : &SymRegion{reg_$30<const ss::table_sstables & c>} 
+NowTime: 2
+
+NowTime: 2
+
+The Road is: x8888
+
+The Road is: x8888
+NowTime: 2
+
+The Road is: x8888
+
+The Road is: x8888
+NowTime: 2
+
+The Road is: x88889
+
+The Road is: x88889
+NowTime: 2
+
+The Road is: x88889
+
+The Road is: x88889
+NowTime: 2
+
+The Road is: x888898
+
+The Road is: x888898
+insert:
+table : &SymRegion{reg_$30<const ss::table_sstables & c>} NowTime: 2
+
+The Road is: x888898
+
+The Road is: x888898
+insert:
+table : &SymRegion{reg_$4<const ss::table_sstables & a>} 
+
+
+
+
+
+
+NowTime: 2
+
+NowTime: 2
+
+The Road is: x88988
+
+The Road is: x88988
+NowTime: 2
+
+The Road is: x88988
+
+The Road is: x88988
+NowTime: 2
+
+The Road is: x889889
+
+The Road is: x889889
+NowTime: 2
+
+The Road is: x889889
+
+The Road is: x889889
+NowTime: 2
+
+The Road is: x8898898
+
+The Road is: x8898898
+NowTime: 2
+
+The Road is: x8898898
+
+The Road is: x8898898
+insert:
+table : &SymRegion{reg_$4<const ss::table_sstables & a>} 
+
+
+
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+keyspace : &SymRegion{reg_$4<const ss::table_sstables & a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+keyspace : &SymRegion{reg_$5<const ss::table_sstables & b>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x998
+
+The Road is: x998
+NowTime: 0
+
+The Road is: x998
+
+The Road is: x998
+insert:
+keyspace : &SymRegion{reg_$22<const ss::table_sstables & c>} NowTime: 0
+
+The Road is: x9989
+
+The Road is: x9989
+NowTime: 0
+
+The Road is: x9989
+
+The Road is: x9989
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x998998
+
+The Road is: x998998
+NowTime: 0
+
+The Road is: x998998
+
+The Road is: x998998
+NowTime: 0
+
+The Road is: x9989989
+
+The Road is: x9989989
+NowTime: 0
+
+The Road is: x9989989
+
+The Road is: x9989989
+
+NowTime: 0
+
+The Road is: x99899898
+
+The Road is: x99899898
+insert:
+table : &SymRegion{reg_$4<const ss::table_sstables & a>} NowTime: 0
+
+The Road is: x99899898
+
+The Road is: x99899898
+insert:
+table : &SymRegion{reg_$22<const ss::table_sstables & c>} NowTime: 0
+
+The Road is: x99898
+
+The Road is: x99898
+insert:
+table : &SymRegion{reg_$5<const ss::table_sstables & b>} NowTime: 0
+
+The Road is: x99898
+
+The Road is: x99898
+insert:
+table : &SymRegion{reg_$22<const ss::table_sstables & c>} NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+insert:
+table : &SymRegion{reg_$4<const ss::table_sstables & a>} NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+insert:
+table : &SymRegion{reg_$5<const ss::table_sstables & b>} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+insert:
+keyspace : &SymRegion{reg_$22<const ss::table_sstables & c>} NowTime: 0
+
+The Road is: x9889
+
+The Road is: x9889
+NowTime: 0
+
+The Road is: x9889
+
+The Road is: x9889
+NowTime: 0
+
+The Road is: x98898
+
+The Road is: x98898
+NowTime: 0
+
+The Road is: x98898
+
+The Road is: x98898
+insert:
+table : &SymRegion{reg_$22<const ss::table_sstables & c>} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x998988
+
+The Road is: x998988
+NowTime: 0
+
+The Road is: x998988
+
+The Road is: x998988
+NowTime: 0
+
+The Road is: x9989889
+
+The Road is: x9989889
+NowTime: 0
+
+The Road is: x9989889
+
+The Road is: x9989889
+
+
+
+
+
+
+
+
+
+
+
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x988998
+
+The Road is: x988998
+NowTime: 1
+
+The Road is: x988998
+
+The Road is: x988998
+NowTime: 1
+
+The Road is: x9889989
+
+The Road is: x9889989
+NowTime: 1
+
+The Road is: x9889989
+
+The Road is: x9889989
+
+
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x988988
+
+The Road is: x988988
+NowTime: 1
+
+The Road is: x988988
+
+The Road is: x988988
+NowTime: 1
+
+The Road is: x9889889
+
+The Road is: x9889889
+NowTime: 1
+
+The Road is: x9889889
+
+The Road is: x9889889
+NowTime: 2
+
+The Road is: x98898898
+
+The Road is: x98898898
+NowTime: 2
+
+The Road is: x98898898
+
+The Road is: x98898898
+
+
+
+
+
+Total paths analyzed: 0
+Total paths analyzed: 0
+Total paths analyzed: 0
+Total paths analyzed: 8
+Total paths analyzed: 6

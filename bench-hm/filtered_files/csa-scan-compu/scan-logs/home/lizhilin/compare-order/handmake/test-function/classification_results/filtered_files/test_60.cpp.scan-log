@@ -1,0 +1,400 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+strlen : &SymRegion{reg_$3<const char * Element{SymRegion{reg_$2<testclass * a>},0 S64b,struct testclass}.var4>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x99999
+
+The Road is: x99999
+NowTime: 0
+
+The Road is: x99999
+
+The Road is: x99999
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+strlen : &SymRegion{reg_$4<const char * Element{SymRegion{reg_$2<testclass * a>},0 S64b,struct testclass}.var4>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+strlen : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$3<testclass * b>},0 S64b,struct testclass}.var4>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9988
+
+The Road is: x9988
+NowTime: 0
+
+The Road is: x9988
+
+The Road is: x9988
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+strlen : &SymRegion{reg_$4<const char * Element{SymRegion{reg_$2<testclass * a>},0 S64b,struct testclass}.var4>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+strlen : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$3<testclass * b>},0 S64b,struct testclass}.var4>} 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+strlen : &SymRegion{reg_$4<const char * Element{SymRegion{reg_$2<testclass * a>},0 S64b,struct testclass}.var4>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+strlen : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$3<testclass * b>},0 S64b,struct testclass}.var4>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9988
+
+The Road is: x9988
+NowTime: 0
+
+The Road is: x9988
+
+The Road is: x9988
+insert:
+strlen : &SymRegion{reg_$11<const char * Element{SymRegion{reg_$10<testclass * c>},0 S64b,struct testclass}.var4>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x99889988
+
+The Road is: x99889988
+NowTime: 0
+
+The Road is: x99889988
+
+The Road is: x99889988
+
+
+
+
+
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+strlen : &SymRegion{reg_$4<const char * Element{SymRegion{reg_$2<testclass * a>},0 S64b,struct testclass}.var4>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+strlen : &SymRegion{reg_$6<const char * Element{SymRegion{reg_$3<testclass * b>},0 S64b,struct testclass}.var4>} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x99998
+
+The Road is: x99998
+NowTime: 0
+
+The Road is: x99998
+
+The Road is: x99998
+insert:
+strlen : &SymRegion{reg_$11<const char * Element{SymRegion{reg_$10<testclass * c>},0 S64b,struct testclass}.var4>} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9999899998
+
+The Road is: x9999899998
+NowTime: 0
+
+The Road is: x9999899998
+
+The Road is: x9999899998
+
+
+
+
+
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+insert:
+strlen : &SymRegion{reg_$11<const char * Element{SymRegion{reg_$10<testclass * c>},0 S64b,struct testclass}.var4>} 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x99998988
+
+The Road is: x99998988
+NowTime: 0
+
+The Road is: x99998988
+
+The Road is: x99998988
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+strlen : &SymRegion{reg_$11<const char * Element{SymRegion{reg_$10<testclass * c>},0 S64b,struct testclass}.var4>} 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9999888
+
+The Road is: x9999888
+NowTime: 0
+
+The Road is: x9999888
+
+The Road is: x9999888
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98888
+
+The Road is: x98888
+NowTime: 0
+
+The Road is: x98888
+
+The Road is: x98888
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x988988
+
+The Road is: x988988
+NowTime: 0
+
+The Road is: x988988
+
+The Road is: x988988
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98899998
+
+The Road is: x98899998
+NowTime: 0
+
+The Road is: x98899998
+
+The Road is: x98899998
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88988
+
+The Road is: x88988
+NowTime: 0
+
+The Road is: x88988
+
+The Road is: x88988
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8899998
+
+The Road is: x8899998
+NowTime: 0
+
+The Road is: x8899998
+
+The Road is: x8899998
+
+
+
+
+/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_60.cpp:36:1: warning: Violation of Consistency [CompareCheck.FunctionChecker]
+   36 | ConsistencyChecker();
+      | ^~~~~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_60.cpp:48:1: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   48 | SymmetryChecker();
+      | ^~~~~~~~~~~~~~~~~
+2 warnings generated.
+Total paths analyzed: 2
+Total paths analyzed: 4
+Total paths analyzed: 6
+Total paths analyzed: 7
+Total paths analyzed: 19

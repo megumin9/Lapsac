@@ -1,0 +1,302 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+size : &Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var3 NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+size : &Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var3 NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+size : &Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var3 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88888
+
+The Road is: x88888
+NowTime: 0
+
+The Road is: x88888
+
+The Road is: x88888
+
+
+
+
+NowTime: 0
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+The Road is: x9888
+
+The Road is: x9888
+insert:
+size : &Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var3 NowTime: 0
+
+The Road is: x9888
+
+The Road is: x9888
+insert:
+size : &Element{SymRegion{reg_$9<testclass * c>},0 S64b,struct testclass}.var3 
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+size : &Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var3 NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+size : &Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var3 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88888
+
+The Road is: x88888
+NowTime: 0
+
+The Road is: x88888
+
+The Road is: x88888
+insert:
+size : &Element{SymRegion{reg_$9<testclass * c>},0 S64b,struct testclass}.var3 
+
+
+
+NowTime: 0
+
+
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88888888
+
+The Road is: x88888888
+NowTime: 0
+
+The Road is: x88888888
+
+The Road is: x88888888
+
+
+
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8989888
+
+The Road is: x8989888
+insert:
+size : &Element{SymRegion{reg_$9<testclass * c>},0 S64b,struct testclass}.var3 NowTime: 0
+
+The Road is: x8989888
+
+The Road is: x8989888
+insert:
+size : &Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var3 
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+The Road is: x9888
+
+The Road is: x9888
+insert:
+size : &Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var3 NowTime: 0
+
+The Road is: x9888
+
+The Road is: x9888
+insert:
+size : &Element{SymRegion{reg_$9<testclass * c>},0 S64b,struct testclass}.var3 
+
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+size : &Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var3 NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+size : &Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var3 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88888
+
+The Road is: x88888
+NowTime: 0
+
+The Road is: x88888
+
+The Road is: x88888
+insert:
+size : &Element{SymRegion{reg_$9<testclass * c>},0 S64b,struct testclass}.var3 
+
+
+
+NowTime: 0
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88888888
+
+The Road is: x88888888
+NowTime: 0
+
+The Road is: x88888888
+
+The Road is: x88888888
+
+
+
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8989888
+
+The Road is: x8989888
+insert:
+size : &Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var3 NowTime: 0
+
+The Road is: x8989888
+
+The Road is: x8989888
+insert:
+size : &Element{SymRegion{reg_$9<testclass * c>},0 S64b,struct testclass}.var3 
+
+
+
+/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_27.cpp:25:9: warning: Violation of Consistency [CompareCheck.FunctionChecker]
+   25 |         ConsistencyChecker();
+      |         ^~~~~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_27.cpp:31:9: warning: Violation of Transitivity [CompareCheck.FunctionChecker]
+   31 |         TransiveChecker();
+      |         ^~~~~~~~~~~~~~~~~
+2 warnings generated.
+Total paths analyzed: 1
+Total paths analyzed: 3
+Total paths analyzed: 15
+Total paths analyzed: 14

@@ -1,0 +1,140 @@
+/home/lizhilin/compare-order/real-project/blender/test-function/test_64.cpp:16:10: error: reference to 'less' is ambiguous
+   16 |     if (!less(a,b) && !less(b,c) && less(a,c))
+      |          ^
+/home/lizhilin/compare-order/real-project/blender/test-function/test_64.cpp:10:6: note: candidate found by name lookup is 'less'
+   10 | bool less(int left, int right) {
+      |      ^
+/usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/bits/stl_function.h:381:12: note: candidate found by name lookup is 'std::less'
+  381 |     struct less : public binary_function<_Tp, _Tp, bool>
+      |            ^
+/home/lizhilin/compare-order/real-project/blender/test-function/test_64.cpp:16:10: error: no viable constructor or deduction guide for deduction of template arguments of 'less'
+   16 |     if (!less(a,b) && !less(b,c) && less(a,c))
+      |          ^
+/usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/bits/stl_function.h:381:12: note: candidate function template not viable: requires 1 argument, but 2 were provided
+  381 |     struct less : public binary_function<_Tp, _Tp, bool>
+      |            ^~~~
+/usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/bits/stl_function.h:381:12: note: implicit deduction guide declared as 'template <typename _Tp = void> less(less<_Tp>) -> less<_Tp>'
+/usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/bits/stl_function.h:381:12: note: candidate function template not viable: requires 0 arguments, but 2 were provided
+/usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/bits/stl_function.h:381:12: note: implicit deduction guide declared as 'template <typename _Tp = void> less() -> less<_Tp>'
+/home/lizhilin/compare-order/real-project/blender/test-function/test_64.cpp:16:24: error: reference to 'less' is ambiguous
+   16 |     if (!less(a,b) && !less(b,c) && less(a,c))
+      |                        ^
+/home/lizhilin/compare-order/real-project/blender/test-function/test_64.cpp:10:6: note: candidate found by name lookup is 'less'
+   10 | bool less(int left, int right) {
+      |      ^
+/usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/bits/stl_function.h:381:12: note: candidate found by name lookup is 'std::less'
+  381 |     struct less : public binary_function<_Tp, _Tp, bool>
+      |            ^
+/home/lizhilin/compare-order/real-project/blender/test-function/test_64.cpp:16:24: error: no viable constructor or deduction guide for deduction of template arguments of 'less'
+   16 |     if (!less(a,b) && !less(b,c) && less(a,c))
+      |                        ^
+/usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/bits/stl_function.h:381:12: note: candidate function template not viable: requires 1 argument, but 2 were provided
+  381 |     struct less : public binary_function<_Tp, _Tp, bool>
+      |            ^~~~
+/usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/bits/stl_function.h:381:12: note: implicit deduction guide declared as 'template <typename _Tp = void> less(less<_Tp>) -> less<_Tp>'
+/usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/bits/stl_function.h:381:12: note: candidate function template not viable: requires 0 arguments, but 2 were provided
+/usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/bits/stl_function.h:381:12: note: implicit deduction guide declared as 'template <typename _Tp = void> less() -> less<_Tp>'
+/home/lizhilin/compare-order/real-project/blender/test-function/test_64.cpp:16:37: error: reference to 'less' is ambiguous
+   16 |     if (!less(a,b) && !less(b,c) && less(a,c))
+      |                                     ^
+/home/lizhilin/compare-order/real-project/blender/test-function/test_64.cpp:10:6: note: candidate found by name lookup is 'less'
+   10 | bool less(int left, int right) {
+      |      ^
+/usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/bits/stl_function.h:381:12: note: candidate found by name lookup is 'std::less'
+  381 |     struct less : public binary_function<_Tp, _Tp, bool>
+      |            ^
+/home/lizhilin/compare-order/real-project/blender/test-function/test_64.cpp:16:37: error: no viable constructor or deduction guide for deduction of template arguments of 'less'
+   16 |     if (!less(a,b) && !less(b,c) && less(a,c))
+      |                                     ^
+/usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/bits/stl_function.h:381:12: note: candidate function template not viable: requires 1 argument, but 2 were provided
+  381 |     struct less : public binary_function<_Tp, _Tp, bool>
+      |            ^~~~
+/usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/bits/stl_function.h:381:12: note: implicit deduction guide declared as 'template <typename _Tp = void> less(less<_Tp>) -> less<_Tp>'
+/usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/bits/stl_function.h:381:12: note: candidate function template not viable: requires 0 arguments, but 2 were provided
+/usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/bits/stl_function.h:381:12: note: implicit deduction guide declared as 'template <typename _Tp = void> less() -> less<_Tp>'
+/home/lizhilin/compare-order/real-project/blender/test-function/test_64.cpp:22:9: error: reference to 'less' is ambiguous
+   22 |     if (less(a,b) && less(b,c) && less(c,a))
+      |         ^
+/home/lizhilin/compare-order/real-project/blender/test-function/test_64.cpp:10:6: note: candidate found by name lookup is 'less'
+   10 | bool less(int left, int right) {
+      |      ^
+/usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/bits/stl_function.h:381:12: note: candidate found by name lookup is 'std::less'
+  381 |     struct less : public binary_function<_Tp, _Tp, bool>
+      |            ^
+/home/lizhilin/compare-order/real-project/blender/test-function/test_64.cpp:22:9: error: reference to 'less' is ambiguous
+   22 |     if (less(a,b) && less(b,c) && less(c,a))
+      |         ^
+/home/lizhilin/compare-order/real-project/blender/test-function/test_64.cpp:10:6: note: candidate found by name lookup is 'less'
+   10 | bool less(int left, int right) {
+      |      ^
+/usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/bits/stl_function.h:381:12: note: candidate found by name lookup is 'std::less'
+  381 |     struct less : public binary_function<_Tp, _Tp, bool>
+      |            ^
+/home/lizhilin/compare-order/real-project/blender/test-function/test_64.cpp:22:15: error: expected ')'
+   22 |     if (less(a,b) && less(b,c) && less(c,a))
+      |               ^
+/home/lizhilin/compare-order/real-project/blender/test-function/test_64.cpp:22:13: note: to match this '('
+   22 |     if (less(a,b) && less(b,c) && less(c,a))
+      |             ^
+/home/lizhilin/compare-order/real-project/blender/test-function/test_64.cpp:22:13: error: cannot use parentheses when declaring variable with deduced class template specialization type
+   22 |     if (less(a,b) && less(b,c) && less(c,a))
+      |             ^
+/home/lizhilin/compare-order/real-project/blender/test-function/test_64.cpp:22:14: error: variable declaration in condition must have an initializer
+   22 |     if (less(a,b) && less(b,c) && less(c,a))
+      |              ^
+/home/lizhilin/compare-order/real-project/blender/test-function/test_64.cpp:28:9: error: reference to 'less' is ambiguous
+   28 |     if (less(a,b) && less(b,a))
+      |         ^
+/home/lizhilin/compare-order/real-project/blender/test-function/test_64.cpp:10:6: note: candidate found by name lookup is 'less'
+   10 | bool less(int left, int right) {
+      |      ^
+/usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/bits/stl_function.h:381:12: note: candidate found by name lookup is 'std::less'
+  381 |     struct less : public binary_function<_Tp, _Tp, bool>
+      |            ^
+/home/lizhilin/compare-order/real-project/blender/test-function/test_64.cpp:28:9: error: reference to 'less' is ambiguous
+   28 |     if (less(a,b) && less(b,a))
+      |         ^
+/home/lizhilin/compare-order/real-project/blender/test-function/test_64.cpp:10:6: note: candidate found by name lookup is 'less'
+   10 | bool less(int left, int right) {
+      |      ^
+/usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/bits/stl_function.h:381:12: note: candidate found by name lookup is 'std::less'
+  381 |     struct less : public binary_function<_Tp, _Tp, bool>
+      |            ^
+/home/lizhilin/compare-order/real-project/blender/test-function/test_64.cpp:28:15: error: expected ')'
+   28 |     if (less(a,b) && less(b,a))
+      |               ^
+/home/lizhilin/compare-order/real-project/blender/test-function/test_64.cpp:28:13: note: to match this '('
+   28 |     if (less(a,b) && less(b,a))
+      |             ^
+/home/lizhilin/compare-order/real-project/blender/test-function/test_64.cpp:28:13: error: cannot use parentheses when declaring variable with deduced class template specialization type
+   28 |     if (less(a,b) && less(b,a))
+      |             ^
+/home/lizhilin/compare-order/real-project/blender/test-function/test_64.cpp:28:14: error: variable declaration in condition must have an initializer
+   28 |     if (less(a,b) && less(b,a))
+      |              ^
+/home/lizhilin/compare-order/real-project/blender/test-function/test_64.cpp:34:9: error: reference to 'less' is ambiguous
+   34 |     if (less(a,b) && less(b,a))
+      |         ^
+/home/lizhilin/compare-order/real-project/blender/test-function/test_64.cpp:10:6: note: candidate found by name lookup is 'less'
+   10 | bool less(int left, int right) {
+      |      ^
+/usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/bits/stl_function.h:381:12: note: candidate found by name lookup is 'std::less'
+  381 |     struct less : public binary_function<_Tp, _Tp, bool>
+      |            ^
+/home/lizhilin/compare-order/real-project/blender/test-function/test_64.cpp:34:9: error: reference to 'less' is ambiguous
+   34 |     if (less(a,b) && less(b,a))
+      |         ^
+/home/lizhilin/compare-order/real-project/blender/test-function/test_64.cpp:10:6: note: candidate found by name lookup is 'less'
+   10 | bool less(int left, int right) {
+      |      ^
+/usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/bits/stl_function.h:381:12: note: candidate found by name lookup is 'std::less'
+  381 |     struct less : public binary_function<_Tp, _Tp, bool>
+      |            ^
+/home/lizhilin/compare-order/real-project/blender/test-function/test_64.cpp:34:15: error: expected ')'
+   34 |     if (less(a,b) && less(b,a))
+      |               ^
+/home/lizhilin/compare-order/real-project/blender/test-function/test_64.cpp:34:13: note: to match this '('
+   34 |     if (less(a,b) && less(b,a))
+      |             ^
+fatal error: too many errors emitted, stopping now [-ferror-limit=]
+20 errors generated.

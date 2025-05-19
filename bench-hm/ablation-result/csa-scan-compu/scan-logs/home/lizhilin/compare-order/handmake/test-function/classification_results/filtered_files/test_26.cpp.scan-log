@@ -1,0 +1,483 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+strlen : &SymRegion{reg_$5<char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var4>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+strlen : &SymRegion{reg_$6<char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var4>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+strlen : &SymRegion{reg_$8<char * Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var4>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x898
+
+The Road is: x898
+NowTime: 0
+
+The Road is: x898
+
+The Road is: x898
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+strlen : &SymRegion{reg_$6<char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var4>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+strlen : &SymRegion{reg_$8<char * Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var4>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x898
+
+The Road is: x898
+NowTime: 0
+
+The Road is: x898
+
+The Road is: x898
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+strlen : &SymRegion{reg_$6<char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var4>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+strlen : &SymRegion{reg_$8<char * Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var4>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+insert:
+strlen : &SymRegion{reg_$14<char * Element{SymRegion{reg_$13<testclass * c>},0 S64b,struct testclass}.var4>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9898
+
+The Road is: x9898
+NowTime: 0
+
+The Road is: x9898
+
+The Road is: x9898
+
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+insert:
+strlen : &SymRegion{reg_$14<char * Element{SymRegion{reg_$13<testclass * c>},0 S64b,struct testclass}.var4>} 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98888
+
+The Road is: x98888
+NowTime: 0
+
+The Road is: x98888
+
+The Road is: x98888
+
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x898
+
+The Road is: x898
+NowTime: 0
+
+The Road is: x898
+
+The Road is: x898
+insert:
+strlen : &SymRegion{reg_$14<char * Element{SymRegion{reg_$13<testclass * c>},0 S64b,struct testclass}.var4>} NowTime: 0
+
+NowTime: 0
+
+The Road is: x888888
+
+The Road is: x888888
+NowTime: 0
+
+The Road is: x888888
+
+The Road is: x888888
+
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98898
+
+The Road is: x98898
+NowTime: 0
+
+The Road is: x98898
+
+The Road is: x98898
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x888898
+
+The Road is: x888898
+NowTime: 0
+
+The Road is: x888898
+
+The Road is: x888898
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x89898
+
+The Road is: x89898
+NowTime: 0
+
+The Road is: x89898
+
+The Road is: x89898
+
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+strlen : &SymRegion{reg_$6<char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,struct testclass}.var4>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+strlen : &SymRegion{reg_$8<char * Element{SymRegion{reg_$5<testclass * b>},0 S64b,struct testclass}.var4>} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+insert:
+strlen : &SymRegion{reg_$14<char * Element{SymRegion{reg_$13<testclass * c>},0 S64b,struct testclass}.var4>} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9898
+
+The Road is: x9898
+NowTime: 0
+
+The Road is: x9898
+
+The Road is: x9898
+
+
+
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+insert:
+strlen : &SymRegion{reg_$14<char * Element{SymRegion{reg_$13<testclass * c>},0 S64b,struct testclass}.var4>} 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98888
+
+The Road is: x98888
+NowTime: 0
+
+The Road is: x98888
+
+The Road is: x98888
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x898
+
+The Road is: x898
+NowTime: 0
+
+The Road is: x898
+
+The Road is: x898
+insert:
+strlen : &SymRegion{reg_$14<char * Element{SymRegion{reg_$13<testclass * c>},0 S64b,struct testclass}.var4>} NowTime: 0
+
+NowTime: 0
+
+The Road is: x888888
+
+The Road is: x888888
+NowTime: 0
+
+The Road is: x888888
+
+The Road is: x888888
+
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98898
+
+The Road is: x98898
+NowTime: 0
+
+The Road is: x98898
+
+The Road is: x98898
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x888898
+
+The Road is: x888898
+NowTime: 0
+
+The Road is: x888898
+
+The Road is: x888898
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x89898
+
+The Road is: x89898
+NowTime: 0
+
+The Road is: x89898
+
+The Road is: x89898
+
+
+
+
+/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_26.cpp:29:1: warning: Violation of Consistency [CompareCheck.FunctionChecker]
+   29 | ConsistencyChecker();
+      | ^~~~~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_26.cpp:35:1: warning: Violation of Transitivity [CompareCheck.FunctionChecker]
+   35 | TransiveChecker();
+      | ^~~~~~~~~~~~~~~~~
+2 warnings generated.
+Total paths analyzed: 2
+Total paths analyzed: 4
+Total paths analyzed: 4
+Total paths analyzed: 18
+Total paths analyzed: 17

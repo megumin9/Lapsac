@@ -1,0 +1,687 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &SymRegion{reg_$4<const BufferAllocation & a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+index : &SymRegion{reg_$4<const BufferAllocation & a>} NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &SymRegion{reg_$4<const BufferAllocation & a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &SymRegion{reg_$5<const BufferAllocation & b>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+index : &SymRegion{reg_$4<const BufferAllocation & a>} NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+index : &SymRegion{reg_$5<const BufferAllocation & b>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x998
+
+The Road is: x998
+NowTime: 0
+
+The Road is: x998
+
+The Road is: x998
+NowTime: 0
+
+The Road is: x9989
+
+The Road is: x9989
+NowTime: 0
+
+The Road is: x9989
+
+The Road is: x9989
+NowTime: 0
+
+The Road is: x99899
+
+The Road is: x99899
+NowTime: 0
+
+The Road is: x99899
+
+The Road is: x99899
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x889
+
+The Road is: x889
+NowTime: 0
+
+The Road is: x889
+
+The Road is: x889
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &SymRegion{reg_$4<const BufferAllocation & a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &SymRegion{reg_$5<const BufferAllocation & b>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+index : &SymRegion{reg_$4<const BufferAllocation & a>} NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+index : &SymRegion{reg_$5<const BufferAllocation & b>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x998
+
+The Road is: x998
+NowTime: 0
+
+The Road is: x998
+
+The Road is: x998
+insert:
+size : &SymRegion{reg_$30<const BufferAllocation & c>} NowTime: 0
+
+The Road is: x9989
+
+The Road is: x9989
+NowTime: 0
+
+The Road is: x9989
+
+The Road is: x9989
+NowTime: 0
+
+The Road is: x99899
+
+The Road is: x99899
+NowTime: 0
+
+The Road is: x99899
+
+The Road is: x99899
+insert:
+index : &SymRegion{reg_$30<const BufferAllocation & c>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x998998
+
+The Road is: x998998
+NowTime: 0
+
+The Road is: x998998
+
+The Road is: x998998
+NowTime: 0
+
+The Road is: x9989989
+
+The Road is: x9989989
+NowTime: 0
+
+The Road is: x9989989
+
+The Road is: x9989989
+NowTime: 0
+
+The Road is: x99899899
+
+The Road is: x99899899
+NowTime: 1
+
+The Road is: x99899899
+
+The Road is: x99899899
+
+
+
+
+
+
+
+
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 1
+
+The Road is: x88
+
+The Road is: x88
+insert:
+size : &SymRegion{reg_$30<const BufferAllocation & c>} 
+NowTime: 1
+
+The Road is: x889
+
+The Road is: x889
+NowTime: 1
+
+The Road is: x889
+
+The Road is: x889
+
+NowTime: 1
+
+The Road is: x8899
+
+The Road is: x8899
+insert:
+index : &SymRegion{reg_$5<const BufferAllocation & b>} NowTime: 1
+
+The Road is: x8899
+
+The Road is: x8899
+insert:
+index : &SymRegion{reg_$30<const BufferAllocation & c>} 
+
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x99888
+
+The Road is: x99888
+NowTime: 1
+
+The Road is: x99888
+
+The Road is: x99888
+
+NowTime: 1
+
+The Road is: x998889
+
+The Road is: x998889
+NowTime: 1
+
+The Road is: x998889
+
+The Road is: x998889
+
+NowTime: 1
+
+The Road is: x9988899
+
+The Road is: x9988899
+insert:
+index : &SymRegion{reg_$30<const BufferAllocation & c>} NowTime: 1
+
+The Road is: x9988899
+
+The Road is: x9988899
+
+
+The Error Road is: x99899888
+The Error Road is: x9988888
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x8888
+
+The Road is: x8888
+NowTime: 1
+
+The Road is: x8888
+
+The Road is: x8888
+
+NowTime: 1
+
+The Road is: x88889
+
+The Road is: x88889
+NowTime: 1
+
+The Road is: x88889
+
+The Road is: x88889
+
+NowTime: 2
+
+The Road is: x888899
+
+The Road is: x888899
+insert:
+index : &SymRegion{reg_$30<const BufferAllocation & c>} NowTime: 2
+
+The Road is: x888899
+
+The Road is: x888899
+insert:
+index : &SymRegion{reg_$4<const BufferAllocation & a>} 
+
+The Error Road is: x99888998
+NowTime: 2
+
+NowTime: 2
+
+The Road is: x88998
+
+The Road is: x88998
+NowTime: 2
+
+The Road is: x88998
+
+The Road is: x88998
+
+NowTime: 2
+
+The Road is: x889989
+
+The Road is: x889989
+NowTime: 2
+
+The Road is: x889989
+
+The Road is: x889989
+
+NowTime: 2
+
+The Road is: x8899899
+
+The Road is: x8899899
+NowTime: 2
+
+The Road is: x8899899
+
+The Road is: x8899899
+insert:
+index : &SymRegion{reg_$4<const BufferAllocation & a>} 
+
+The Error Road is: x8888998
+The Error Road is: x8899888
+The Error Road is: x88998998
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &SymRegion{reg_$4<const BufferAllocation & a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+size : &SymRegion{reg_$5<const BufferAllocation & b>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+index : &SymRegion{reg_$4<const BufferAllocation & a>} NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+index : &SymRegion{reg_$5<const BufferAllocation & b>} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x998
+
+The Road is: x998
+NowTime: 0
+
+The Road is: x998
+
+The Road is: x998
+insert:
+size : &SymRegion{reg_$30<const BufferAllocation & c>} NowTime: 0
+
+The Road is: x9989
+
+The Road is: x9989
+NowTime: 0
+
+The Road is: x9989
+
+The Road is: x9989
+NowTime: 0
+
+The Road is: x99899
+
+The Road is: x99899
+NowTime: 0
+
+The Road is: x99899
+
+The Road is: x99899
+insert:
+index : &SymRegion{reg_$30<const BufferAllocation & c>} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x998998
+
+The Road is: x998998
+NowTime: 0
+
+The Road is: x998998
+
+The Road is: x998998
+NowTime: 0
+
+The Road is: x9989989
+
+The Road is: x9989989
+NowTime: 0
+
+The Road is: x9989989
+
+The Road is: x9989989
+NowTime: 0
+
+The Road is: x99899899
+
+The Road is: x99899899
+NowTime: 1
+
+The Road is: x99899899
+
+The Road is: x99899899
+
+
+
+
+
+
+
+
+
+
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x988
+
+The Road is: x988
+NowTime: 1
+
+The Road is: x988
+
+The Road is: x988
+insert:
+size : &SymRegion{reg_$30<const BufferAllocation & c>} 
+NowTime: 1
+
+The Road is: x9889
+
+The Road is: x9889
+NowTime: 1
+
+The Road is: x9889
+
+The Road is: x9889
+
+NowTime: 1
+
+The Road is: x98899
+
+The Road is: x98899
+insert:
+index : &SymRegion{reg_$5<const BufferAllocation & b>} NowTime: 1
+
+The Road is: x98899
+
+The Road is: x98899
+insert:
+index : &SymRegion{reg_$30<const BufferAllocation & c>} 
+
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x998988
+
+The Road is: x998988
+NowTime: 1
+
+The Road is: x998988
+
+The Road is: x998988
+
+NowTime: 1
+
+The Road is: x9989889
+
+The Road is: x9989889
+NowTime: 1
+
+The Road is: x9989889
+
+The Road is: x9989889
+
+NowTime: 2
+
+The Road is: x99898899
+
+The Road is: x99898899
+NowTime: 2
+
+The Road is: x99898899
+
+The Road is: x99898899
+insert:
+index : &SymRegion{reg_$30<const BufferAllocation & c>} 
+
+NowTime: 2
+
+NowTime: 2
+
+The Road is: x988988
+
+The Road is: x988988
+NowTime: 2
+
+The Road is: x988988
+
+The Road is: x988988
+
+NowTime: 2
+
+The Road is: x9889889
+
+The Road is: x9889889
+NowTime: 2
+
+The Road is: x9889889
+
+The Road is: x9889889
+
+NowTime: 2
+
+The Road is: x98898899
+
+The Road is: x98898899
+insert:
+index : &SymRegion{reg_$4<const BufferAllocation & a>} NowTime: 2
+
+The Road is: x98898899
+
+The Road is: x98898899
+insert:
+index : &SymRegion{reg_$30<const BufferAllocation & c>} 
+
+NowTime: 2
+
+NowTime: 2
+
+The Road is: x988998
+
+The Road is: x988998
+NowTime: 2
+
+The Road is: x988998
+
+The Road is: x988998
+
+NowTime: 2
+
+The Road is: x9889989
+
+The Road is: x9889989
+NowTime: 3
+
+The Road is: x9889989
+
+The Road is: x9889989
+
+NowTime: 3
+
+The Road is: x98899899
+
+The Road is: x98899899
+insert:
+index : &SymRegion{reg_$4<const BufferAllocation & a>} NowTime: 3
+
+The Road is: x98899899
+
+The Road is: x98899899
+
+
+Total paths analyzed: 0
+Total paths analyzed: 0
+Total paths analyzed: 8
+Total paths analyzed: 8

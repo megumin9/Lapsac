@@ -1,0 +1,433 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+
+NowTime: 0
+
+The Road is: x9888
+
+The Road is: x9888
+
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+
+
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x988988
+
+The Road is: x988988
+
+
+
+NowTime: 0
+
+The Road is: x9889888
+
+The Road is: x9889888
+
+
+NowTime: 0
+
+The Road is: x9888
+
+The Road is: x9888
+
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98888
+
+The Road is: x98888
+NowTime: 0
+
+The Road is: x988888
+
+The Road is: x988888
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+NowTime: 0
+
+The Road is: x88888
+
+The Road is: x88888
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88988
+
+The Road is: x88988
+NowTime: 0
+
+The Road is: x889888
+
+The Road is: x889888
+
+
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x998
+
+The Road is: x998
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x998998
+
+The Road is: x998998
+
+NowTime: 0
+
+The Road is: x9989988
+
+The Road is: x9989988
+
+
+
+
+NowTime: 0
+
+The Road is: x9988
+
+The Road is: x9988
+
+
+
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+NowTime: 0
+
+The Road is: x9888
+
+The Road is: x9888
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x998988
+
+The Road is: x998988
+NowTime: 0
+
+The Road is: x9989888
+
+The Road is: x9989888
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x99888
+
+The Road is: x99888
+NowTime: 0
+
+The Road is: x998888
+
+The Road is: x998888
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98888
+
+The Road is: x98888
+NowTime: 0
+
+The Road is: x988888
+
+The Road is: x988888
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x988988
+
+The Road is: x988988
+NowTime: 0
+
+The Road is: x9889888
+
+The Road is: x9889888
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x988998
+
+The Road is: x988998
+NowTime: 0
+
+The Road is: x9889988
+
+The Road is: x9889988
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+NowTime: 0
+
+The Road is: x88888
+
+The Road is: x88888
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88988
+
+The Road is: x88988
+NowTime: 0
+
+The Road is: x889888
+
+The Road is: x889888
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88998
+
+The Road is: x88998
+NowTime: 0
+
+The Road is: x889988
+
+The Road is: x889988
+
+
+
+
+
+/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_78.cpp:26:9: warning: Violation of Consistency [CompareCheck.FunctionChecker]
+   26 |         ConsistencyChecker();
+      |         ^~~~~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_78.cpp:32:9: warning: Violation of Transitivity [CompareCheck.FunctionChecker]
+   32 |         TransiveChecker();
+      |         ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_78.cpp:38:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   38 |         SymmetryChecker();
+      |         ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/handmake/test-function/classification_results/filtered_files/test_78.cpp:44:9: warning: Violation of Anti-Reflexivity [CompareCheck.FunctionChecker]
+   44 |         ReflexivityChecker();
+      |         ^~~~~~~~~~~~~~~~~~~~
+4 warnings generated.
+Total paths analyzed: 3
+Total paths analyzed: 7
+Total paths analyzed: 16
+Total paths analyzed: 27

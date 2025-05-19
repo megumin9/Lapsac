@@ -1,0 +1,873 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getType : &SymRegion{reg_$4<OutputSectionBase * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+getName : &SymRegion{reg_$4<OutputSectionBase * a>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+getPPC64SectionRank : &temp_object{std::string, S6167038} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getType : &SymRegion{reg_$4<OutputSectionBase * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getType : &SymRegion{reg_$5<OutputSectionBase * b>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+getName : &SymRegion{reg_$4<OutputSectionBase * a>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+getPPC64SectionRank : &temp_object{std::string, S6167038} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+getName : &SymRegion{reg_$5<OutputSectionBase * b>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+getPPC64SectionRank : &temp_object{std::string, S6167103} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getType : &SymRegion{reg_$4<OutputSectionBase * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getType : &SymRegion{reg_$5<OutputSectionBase * b>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+getName : &SymRegion{reg_$4<OutputSectionBase * a>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+getPPC64SectionRank : &temp_object{std::string, S6167038} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+getName : &SymRegion{reg_$5<OutputSectionBase * b>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+getPPC64SectionRank : &temp_object{std::string, S6167103} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getType : &SymRegion{reg_$4<OutputSectionBase * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getType : &SymRegion{reg_$5<OutputSectionBase * b>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+getName : &SymRegion{reg_$4<OutputSectionBase * a>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+getPPC64SectionRank : &temp_object{std::string, S6167038} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+getName : &SymRegion{reg_$5<OutputSectionBase * b>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+getPPC64SectionRank : &temp_object{std::string, S6167103} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+insert:
+getType : &SymRegion{reg_$34<OutputSectionBase * c>} NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+insert:
+getName : &SymRegion{reg_$34<OutputSectionBase * c>} NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9898
+
+The Road is: x9898
+NowTime: 0
+
+The Road is: x9898
+
+The Road is: x9898
+NowTime: 0
+
+The Road is: x98989
+
+The Road is: x98989
+NowTime: 0
+
+The Road is: x98989
+
+The Road is: x98989
+NowTime: 0
+
+The Road is: x98989
+
+The Road is: x98989
+NowTime: 0
+
+The Road is: x98989
+
+The Road is: x98989
+
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+
+NowTime: 0
+
+The Road is: x9888
+
+The Road is: x9888
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+insert:
+getType : &SymRegion{reg_$34<OutputSectionBase * c>} NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+NowTime: 0
+
+The Road is: x8889
+
+The Road is: x8889
+insert:
+getName : &SymRegion{reg_$5<OutputSectionBase * b>} NowTime: 0
+
+The Road is: x8889
+
+The Road is: x8889
+insert:
+getPPC64SectionRank : &temp_object{std::string, S6167038} NowTime: 0
+
+The Road is: x8889
+
+The Road is: x8889
+insert:
+getName : &SymRegion{reg_$34<OutputSectionBase * c>} NowTime: 0
+
+The Road is: x8889
+
+The Road is: x8889
+insert:
+getPPC64SectionRank : &temp_object{std::string, S6167103} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88898
+
+The Road is: x88898
+NowTime: 0
+
+The Road is: x88898
+
+The Road is: x88898
+NowTime: 0
+
+The Road is: x888988
+
+The Road is: x888988
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98888
+
+The Road is: x98888
+NowTime: 0
+
+The Road is: x98888
+
+The Road is: x98888
+NowTime: 0
+
+The Road is: x988888
+
+The Road is: x988888
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getType : &SymRegion{reg_$4<OutputSectionBase * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getType : &SymRegion{reg_$5<OutputSectionBase * b>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+getName : &SymRegion{reg_$4<OutputSectionBase * a>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+getPPC64SectionRank : &temp_object{std::string, S6167038} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+getName : &SymRegion{reg_$5<OutputSectionBase * b>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+getPPC64SectionRank : &temp_object{std::string, S6167103} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+NowTime: 0
+
+The Road is: x98
+
+The Road is: x98
+insert:
+getType : &SymRegion{reg_$34<OutputSectionBase * c>} NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+insert:
+getName : &SymRegion{reg_$34<OutputSectionBase * c>} NowTime: 0
+
+The Road is: x989
+
+The Road is: x989
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9898
+
+The Road is: x9898
+NowTime: 0
+
+The Road is: x9898
+
+The Road is: x9898
+NowTime: 0
+
+The Road is: x98989
+
+The Road is: x98989
+NowTime: 0
+
+The Road is: x98989
+
+The Road is: x98989
+NowTime: 0
+
+The Road is: x98989
+
+The Road is: x98989
+NowTime: 0
+
+The Road is: x98989
+
+The Road is: x98989
+
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+
+NowTime: 0
+
+The Road is: x9888
+
+The Road is: x9888
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x898
+
+The Road is: x898
+NowTime: 0
+
+The Road is: x898
+
+The Road is: x898
+insert:
+getType : &SymRegion{reg_$34<OutputSectionBase * c>} NowTime: 0
+
+The Road is: x8988
+
+The Road is: x8988
+NowTime: 0
+
+The Road is: x89888
+
+The Road is: x89888
+NowTime: 0
+
+The Road is: x8989
+
+The Road is: x8989
+insert:
+getName : &SymRegion{reg_$5<OutputSectionBase * b>} NowTime: 0
+
+The Road is: x8989
+
+The Road is: x8989
+insert:
+getPPC64SectionRank : &temp_object{std::string, S6167038} NowTime: 0
+
+The Road is: x8989
+
+The Road is: x8989
+insert:
+getName : &SymRegion{reg_$34<OutputSectionBase * c>} NowTime: 0
+
+The Road is: x8989
+
+The Road is: x8989
+insert:
+getPPC64SectionRank : &temp_object{std::string, S6167103} 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98898
+
+The Road is: x98898
+NowTime: 0
+
+The Road is: x98898
+
+The Road is: x98898
+NowTime: 0
+
+The Road is: x988988
+
+The Road is: x988988
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x89898
+
+The Road is: x89898
+NowTime: 0
+
+The Road is: x89898
+
+The Road is: x89898
+NowTime: 0
+
+The Road is: x898988
+
+The Road is: x898988
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+insert:
+getType : &SymRegion{reg_$34<OutputSectionBase * c>} NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+NowTime: 0
+
+The Road is: x88888
+
+The Road is: x88888
+NowTime: 0
+
+The Road is: x8889
+
+The Road is: x8889
+insert:
+getName : &SymRegion{reg_$5<OutputSectionBase * b>} NowTime: 0
+
+The Road is: x8889
+
+The Road is: x8889
+insert:
+getPPC64SectionRank : &temp_object{std::string, S6167038} NowTime: 0
+
+The Road is: x8889
+
+The Road is: x8889
+insert:
+getName : &SymRegion{reg_$34<OutputSectionBase * c>} NowTime: 0
+
+The Road is: x8889
+
+The Road is: x8889
+insert:
+getPPC64SectionRank : &temp_object{std::string, S6167103} 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98888
+
+The Road is: x98888
+NowTime: 0
+
+The Road is: x98888
+
+The Road is: x98888
+NowTime: 0
+
+The Road is: x988888
+
+The Road is: x988888
+NowTime: 0
+
+The Road is: x9888888
+
+The Road is: x9888888
+
+
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x88898
+
+The Road is: x88898
+NowTime: 1
+
+The Road is: x88898
+
+The Road is: x88898
+NowTime: 1
+
+The Road is: x888988
+
+The Road is: x888988
+NowTime: 1
+
+The Road is: x8889888
+
+The Road is: x8889888
+
+
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x898888
+
+The Road is: x898888
+NowTime: 1
+
+The Road is: x898888
+
+The Road is: x898888
+NowTime: 1
+
+The Road is: x8988888
+
+The Road is: x8988888
+
+
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x888888
+
+The Road is: x888888
+NowTime: 1
+
+The Road is: x888888
+
+The Road is: x888888
+NowTime: 1
+
+The Road is: x8888889
+
+The Road is: x8888889
+insert:
+getName : &SymRegion{reg_$4<OutputSectionBase * a>} NowTime: 1
+
+The Road is: x8888889
+
+The Road is: x8888889
+insert:
+getPPC64SectionRank : &temp_object{std::string, S6167038} NowTime: 1
+
+The Road is: x8888889
+
+The Road is: x8888889
+insert:
+getName : &SymRegion{reg_$34<OutputSectionBase * c>} NowTime: 1
+
+The Road is: x8888889
+
+The Road is: x8888889
+insert:
+getPPC64SectionRank : &temp_object{std::string, S6167103} 
+
+NowTime: 1
+
+The Road is: x8888888
+
+The Road is: x8888888
+NowTime: 1
+
+The Road is: x88888888
+
+The Road is: x88888888
+
+
+/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_11.cpp:27:5: warning: Violation of Consistency [CompareCheck.FunctionChecker]
+   27 |     ConsistencyChecker();
+      |     ^~~~~~~~~~~~~~~~~~~~
+1 warning generated.
+Total paths analyzed: 0
+Total paths analyzed: 0
+Total paths analyzed: 0
+Total paths analyzed: 0
+Total paths analyzed: 1

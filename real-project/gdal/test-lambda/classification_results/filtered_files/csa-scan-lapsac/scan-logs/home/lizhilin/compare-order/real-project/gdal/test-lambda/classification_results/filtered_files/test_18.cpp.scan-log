@@ -1,0 +1,201 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+hilbert : &a derived_$4{conj_$2{int, LC1, S6168102, #1},HILBERT_MAX} derived_$5{conj_$2{int, LC1, S6168102, #1},minX} derived_$6{conj_$2{int, LC1, S6168102, #1},minY} derived_$7{conj_$2{int, LC1, S6168102, #1},width} derived_$8{conj_$2{int, LC1, S6168102, #1},height} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+hilbert : &a derived_$13{conj_$10{int, LC2, S6166959, #1},HILBERT_MAX} derived_$14{conj_$10{int, LC2, S6166959, #1},minX} derived_$15{conj_$10{int, LC2, S6166959, #1},minY} derived_$16{conj_$10{int, LC2, S6166959, #1},width} derived_$17{conj_$10{int, LC2, S6166959, #1},height} 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+hilbert : &a derived_$4{conj_$2{int, LC3, S6167914, #1},HILBERT_MAX} derived_$5{conj_$2{int, LC3, S6167914, #1},minX} derived_$6{conj_$2{int, LC3, S6167914, #1},minY} derived_$7{conj_$2{int, LC3, S6167914, #1},width} derived_$8{conj_$2{int, LC3, S6167914, #1},height} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+hilbert : &b derived_$13{conj_$10{int, LC4, S6166959, #1},HILBERT_MAX} derived_$14{conj_$10{int, LC4, S6166959, #1},minX} derived_$15{conj_$10{int, LC4, S6166959, #1},minY} derived_$16{conj_$10{int, LC4, S6166959, #1},width} derived_$17{conj_$10{int, LC4, S6166959, #1},height} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+hilbert : &b derived_$22{conj_$19{int, LC4, S6167068, #1},HILBERT_MAX} derived_$23{conj_$19{int, LC4, S6167068, #1},minX} derived_$24{conj_$19{int, LC4, S6167068, #1},minY} derived_$25{conj_$19{int, LC4, S6167068, #1},width} derived_$26{conj_$19{int, LC4, S6167068, #1},height} NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+hilbert : &a derived_$31{conj_$28{int, LC5, S6166959, #1},HILBERT_MAX} derived_$32{conj_$28{int, LC5, S6166959, #1},minX} derived_$33{conj_$28{int, LC5, S6166959, #1},minY} derived_$34{conj_$28{int, LC5, S6166959, #1},width} derived_$35{conj_$28{int, LC5, S6166959, #1},height} 
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+hilbert : &a derived_$4{conj_$2{int, LC6, S6167731, #1},HILBERT_MAX} derived_$5{conj_$2{int, LC6, S6167731, #1},minX} derived_$6{conj_$2{int, LC6, S6167731, #1},minY} derived_$7{conj_$2{int, LC6, S6167731, #1},width} derived_$8{conj_$2{int, LC6, S6167731, #1},height} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+hilbert : &b derived_$13{conj_$10{int, LC7, S6166959, #1},HILBERT_MAX} derived_$14{conj_$10{int, LC7, S6166959, #1},minX} derived_$15{conj_$10{int, LC7, S6166959, #1},minY} derived_$16{conj_$10{int, LC7, S6166959, #1},width} derived_$17{conj_$10{int, LC7, S6166959, #1},height} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+hilbert : &b derived_$22{conj_$19{int, LC7, S6167068, #1},HILBERT_MAX} derived_$23{conj_$19{int, LC7, S6167068, #1},minX} derived_$24{conj_$19{int, LC7, S6167068, #1},minY} derived_$25{conj_$19{int, LC7, S6167068, #1},width} derived_$26{conj_$19{int, LC7, S6167068, #1},height} NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+hilbert : &a derived_$31{conj_$28{int, LC8, S6166959, #1},HILBERT_MAX} derived_$32{conj_$28{int, LC8, S6166959, #1},minX} derived_$33{conj_$28{int, LC8, S6166959, #1},minY} derived_$34{conj_$28{int, LC8, S6166959, #1},width} derived_$35{conj_$28{int, LC8, S6166959, #1},height} 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+hilbert : &a derived_$4{conj_$2{int, LC3, S6167491, #1},HILBERT_MAX} derived_$5{conj_$2{int, LC3, S6167491, #1},minX} derived_$6{conj_$2{int, LC3, S6167491, #1},minY} derived_$7{conj_$2{int, LC3, S6167491, #1},width} derived_$8{conj_$2{int, LC3, S6167491, #1},height} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+hilbert : &b derived_$13{conj_$10{int, LC9, S6166959, #1},HILBERT_MAX} derived_$14{conj_$10{int, LC9, S6166959, #1},minX} derived_$15{conj_$10{int, LC9, S6166959, #1},minY} derived_$16{conj_$10{int, LC9, S6166959, #1},width} derived_$17{conj_$10{int, LC9, S6166959, #1},height} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+hilbert : &b derived_$22{conj_$19{int, LC9, S6167068, #1},HILBERT_MAX} derived_$23{conj_$19{int, LC9, S6167068, #1},minX} derived_$24{conj_$19{int, LC9, S6167068, #1},minY} derived_$25{conj_$19{int, LC9, S6167068, #1},width} derived_$26{conj_$19{int, LC9, S6167068, #1},height} NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+hilbert : &c derived_$31{conj_$28{int, LC10, S6166959, #1},HILBERT_MAX} derived_$32{conj_$28{int, LC10, S6166959, #1},minX} derived_$33{conj_$28{int, LC10, S6166959, #1},minY} derived_$34{conj_$28{int, LC10, S6166959, #1},width} derived_$35{conj_$28{int, LC10, S6166959, #1},height} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+hilbert : &c derived_$40{conj_$37{int, LC10, S6167068, #1},HILBERT_MAX} derived_$41{conj_$37{int, LC10, S6167068, #1},minX} derived_$42{conj_$37{int, LC10, S6167068, #1},minY} derived_$43{conj_$37{int, LC10, S6167068, #1},width} derived_$44{conj_$37{int, LC10, S6167068, #1},height} NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+hilbert : &a derived_$49{conj_$46{int, LC11, S6166959, #1},HILBERT_MAX} derived_$50{conj_$46{int, LC11, S6166959, #1},minX} derived_$51{conj_$46{int, LC11, S6166959, #1},minY} derived_$52{conj_$46{int, LC11, S6166959, #1},width} derived_$53{conj_$46{int, LC11, S6166959, #1},height} 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+hilbert : &a derived_$4{conj_$2{int, LC1, S6167232, #1},HILBERT_MAX} derived_$5{conj_$2{int, LC1, S6167232, #1},minX} derived_$6{conj_$2{int, LC1, S6167232, #1},minY} derived_$7{conj_$2{int, LC1, S6167232, #1},width} derived_$8{conj_$2{int, LC1, S6167232, #1},height} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+hilbert : &b derived_$13{conj_$10{int, LC12, S6166959, #1},HILBERT_MAX} derived_$14{conj_$10{int, LC12, S6166959, #1},minX} derived_$15{conj_$10{int, LC12, S6166959, #1},minY} derived_$16{conj_$10{int, LC12, S6166959, #1},width} derived_$17{conj_$10{int, LC12, S6166959, #1},height} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+hilbert : &b derived_$22{conj_$19{int, LC12, S6167068, #1},HILBERT_MAX} derived_$23{conj_$19{int, LC12, S6167068, #1},minX} derived_$24{conj_$19{int, LC12, S6167068, #1},minY} derived_$25{conj_$19{int, LC12, S6167068, #1},width} derived_$26{conj_$19{int, LC12, S6167068, #1},height} NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+hilbert : &c derived_$31{conj_$28{int, LC13, S6166959, #1},HILBERT_MAX} derived_$32{conj_$28{int, LC13, S6166959, #1},minX} derived_$33{conj_$28{int, LC13, S6166959, #1},minY} derived_$34{conj_$28{int, LC13, S6166959, #1},width} derived_$35{conj_$28{int, LC13, S6166959, #1},height} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+hilbert : &a derived_$40{conj_$37{int, LC13, S6167068, #1},HILBERT_MAX} derived_$41{conj_$37{int, LC13, S6167068, #1},minX} derived_$42{conj_$37{int, LC13, S6167068, #1},minY} derived_$43{conj_$37{int, LC13, S6167068, #1},width} derived_$44{conj_$37{int, LC13, S6167068, #1},height} NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+hilbert : &c derived_$49{conj_$46{int, LC14, S6166959, #1},HILBERT_MAX} derived_$50{conj_$46{int, LC14, S6166959, #1},minX} derived_$51{conj_$46{int, LC14, S6166959, #1},minY} derived_$52{conj_$46{int, LC14, S6166959, #1},width} derived_$53{conj_$46{int, LC14, S6166959, #1},height} 
+
+
+
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 1

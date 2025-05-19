@@ -1,0 +1,187 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+cost : &SymRegion{reg_$4<class CostObject * a.second>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+cost : &SymRegion{reg_$4<class CostObject * a.second>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+cost : &SymRegion{reg_$9<class CostObject * b.second>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+cost : &SymRegion{reg_$4<class CostObject * a.second>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+cost : &SymRegion{reg_$9<class CostObject * b.second>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+cost : &SymRegion{reg_$4<class CostObject * a.second>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+cost : &SymRegion{reg_$9<class CostObject * b.second>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+cost : &SymRegion{reg_$18<class CostObject * c.second>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+cost : &SymRegion{reg_$4<class CostObject * a.second>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+cost : &SymRegion{reg_$9<class CostObject * b.second>} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+cost : &SymRegion{reg_$18<class CostObject * c.second>} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+
+
+
+Total paths analyzed: 0
+Total paths analyzed: 0
+Total paths analyzed: 0
+Total paths analyzed: 1
+Total paths analyzed: 1

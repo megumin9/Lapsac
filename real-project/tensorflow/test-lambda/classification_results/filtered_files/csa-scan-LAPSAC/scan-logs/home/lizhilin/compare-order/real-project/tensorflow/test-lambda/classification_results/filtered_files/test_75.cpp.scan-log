@@ -1,0 +1,105 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+name : &SymRegion{reg_$4<const NodeDef * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+-----------------
+Now have name
+insert:
+compare : &temp_object{string, S6166700} &temp_object{string, S6166770} 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+name : &SymRegion{reg_$4<const NodeDef * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+name : &SymRegion{reg_$5<const NodeDef * b>} NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+Now have name
+Now have name
+insert:
+compare : &temp_object{string, S6166700} &temp_object{string, S6166770} 
+
+The Road is: x2
+-----------------
+Now have name
+Now have name
+insert:
+compare : &temp_object{string, S6166700} &temp_object{string, S6166770} 
+
+The Road is: x1
+-----------------
+Now have name
+Now have name
+insert:
+compare : &temp_object{string, S6166700} &temp_object{string, S6166770} 
+
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+insert:
+size : &temp_object{string, S6167155} NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+insert:
+size : &temp_object{string, S6167193} 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x088
+
+The Road is: x088

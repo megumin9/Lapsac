@@ -1,0 +1,1335 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+name : &SymRegion{reg_$4<Node * a.first.first>} NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{std::string, S6181547} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &a.first.second NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+
+The Road is: x
+insert:
+make_tuple : &temp_object{std::string, S6181547} &a.first.second NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+-----------------
+Now have name
+Now have forward
+Now have forward
+Now have make_tuple
+insert:
+__less : &temp_object{tuple<typename __decay_and_strip<basic_string<char> >::__type, typename __decay_and_strip<const int &>::__type>, S6252703} &temp_object{tuple<typename __decay_and_strip<basic_string<char> >::__type, typename __decay_and_strip<const int &>::__type>, S6252829} 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+name : &SymRegion{reg_$4<Node * a.first.first>} NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{std::string, S6181547} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &a.first.second NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+
+The Road is: x
+insert:
+make_tuple : &temp_object{std::string, S6181547} &a.first.second NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+name : &SymRegion{reg_$14<Node * b.first.first>} NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{std::string, S6252758} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &b.first.second NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+
+The Road is: x
+insert:
+make_tuple : &temp_object{std::string, S6252758} &b.first.second NowTime: 0
+NowTime: 0
+
+The Road is: x
+
+The Road is: x0
+-----------------
+Now have name
+Now have forward
+Now have forward
+Now have make_tuple
+Now have name
+Now have forward
+Now have forward
+Now have make_tuple
+insert:
+__less : &temp_object{tuple<typename __decay_and_strip<basic_string<char> >::__type, typename __decay_and_strip<const int &>::__type>, S6252703} &temp_object{tuple<typename __decay_and_strip<basic_string<char> >::__type, typename __decay_and_strip<const int &>::__type>, S6252829} 
+
+The Road is: x1
+-----------------
+Now have name
+Now have forward
+Now have forward
+Now have make_tuple
+Now have name
+Now have forward
+Now have forward
+Now have make_tuple
+insert:
+__less : &temp_object{tuple<typename __decay_and_strip<basic_string<char> >::__type, typename __decay_and_strip<const int &>::__type>, S6252703} &temp_object{tuple<typename __decay_and_strip<basic_string<char> >::__type, typename __decay_and_strip<const int &>::__type>, S6252829} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 1
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 1
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 1
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 1
+
+The Road is: x18
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 1
+NowTime: 1
+
+The Road is: x18
+
+The Road is: x18
+-----------------
+Now have name
+Now have forward
+Now have forward
+Now have make_tuple
+Now have name
+Now have forward
+Now have forward
+Now have make_tuple
+Now have __less
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+name : &SymRegion{reg_$4<Node * a.first.first>} NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{std::string, S6181547} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &a.first.second NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+
+The Road is: x
+insert:
+make_tuple : &temp_object{std::string, S6181547} &a.first.second NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+name : &SymRegion{reg_$14<Node * b.first.first>} NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{std::string, S6252758} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &b.first.second NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+
+The Road is: x
+insert:
+make_tuple : &temp_object{std::string, S6252758} &b.first.second NowTime: 0
+NowTime: 0
+
+The Road is: x
+
+The Road is: x0
+-----------------
+Now have name
+Now have forward
+Now have forward
+Now have make_tuple
+Now have name
+Now have forward
+Now have forward
+Now have make_tuple
+insert:
+__less : &temp_object{tuple<typename __decay_and_strip<basic_string<char> >::__type, typename __decay_and_strip<const int &>::__type>, S6252703} &temp_object{tuple<typename __decay_and_strip<basic_string<char> >::__type, typename __decay_and_strip<const int &>::__type>, S6252829} 
+
+The Road is: x1
+-----------------
+Now have name
+Now have forward
+Now have forward
+Now have make_tuple
+Now have name
+Now have forward
+Now have forward
+Now have make_tuple
+insert:
+__less : &temp_object{tuple<typename __decay_and_strip<basic_string<char> >::__type, typename __decay_and_strip<const int &>::__type>, S6252703} &temp_object{tuple<typename __decay_and_strip<basic_string<char> >::__type, typename __decay_and_strip<const int &>::__type>, S6252829} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 1
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 1
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 1
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 1
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 1
+
+The Road is: x18
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 1
+NowTime: 1
+
+The Road is: x18
+
+The Road is: x18
+-----------------
+Now have name
+Now have forward
+Now have forward
+Now have make_tuple
+Now have name
+Now have forward
+Now have forward
+Now have make_tuple
+Now have __less
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+name : &SymRegion{reg_$4<Node * a.first.first>} NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{std::string, S6181547} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &a.first.second NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+
+The Road is: x
+insert:
+make_tuple : &temp_object{std::string, S6181547} &a.first.second NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+name : &SymRegion{reg_$14<Node * b.first.first>} NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{std::string, S6252758} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &b.first.second NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+
+The Road is: x
+insert:
+make_tuple : &temp_object{std::string, S6252758} &b.first.second NowTime: 0
+NowTime: 0
+
+The Road is: x
+
+The Road is: x0
+-----------------
+Now have name
+Now have forward
+Now have forward
+Now have make_tuple
+Now have name
+Now have forward
+Now have forward
+Now have make_tuple
+insert:
+__less : &temp_object{tuple<typename __decay_and_strip<basic_string<char> >::__type, typename __decay_and_strip<const int &>::__type>, S6252703} &temp_object{tuple<typename __decay_and_strip<basic_string<char> >::__type, typename __decay_and_strip<const int &>::__type>, S6252829} 
+
+The Road is: x1
+-----------------
+Now have name
+Now have forward
+Now have forward
+Now have make_tuple
+Now have name
+Now have forward
+Now have forward
+Now have make_tuple
+insert:
+__less : &temp_object{tuple<typename __decay_and_strip<basic_string<char> >::__type, typename __decay_and_strip<const int &>::__type>, S6252703} &temp_object{tuple<typename __decay_and_strip<basic_string<char> >::__type, typename __decay_and_strip<const int &>::__type>, S6252829} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+insert:
+name : &SymRegion{reg_$43<Node * c.first.first>} NowTime: 0
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+insert:
+forward : &c.first.second NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 1
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 1
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 1
+
+The Road is: x18
+
+The Road is: x18
+
+The Road is: x18
+insert:
+make_tuple : &temp_object{std::string, S6252758} &c.first.second NowTime: 1
+NowTime: 1
+
+The Road is: x18
+
+The Road is: x18
+-----------------
+Now have name
+Now have forward
+Now have forward
+Now have make_tuple
+Now have name
+Now have forward
+Now have forward
+Now have make_tuple
+Now have __less
+Now have name
+Now have forward
+Now have make_tuple
+
+NowTime: 2
+
+NowTime: 2
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 2
+
+The Road is: x188
+NowTime: 2
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 2
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 2
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 2
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 3
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 3
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 3
+
+The Road is: x188
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 4
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 4
+
+The Road is: x188
+NowTime: 4
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 5
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 5
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 6
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 6
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 7
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 7
+
+The Road is: x188
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 8
+NowTime: 8
+
+The Road is: x188
+
+The Road is: x188
+-----------------
+Now have name
+Now have forward
+Now have forward
+Now have make_tuple
+Now have name
+Now have forward
+Now have forward
+Now have make_tuple
+Now have __less
+Now have name
+Now have forward
+Now have make_tuple
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+name : &SymRegion{reg_$4<Node * a.first.first>} NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{std::string, S6181547} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &a.first.second NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+
+The Road is: x
+insert:
+make_tuple : &temp_object{std::string, S6181547} &a.first.second NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+name : &SymRegion{reg_$14<Node * b.first.first>} NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &temp_object{std::string, S6252758} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+forward : &b.first.second NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+
+The Road is: x
+insert:
+make_tuple : &temp_object{std::string, S6252758} &b.first.second NowTime: 0
+NowTime: 0
+
+The Road is: x
+
+The Road is: x0
+-----------------
+Now have name
+Now have forward
+Now have forward
+Now have make_tuple
+Now have name
+Now have forward
+Now have forward
+Now have make_tuple
+insert:
+__less : &temp_object{tuple<typename __decay_and_strip<basic_string<char> >::__type, typename __decay_and_strip<const int &>::__type>, S6252703} &temp_object{tuple<typename __decay_and_strip<basic_string<char> >::__type, typename __decay_and_strip<const int &>::__type>, S6252829} 
+
+The Road is: x1
+-----------------
+Now have name
+Now have forward
+Now have forward
+Now have make_tuple
+Now have name
+Now have forward
+Now have forward
+Now have make_tuple
+insert:
+__less : &temp_object{tuple<typename __decay_and_strip<basic_string<char> >::__type, typename __decay_and_strip<const int &>::__type>, S6252703} &temp_object{tuple<typename __decay_and_strip<basic_string<char> >::__type, typename __decay_and_strip<const int &>::__type>, S6252829} 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+NowTime: 0
+
+The Road is: x08
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+
+The Road is: x08
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+insert:
+name : &SymRegion{reg_$43<Node * c.first.first>} NowTime: 0
+
+The Road is: x08
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+insert:
+forward : &c.first.second NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+NowTime: 1
+
+The Road is: x08
+
+The Road is: x08
+NowTime: 1
+
+The Road is: x08
+
+The Road is: x08
+NowTime: 1
+
+The Road is: x08
+
+The Road is: x08
+NowTime: 1
+
+The Road is: x08
+
+The Road is: x08
+
+The Road is: x08
+insert:
+make_tuple : &temp_object{std::string, S6252758} &c.first.second NowTime: 1
+NowTime: 1
+
+The Road is: x08
+
+The Road is: x08
+-----------------
+Now have name
+Now have forward
+Now have forward
+Now have make_tuple
+Now have name
+Now have forward
+Now have forward
+Now have make_tuple
+Now have __less
+Now have name
+Now have forward
+Now have make_tuple
+
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x088
+
+The Road is: x088
+NowTime: 1
+
+The Road is: x088
+NowTime: 1
+
+The Road is: x088
+
+The Road is: x088
+NowTime: 2
+
+The Road is: x088
+
+The Road is: x088
+NowTime: 2
+
+The Road is: x088
+
+The Road is: x088
+NowTime: 3
+
+The Road is: x088
+
+The Road is: x088
+NowTime: 3
+
+The Road is: x088
+
+The Road is: x088
+NowTime: 3
+
+The Road is: x088
+
+The Road is: x088
+NowTime: 4
+
+The Road is: x088
+
+The Road is: x088
+
+The Road is: x088
+NowTime: 4
+
+The Road is: x088
+
+The Road is: x088
+NowTime: 4
+
+The Road is: x088
+NowTime: 4
+
+The Road is: x088
+
+The Road is: x088
+NowTime: 5
+
+The Road is: x088
+
+The Road is: x088
+NowTime: 6
+
+The Road is: x088
+
+The Road is: x088
+NowTime: 6
+
+The Road is: x088
+
+The Road is: x088
+NowTime: 7
+
+The Road is: x088
+
+The Road is: x088
+NowTime: 8
+
+The Road is: x088
+
+The Road is: x088
+NowTime: 8
+
+The Road is: x088
+
+The Road is: x088
+
+The Road is: x088
+NowTime: 9
+NowTime: 9
+
+The Road is: x088
+
+The Road is: x088
+-----------------
+Now have name
+Now have forward
+Now have forward
+Now have make_tuple
+Now have name
+Now have forward
+Now have forward
+Now have make_tuple
+Now have __less
+Now have name
+Now have forward
+Now have make_tuple
+
+Total paths analyzed: 0
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 0

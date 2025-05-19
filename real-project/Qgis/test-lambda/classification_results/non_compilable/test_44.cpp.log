@@ -1,0 +1,4 @@
+/home/lizhilin/compare-order/real-project/QGIS/test-lambda/test_44.cpp:2:10: fatal error: 'QString' file not found
+    2 | #include <QString>
+      |          ^~~~~~~~~
+1 error generated.

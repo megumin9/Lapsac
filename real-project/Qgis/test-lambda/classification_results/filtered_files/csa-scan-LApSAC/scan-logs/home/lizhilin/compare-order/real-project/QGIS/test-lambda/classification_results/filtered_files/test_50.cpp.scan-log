@@ -1,0 +1,520 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+-----------------
+insert:
+localeAwareCompare : &Element{SymRegion{reg_$4<const QueryDetails & a>},0 S64b,struct QueryDetails}.name &Element{SymRegion{reg_$4<const QueryDetails & a>},0 S64b,struct QueryDetails}.name 
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+insert:
+localeAwareCompare : &Element{SymRegion{reg_$4<const QueryDetails & a>},0 S64b,struct QueryDetails}.name &Element{SymRegion{reg_$5<const QueryDetails & b>},0 S64b,struct QueryDetails}.name 
+
+The Road is: x2
+-----------------
+insert:
+localeAwareCompare : &Element{SymRegion{reg_$4<const QueryDetails & a>},0 S64b,struct QueryDetails}.name &Element{SymRegion{reg_$5<const QueryDetails & b>},0 S64b,struct QueryDetails}.name 
+
+The Road is: x1
+-----------------
+insert:
+localeAwareCompare : &Element{SymRegion{reg_$4<const QueryDetails & a>},0 S64b,struct QueryDetails}.name &Element{SymRegion{reg_$5<const QueryDetails & b>},0 S64b,struct QueryDetails}.name 
+NowTime: 0
+
+The Road is: x19
+
+The Road is: x19
+-----------------
+Now have localeAwareCompare
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x288
+
+The Road is: x288
+-----------------
+Now have localeAwareCompare
+
+
+NowTime: 0
+
+The Road is: x09
+
+The Road is: x09
+-----------------
+Now have localeAwareCompare
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x098
+
+The Road is: x098
+-----------------
+Now have localeAwareCompare
+insert:
+localeAwareCompare : &Element{SymRegion{reg_$5<const QueryDetails & b>},0 S64b,struct QueryDetails}.name &Element{SymRegion{reg_$4<const QueryDetails & a>},0 S64b,struct QueryDetails}.name 
+NowTime: 0
+
+The Road is: x0989
+
+The Road is: x0989
+-----------------
+Now have localeAwareCompare
+Now have localeAwareCompare
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+insert:
+localeAwareCompare : &Element{SymRegion{reg_$4<const QueryDetails & a>},0 S64b,struct QueryDetails}.name &Element{SymRegion{reg_$5<const QueryDetails & b>},0 S64b,struct QueryDetails}.name 
+
+The Road is: x2
+-----------------
+insert:
+localeAwareCompare : &Element{SymRegion{reg_$4<const QueryDetails & a>},0 S64b,struct QueryDetails}.name &Element{SymRegion{reg_$5<const QueryDetails & b>},0 S64b,struct QueryDetails}.name 
+
+The Road is: x1
+-----------------
+insert:
+localeAwareCompare : &Element{SymRegion{reg_$4<const QueryDetails & a>},0 S64b,struct QueryDetails}.name &Element{SymRegion{reg_$5<const QueryDetails & b>},0 S64b,struct QueryDetails}.name 
+NowTime: 0
+
+The Road is: x19
+
+The Road is: x19
+-----------------
+Now have localeAwareCompare
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x288
+The road length:3
+The road length:3
+The road length:3
+
+The Road is: x2880
+-----------------
+Now have localeAwareCompare
+insert:
+localeAwareCompare : &Element{SymRegion{reg_$5<const QueryDetails & b>},0 S64b,struct QueryDetails}.name &Element{SymRegion{reg_$9<const QueryDetails & c>},0 S64b,struct QueryDetails}.name 
+
+The Road is: x2882
+-----------------
+Now have localeAwareCompare
+
+The Road is: x2881
+-----------------
+Now have localeAwareCompare
+insert:
+localeAwareCompare : &Element{SymRegion{reg_$5<const QueryDetails & b>},0 S64b,struct QueryDetails}.name &Element{SymRegion{reg_$9<const QueryDetails & c>},0 S64b,struct QueryDetails}.name 
+NowTime: 0
+
+The Road is: x28819
+
+The Road is: x28819
+-----------------
+Now have localeAwareCompare
+Now have localeAwareCompare
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x288288
+
+The Road is: x288288
+-----------------
+Now have localeAwareCompare
+
+
+NowTime: 0
+
+The Road is: x09
+
+The Road is: x09
+-----------------
+Now have localeAwareCompare
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x098
+The road length:3
+The road length:3
+The road length:3
+
+The Road is: x0980
+-----------------
+Now have localeAwareCompare
+insert:
+localeAwareCompare : &Element{SymRegion{reg_$5<const QueryDetails & b>},0 S64b,struct QueryDetails}.name &Element{SymRegion{reg_$9<const QueryDetails & c>},0 S64b,struct QueryDetails}.name 
+
+The Road is: x0982
+-----------------
+Now have localeAwareCompare
+insert:
+localeAwareCompare : &Element{SymRegion{reg_$5<const QueryDetails & b>},0 S64b,struct QueryDetails}.name &Element{SymRegion{reg_$9<const QueryDetails & c>},0 S64b,struct QueryDetails}.name 
+
+The Road is: x0981
+-----------------
+Now have localeAwareCompare
+insert:
+localeAwareCompare : &Element{SymRegion{reg_$5<const QueryDetails & b>},0 S64b,struct QueryDetails}.name &Element{SymRegion{reg_$9<const QueryDetails & c>},0 S64b,struct QueryDetails}.name 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x098288
+
+The Road is: x098288
+-----------------
+Now have localeAwareCompare
+Now have localeAwareCompare
+insert:
+localeAwareCompare : &Element{SymRegion{reg_$9<const QueryDetails & c>},0 S64b,struct QueryDetails}.name &Element{SymRegion{reg_$4<const QueryDetails & a>},0 S64b,struct QueryDetails}.name 
+NowTime: 0
+
+The Road is: x0982889
+
+The Road is: x0982889
+-----------------
+Now have localeAwareCompare
+Now have localeAwareCompare
+Now have localeAwareCompare
+
+NowTime: 0
+
+The Road is: x28809
+
+The Road is: x28809
+-----------------
+Now have localeAwareCompare
+Now have localeAwareCompare
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x288098
+
+The Road is: x288098
+-----------------
+Now have localeAwareCompare
+Now have localeAwareCompare
+insert:
+localeAwareCompare : &Element{SymRegion{reg_$9<const QueryDetails & c>},0 S64b,struct QueryDetails}.name &Element{SymRegion{reg_$4<const QueryDetails & a>},0 S64b,struct QueryDetails}.name 
+NowTime: 0
+
+The Road is: x2880989
+
+The Road is: x2880989
+-----------------
+Now have localeAwareCompare
+Now have localeAwareCompare
+Now have localeAwareCompare
+
+NowTime: 0
+
+The Road is: x09819
+
+The Road is: x09819
+-----------------
+Now have localeAwareCompare
+Now have localeAwareCompare
+
+NowTime: 0
+
+The Road is: x09809
+
+The Road is: x09809
+-----------------
+Now have localeAwareCompare
+Now have localeAwareCompare
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x098098
+
+The Road is: x098098
+-----------------
+Now have localeAwareCompare
+Now have localeAwareCompare
+insert:
+localeAwareCompare : &Element{SymRegion{reg_$9<const QueryDetails & c>},0 S64b,struct QueryDetails}.name &Element{SymRegion{reg_$4<const QueryDetails & a>},0 S64b,struct QueryDetails}.name 
+NowTime: 0
+
+The Road is: x0980989
+
+The Road is: x0980989
+-----------------
+Now have localeAwareCompare
+Now have localeAwareCompare
+Now have localeAwareCompare
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+insert:
+localeAwareCompare : &Element{SymRegion{reg_$4<const QueryDetails & a>},0 S64b,struct QueryDetails}.name &Element{SymRegion{reg_$5<const QueryDetails & b>},0 S64b,struct QueryDetails}.name 
+
+The Road is: x2
+-----------------
+insert:
+localeAwareCompare : &Element{SymRegion{reg_$4<const QueryDetails & a>},0 S64b,struct QueryDetails}.name &Element{SymRegion{reg_$5<const QueryDetails & b>},0 S64b,struct QueryDetails}.name 
+
+The Road is: x1
+-----------------
+insert:
+localeAwareCompare : &Element{SymRegion{reg_$4<const QueryDetails & a>},0 S64b,struct QueryDetails}.name &Element{SymRegion{reg_$5<const QueryDetails & b>},0 S64b,struct QueryDetails}.name 
+NowTime: 0
+
+The Road is: x19
+
+The Road is: x19
+-----------------
+Now have localeAwareCompare
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x198
+The road length:3
+The road length:3
+The road length:3
+
+The Road is: x1980
+-----------------
+Now have localeAwareCompare
+insert:
+localeAwareCompare : &Element{SymRegion{reg_$5<const QueryDetails & b>},0 S64b,struct QueryDetails}.name &Element{SymRegion{reg_$8<const QueryDetails & c>},0 S64b,struct QueryDetails}.name 
+
+The Road is: x1982
+-----------------
+Now have localeAwareCompare
+insert:
+localeAwareCompare : &Element{SymRegion{reg_$5<const QueryDetails & b>},0 S64b,struct QueryDetails}.name &Element{SymRegion{reg_$8<const QueryDetails & c>},0 S64b,struct QueryDetails}.name 
+
+The Road is: x1981
+-----------------
+Now have localeAwareCompare
+insert:
+localeAwareCompare : &Element{SymRegion{reg_$5<const QueryDetails & b>},0 S64b,struct QueryDetails}.name &Element{SymRegion{reg_$8<const QueryDetails & c>},0 S64b,struct QueryDetails}.name 
+NowTime: 0
+
+The Road is: x19819
+
+The Road is: x19819
+-----------------
+Now have localeAwareCompare
+Now have localeAwareCompare
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x198198
+
+The Road is: x198198
+-----------------
+Now have localeAwareCompare
+Now have localeAwareCompare
+insert:
+localeAwareCompare : &Element{SymRegion{reg_$4<const QueryDetails & a>},0 S64b,struct QueryDetails}.name &Element{SymRegion{reg_$8<const QueryDetails & c>},0 S64b,struct QueryDetails}.name 
+NowTime: 0
+
+The Road is: x1981989
+
+The Road is: x1981989
+-----------------
+Now have localeAwareCompare
+Now have localeAwareCompare
+Now have localeAwareCompare
+
+
+
+
+
+NowTime: 0
+
+The Road is: x09
+
+The Road is: x09
+-----------------
+Now have localeAwareCompare
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x288
+The road length:3
+The road length:3
+The road length:3
+
+The Road is: x2880
+-----------------
+Now have localeAwareCompare
+insert:
+localeAwareCompare : &Element{SymRegion{reg_$5<const QueryDetails & b>},0 S64b,struct QueryDetails}.name &Element{SymRegion{reg_$8<const QueryDetails & c>},0 S64b,struct QueryDetails}.name 
+
+The Road is: x2882
+-----------------
+Now have localeAwareCompare
+
+The Road is: x2881
+-----------------
+Now have localeAwareCompare
+insert:
+localeAwareCompare : &Element{SymRegion{reg_$5<const QueryDetails & b>},0 S64b,struct QueryDetails}.name &Element{SymRegion{reg_$8<const QueryDetails & c>},0 S64b,struct QueryDetails}.name 
+
+
+NowTime: 0
+
+The Road is: x19809
+
+The Road is: x19809
+-----------------
+Now have localeAwareCompare
+Now have localeAwareCompare
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x198288
+
+The Road is: x198288
+-----------------
+Now have localeAwareCompare
+Now have localeAwareCompare
+NowTime: 0
+
+The Road is: x1982889
+
+The Road is: x1982889
+-----------------
+Now have localeAwareCompare
+Now have localeAwareCompare
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x288288
+
+The Road is: x288288
+-----------------
+Now have localeAwareCompare
+
+NowTime: 0
+
+The Road is: x28819
+
+The Road is: x28819
+-----------------
+Now have localeAwareCompare
+Now have localeAwareCompare
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x288198
+
+The Road is: x288198
+-----------------
+Now have localeAwareCompare
+Now have localeAwareCompare
+NowTime: 0
+
+The Road is: x2881989
+
+The Road is: x2881989
+-----------------
+Now have localeAwareCompare
+Now have localeAwareCompare
+
+NowTime: 0
+
+The Road is: x28809
+
+The Road is: x28809
+-----------------
+Now have localeAwareCompare
+Now have localeAwareCompare
+
+/home/lizhilin/compare-order/real-project/QGIS/test-lambda/classification_results/filtered_files/test_50.cpp:47:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   47 |         SymmetryChecker();
+      |         ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/real-project/QGIS/test-lambda/classification_results/filtered_files/test_50.cpp:53:9: warning: Violation of Anti-Reflexivity [CompareCheck.FunctionChecker]
+   53 |         ReflexivityChecker();
+      |         ^~~~~~~~~~~~~~~~~~~~
+2 warnings generated.
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 0

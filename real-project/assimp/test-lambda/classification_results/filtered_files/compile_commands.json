@@ -1,0 +1,14 @@
+[
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-std=c++17",
+            "-o",
+            "/home/lizhilin/compare-order/real-project/assimp/test-lambda/classification_results/filtered_files/test_1.o",
+            "/home/lizhilin/compare-order/real-project/assimp/test-lambda/classification_results/filtered_files/test_1.cpp"
+        ],
+        "directory": "/home/lizhilin/compare-order/real-project/assimp/test-lambda/classification_results/filtered_files",
+        "file": "/home/lizhilin/compare-order/real-project/assimp/test-lambda/classification_results/filtered_files/test_1.cpp"
+    }
+]

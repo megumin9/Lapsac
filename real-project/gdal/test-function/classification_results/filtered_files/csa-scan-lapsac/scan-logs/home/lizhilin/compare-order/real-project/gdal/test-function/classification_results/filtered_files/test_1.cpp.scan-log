@@ -1,0 +1,142 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+
+
+
+NowTime: 0
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+
+
+
+
+
+
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+
+
+
+
+NowTime: 0
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+
+
+
+/home/lizhilin/compare-order/real-project/gdal/test-function/classification_results/filtered_files/test_1.cpp:49:5: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   49 |     SymmetryChecker();
+      |     ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/real-project/gdal/test-function/classification_results/filtered_files/test_1.cpp:55:5: warning: Violation of Anti-Reflexivity [CompareCheck.FunctionChecker]
+   55 |     ReflexivityChecker();
+      |     ^~~~~~~~~~~~~~~~~~~~
+2 warnings generated.
+Total paths analyzed: 3
+Total paths analyzed: 6
+Total paths analyzed: 4
+Total paths analyzed: 12
+Total paths analyzed: 12

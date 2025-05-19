@@ -1,0 +1,279 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+isDerivedFrom : &SymRegion{reg_$4<const App::DocumentObject * a>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+isDerivedFrom : &SymRegion{reg_$4<const App::DocumentObject * a>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+isDerivedFrom : &SymRegion{reg_$5<const App::DocumentObject * b>} 
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+isDerivedFrom : &SymRegion{reg_$5<const App::DocumentObject * b>} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+NowTime: 0
+
+The Road is: x9888
+
+The Road is: x9888
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+isDerivedFrom : &SymRegion{reg_$4<const App::DocumentObject * a>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+isDerivedFrom : &SymRegion{reg_$5<const App::DocumentObject * b>} 
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+isDerivedFrom : &SymRegion{reg_$5<const App::DocumentObject * b>} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+NowTime: 0
+
+The Road is: x9888
+
+The Road is: x9888
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+isDerivedFrom : &SymRegion{reg_$4<const App::DocumentObject * a>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+isDerivedFrom : &SymRegion{reg_$5<const App::DocumentObject * b>} 
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+isDerivedFrom : &SymRegion{reg_$5<const App::DocumentObject * b>} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+NowTime: 0
+
+The Road is: x9888
+
+The Road is: x9888
+insert:
+isDerivedFrom : &SymRegion{reg_$14<const App::DocumentObject * c>} 
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+isDerivedFrom : &SymRegion{reg_$4<const App::DocumentObject * a>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+insert:
+isDerivedFrom : &SymRegion{reg_$5<const App::DocumentObject * b>} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x998
+
+The Road is: x998
+NowTime: 0
+
+The Road is: x9989
+
+The Road is: x9989
+insert:
+isDerivedFrom : &SymRegion{reg_$14<const App::DocumentObject * c>} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x998998
+
+The Road is: x998998
+NowTime: 0
+
+The Road is: x9989989
+
+The Road is: x9989989
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+isDerivedFrom : &SymRegion{reg_$5<const App::DocumentObject * b>} 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+NowTime: 0
+
+The Road is: x8888
+
+The Road is: x8888
+insert:
+isDerivedFrom : &SymRegion{reg_$14<const App::DocumentObject * c>} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x888888
+
+The Road is: x888888
+NowTime: 0
+
+The Road is: x8888888
+
+The Road is: x8888888
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x888898
+
+The Road is: x888898
+NowTime: 0
+
+The Road is: x8888988
+
+The Road is: x8888988
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x898
+
+The Road is: x898
+NowTime: 0
+
+The Road is: x8989
+
+The Road is: x8989
+insert:
+isDerivedFrom : &SymRegion{reg_$14<const App::DocumentObject * c>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x898998
+
+The Road is: x898998
+NowTime: 0
+
+The Road is: x8989988
+
+The Road is: x8989988
+
+Total paths analyzed: 0
+Total paths analyzed: 0
+Total paths analyzed: 0
+Total paths analyzed: 0
+Total paths analyzed: 0

@@ -1,0 +1,3821 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+GetReferenceableValue : reg_$5<int Element{SymRegion{reg_$4<const TfDeviceSpec & a>},0 S64b,struct TfDeviceSpec}.device_ordinal> NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+NowTime: 0
+
+The Road is: x99
+NowTime: 0
+
+The Road is: x99
+NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+__builtin_expect : 1 S64b 1 S64b 
+The Road is: x998
+insert:
+Check_EQImpl : &v1 &v2 &Element{"a.device_ordinal == b.device_ordinal",0 S64b,char} 
+The Road is: x998
+insert:
+Check_EQImpl : reg_$5<int Element{SymRegion{reg_$4<const TfDeviceSpec & a>},0 S64b,struct TfDeviceSpec}.device_ordinal> reg_$5<int Element{SymRegion{reg_$4<const TfDeviceSpec & a>},0 S64b,struct TfDeviceSpec}.device_ordinal> &Element{"a.device_ordinal == b.device_ordinal",0 S64b,char} NowTime: 0
+
+The Road is: x9989
+
+The Road is: x9989
+insert:
+addressof : &SymRegion{reg_$4<const TfDeviceSpec & a>} NowTime: 0
+
+The Road is: x9989
+
+The Road is: x9989
+NowTime: 0
+
+The Road is: x99898
+
+The Road is: x99898
+insert:
+__builtin_expect : 0 S64b 0 S64b 
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+GetReferenceableValue : reg_$6<int Element{SymRegion{reg_$4<const TfDeviceSpec & a>},0 S64b,struct TfDeviceSpec}.device_ordinal> NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+GetReferenceableValue : reg_$7<int Element{SymRegion{reg_$5<const TfDeviceSpec & b>},0 S64b,struct TfDeviceSpec}.device_ordinal> NowTime: 0
+
+The Road is: x99
+NowTime: 0
+
+The Road is: x99
+NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+__builtin_expect : 1 S64b 1 S64b 
+The Road is: x998
+insert:
+Check_EQImpl : &v1 &v2 &Element{"a.device_ordinal == b.device_ordinal",0 S64b,char} 
+The Road is: x998
+insert:
+Check_EQImpl : reg_$6<int Element{SymRegion{reg_$4<const TfDeviceSpec & a>},0 S64b,struct TfDeviceSpec}.device_ordinal> reg_$7<int Element{SymRegion{reg_$5<const TfDeviceSpec & b>},0 S64b,struct TfDeviceSpec}.device_ordinal> &Element{"a.device_ordinal == b.device_ordinal",0 S64b,char} NowTime: 0
+
+The Road is: x9989
+
+The Road is: x9989
+insert:
+addressof : &SymRegion{reg_$4<const TfDeviceSpec & a>} NowTime: 0
+
+The Road is: x9989
+
+The Road is: x9989
+insert:
+addressof : &SymRegion{reg_$5<const TfDeviceSpec & b>} NowTime: 0
+
+The Road is: x99899
+
+The Road is: x99899
+insert:
+__builtin_expect : 1 S64b 0 S64b NowTime: 0
+
+The Road is: x998999
+
+The Road is: x998999
+insert:
+stream : &Base{temp_object{google::LogMessageFatal, S6214311},LogMessage} NowTime: 0
+NowTime: 0
+
+The Road is: x9989999
+NowTime: 0
+
+The Road is: x9989999
+NowTime: 0
+
+The Road is: x9989999
+
+The Road is: x9989999
+insert:
+__builtin_is_constant_evaluated : 
+The Road is: x9989999
+insert:
+__constant_string_p : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 0
+
+The Road is: x99899999
+
+The Road is: x99899999
+insert:
+__builtin_strlen : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 
+The Road is: x99899999
+insert:
+length : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 0
+
+The Road is: x99899999
+
+The Road is: x99899999
+insert:
+__ostream_insert : &SymRegion{conj_$18{std::ostream &, LC8, S6214337, #1}} &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 75 S64b NowTime: 0
+NowTime: 0
+
+The Road is: x99899998
+NowTime: 0
+
+The Road is: x99899998
+
+The Road is: x99899998
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} &temp_object{char_type, S633580} 
+
+NowTime: 0
+
+
+NowTime: 0
+
+The Road is: x99899
+
+The Road is: x99899
+insert:
+__builtin_expect : 0 S64b 0 S64b 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9989988899
+
+The Road is: x9989988899
+NowTime: 0
+
+The Road is: x9989988899
+
+The Road is: x9989988899
+NowTime: 0
+
+The Road is: x9989988899
+NowTime: 0
+
+The Road is: x9989988899
+NowTime: 0
+
+The Road is: x9989988899
+
+The Road is: x9989988899
+
+The Road is: x99899888998
+
+The Road is: x99899888998
+NowTime: 0
+
+The Road is: x998998889989
+
+The Road is: x998998889989
+NowTime: 0
+
+The Road is: x998998889989
+
+The Road is: x998998889989
+NowTime: 0
+
+The Road is: x9989988899899
+
+The Road is: x9989988899899
+
+NowTime: 0
+
+The Road is: x998999988
+
+The Road is: x998999988
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",1 S64b,char} &temp_object{char_type, S633580} NowTime: 0
+
+The Road is: x99898
+
+The Road is: x99898
+insert:
+__builtin_expect : 0 S64b 0 S64b 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9989888899
+
+The Road is: x9989888899
+NowTime: 0
+
+The Road is: x9989888899
+
+The Road is: x9989888899
+NowTime: 0
+
+The Road is: x9989888899
+NowTime: 0
+
+The Road is: x9989888899
+NowTime: 0
+
+The Road is: x9989888899
+
+The Road is: x9989888899
+
+The Road is: x99898888998
+
+The Road is: x99898888998
+NowTime: 0
+
+The Road is: x998988889989
+
+The Road is: x998988889989
+NowTime: 0
+
+The Road is: x998988889989
+
+The Road is: x998988889989
+NowTime: 0
+
+The Road is: x9989888899898
+
+The Road is: x9989888899898
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+GetReferenceableValue : reg_$6<int Element{SymRegion{reg_$4<const TfDeviceSpec & a>},0 S64b,struct TfDeviceSpec}.device_ordinal> NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+GetReferenceableValue : reg_$7<int Element{SymRegion{reg_$5<const TfDeviceSpec & b>},0 S64b,struct TfDeviceSpec}.device_ordinal> NowTime: 0
+
+The Road is: x99
+NowTime: 0
+
+The Road is: x99
+NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+__builtin_expect : 1 S64b 1 S64b 
+The Road is: x998
+insert:
+Check_EQImpl : &v1 &v2 &Element{"a.device_ordinal == b.device_ordinal",0 S64b,char} 
+The Road is: x998
+insert:
+Check_EQImpl : reg_$6<int Element{SymRegion{reg_$4<const TfDeviceSpec & a>},0 S64b,struct TfDeviceSpec}.device_ordinal> reg_$7<int Element{SymRegion{reg_$5<const TfDeviceSpec & b>},0 S64b,struct TfDeviceSpec}.device_ordinal> &Element{"a.device_ordinal == b.device_ordinal",0 S64b,char} NowTime: 0
+
+The Road is: x9989
+
+The Road is: x9989
+insert:
+addressof : &SymRegion{reg_$4<const TfDeviceSpec & a>} NowTime: 0
+
+The Road is: x9989
+
+The Road is: x9989
+insert:
+addressof : &SymRegion{reg_$5<const TfDeviceSpec & b>} NowTime: 0
+
+The Road is: x99899
+
+The Road is: x99899
+insert:
+__builtin_expect : 1 S64b 0 S64b NowTime: 0
+
+The Road is: x998999
+
+The Road is: x998999
+insert:
+stream : &Base{temp_object{google::LogMessageFatal, S6214311},LogMessage} NowTime: 0
+NowTime: 0
+
+The Road is: x9989999
+NowTime: 0
+
+The Road is: x9989999
+NowTime: 0
+
+The Road is: x9989999
+
+The Road is: x9989999
+insert:
+__builtin_is_constant_evaluated : 
+The Road is: x9989999
+insert:
+__constant_string_p : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 0
+
+The Road is: x99899999
+
+The Road is: x99899999
+insert:
+__builtin_strlen : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 
+The Road is: x99899999
+insert:
+length : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 0
+
+The Road is: x99899999
+
+The Road is: x99899999
+insert:
+__ostream_insert : &SymRegion{conj_$18{std::ostream &, LC27, S6214337, #1}} &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 75 S64b NowTime: 0
+NowTime: 0
+
+The Road is: x99899998
+NowTime: 0
+
+The Road is: x99899998
+
+The Road is: x99899998
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} &temp_object{char_type, S633580} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8899
+
+The Road is: x8899
+insert:
+GetReferenceableValue : reg_$7<int Element{SymRegion{reg_$5<const TfDeviceSpec & b>},0 S64b,struct TfDeviceSpec}.device_ordinal> NowTime: 0
+
+The Road is: x8899
+
+The Road is: x8899
+insert:
+GetReferenceableValue : reg_$30<int Element{SymRegion{reg_$29<const TfDeviceSpec & c>},0 S64b,struct TfDeviceSpec}.device_ordinal> NowTime: 0
+
+The Road is: x8899
+NowTime: 0
+
+The Road is: x8899
+NowTime: 0
+
+The Road is: x8899
+
+The Road is: x8899
+insert:
+__builtin_expect : 1 S64b 1 S64b 
+The Road is: x88998
+insert:
+Check_EQImpl : &v1 &v2 &Element{"a.device_ordinal == b.device_ordinal",0 S64b,char} 
+The Road is: x88998
+insert:
+Check_EQImpl : reg_$7<int Element{SymRegion{reg_$5<const TfDeviceSpec & b>},0 S64b,struct TfDeviceSpec}.device_ordinal> reg_$30<int Element{SymRegion{reg_$29<const TfDeviceSpec & c>},0 S64b,struct TfDeviceSpec}.device_ordinal> &Element{"a.device_ordinal == b.device_ordinal",0 S64b,char} NowTime: 0
+
+The Road is: x889989
+
+The Road is: x889989
+insert:
+addressof : &SymRegion{reg_$5<const TfDeviceSpec & b>} NowTime: 0
+
+The Road is: x889989
+
+The Road is: x889989
+insert:
+addressof : &SymRegion{reg_$29<const TfDeviceSpec & c>} NowTime: 0
+
+The Road is: x8899899
+
+The Road is: x8899899
+insert:
+__builtin_expect : 1 S64b 0 S64b NowTime: 0
+
+The Road is: x88998999
+
+The Road is: x88998999
+insert:
+stream : &Base{temp_object{google::LogMessageFatal, S6214311},LogMessage} NowTime: 0
+NowTime: 0
+
+The Road is: x889989999
+NowTime: 0
+
+The Road is: x889989999
+NowTime: 0
+
+The Road is: x889989999
+
+The Road is: x889989999
+insert:
+__builtin_is_constant_evaluated : 
+The Road is: x889989999
+insert:
+__constant_string_p : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 0
+
+The Road is: x8899899999
+
+The Road is: x8899899999
+insert:
+__builtin_strlen : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 
+The Road is: x8899899999
+insert:
+length : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 0
+
+The Road is: x8899899999
+
+The Road is: x8899899999
+insert:
+__ostream_insert : &SymRegion{conj_$40{std::ostream &, LC39, S6214337, #1}} &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 75 S64b NowTime: 0
+NowTime: 0
+
+The Road is: x8899899998
+NowTime: 0
+
+The Road is: x8899899998
+
+The Road is: x8899899998
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} &temp_object{char_type, S633580} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x888899
+
+The Road is: x888899
+insert:
+GetReferenceableValue : reg_$30<int Element{SymRegion{reg_$29<const TfDeviceSpec & c>},0 S64b,struct TfDeviceSpec}.device_ordinal> NowTime: 0
+
+The Road is: x888899
+
+The Road is: x888899
+insert:
+GetReferenceableValue : reg_$6<int Element{SymRegion{reg_$4<const TfDeviceSpec & a>},0 S64b,struct TfDeviceSpec}.device_ordinal> NowTime: 0
+
+The Road is: x888899
+NowTime: 0
+
+The Road is: x888899
+NowTime: 0
+
+The Road is: x888899
+
+The Road is: x888899
+insert:
+__builtin_expect : 1 S64b 1 S64b 
+The Road is: x8888998
+insert:
+Check_EQImpl : &v1 &v2 &Element{"a.device_ordinal == b.device_ordinal",0 S64b,char} 
+The Road is: x8888998
+insert:
+Check_EQImpl : reg_$30<int Element{SymRegion{reg_$29<const TfDeviceSpec & c>},0 S64b,struct TfDeviceSpec}.device_ordinal> reg_$6<int Element{SymRegion{reg_$4<const TfDeviceSpec & a>},0 S64b,struct TfDeviceSpec}.device_ordinal> &Element{"a.device_ordinal == b.device_ordinal",0 S64b,char} NowTime: 0
+
+The Road is: x88889989
+
+The Road is: x88889989
+insert:
+addressof : &SymRegion{reg_$29<const TfDeviceSpec & c>} NowTime: 0
+
+The Road is: x88889989
+
+The Road is: x88889989
+insert:
+addressof : &SymRegion{reg_$4<const TfDeviceSpec & a>} NowTime: 0
+
+The Road is: x888899899
+
+The Road is: x888899899
+insert:
+__builtin_expect : 1 S64b 0 S64b NowTime: 0
+
+The Road is: x8888998999
+
+The Road is: x8888998999
+insert:
+stream : &Base{temp_object{google::LogMessageFatal, S6214311},LogMessage} NowTime: 0
+NowTime: 0
+
+The Road is: x88889989999
+NowTime: 0
+
+The Road is: x88889989999
+NowTime: 0
+
+The Road is: x88889989999
+
+The Road is: x88889989999
+insert:
+__builtin_is_constant_evaluated : 
+The Road is: x88889989999
+insert:
+__constant_string_p : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 0
+
+The Road is: x888899899999
+
+The Road is: x888899899999
+insert:
+__builtin_strlen : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 
+The Road is: x888899899999
+insert:
+length : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 0
+
+The Road is: x888899899999
+
+The Road is: x888899899999
+insert:
+__ostream_insert : &SymRegion{conj_$59{std::ostream &, LC51, S6214337, #1}} &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 75 S64b NowTime: 0
+NowTime: 0
+
+The Road is: x888899899998
+NowTime: 0
+
+The Road is: x888899899998
+
+The Road is: x888899899998
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} &temp_object{char_type, S633580} 
+
+NowTime: 0
+
+The Road is: x888899899
+
+The Road is: x888899899
+insert:
+__builtin_expect : 0 S64b 0 S64b 
+
+The Error Road is: x888899899888
+NowTime: 0
+
+The Road is: x8888998999988
+
+The Road is: x8888998999988
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",1 S64b,char} &temp_object{char_type, S633580} NowTime: 0
+
+The Road is: x8899899
+
+The Road is: x8899899
+insert:
+__builtin_expect : 0 S64b 0 S64b 
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+The Road is: x889989988899
+
+The Road is: x889989988899
+NowTime: 0
+
+The Road is: x889989988899
+
+The Road is: x889989988899
+insert:
+GetReferenceableValue : reg_$6<int Element{SymRegion{reg_$4<const TfDeviceSpec & a>},0 S64b,struct TfDeviceSpec}.device_ordinal> NowTime: 0
+
+The Road is: x889989988899
+NowTime: 0
+
+The Road is: x889989988899
+NowTime: 0
+
+The Road is: x889989988899
+
+The Road is: x889989988899
+insert:
+__builtin_expect : 0 S64b 1 S64b NowTime: 0
+
+The Road is: x8899899888999
+NowTime: 0
+
+The Road is: x8899899888999
+
+The Road is: x8899899888999
+insert:
+ForVar1 : &comb NowTime: 0
+
+The Road is: x8899899888999
+NowTime: 0
+
+The Road is: x8899899888999
+insert:
+MakeCheckOpValueString : &Base{SymRegion{derived_$73{conj_$70{int, LC64, S6838530, #1},comb.stream_}},basic_ostream} &v1 NowTime: 0
+
+The Road is: x8899899888999
+
+The Road is: x8899899888999
+insert:
+ForVar2 : &comb NowTime: 0
+
+The Road is: x8899899888999
+NowTime: 0
+
+The Road is: x8899899888999
+insert:
+MakeCheckOpValueString : &SymRegion{conj_$81{std::ostream *, LC64, S6838722, #1}} &v2 NowTime: 0
+
+The Road is: x8899899888999
+
+The Road is: x8899899888999
+insert:
+NewString : &comb 
+The Road is: x8899899888999
+insert:
+MakeCheckOpString : &v1 &v2 &Element{"a.device_ordinal == b.device_ordinal",0 S64b,char} 
+The Road is: x8899899888999
+
+The Road is: x8899899888999
+insert:
+Check_EQImpl : reg_$7<int Element{SymRegion{reg_$5<const TfDeviceSpec & b>},0 S64b,struct TfDeviceSpec}.device_ordinal> reg_$6<int Element{SymRegion{reg_$4<const TfDeviceSpec & a>},0 S64b,struct TfDeviceSpec}.device_ordinal> &Element{"a.device_ordinal == b.device_ordinal",0 S64b,char} NowTime: 0
+
+The Road is: x88998998889999
+
+The Road is: x88998998889999
+NowTime: 0
+
+The Road is: x88998998889999
+
+The Road is: x88998998889999
+insert:
+addressof : &SymRegion{reg_$4<const TfDeviceSpec & a>} NowTime: 0
+
+The Road is: x88998999988
+
+The Road is: x88998999988
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",1 S64b,char} &temp_object{char_type, S633580} NowTime: 0
+
+The Road is: x99899
+
+The Road is: x99899
+insert:
+__builtin_expect : 0 S64b 0 S64b 
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+The Road is: x9989988899
+
+The Road is: x9989988899
+NowTime: 0
+
+The Road is: x9989988899
+
+The Road is: x9989988899
+insert:
+GetReferenceableValue : reg_$30<int Element{SymRegion{reg_$29<const TfDeviceSpec & c>},0 S64b,struct TfDeviceSpec}.device_ordinal> NowTime: 0
+
+The Road is: x9989988899
+NowTime: 0
+
+The Road is: x9989988899
+NowTime: 0
+
+The Road is: x9989988899
+
+The Road is: x9989988899
+insert:
+__builtin_expect : 0 S64b 1 S64b NowTime: 0
+
+The Road is: x99899888999
+NowTime: 0
+
+The Road is: x99899888999
+
+The Road is: x99899888999
+insert:
+ForVar1 : &comb NowTime: 0
+
+The Road is: x99899888999
+NowTime: 0
+
+The Road is: x99899888999
+insert:
+MakeCheckOpValueString : &Base{SymRegion{derived_$96{conj_$93{int, LC69, S6838530, #1},comb.stream_}},basic_ostream} &v1 NowTime: 0
+
+The Road is: x99899888999
+
+The Road is: x99899888999
+insert:
+ForVar2 : &comb NowTime: 0
+
+The Road is: x99899888999
+NowTime: 0
+
+The Road is: x99899888999
+insert:
+MakeCheckOpValueString : &SymRegion{conj_$104{std::ostream *, LC69, S6838722, #1}} &v2 NowTime: 0
+
+The Road is: x99899888999
+
+The Road is: x99899888999
+insert:
+NewString : &comb 
+The Road is: x99899888999
+insert:
+MakeCheckOpString : &v1 &v2 &Element{"a.device_ordinal == b.device_ordinal",0 S64b,char} 
+The Road is: x99899888999
+
+The Road is: x99899888999
+insert:
+Check_EQImpl : reg_$6<int Element{SymRegion{reg_$4<const TfDeviceSpec & a>},0 S64b,struct TfDeviceSpec}.device_ordinal> reg_$30<int Element{SymRegion{reg_$29<const TfDeviceSpec & c>},0 S64b,struct TfDeviceSpec}.device_ordinal> &Element{"a.device_ordinal == b.device_ordinal",0 S64b,char} NowTime: 0
+
+The Road is: x9989988899
+
+The Road is: x9989988899
+
+The Road is: x99899888998
+
+The Road is: x99899888998
+NowTime: 0
+
+The Road is: x998998889999
+
+The Road is: x998998889999
+NowTime: 0
+
+The Road is: x998998889999
+
+The Road is: x998998889999
+insert:
+addressof : &SymRegion{reg_$29<const TfDeviceSpec & c>} NowTime: 0
+
+The Road is: x998999988
+
+The Road is: x998999988
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",1 S64b,char} &temp_object{char_type, S633580} NowTime: 0
+
+The Road is: x998998889989
+
+The Road is: x998998889989
+NowTime: 0
+
+The Road is: x998998889989
+
+The Road is: x998998889989
+insert:
+addressof : &SymRegion{reg_$29<const TfDeviceSpec & c>} NowTime: 0
+
+
+
+NowTime: 0
+
+The Road is: x998998888899
+
+The Road is: x998998888899
+insert:
+GetReferenceableValue : reg_$30<int Element{SymRegion{reg_$29<const TfDeviceSpec & c>},0 S64b,struct TfDeviceSpec}.device_ordinal> NowTime: 0
+
+The Road is: x998998888899
+
+The Road is: x998998888899
+NowTime: 0
+
+The Road is: x998998888899
+NowTime: 0
+
+The Road is: x998998888899
+NowTime: 0
+
+The Road is: x998998888899
+
+The Road is: x998998888899
+
+The Road is: x9989988888998
+
+The Road is: x9989988888998
+NowTime: 0
+
+The Road is: x99899888889989
+
+The Road is: x99899888889989
+insert:
+addressof : &SymRegion{reg_$29<const TfDeviceSpec & c>} NowTime: 0
+
+The Road is: x99899888889989
+
+The Road is: x99899888889989
+The Error Road is: x889989988888
+NowTime: 0
+
+The Road is: x888899898
+
+The Road is: x888899898
+insert:
+__builtin_expect : 0 S64b 0 S64b 
+
+NowTime: 0
+
+The Road is: x8899898
+
+The Road is: x8899898
+insert:
+__builtin_expect : 0 S64b 0 S64b 
+
+NowTime: 0
+
+The Road is: x99898
+
+The Road is: x99898
+insert:
+__builtin_expect : 0 S64b 0 S64b 
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+The Road is: x9989888899
+
+The Road is: x9989888899
+NowTime: 0
+
+The Road is: x9989888899
+
+The Road is: x9989888899
+insert:
+GetReferenceableValue : reg_$30<int Element{SymRegion{reg_$29<const TfDeviceSpec & c>},0 S64b,struct TfDeviceSpec}.device_ordinal> NowTime: 0
+
+The Road is: x9989888899
+NowTime: 0
+
+The Road is: x9989888899
+NowTime: 0
+
+The Road is: x9989888899
+
+The Road is: x9989888899
+insert:
+__builtin_expect : 0 S64b 1 S64b NowTime: 0
+
+The Road is: x9989888899
+
+The Road is: x9989888899
+NowTime: 0
+
+The Road is: x99898888999
+NowTime: 0
+
+The Road is: x99898888999
+
+The Road is: x99898888999
+insert:
+ForVar1 : &comb NowTime: 0
+
+The Road is: x99898888999
+NowTime: 0
+
+The Road is: x99898888999
+insert:
+MakeCheckOpValueString : &Base{SymRegion{derived_$96{conj_$93{int, LC69, S6838530, #1},comb.stream_}},basic_ostream} &v1 NowTime: 0
+
+The Road is: x99898888999
+
+The Road is: x99898888999
+insert:
+ForVar2 : &comb NowTime: 0
+
+The Road is: x99898888999
+NowTime: 0
+
+The Road is: x99898888999
+insert:
+MakeCheckOpValueString : &SymRegion{conj_$104{std::ostream *, LC69, S6838722, #1}} &v2 NowTime: 0
+
+The Road is: x99898888999
+
+The Road is: x99898888999
+insert:
+NewString : &comb 
+The Road is: x99898888999
+insert:
+MakeCheckOpString : &v1 &v2 &Element{"a.device_ordinal == b.device_ordinal",0 S64b,char} 
+The Road is: x99898888999
+
+The Road is: x99898888999
+insert:
+Check_EQImpl : reg_$6<int Element{SymRegion{reg_$4<const TfDeviceSpec & a>},0 S64b,struct TfDeviceSpec}.device_ordinal> reg_$30<int Element{SymRegion{reg_$29<const TfDeviceSpec & c>},0 S64b,struct TfDeviceSpec}.device_ordinal> &Element{"a.device_ordinal == b.device_ordinal",0 S64b,char} 
+The Road is: x99898888998
+
+The Road is: x99898888998
+NowTime: 0
+
+The Road is: x998988889999
+
+The Road is: x998988889999
+NowTime: 0
+
+The Road is: x998988889999
+
+The Road is: x998988889999
+insert:
+addressof : &SymRegion{reg_$29<const TfDeviceSpec & c>} NowTime: 0
+
+
+
+NowTime: 0
+
+The Road is: x889989888899
+
+The Road is: x889989888899
+NowTime: 0
+
+The Road is: x889989888899
+
+The Road is: x889989888899
+insert:
+GetReferenceableValue : reg_$6<int Element{SymRegion{reg_$4<const TfDeviceSpec & a>},0 S64b,struct TfDeviceSpec}.device_ordinal> NowTime: 0
+
+The Road is: x889989888899
+NowTime: 0
+
+The Road is: x889989888899
+NowTime: 0
+
+The Road is: x889989888899
+
+The Road is: x889989888899
+insert:
+__builtin_expect : 0 S64b 1 S64b NowTime: 0
+
+The Road is: x8899898888999
+NowTime: 0
+
+The Road is: x8899898888999
+
+The Road is: x8899898888999
+insert:
+ForVar1 : &comb NowTime: 0
+
+The Road is: x8899898888999
+NowTime: 0
+
+The Road is: x8899898888999
+insert:
+MakeCheckOpValueString : &Base{SymRegion{derived_$73{conj_$70{int, LC64, S6838530, #1},comb.stream_}},basic_ostream} &v1 NowTime: 0
+
+The Road is: x8899898888999
+
+The Road is: x8899898888999
+insert:
+ForVar2 : &comb NowTime: 0
+
+The Road is: x8899898888999
+NowTime: 0
+
+The Road is: x8899898888999
+insert:
+MakeCheckOpValueString : &SymRegion{conj_$81{std::ostream *, LC64, S6838722, #1}} &v2 NowTime: 0
+
+The Road is: x8899898888999
+
+The Road is: x8899898888999
+insert:
+NewString : &comb 
+The Road is: x8899898888999
+insert:
+MakeCheckOpString : &v1 &v2 &Element{"a.device_ordinal == b.device_ordinal",0 S64b,char} 
+The Road is: x8899898888999
+
+The Road is: x8899898888999
+insert:
+Check_EQImpl : reg_$7<int Element{SymRegion{reg_$5<const TfDeviceSpec & b>},0 S64b,struct TfDeviceSpec}.device_ordinal> reg_$6<int Element{SymRegion{reg_$4<const TfDeviceSpec & a>},0 S64b,struct TfDeviceSpec}.device_ordinal> &Element{"a.device_ordinal == b.device_ordinal",0 S64b,char} NowTime: 0
+
+The Road is: x88998988889999
+
+The Road is: x88998988889999
+NowTime: 0
+
+The Road is: x88998988889999
+
+The Road is: x88998988889999
+insert:
+addressof : &SymRegion{reg_$4<const TfDeviceSpec & a>} The Error Road is: x998998888888
+NowTime: 0
+
+The Road is: x9989988899998
+
+The Road is: x9989988899998
+
+
+NowTime: 0
+
+The Road is: x889989988899998
+
+The Road is: x889989988899998
+
+
+NowTime: 0
+
+The Road is: x998988889989
+
+The Road is: x998988889989
+NowTime: 0
+
+The Road is: x998988889989
+
+The Road is: x998988889989
+insert:
+addressof : &SymRegion{reg_$29<const TfDeviceSpec & c>} NowTime: 0
+
+
+
+NowTime: 0
+
+The Road is: x998988888899
+
+The Road is: x998988888899
+insert:
+GetReferenceableValue : reg_$30<int Element{SymRegion{reg_$29<const TfDeviceSpec & c>},0 S64b,struct TfDeviceSpec}.device_ordinal> NowTime: 0
+
+The Road is: x998988888899
+
+The Road is: x998988888899
+NowTime: 0
+
+The Road is: x998988888899
+NowTime: 0
+
+The Road is: x998988888899
+NowTime: 0
+
+The Road is: x998988888899
+
+The Road is: x998988888899
+
+The Road is: x9989888888998
+
+The Road is: x9989888888998
+NowTime: 0
+
+The Road is: x99898888889989
+
+The Road is: x99898888889989
+insert:
+addressof : &SymRegion{reg_$29<const TfDeviceSpec & c>} NowTime: 0
+
+The Road is: x99898888889989
+
+The Road is: x99898888889989
+The Error Road is: x888899898888
+NowTime: 0
+
+The Road is: x9989988899999
+
+The Road is: x9989988899999
+NowTime: 0
+
+The Road is: x99899888999999
+
+The Road is: x99899888999999
+insert:
+stream : &Base{temp_object{google::LogMessageFatal, S6214311},LogMessage} NowTime: 0
+NowTime: 0
+
+The Road is: x998998889999999
+NowTime: 0
+
+The Road is: x998998889999999
+NowTime: 0
+
+The Road is: x998998889999999
+
+The Road is: x998998889999999
+insert:
+__builtin_is_constant_evaluated : 
+The Road is: x998998889999999
+insert:
+__constant_string_p : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 0
+
+The Road is: x9989988899999998
+NowTime: 0
+
+The Road is: x9989988899999999
+
+The Road is: x9989988899999999
+insert:
+__builtin_strlen : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 
+The Road is: x9989988899999999
+insert:
+length : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 0
+
+The Road is: x9989988899999999
+
+The Road is: x9989988899999999
+insert:
+__ostream_insert : &SymRegion{conj_$40{std::ostream &, LC39, S6214337, #1}} &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 75 S64b NowTime: 0
+NowTime: 0
+
+The Road is: x9989988899999998
+
+The Road is: x9989988899999998
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} &temp_object{char_type, S633580} NowTime: 0
+
+The Road is: x99899888999999988
+
+The Road is: x99899888999999988
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",1 S64b,char} &temp_object{char_type, S633580} NowTime: 0
+
+The Road is: x889989988899999
+
+The Road is: x889989988899999
+NowTime: 0
+
+The Road is: x8899899888999999
+
+The Road is: x8899899888999999
+insert:
+stream : &Base{temp_object{google::LogMessageFatal, S6214311},LogMessage} NowTime: 0
+NowTime: 0
+
+The Road is: x88998998889999999
+NowTime: 0
+
+The Road is: x88998998889999999
+NowTime: 0
+
+The Road is: x88998998889999999
+
+The Road is: x88998998889999999
+insert:
+__builtin_is_constant_evaluated : 
+The Road is: x88998998889999999
+insert:
+__constant_string_p : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 0
+
+The Road is: x889989988899999998
+NowTime: 0
+
+The Road is: x889989988899999999
+
+The Road is: x889989988899999999
+insert:
+__builtin_strlen : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 
+The Road is: x889989988899999999
+insert:
+length : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 0
+
+The Road is: x889989988899999999
+
+The Road is: x889989988899999999
+insert:
+__ostream_insert : &SymRegion{conj_$59{std::ostream &, LC51, S6214337, #1}} &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 75 S64b NowTime: 0
+NowTime: 0
+
+The Road is: x889989988899999998
+
+The Road is: x889989988899999998
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} &temp_object{char_type, S633580} NowTime: 0
+
+The Road is: x8899899888999999988
+
+The Road is: x8899899888999999988
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",1 S64b,char} &temp_object{char_type, S633580} NowTime: 0
+
+
+
+The Error Road is: x889989888888
+NowTime: 0
+
+The Road is: x9989988899999
+
+The Road is: x9989988899999
+
+
+NowTime: 0
+
+The Road is: x889989988899999
+
+The Road is: x889989988899999
+
+
+NowTime: 0
+
+
+
+The Error Road is: x889989988899998888
+NowTime: 0
+
+The Road is: x998998888899898
+
+The Road is: x998998888899898
+
+
+NowTime: 0
+
+The Road is: x9989988899898
+
+The Road is: x9989988899898
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x998998889989888899
+
+The Road is: x998998889989888899
+NowTime: 1
+
+The Road is: x998998889989888899
+
+The Road is: x998998889989888899
+NowTime: 1
+
+The Road is: x998998889989888899
+NowTime: 1
+
+The Road is: x998998889989888899
+NowTime: 1
+
+The Road is: x998998889989888899
+
+The Road is: x998998889989888899
+
+The Road is: x9989988899898888998
+
+The Road is: x9989988899898888998
+NowTime: 1
+
+The Road is: x99899888998988889989
+
+The Road is: x99899888998988889989
+NowTime: 1
+
+The Road is: x99899888998988889989
+
+The Road is: x99899888998988889989
+The Error Road is: x998988888888
+NowTime: 1
+
+The Road is: x998998888899899
+
+The Road is: x998998888899899
+NowTime: 1
+
+The Road is: x9989988888998999
+
+The Road is: x9989988888998999
+insert:
+stream : &Base{temp_object{google::LogMessageFatal, S6214311},LogMessage} NowTime: 1
+NowTime: 1
+
+The Road is: x99899888889989999
+NowTime: 1
+
+The Road is: x99899888889989999
+NowTime: 1
+
+The Road is: x99899888889989999
+
+The Road is: x99899888889989999
+insert:
+__builtin_is_constant_evaluated : 
+The Road is: x99899888889989999
+insert:
+__constant_string_p : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 1
+
+The Road is: x998998888899899998
+NowTime: 1
+
+The Road is: x998998888899899999
+
+The Road is: x998998888899899999
+insert:
+__builtin_strlen : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 
+The Road is: x998998888899899999
+insert:
+length : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 1
+
+The Road is: x998998888899899999
+
+The Road is: x998998888899899999
+insert:
+__ostream_insert : &SymRegion{conj_$59{std::ostream &, LC51, S6214337, #1}} &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 75 S64b NowTime: 1
+NowTime: 1
+
+The Road is: x998998888899899998
+
+The Road is: x998998888899899998
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} &temp_object{char_type, S633580} NowTime: 1
+
+The Road is: x9989988888998999988
+
+The Road is: x9989988888998999988
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",1 S64b,char} &temp_object{char_type, S633580} NowTime: 1
+
+The Road is: x9989988899899
+
+The Road is: x9989988899899
+NowTime: 1
+
+The Road is: x99899888998999
+
+The Road is: x99899888998999
+insert:
+stream : &Base{temp_object{google::LogMessageFatal, S6214311},LogMessage} NowTime: 1
+NowTime: 1
+
+The Road is: x998998889989999
+NowTime: 1
+
+The Road is: x998998889989999
+NowTime: 1
+
+The Road is: x998998889989999
+
+The Road is: x998998889989999
+insert:
+__builtin_is_constant_evaluated : 
+The Road is: x998998889989999
+insert:
+__constant_string_p : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 1
+
+The Road is: x9989988899899998
+NowTime: 1
+
+The Road is: x9989988899899999
+
+The Road is: x9989988899899999
+insert:
+__builtin_strlen : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 
+The Road is: x9989988899899999
+insert:
+length : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 1
+
+The Road is: x9989988899899999
+
+The Road is: x9989988899899999
+insert:
+__ostream_insert : &SymRegion{conj_$40{std::ostream &, LC39, S6214337, #1}} &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 75 S64b NowTime: 1
+NowTime: 1
+
+The Road is: x9989988899899998
+
+The Road is: x9989988899899998
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} &temp_object{char_type, S633580} NowTime: 1
+
+The Road is: x99899888998999988
+
+The Road is: x99899888998999988
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",1 S64b,char} &temp_object{char_type, S633580} The Error Road is: x998998889999888888
+NowTime: 1
+
+The Road is: x998998888899899
+
+The Road is: x998998888899899
+
+
+NowTime: 1
+
+The Road is: x9989988899899
+
+The Road is: x9989988899899
+
+
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x998998889989988899
+
+The Road is: x998998889989988899
+NowTime: 1
+
+The Road is: x998998889989988899
+
+The Road is: x998998889989988899
+NowTime: 1
+
+The Road is: x998998889989988899
+NowTime: 1
+
+The Road is: x998998889989988899
+NowTime: 1
+
+The Road is: x998998889989988899
+
+The Road is: x998998889989988899
+
+The Road is: x9989988899899888998
+
+The Road is: x9989988899899888998
+NowTime: 2
+
+The Road is: x99899888998998889989
+
+The Road is: x99899888998998889989
+NowTime: 2
+
+The Road is: x99899888998998889989
+
+The Road is: x99899888998998889989
+The Error Road is: x889989988899999888
+NowTime: 2
+
+The Road is: x889989888899998
+
+The Road is: x889989888899998
+
+
+NowTime: 2
+
+The Road is: x9989888899998
+
+The Road is: x9989888899998
+
+
+NowTime: 2
+
+
+
+The Error Road is: x998998889999988888
+NowTime: 2
+
+The Road is: x889989888899999
+
+The Road is: x889989888899999
+insert:
+__builtin_expect : 1 S64b 0 S64b NowTime: 2
+
+The Road is: x8899898888999999
+
+The Road is: x8899898888999999
+insert:
+stream : &Base{temp_object{google::LogMessageFatal, S6214311},LogMessage} NowTime: 2
+NowTime: 2
+
+The Road is: x88998988889999999
+NowTime: 2
+
+The Road is: x88998988889999999
+NowTime: 2
+
+The Road is: x88998988889999999
+
+The Road is: x88998988889999999
+insert:
+__builtin_is_constant_evaluated : 
+The Road is: x88998988889999999
+insert:
+__constant_string_p : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 2
+
+The Road is: x889989888899999998
+NowTime: 2
+
+The Road is: x889989888899999999
+
+The Road is: x889989888899999999
+insert:
+__builtin_strlen : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 
+The Road is: x889989888899999999
+insert:
+length : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 2
+
+The Road is: x889989888899999999
+
+The Road is: x889989888899999999
+insert:
+__ostream_insert : &SymRegion{conj_$59{std::ostream &, LC51, S6214337, #1}} &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 75 S64b NowTime: 2
+NowTime: 2
+
+The Road is: x889989888899999998
+
+The Road is: x889989888899999998
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} &temp_object{char_type, S633580} NowTime: 2
+
+The Road is: x8899898888999999988
+
+The Road is: x8899898888999999988
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",1 S64b,char} &temp_object{char_type, S633580} NowTime: 2
+
+The Road is: x9989888899999
+
+The Road is: x9989888899999
+insert:
+__builtin_expect : 1 S64b 0 S64b NowTime: 2
+
+The Road is: x99898888999999
+
+The Road is: x99898888999999
+insert:
+stream : &Base{temp_object{google::LogMessageFatal, S6214311},LogMessage} NowTime: 2
+NowTime: 2
+
+The Road is: x998988889999999
+NowTime: 2
+
+The Road is: x998988889999999
+NowTime: 2
+
+The Road is: x998988889999999
+
+The Road is: x998988889999999
+insert:
+__builtin_is_constant_evaluated : 
+The Road is: x998988889999999
+insert:
+__constant_string_p : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 2
+
+The Road is: x9989888899999998
+NowTime: 2
+
+The Road is: x9989888899999999
+
+The Road is: x9989888899999999
+insert:
+__builtin_strlen : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 
+The Road is: x9989888899999999
+insert:
+length : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 2
+
+The Road is: x9989888899999999
+
+The Road is: x9989888899999999
+insert:
+__ostream_insert : &SymRegion{conj_$40{std::ostream &, LC39, S6214337, #1}} &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 75 S64b NowTime: 2
+NowTime: 2
+
+The Road is: x9989888899999998
+
+The Road is: x9989888899999998
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} &temp_object{char_type, S633580} NowTime: 2
+
+The Road is: x99898888999999988
+
+The Road is: x99898888999999988
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",1 S64b,char} &temp_object{char_type, S633580} The Error Road is: x998998888899898888
+NowTime: 2
+
+The Road is: x889989888899999
+
+The Road is: x889989888899999
+
+
+NowTime: 2
+
+The Road is: x9989888899999
+
+The Road is: x9989888899999
+
+
+NowTime: 2
+
+
+
+The Error Road is: x998998888899899888
+NowTime: 2
+
+The Road is: x998988888899898
+
+The Road is: x998988888899898
+
+
+NowTime: 2
+
+The Road is: x9989888899898
+
+The Road is: x9989888899898
+
+
+NowTime: 2
+
+NowTime: 2
+
+The Road is: x998988889989888899
+
+The Road is: x998988889989888899
+NowTime: 2
+
+The Road is: x998988889989888899
+
+The Road is: x998988889989888899
+NowTime: 2
+
+The Road is: x998988889989888899
+NowTime: 2
+
+The Road is: x998988889989888899
+NowTime: 2
+
+The Road is: x998988889989888899
+
+The Road is: x998988889989888899
+
+The Road is: x9989888899898888998
+
+The Road is: x9989888899898888998
+NowTime: 3
+
+The Road is: x99898888998988889989
+
+The Road is: x99898888998988889989
+NowTime: 3
+
+The Road is: x99898888998988889989
+
+The Road is: x99898888998988889989
+The Error Road is: x889989888899998888
+NowTime: 3
+
+The Road is: x998988888899899
+
+The Road is: x998988888899899
+insert:
+__builtin_expect : 1 S64b 0 S64b NowTime: 3
+
+The Road is: x9989888888998999
+
+The Road is: x9989888888998999
+insert:
+stream : &Base{temp_object{google::LogMessageFatal, S6214311},LogMessage} NowTime: 3
+NowTime: 3
+
+The Road is: x99898888889989999
+NowTime: 3
+
+The Road is: x99898888889989999
+NowTime: 3
+
+The Road is: x99898888889989999
+
+The Road is: x99898888889989999
+insert:
+__builtin_is_constant_evaluated : 
+The Road is: x99898888889989999
+insert:
+__constant_string_p : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 3
+
+The Road is: x998988888899899998
+NowTime: 3
+
+The Road is: x998988888899899999
+
+The Road is: x998988888899899999
+insert:
+__builtin_strlen : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 
+The Road is: x998988888899899999
+insert:
+length : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 3
+
+The Road is: x998988888899899999
+
+The Road is: x998988888899899999
+insert:
+__ostream_insert : &SymRegion{conj_$59{std::ostream &, LC51, S6214337, #1}} &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 75 S64b NowTime: 3
+NowTime: 3
+
+The Road is: x998988888899899998
+
+The Road is: x998988888899899998
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} &temp_object{char_type, S633580} NowTime: 3
+
+The Road is: x9989888888998999988
+
+The Road is: x9989888888998999988
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",1 S64b,char} &temp_object{char_type, S633580} NowTime: 3
+
+The Road is: x9989888899899
+
+The Road is: x9989888899899
+insert:
+__builtin_expect : 1 S64b 0 S64b NowTime: 3
+
+The Road is: x99898888998999
+
+The Road is: x99898888998999
+insert:
+stream : &Base{temp_object{google::LogMessageFatal, S6214311},LogMessage} NowTime: 3
+NowTime: 3
+
+The Road is: x998988889989999
+NowTime: 3
+
+The Road is: x998988889989999
+NowTime: 3
+
+The Road is: x998988889989999
+
+The Road is: x998988889989999
+insert:
+__builtin_is_constant_evaluated : 
+The Road is: x998988889989999
+insert:
+__constant_string_p : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 3
+
+The Road is: x9989888899899998
+NowTime: 3
+
+The Road is: x9989888899899999
+
+The Road is: x9989888899899999
+insert:
+__builtin_strlen : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 
+The Road is: x9989888899899999
+insert:
+length : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 3
+
+The Road is: x9989888899899999
+
+The Road is: x9989888899899999
+insert:
+__ostream_insert : &SymRegion{conj_$40{std::ostream &, LC39, S6214337, #1}} &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 75 S64b NowTime: 3
+NowTime: 3
+
+The Road is: x9989888899899998
+
+The Road is: x9989888899899998
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} &temp_object{char_type, S633580} NowTime: 3
+
+The Road is: x99898888998999988
+
+The Road is: x99898888998999988
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",1 S64b,char} &temp_object{char_type, S633580} The Error Road is: x998988889999888888
+NowTime: 3
+
+The Road is: x998988888899899
+
+The Road is: x998988888899899
+
+
+NowTime: 3
+
+The Road is: x9989888899899
+
+The Road is: x9989888899899
+
+
+NowTime: 3
+
+NowTime: 3
+
+The Road is: x998988889989988899
+
+The Road is: x998988889989988899
+NowTime: 3
+
+The Road is: x998988889989988899
+
+The Road is: x998988889989988899
+NowTime: 3
+
+The Road is: x998988889989988899
+NowTime: 3
+
+The Road is: x998988889989988899
+NowTime: 3
+
+The Road is: x998988889989988899
+
+The Road is: x998988889989988899
+
+The Road is: x9989888899899888998
+
+The Road is: x9989888899899888998
+NowTime: 4
+
+The Road is: x99898888998998889989
+
+The Road is: x99898888998998889989
+NowTime: 4
+
+The Road is: x99898888998998889989
+
+The Road is: x99898888998998889989
+The Error Road is: x889989888899999888
+NowTime: 4
+
+The Road is: x998998889989888899899
+
+The Road is: x998998889989888899899
+NowTime: 4
+
+The Road is: x9989988899898888998999
+
+The Road is: x9989988899898888998999
+insert:
+stream : &Base{temp_object{google::LogMessageFatal, S6214311},LogMessage} NowTime: 4
+NowTime: 4
+
+The Road is: x99899888998988889989999
+NowTime: 4
+
+The Road is: x99899888998988889989999
+NowTime: 4
+
+The Road is: x99899888998988889989999
+
+The Road is: x99899888998988889989999
+insert:
+__builtin_is_constant_evaluated : 
+The Road is: x99899888998988889989999
+insert:
+__constant_string_p : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 4
+
+The Road is: x998998889989888899899998
+NowTime: 4
+
+The Road is: x998998889989888899899999
+
+The Road is: x998998889989888899899999
+insert:
+__builtin_strlen : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 
+The Road is: x998998889989888899899999
+insert:
+length : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 4
+
+The Road is: x998998889989888899899999
+
+The Road is: x998998889989888899899999
+insert:
+__ostream_insert : &SymRegion{conj_$59{std::ostream &, LC51, S6214337, #1}} &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 75 S64b NowTime: 4
+NowTime: 4
+
+The Road is: x998998889989888899899998
+
+The Road is: x998998889989888899899998
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} &temp_object{char_type, S633580} NowTime: 4
+
+The Road is: x9989988899898888998999988
+
+The Road is: x9989988899898888998999988
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",1 S64b,char} &temp_object{char_type, S633580} The Error Road is: x998988889999988888
+NowTime: 4
+
+The Road is: x998998889989888899899
+
+The Road is: x998998889989888899899
+
+
+The Error Road is: x998988888899898888
+NowTime: 4
+
+The Road is: x998998889989988899898
+
+The Road is: x998998889989988899898
+
+
+The Error Road is: x998988888899899888
+NowTime: 4
+
+The Road is: x998998889989988899899
+
+The Road is: x998998889989988899899
+NowTime: 4
+
+The Road is: x9989988899899888998999
+
+The Road is: x9989988899899888998999
+insert:
+stream : &Base{temp_object{google::LogMessageFatal, S6214311},LogMessage} NowTime: 4
+NowTime: 4
+
+The Road is: x99899888998998889989999
+NowTime: 4
+
+The Road is: x99899888998998889989999
+NowTime: 4
+
+The Road is: x99899888998998889989999
+
+The Road is: x99899888998998889989999
+insert:
+__builtin_is_constant_evaluated : 
+The Road is: x99899888998998889989999
+insert:
+__constant_string_p : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 4
+
+The Road is: x998998889989988899899998
+NowTime: 4
+
+The Road is: x998998889989988899899999
+
+The Road is: x998998889989988899899999
+insert:
+__builtin_strlen : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 
+The Road is: x998998889989988899899999
+insert:
+length : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 4
+
+The Road is: x998998889989988899899999
+
+The Road is: x998998889989988899899999
+insert:
+__ostream_insert : &SymRegion{conj_$59{std::ostream &, LC51, S6214337, #1}} &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 75 S64b NowTime: 4
+NowTime: 4
+
+The Road is: x998998889989988899899998
+
+The Road is: x998998889989988899899998
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} &temp_object{char_type, S633580} NowTime: 4
+
+The Road is: x9989988899899888998999988
+
+The Road is: x9989988899899888998999988
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",1 S64b,char} &temp_object{char_type, S633580} NowTime: 4
+
+The Road is: x998998889989988899899
+
+The Road is: x998998889989988899899
+
+
+NowTime: 4
+
+The Road is: x998988889989888899898
+
+The Road is: x998988889989888899898
+
+
+NowTime: 4
+
+The Road is: x998988889989988899899
+
+The Road is: x998988889989988899899
+NowTime: 4
+
+The Road is: x9989888899899888998999
+
+The Road is: x9989888899899888998999
+insert:
+stream : &Base{temp_object{google::LogMessageFatal, S6214311},LogMessage} NowTime: 4
+NowTime: 4
+
+The Road is: x99898888998998889989999
+NowTime: 4
+
+The Road is: x99898888998998889989999
+NowTime: 4
+
+The Road is: x99898888998998889989999
+
+The Road is: x99898888998998889989999
+insert:
+__builtin_is_constant_evaluated : 
+The Road is: x99898888998998889989999
+insert:
+__constant_string_p : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 4
+
+The Road is: x998988889989988899899998
+NowTime: 4
+
+The Road is: x998988889989988899899999
+
+The Road is: x998988889989988899899999
+insert:
+__builtin_strlen : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 
+The Road is: x998988889989988899899999
+insert:
+length : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 4
+
+The Road is: x998988889989988899899999
+
+The Road is: x998988889989988899899999
+insert:
+__ostream_insert : &SymRegion{conj_$59{std::ostream &, LC51, S6214337, #1}} &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 75 S64b NowTime: 4
+NowTime: 4
+
+The Road is: x998988889989988899899998
+
+The Road is: x998988889989988899899998
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} &temp_object{char_type, S633580} NowTime: 4
+
+The Road is: x9989888899899888998999988
+
+The Road is: x9989888899899888998999988
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",1 S64b,char} &temp_object{char_type, S633580} NowTime: 4
+
+The Road is: x998988889989988899899
+
+The Road is: x998988889989988899899
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+GetReferenceableValue : reg_$6<int Element{SymRegion{reg_$4<const TfDeviceSpec & a>},0 S64b,struct TfDeviceSpec}.device_ordinal> NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+GetReferenceableValue : reg_$7<int Element{SymRegion{reg_$5<const TfDeviceSpec & b>},0 S64b,struct TfDeviceSpec}.device_ordinal> NowTime: 0
+
+The Road is: x99
+NowTime: 0
+
+The Road is: x99
+NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+__builtin_expect : 1 S64b 1 S64b 
+The Road is: x998
+insert:
+Check_EQImpl : &v1 &v2 &Element{"a.device_ordinal == b.device_ordinal",0 S64b,char} 
+The Road is: x998
+insert:
+Check_EQImpl : reg_$6<int Element{SymRegion{reg_$4<const TfDeviceSpec & a>},0 S64b,struct TfDeviceSpec}.device_ordinal> reg_$7<int Element{SymRegion{reg_$5<const TfDeviceSpec & b>},0 S64b,struct TfDeviceSpec}.device_ordinal> &Element{"a.device_ordinal == b.device_ordinal",0 S64b,char} NowTime: 0
+
+The Road is: x9989
+
+The Road is: x9989
+insert:
+addressof : &SymRegion{reg_$4<const TfDeviceSpec & a>} NowTime: 0
+
+The Road is: x9989
+
+The Road is: x9989
+insert:
+addressof : &SymRegion{reg_$5<const TfDeviceSpec & b>} NowTime: 0
+
+The Road is: x99899
+
+The Road is: x99899
+insert:
+__builtin_expect : 1 S64b 0 S64b NowTime: 0
+
+The Road is: x998999
+
+The Road is: x998999
+insert:
+stream : &Base{temp_object{google::LogMessageFatal, S6214311},LogMessage} NowTime: 0
+NowTime: 0
+
+The Road is: x9989999
+NowTime: 0
+
+The Road is: x9989999
+NowTime: 0
+
+The Road is: x9989999
+
+The Road is: x9989999
+insert:
+__builtin_is_constant_evaluated : 
+The Road is: x9989999
+insert:
+__constant_string_p : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 0
+
+The Road is: x99899999
+
+The Road is: x99899999
+insert:
+__builtin_strlen : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 
+The Road is: x99899999
+insert:
+length : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 0
+
+The Road is: x99899999
+
+The Road is: x99899999
+insert:
+__ostream_insert : &SymRegion{conj_$18{std::ostream &, LC75, S6214337, #1}} &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 75 S64b NowTime: 0
+NowTime: 0
+
+The Road is: x99899998
+NowTime: 0
+
+The Road is: x99899998
+
+The Road is: x99899998
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} &temp_object{char_type, S633580} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98899
+
+The Road is: x98899
+insert:
+GetReferenceableValue : reg_$7<int Element{SymRegion{reg_$5<const TfDeviceSpec & b>},0 S64b,struct TfDeviceSpec}.device_ordinal> NowTime: 0
+
+The Road is: x98899
+
+The Road is: x98899
+insert:
+GetReferenceableValue : reg_$30<int Element{SymRegion{reg_$29<const TfDeviceSpec & c>},0 S64b,struct TfDeviceSpec}.device_ordinal> NowTime: 0
+
+The Road is: x98899
+NowTime: 0
+
+The Road is: x98899
+NowTime: 0
+
+The Road is: x98899
+
+The Road is: x98899
+insert:
+__builtin_expect : 1 S64b 1 S64b 
+The Road is: x988998
+insert:
+Check_EQImpl : &v1 &v2 &Element{"a.device_ordinal == b.device_ordinal",0 S64b,char} 
+The Road is: x988998
+insert:
+Check_EQImpl : reg_$7<int Element{SymRegion{reg_$5<const TfDeviceSpec & b>},0 S64b,struct TfDeviceSpec}.device_ordinal> reg_$30<int Element{SymRegion{reg_$29<const TfDeviceSpec & c>},0 S64b,struct TfDeviceSpec}.device_ordinal> &Element{"a.device_ordinal == b.device_ordinal",0 S64b,char} NowTime: 0
+
+The Road is: x9889989
+
+The Road is: x9889989
+insert:
+addressof : &SymRegion{reg_$5<const TfDeviceSpec & b>} NowTime: 0
+
+The Road is: x9889989
+
+The Road is: x9889989
+insert:
+addressof : &SymRegion{reg_$29<const TfDeviceSpec & c>} NowTime: 0
+
+The Road is: x98899899
+
+The Road is: x98899899
+insert:
+__builtin_expect : 1 S64b 0 S64b NowTime: 0
+
+The Road is: x988998999
+
+The Road is: x988998999
+insert:
+stream : &Base{temp_object{google::LogMessageFatal, S6214311},LogMessage} NowTime: 0
+NowTime: 0
+
+The Road is: x9889989999
+NowTime: 0
+
+The Road is: x9889989999
+NowTime: 0
+
+The Road is: x9889989999
+
+The Road is: x9889989999
+insert:
+__builtin_is_constant_evaluated : 
+The Road is: x9889989999
+insert:
+__constant_string_p : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 0
+
+The Road is: x98899899999
+
+The Road is: x98899899999
+insert:
+__builtin_strlen : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 
+The Road is: x98899899999
+insert:
+length : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 0
+
+The Road is: x98899899999
+
+The Road is: x98899899999
+insert:
+__ostream_insert : &SymRegion{conj_$40{std::ostream &, LC87, S6214337, #1}} &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 75 S64b NowTime: 0
+NowTime: 0
+
+The Road is: x98899899998
+NowTime: 0
+
+The Road is: x98899899998
+
+The Road is: x98899899998
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} &temp_object{char_type, S633580} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98898899
+
+The Road is: x98898899
+insert:
+GetReferenceableValue : reg_$6<int Element{SymRegion{reg_$4<const TfDeviceSpec & a>},0 S64b,struct TfDeviceSpec}.device_ordinal> NowTime: 0
+
+The Road is: x98898899
+
+The Road is: x98898899
+insert:
+GetReferenceableValue : reg_$30<int Element{SymRegion{reg_$29<const TfDeviceSpec & c>},0 S64b,struct TfDeviceSpec}.device_ordinal> NowTime: 0
+
+The Road is: x98898899
+NowTime: 0
+
+The Road is: x98898899
+NowTime: 0
+
+The Road is: x98898899
+
+The Road is: x98898899
+insert:
+__builtin_expect : 1 S64b 1 S64b 
+The Road is: x988988998
+insert:
+Check_EQImpl : &v1 &v2 &Element{"a.device_ordinal == b.device_ordinal",0 S64b,char} 
+The Road is: x988988998
+insert:
+Check_EQImpl : reg_$6<int Element{SymRegion{reg_$4<const TfDeviceSpec & a>},0 S64b,struct TfDeviceSpec}.device_ordinal> reg_$30<int Element{SymRegion{reg_$29<const TfDeviceSpec & c>},0 S64b,struct TfDeviceSpec}.device_ordinal> &Element{"a.device_ordinal == b.device_ordinal",0 S64b,char} NowTime: 0
+
+The Road is: x9889889989
+
+The Road is: x9889889989
+insert:
+addressof : &SymRegion{reg_$4<const TfDeviceSpec & a>} NowTime: 0
+
+The Road is: x9889889989
+
+The Road is: x9889889989
+insert:
+addressof : &SymRegion{reg_$29<const TfDeviceSpec & c>} NowTime: 0
+
+The Road is: x98898899899
+
+The Road is: x98898899899
+insert:
+__builtin_expect : 1 S64b 0 S64b NowTime: 0
+
+The Road is: x988988998999
+
+The Road is: x988988998999
+insert:
+stream : &Base{temp_object{google::LogMessageFatal, S6214311},LogMessage} NowTime: 0
+NowTime: 0
+
+The Road is: x9889889989999
+NowTime: 0
+
+The Road is: x9889889989999
+NowTime: 0
+
+The Road is: x9889889989999
+
+The Road is: x9889889989999
+insert:
+__builtin_is_constant_evaluated : 
+The Road is: x9889889989999
+insert:
+__constant_string_p : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 0
+
+The Road is: x98898899899999
+
+The Road is: x98898899899999
+insert:
+__builtin_strlen : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 
+The Road is: x98898899899999
+insert:
+length : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 0
+
+The Road is: x98898899899999
+
+The Road is: x98898899899999
+insert:
+__ostream_insert : &SymRegion{conj_$59{std::ostream &, LC99, S6214337, #1}} &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 75 S64b NowTime: 0
+NowTime: 0
+
+The Road is: x98898899899998
+NowTime: 0
+
+The Road is: x98898899899998
+
+The Road is: x98898899899998
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} &temp_object{char_type, S633580} 
+
+
+
+NowTime: 0
+
+The Road is: x98898899899
+
+The Road is: x98898899899
+insert:
+__builtin_expect : 0 S64b 0 S64b 
+
+NowTime: 0
+
+The Road is: x988988998999988
+
+The Road is: x988988998999988
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",1 S64b,char} &temp_object{char_type, S633580} NowTime: 0
+
+The Road is: x98899899
+
+The Road is: x98899899
+insert:
+__builtin_expect : 0 S64b 0 S64b 
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+The Road is: x9889989989899
+
+The Road is: x9889989989899
+insert:
+GetReferenceableValue : reg_$6<int Element{SymRegion{reg_$4<const TfDeviceSpec & a>},0 S64b,struct TfDeviceSpec}.device_ordinal> NowTime: 0
+
+The Road is: x9889989989899
+
+The Road is: x9889989989899
+NowTime: 0
+
+The Road is: x9889989989899
+NowTime: 0
+
+The Road is: x9889989989899
+NowTime: 0
+
+The Road is: x9889989989899
+
+The Road is: x9889989989899
+insert:
+__builtin_expect : 0 S64b 1 S64b NowTime: 0
+
+The Road is: x98899899898999
+NowTime: 0
+
+The Road is: x98899899898999
+
+The Road is: x98899899898999
+insert:
+ForVar1 : &comb NowTime: 0
+
+The Road is: x98899899898999
+NowTime: 0
+
+The Road is: x98899899898999
+insert:
+MakeCheckOpValueString : &Base{SymRegion{derived_$73{conj_$70{int, LC112, S6838530, #1},comb.stream_}},basic_ostream} &v1 NowTime: 0
+
+The Road is: x98899899898999
+
+The Road is: x98899899898999
+insert:
+ForVar2 : &comb NowTime: 0
+
+The Road is: x98899899898999
+NowTime: 0
+
+The Road is: x98899899898999
+insert:
+MakeCheckOpValueString : &SymRegion{conj_$81{std::ostream *, LC112, S6838722, #1}} &v2 NowTime: 0
+
+The Road is: x98899899898999
+
+The Road is: x98899899898999
+insert:
+NewString : &comb 
+The Road is: x98899899898999
+insert:
+MakeCheckOpString : &v1 &v2 &Element{"a.device_ordinal == b.device_ordinal",0 S64b,char} 
+The Road is: x98899899898999
+
+The Road is: x98899899898999
+insert:
+Check_EQImpl : reg_$6<int Element{SymRegion{reg_$4<const TfDeviceSpec & a>},0 S64b,struct TfDeviceSpec}.device_ordinal> reg_$7<int Element{SymRegion{reg_$5<const TfDeviceSpec & b>},0 S64b,struct TfDeviceSpec}.device_ordinal> &Element{"a.device_ordinal == b.device_ordinal",0 S64b,char} NowTime: 0
+
+The Road is: x988998998989999
+
+The Road is: x988998998989999
+insert:
+addressof : &SymRegion{reg_$4<const TfDeviceSpec & a>} NowTime: 0
+
+The Road is: x988998998989999
+
+The Road is: x988998998989999
+NowTime: 0
+
+The Road is: x988998999988
+
+The Road is: x988998999988
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",1 S64b,char} &temp_object{char_type, S633580} NowTime: 0
+
+The Road is: x99899
+
+The Road is: x99899
+insert:
+__builtin_expect : 0 S64b 0 S64b 
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+The Road is: x9989989899
+
+The Road is: x9989989899
+NowTime: 0
+
+The Road is: x9989989899
+
+The Road is: x9989989899
+insert:
+GetReferenceableValue : reg_$30<int Element{SymRegion{reg_$29<const TfDeviceSpec & c>},0 S64b,struct TfDeviceSpec}.device_ordinal> NowTime: 0
+
+The Road is: x9989989899
+NowTime: 0
+
+The Road is: x9989989899
+NowTime: 0
+
+The Road is: x9989989899
+
+The Road is: x9989989899
+insert:
+__builtin_expect : 0 S64b 1 S64b NowTime: 0
+
+The Road is: x99899898999
+NowTime: 0
+
+The Road is: x99899898999
+
+The Road is: x99899898999
+insert:
+ForVar1 : &comb NowTime: 0
+
+The Road is: x99899898999
+NowTime: 0
+
+The Road is: x99899898999
+insert:
+MakeCheckOpValueString : &Base{SymRegion{derived_$96{conj_$93{int, LC117, S6838530, #1},comb.stream_}},basic_ostream} &v1 NowTime: 0
+
+The Road is: x99899898999
+
+The Road is: x99899898999
+insert:
+ForVar2 : &comb NowTime: 0
+
+The Road is: x99899898999
+NowTime: 0
+
+The Road is: x99899898999
+insert:
+MakeCheckOpValueString : &SymRegion{conj_$104{std::ostream *, LC117, S6838722, #1}} &v2 NowTime: 0
+
+The Road is: x99899898999
+
+The Road is: x99899898999
+insert:
+NewString : &comb 
+The Road is: x99899898999
+insert:
+MakeCheckOpString : &v1 &v2 &Element{"a.device_ordinal == b.device_ordinal",0 S64b,char} 
+The Road is: x99899898999
+
+The Road is: x99899898999
+insert:
+Check_EQImpl : reg_$6<int Element{SymRegion{reg_$4<const TfDeviceSpec & a>},0 S64b,struct TfDeviceSpec}.device_ordinal> reg_$30<int Element{SymRegion{reg_$29<const TfDeviceSpec & c>},0 S64b,struct TfDeviceSpec}.device_ordinal> &Element{"a.device_ordinal == b.device_ordinal",0 S64b,char} NowTime: 0
+
+The Road is: x9989989899
+
+The Road is: x9989989899
+
+The Road is: x99899898998
+
+The Road is: x99899898998
+NowTime: 0
+
+The Road is: x998998989999
+
+The Road is: x998998989999
+NowTime: 0
+
+The Road is: x998998989999
+
+The Road is: x998998989999
+insert:
+addressof : &SymRegion{reg_$29<const TfDeviceSpec & c>} NowTime: 0
+
+The Road is: x998999988
+
+The Road is: x998999988
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",1 S64b,char} &temp_object{char_type, S633580} NowTime: 0
+
+The Road is: x998998989989
+
+The Road is: x998998989989
+NowTime: 0
+
+The Road is: x998998989989
+
+The Road is: x998998989989
+insert:
+addressof : &SymRegion{reg_$29<const TfDeviceSpec & c>} NowTime: 0
+
+
+
+NowTime: 0
+
+The Road is: x9989989898899
+
+The Road is: x9989989898899
+NowTime: 0
+
+The Road is: x9989989898899
+
+The Road is: x9989989898899
+insert:
+GetReferenceableValue : reg_$30<int Element{SymRegion{reg_$29<const TfDeviceSpec & c>},0 S64b,struct TfDeviceSpec}.device_ordinal> NowTime: 0
+
+The Road is: x9989989898899
+NowTime: 0
+
+The Road is: x9989989898899
+NowTime: 0
+
+The Road is: x9989989898899
+
+The Road is: x9989989898899
+
+The Road is: x99899898988998
+
+The Road is: x99899898988998
+NowTime: 0
+
+The Road is: x998998989889989
+
+The Road is: x998998989889989
+NowTime: 0
+
+The Road is: x998998989889989
+
+The Road is: x998998989889989
+insert:
+addressof : &SymRegion{reg_$29<const TfDeviceSpec & c>} NowTime: 0
+
+The Road is: x98898899898
+
+The Road is: x98898899898
+insert:
+__builtin_expect : 0 S64b 0 S64b 
+
+NowTime: 0
+
+The Road is: x98899898
+
+The Road is: x98899898
+insert:
+__builtin_expect : 0 S64b 0 S64b 
+
+NowTime: 0
+
+The Road is: x99898
+
+The Road is: x99898
+insert:
+__builtin_expect : 0 S64b 0 S64b 
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+The Road is: x9989889899
+
+The Road is: x9989889899
+NowTime: 0
+
+The Road is: x9989889899
+
+The Road is: x9989889899
+insert:
+GetReferenceableValue : reg_$30<int Element{SymRegion{reg_$29<const TfDeviceSpec & c>},0 S64b,struct TfDeviceSpec}.device_ordinal> NowTime: 0
+
+The Road is: x9989889899
+NowTime: 0
+
+The Road is: x9989889899
+NowTime: 0
+
+The Road is: x9989889899
+
+The Road is: x9989889899
+insert:
+__builtin_expect : 0 S64b 1 S64b NowTime: 0
+
+The Road is: x9989889899
+
+The Road is: x9989889899
+NowTime: 0
+
+The Road is: x99898898999
+NowTime: 0
+
+The Road is: x99898898999
+
+The Road is: x99898898999
+insert:
+ForVar1 : &comb NowTime: 0
+
+The Road is: x99898898999
+NowTime: 0
+
+The Road is: x99898898999
+insert:
+MakeCheckOpValueString : &Base{SymRegion{derived_$96{conj_$93{int, LC117, S6838530, #1},comb.stream_}},basic_ostream} &v1 NowTime: 0
+
+The Road is: x99898898999
+
+The Road is: x99898898999
+insert:
+ForVar2 : &comb NowTime: 0
+
+The Road is: x99898898999
+NowTime: 0
+
+The Road is: x99898898999
+insert:
+MakeCheckOpValueString : &SymRegion{conj_$104{std::ostream *, LC117, S6838722, #1}} &v2 NowTime: 0
+
+The Road is: x99898898999
+
+The Road is: x99898898999
+insert:
+NewString : &comb 
+The Road is: x99898898999
+insert:
+MakeCheckOpString : &v1 &v2 &Element{"a.device_ordinal == b.device_ordinal",0 S64b,char} 
+The Road is: x99898898999
+
+The Road is: x99898898999
+insert:
+Check_EQImpl : reg_$6<int Element{SymRegion{reg_$4<const TfDeviceSpec & a>},0 S64b,struct TfDeviceSpec}.device_ordinal> reg_$30<int Element{SymRegion{reg_$29<const TfDeviceSpec & c>},0 S64b,struct TfDeviceSpec}.device_ordinal> &Element{"a.device_ordinal == b.device_ordinal",0 S64b,char} 
+The Road is: x99898898998
+
+The Road is: x99898898998
+NowTime: 0
+
+The Road is: x998988989999
+
+The Road is: x998988989999
+NowTime: 0
+
+The Road is: x998988989999
+
+The Road is: x998988989999
+insert:
+addressof : &SymRegion{reg_$29<const TfDeviceSpec & c>} NowTime: 0
+
+
+
+NowTime: 0
+
+The Road is: x9889989889899
+
+The Road is: x9889989889899
+insert:
+GetReferenceableValue : reg_$6<int Element{SymRegion{reg_$4<const TfDeviceSpec & a>},0 S64b,struct TfDeviceSpec}.device_ordinal> NowTime: 0
+
+The Road is: x9889989889899
+
+The Road is: x9889989889899
+NowTime: 0
+
+The Road is: x9889989889899
+NowTime: 0
+
+The Road is: x9889989889899
+NowTime: 0
+
+The Road is: x9889989889899
+
+The Road is: x9889989889899
+insert:
+__builtin_expect : 0 S64b 1 S64b NowTime: 0
+
+The Road is: x98899898898999
+NowTime: 0
+
+The Road is: x98899898898999
+
+The Road is: x98899898898999
+insert:
+ForVar1 : &comb NowTime: 0
+
+The Road is: x98899898898999
+NowTime: 0
+
+The Road is: x98899898898999
+insert:
+MakeCheckOpValueString : &Base{SymRegion{derived_$73{conj_$70{int, LC112, S6838530, #1},comb.stream_}},basic_ostream} &v1 NowTime: 0
+
+The Road is: x98899898898999
+
+The Road is: x98899898898999
+insert:
+ForVar2 : &comb NowTime: 0
+
+The Road is: x98899898898999
+NowTime: 0
+
+The Road is: x98899898898999
+insert:
+MakeCheckOpValueString : &SymRegion{conj_$81{std::ostream *, LC112, S6838722, #1}} &v2 NowTime: 0
+
+The Road is: x98899898898999
+
+The Road is: x98899898898999
+insert:
+NewString : &comb 
+The Road is: x98899898898999
+insert:
+MakeCheckOpString : &v1 &v2 &Element{"a.device_ordinal == b.device_ordinal",0 S64b,char} 
+The Road is: x98899898898999
+
+The Road is: x98899898898999
+insert:
+Check_EQImpl : reg_$6<int Element{SymRegion{reg_$4<const TfDeviceSpec & a>},0 S64b,struct TfDeviceSpec}.device_ordinal> reg_$7<int Element{SymRegion{reg_$5<const TfDeviceSpec & b>},0 S64b,struct TfDeviceSpec}.device_ordinal> &Element{"a.device_ordinal == b.device_ordinal",0 S64b,char} NowTime: 0
+
+The Road is: x988998988989999
+
+The Road is: x988998988989999
+insert:
+addressof : &SymRegion{reg_$4<const TfDeviceSpec & a>} NowTime: 0
+
+The Road is: x988998988989999
+
+The Road is: x988998988989999
+NowTime: 0
+
+The Road is: x9989989899998
+
+The Road is: x9989989899998
+
+
+NowTime: 0
+
+The Road is: x9889989989899998
+
+The Road is: x9889989989899998
+
+
+NowTime: 0
+
+The Road is: x998988989989
+
+The Road is: x998988989989
+NowTime: 0
+
+The Road is: x998988989989
+
+The Road is: x998988989989
+insert:
+addressof : &SymRegion{reg_$29<const TfDeviceSpec & c>} NowTime: 0
+
+
+
+NowTime: 0
+
+The Road is: x9989889898899
+
+The Road is: x9989889898899
+NowTime: 0
+
+The Road is: x9989889898899
+
+The Road is: x9989889898899
+insert:
+GetReferenceableValue : reg_$30<int Element{SymRegion{reg_$29<const TfDeviceSpec & c>},0 S64b,struct TfDeviceSpec}.device_ordinal> NowTime: 0
+
+The Road is: x9989889898899
+NowTime: 0
+
+The Road is: x9989889898899
+NowTime: 0
+
+The Road is: x9989889898899
+
+The Road is: x9989889898899
+
+The Road is: x99898898988998
+
+The Road is: x99898898988998
+NowTime: 0
+
+The Road is: x998988989889989
+
+The Road is: x998988989889989
+NowTime: 0
+
+The Road is: x998988989889989
+
+The Road is: x998988989889989
+insert:
+addressof : &SymRegion{reg_$29<const TfDeviceSpec & c>} NowTime: 0
+
+The Road is: x9989989899999
+
+The Road is: x9989989899999
+NowTime: 0
+
+The Road is: x99899898999999
+
+The Road is: x99899898999999
+insert:
+stream : &Base{temp_object{google::LogMessageFatal, S6214311},LogMessage} NowTime: 0
+NowTime: 0
+
+The Road is: x998998989999999
+NowTime: 0
+
+The Road is: x998998989999999
+NowTime: 0
+
+The Road is: x998998989999999
+
+The Road is: x998998989999999
+insert:
+__builtin_is_constant_evaluated : 
+The Road is: x998998989999999
+insert:
+__constant_string_p : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 0
+
+The Road is: x9989989899999998
+NowTime: 0
+
+The Road is: x9989989899999999
+
+The Road is: x9989989899999999
+insert:
+__builtin_strlen : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 
+The Road is: x9989989899999999
+insert:
+length : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 0
+
+The Road is: x9989989899999999
+
+The Road is: x9989989899999999
+insert:
+__ostream_insert : &SymRegion{conj_$40{std::ostream &, LC87, S6214337, #1}} &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 75 S64b NowTime: 0
+NowTime: 0
+
+The Road is: x9989989899999998
+
+The Road is: x9989989899999998
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} &temp_object{char_type, S633580} NowTime: 0
+
+The Road is: x99899898999999988
+
+The Road is: x99899898999999988
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",1 S64b,char} &temp_object{char_type, S633580} NowTime: 0
+
+The Road is: x9889989989899999
+
+The Road is: x9889989989899999
+NowTime: 0
+
+The Road is: x98899899898999999
+
+The Road is: x98899899898999999
+insert:
+stream : &Base{temp_object{google::LogMessageFatal, S6214311},LogMessage} NowTime: 0
+NowTime: 0
+
+The Road is: x988998998989999999
+NowTime: 0
+
+The Road is: x988998998989999999
+NowTime: 0
+
+The Road is: x988998998989999999
+
+The Road is: x988998998989999999
+insert:
+__builtin_is_constant_evaluated : 
+The Road is: x988998998989999999
+insert:
+__constant_string_p : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 0
+
+The Road is: x9889989989899999998
+NowTime: 0
+
+The Road is: x9889989989899999999
+
+The Road is: x9889989989899999999
+insert:
+__builtin_strlen : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 
+The Road is: x9889989989899999999
+insert:
+length : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 0
+
+The Road is: x9889989989899999999
+
+The Road is: x9889989989899999999
+insert:
+__ostream_insert : &SymRegion{conj_$59{std::ostream &, LC99, S6214337, #1}} &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 75 S64b NowTime: 0
+NowTime: 0
+
+The Road is: x9889989989899999998
+
+The Road is: x9889989989899999998
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} &temp_object{char_type, S633580} NowTime: 0
+
+The Road is: x98899899898999999988
+
+The Road is: x98899899898999999988
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",1 S64b,char} &temp_object{char_type, S633580} NowTime: 0
+
+
+
+NowTime: 0
+
+The Road is: x9989989899999
+
+The Road is: x9989989899999
+
+
+NowTime: 0
+
+The Road is: x9889989989899999
+
+The Road is: x9889989989899999
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+The Road is: x9989989898899898
+
+The Road is: x9989989898899898
+
+
+NowTime: 0
+
+The Road is: x9989989899898
+
+The Road is: x9989989899898
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x998998989989889899
+
+The Road is: x998998989989889899
+NowTime: 1
+
+The Road is: x998998989989889899
+
+The Road is: x998998989989889899
+NowTime: 1
+
+The Road is: x998998989989889899
+NowTime: 1
+
+The Road is: x998998989989889899
+NowTime: 1
+
+The Road is: x998998989989889899
+
+The Road is: x998998989989889899
+
+The Road is: x9989989899898898998
+
+The Road is: x9989989899898898998
+NowTime: 1
+
+The Road is: x99899898998988989989
+
+The Road is: x99899898998988989989
+NowTime: 1
+
+The Road is: x99899898998988989989
+
+The Road is: x99899898998988989989
+NowTime: 1
+
+The Road is: x9989989898899899
+
+The Road is: x9989989898899899
+NowTime: 1
+
+The Road is: x99899898988998999
+
+The Road is: x99899898988998999
+insert:
+stream : &Base{temp_object{google::LogMessageFatal, S6214311},LogMessage} NowTime: 1
+NowTime: 1
+
+The Road is: x998998989889989999
+NowTime: 1
+
+The Road is: x998998989889989999
+NowTime: 1
+
+The Road is: x998998989889989999
+
+The Road is: x998998989889989999
+insert:
+__builtin_is_constant_evaluated : 
+The Road is: x998998989889989999
+insert:
+__constant_string_p : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 1
+
+The Road is: x9989989898899899998
+NowTime: 1
+
+The Road is: x9989989898899899999
+
+The Road is: x9989989898899899999
+insert:
+__builtin_strlen : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 
+The Road is: x9989989898899899999
+insert:
+length : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 1
+
+The Road is: x9989989898899899999
+
+The Road is: x9989989898899899999
+insert:
+__ostream_insert : &SymRegion{conj_$59{std::ostream &, LC99, S6214337, #1}} &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 75 S64b NowTime: 1
+NowTime: 1
+
+The Road is: x9989989898899899998
+
+The Road is: x9989989898899899998
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} &temp_object{char_type, S633580} NowTime: 1
+
+The Road is: x99899898988998999988
+
+The Road is: x99899898988998999988
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",1 S64b,char} &temp_object{char_type, S633580} NowTime: 1
+
+The Road is: x9989989899899
+
+The Road is: x9989989899899
+NowTime: 1
+
+The Road is: x99899898998999
+
+The Road is: x99899898998999
+insert:
+stream : &Base{temp_object{google::LogMessageFatal, S6214311},LogMessage} NowTime: 1
+NowTime: 1
+
+The Road is: x998998989989999
+NowTime: 1
+
+The Road is: x998998989989999
+NowTime: 1
+
+The Road is: x998998989989999
+
+The Road is: x998998989989999
+insert:
+__builtin_is_constant_evaluated : 
+The Road is: x998998989989999
+insert:
+__constant_string_p : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 1
+
+The Road is: x9989989899899998
+NowTime: 1
+
+The Road is: x9989989899899999
+
+The Road is: x9989989899899999
+insert:
+__builtin_strlen : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 
+The Road is: x9989989899899999
+insert:
+length : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 1
+
+The Road is: x9989989899899999
+
+The Road is: x9989989899899999
+insert:
+__ostream_insert : &SymRegion{conj_$40{std::ostream &, LC87, S6214337, #1}} &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 75 S64b NowTime: 1
+NowTime: 1
+
+The Road is: x9989989899899998
+
+The Road is: x9989989899899998
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} &temp_object{char_type, S633580} NowTime: 1
+
+The Road is: x99899898998999988
+
+The Road is: x99899898998999988
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",1 S64b,char} &temp_object{char_type, S633580} NowTime: 1
+
+The Road is: x9989989898899899
+
+The Road is: x9989989898899899
+
+
+NowTime: 1
+
+The Road is: x9989989899899
+
+The Road is: x9989989899899
+
+
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x998998989989989899
+
+The Road is: x998998989989989899
+NowTime: 1
+
+The Road is: x998998989989989899
+
+The Road is: x998998989989989899
+NowTime: 1
+
+The Road is: x998998989989989899
+NowTime: 1
+
+The Road is: x998998989989989899
+NowTime: 2
+
+The Road is: x998998989989989899
+
+The Road is: x998998989989989899
+
+The Road is: x9989989899899898998
+
+The Road is: x9989989899899898998
+NowTime: 2
+
+The Road is: x99899898998998989989
+
+The Road is: x99899898998998989989
+NowTime: 2
+
+The Road is: x99899898998998989989
+
+The Road is: x99899898998998989989
+NowTime: 2
+
+The Road is: x9889989889899998
+
+The Road is: x9889989889899998
+
+
+NowTime: 2
+
+The Road is: x9989889899998
+
+The Road is: x9989889899998
+
+
+NowTime: 2
+
+
+
+NowTime: 2
+
+The Road is: x9889989889899999
+
+The Road is: x9889989889899999
+insert:
+__builtin_expect : 1 S64b 0 S64b NowTime: 2
+
+The Road is: x98899898898999999
+
+The Road is: x98899898898999999
+insert:
+stream : &Base{temp_object{google::LogMessageFatal, S6214311},LogMessage} NowTime: 2
+NowTime: 2
+
+The Road is: x988998988989999999
+NowTime: 2
+
+The Road is: x988998988989999999
+NowTime: 2
+
+The Road is: x988998988989999999
+
+The Road is: x988998988989999999
+insert:
+__builtin_is_constant_evaluated : 
+The Road is: x988998988989999999
+insert:
+__constant_string_p : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 2
+
+The Road is: x9889989889899999998
+NowTime: 2
+
+The Road is: x9889989889899999999
+
+The Road is: x9889989889899999999
+insert:
+__builtin_strlen : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 
+The Road is: x9889989889899999999
+insert:
+length : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 2
+
+The Road is: x9889989889899999999
+
+The Road is: x9889989889899999999
+insert:
+__ostream_insert : &SymRegion{conj_$59{std::ostream &, LC99, S6214337, #1}} &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 75 S64b NowTime: 2
+NowTime: 2
+
+The Road is: x9889989889899999998
+
+The Road is: x9889989889899999998
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} &temp_object{char_type, S633580} NowTime: 2
+
+The Road is: x98899898898999999988
+
+The Road is: x98899898898999999988
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",1 S64b,char} &temp_object{char_type, S633580} NowTime: 2
+
+The Road is: x9989889899999
+
+The Road is: x9989889899999
+insert:
+__builtin_expect : 1 S64b 0 S64b NowTime: 2
+
+The Road is: x99898898999999
+
+The Road is: x99898898999999
+insert:
+stream : &Base{temp_object{google::LogMessageFatal, S6214311},LogMessage} NowTime: 2
+NowTime: 2
+
+The Road is: x998988989999999
+NowTime: 2
+
+The Road is: x998988989999999
+NowTime: 2
+
+The Road is: x998988989999999
+
+The Road is: x998988989999999
+insert:
+__builtin_is_constant_evaluated : 
+The Road is: x998988989999999
+insert:
+__constant_string_p : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 2
+
+The Road is: x9989889899999998
+NowTime: 2
+
+The Road is: x9989889899999999
+
+The Road is: x9989889899999999
+insert:
+__builtin_strlen : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 
+The Road is: x9989889899999999
+insert:
+length : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 2
+
+The Road is: x9989889899999999
+
+The Road is: x9989889899999999
+insert:
+__ostream_insert : &SymRegion{conj_$40{std::ostream &, LC87, S6214337, #1}} &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 75 S64b NowTime: 2
+NowTime: 2
+
+The Road is: x9989889899999998
+
+The Road is: x9989889899999998
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} &temp_object{char_type, S633580} NowTime: 2
+
+The Road is: x99898898999999988
+
+The Road is: x99898898999999988
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",1 S64b,char} &temp_object{char_type, S633580} NowTime: 2
+
+The Road is: x9889989889899999
+
+The Road is: x9889989889899999
+
+
+NowTime: 2
+
+The Road is: x9989889899999
+
+The Road is: x9989889899999
+
+
+NowTime: 2
+
+
+
+NowTime: 2
+
+The Road is: x9989889898899898
+
+The Road is: x9989889898899898
+
+
+NowTime: 2
+
+The Road is: x9989889899898
+
+The Road is: x9989889899898
+
+
+NowTime: 2
+
+NowTime: 2
+
+The Road is: x998988989989889899
+
+The Road is: x998988989989889899
+NowTime: 2
+
+The Road is: x998988989989889899
+
+The Road is: x998988989989889899
+NowTime: 2
+
+The Road is: x998988989989889899
+NowTime: 2
+
+The Road is: x998988989989889899
+NowTime: 2
+
+The Road is: x998988989989889899
+
+The Road is: x998988989989889899
+
+The Road is: x9989889899898898998
+
+The Road is: x9989889899898898998
+NowTime: 3
+
+The Road is: x99898898998988989989
+
+The Road is: x99898898998988989989
+NowTime: 3
+
+The Road is: x99898898998988989989
+
+The Road is: x99898898998988989989
+NowTime: 3
+
+The Road is: x9989889898899899
+
+The Road is: x9989889898899899
+insert:
+__builtin_expect : 1 S64b 0 S64b NowTime: 3
+
+The Road is: x99898898988998999
+
+The Road is: x99898898988998999
+insert:
+stream : &Base{temp_object{google::LogMessageFatal, S6214311},LogMessage} NowTime: 3
+NowTime: 3
+
+The Road is: x998988989889989999
+NowTime: 3
+
+The Road is: x998988989889989999
+NowTime: 3
+
+The Road is: x998988989889989999
+
+The Road is: x998988989889989999
+insert:
+__builtin_is_constant_evaluated : 
+The Road is: x998988989889989999
+insert:
+__constant_string_p : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 3
+
+The Road is: x9989889898899899998
+NowTime: 3
+
+The Road is: x9989889898899899999
+
+The Road is: x9989889898899899999
+insert:
+__builtin_strlen : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 
+The Road is: x9989889898899899999
+insert:
+length : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 3
+
+The Road is: x9989889898899899999
+
+The Road is: x9989889898899899999
+insert:
+__ostream_insert : &SymRegion{conj_$59{std::ostream &, LC99, S6214337, #1}} &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 75 S64b NowTime: 3
+NowTime: 3
+
+The Road is: x9989889898899899998
+
+The Road is: x9989889898899899998
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} &temp_object{char_type, S633580} NowTime: 3
+
+The Road is: x99898898988998999988
+
+The Road is: x99898898988998999988
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",1 S64b,char} &temp_object{char_type, S633580} NowTime: 3
+
+The Road is: x9989889899899
+
+The Road is: x9989889899899
+insert:
+__builtin_expect : 1 S64b 0 S64b NowTime: 3
+
+The Road is: x99898898998999
+
+The Road is: x99898898998999
+insert:
+stream : &Base{temp_object{google::LogMessageFatal, S6214311},LogMessage} NowTime: 3
+NowTime: 3
+
+The Road is: x998988989989999
+NowTime: 3
+
+The Road is: x998988989989999
+NowTime: 3
+
+The Road is: x998988989989999
+
+The Road is: x998988989989999
+insert:
+__builtin_is_constant_evaluated : 
+The Road is: x998988989989999
+insert:
+__constant_string_p : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 3
+
+The Road is: x9989889899899998
+NowTime: 3
+
+The Road is: x9989889899899999
+
+The Road is: x9989889899899999
+insert:
+__builtin_strlen : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 
+The Road is: x9989889899899999
+insert:
+length : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 3
+
+The Road is: x9989889899899999
+
+The Road is: x9989889899899999
+insert:
+__ostream_insert : &SymRegion{conj_$40{std::ostream &, LC87, S6214337, #1}} &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 75 S64b NowTime: 3
+NowTime: 3
+
+The Road is: x9989889899899998
+
+The Road is: x9989889899899998
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} &temp_object{char_type, S633580} NowTime: 3
+
+The Road is: x99898898998999988
+
+The Road is: x99898898998999988
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",1 S64b,char} &temp_object{char_type, S633580} NowTime: 3
+
+The Road is: x9989889898899899
+
+The Road is: x9989889898899899
+
+
+NowTime: 3
+
+The Road is: x9989889899899
+
+The Road is: x9989889899899
+
+
+NowTime: 3
+
+NowTime: 3
+
+The Road is: x998988989989989899
+
+The Road is: x998988989989989899
+NowTime: 3
+
+The Road is: x998988989989989899
+
+The Road is: x998988989989989899
+NowTime: 3
+
+The Road is: x998988989989989899
+NowTime: 3
+
+The Road is: x998988989989989899
+NowTime: 3
+
+The Road is: x998988989989989899
+
+The Road is: x998988989989989899
+
+The Road is: x9989889899899898998
+
+The Road is: x9989889899899898998
+NowTime: 4
+
+The Road is: x99898898998998989989
+
+The Road is: x99898898998998989989
+NowTime: 4
+
+The Road is: x99898898998998989989
+
+The Road is: x99898898998998989989
+NowTime: 4
+
+The Road is: x998998989989889899899
+
+The Road is: x998998989989889899899
+NowTime: 4
+
+The Road is: x9989989899898898998999
+
+The Road is: x9989989899898898998999
+insert:
+stream : &Base{temp_object{google::LogMessageFatal, S6214311},LogMessage} NowTime: 4
+NowTime: 4
+
+The Road is: x99899898998988989989999
+NowTime: 4
+
+The Road is: x99899898998988989989999
+NowTime: 4
+
+The Road is: x99899898998988989989999
+
+The Road is: x99899898998988989989999
+insert:
+__builtin_is_constant_evaluated : 
+The Road is: x99899898998988989989999
+insert:
+__constant_string_p : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 4
+
+The Road is: x998998989989889899899998
+NowTime: 4
+
+The Road is: x998998989989889899899999
+
+The Road is: x998998989989889899899999
+insert:
+__builtin_strlen : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 
+The Road is: x998998989989889899899999
+insert:
+length : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 4
+
+The Road is: x998998989989889899899999
+
+The Road is: x998998989989889899899999
+insert:
+__ostream_insert : &SymRegion{conj_$59{std::ostream &, LC99, S6214337, #1}} &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 75 S64b NowTime: 4
+NowTime: 4
+
+The Road is: x998998989989889899899998
+
+The Road is: x998998989989889899899998
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} &temp_object{char_type, S633580} NowTime: 4
+
+The Road is: x9989989899898898998999988
+
+The Road is: x9989989899898898998999988
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",1 S64b,char} &temp_object{char_type, S633580} NowTime: 4
+
+The Road is: x998998989989889899899
+
+The Road is: x998998989989889899899
+
+
+NowTime: 4
+
+The Road is: x998998989989989899898
+
+The Road is: x998998989989989899898
+
+
+NowTime: 4
+
+The Road is: x998998989989989899899
+
+The Road is: x998998989989989899899
+NowTime: 4
+
+The Road is: x9989989899899898998999
+
+The Road is: x9989989899899898998999
+insert:
+stream : &Base{temp_object{google::LogMessageFatal, S6214311},LogMessage} NowTime: 4
+NowTime: 4
+
+The Road is: x99899898998998989989999
+NowTime: 4
+
+The Road is: x99899898998998989989999
+NowTime: 4
+
+The Road is: x99899898998998989989999
+
+The Road is: x99899898998998989989999
+insert:
+__builtin_is_constant_evaluated : 
+The Road is: x99899898998998989989999
+insert:
+__constant_string_p : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 4
+
+The Road is: x998998989989989899899998
+NowTime: 4
+
+The Road is: x998998989989989899899999
+
+The Road is: x998998989989989899899999
+insert:
+__builtin_strlen : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 
+The Road is: x998998989989989899899999
+insert:
+length : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 4
+
+The Road is: x998998989989989899899999
+
+The Road is: x998998989989989899899999
+insert:
+__ostream_insert : &SymRegion{conj_$59{std::ostream &, LC99, S6214337, #1}} &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 75 S64b NowTime: 4
+NowTime: 4
+
+The Road is: x998998989989989899899998
+
+The Road is: x998998989989989899899998
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} &temp_object{char_type, S633580} NowTime: 4
+
+The Road is: x9989989899899898998999988
+
+The Road is: x9989989899899898998999988
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",1 S64b,char} &temp_object{char_type, S633580} NowTime: 4
+
+The Road is: x998998989989989899899
+
+The Road is: x998998989989989899899
+
+
+NowTime: 4
+
+The Road is: x998988989989889899898
+
+The Road is: x998988989989889899898
+
+
+NowTime: 4
+
+The Road is: x998988989989989899899
+
+The Road is: x998988989989989899899
+NowTime: 4
+
+The Road is: x9989889899899898998999
+
+The Road is: x9989889899899898998999
+insert:
+stream : &Base{temp_object{google::LogMessageFatal, S6214311},LogMessage} NowTime: 4
+NowTime: 4
+
+The Road is: x99898898998998989989999
+NowTime: 4
+
+The Road is: x99898898998998989989999
+NowTime: 4
+
+The Road is: x99898898998998989989999
+
+The Road is: x99898898998998989989999
+insert:
+__builtin_is_constant_evaluated : 
+The Road is: x99898898998998989989999
+insert:
+__constant_string_p : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 4
+
+The Road is: x998988989989989899899998
+NowTime: 4
+
+The Road is: x998988989989989899899999
+
+The Road is: x998988989989989899899999
+insert:
+__builtin_strlen : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 
+The Road is: x998988989989989899899999
+insert:
+length : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} NowTime: 4
+
+The Road is: x998988989989989899899999
+
+The Road is: x998988989989989899899999
+insert:
+__ostream_insert : &SymRegion{conj_$59{std::ostream &, LC99, S6214337, #1}} &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} 75 S64b NowTime: 4
+NowTime: 4
+
+The Road is: x998988989989989899899998
+
+The Road is: x998988989989989899899998
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",0 S64b,char} &temp_object{char_type, S633580} NowTime: 4
+
+The Road is: x9989889899899898998999988
+
+The Road is: x9989889899899898998999988
+insert:
+eq : &Element{"Check failed: std::addressof(a) == std::addressof(b) || a.index != b.index ",1 S64b,char} &temp_object{char_type, S633580} NowTime: 4
+
+The Road is: x998988989989989899899
+
+The Road is: x998988989989989899899
+
+
+Total paths analyzed: 0
+Total paths analyzed: 2
+Total paths analyzed: 52
+Total paths analyzed: 52

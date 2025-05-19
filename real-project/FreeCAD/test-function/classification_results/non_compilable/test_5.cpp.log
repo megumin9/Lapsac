@@ -1,0 +1,4 @@
+/home/lizhilin/compare-order/real-project/FreeCAD/test-function/classification_results/non_compilable/test_5.cpp:2:10: fatal error: 'TopoDS/TopoDS_Wire.hxx' file not found
+    2 | #include <TopoDS/TopoDS_Wire.hxx>
+      |          ^~~~~~~~~~~~~~~~~~~~~~~~
+1 error generated.

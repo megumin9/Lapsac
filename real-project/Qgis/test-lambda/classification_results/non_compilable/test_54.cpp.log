@@ -1,0 +1,4 @@
+/home/lizhilin/compare-order/real-project/QGIS/test-lambda/classification_results/non_compilable/test_54.cpp:2:10: fatal error: 'QtCore/QModelIndex' file not found
+    2 | #include <QtCore/QModelIndex>
+      |          ^~~~~~~~~~~~~~~~~~~~
+1 error generated.

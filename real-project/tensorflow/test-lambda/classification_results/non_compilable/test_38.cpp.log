@@ -1,0 +1,13 @@
+/home/lizhilin/compare-order/real-project/tensorflow/test-lambda/test_38.cpp:20:10: error: no matching function for call to 'tie'
+   20 |   return std::tie(n1.first.first->name(), n1.first.second) < 
+      |          ^~~~~~~~
+/usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/tuple:1632:5: note: candidate function [with _Elements = <std::basic_string<char>, const int>] not viable: expects an lvalue for 1st argument
+ 1632 |     tie(_Elements&... __args) noexcept
+      |     ^   ~~~~~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/real-project/tensorflow/test-lambda/test_38.cpp:21:10: error: no matching function for call to 'tie'
+   21 |          std::tie(n2.first.first->name(), n2.first.second);
+      |          ^~~~~~~~
+/usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/tuple:1632:5: note: candidate function [with _Elements = <std::basic_string<char>, const int>] not viable: expects an lvalue for 1st argument
+ 1632 |     tie(_Elements&... __args) noexcept
+      |     ^   ~~~~~~~~~~~~~~~~~~~~
+2 errors generated.

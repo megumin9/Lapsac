@@ -1,0 +1,330 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &Base{SymRegion{reg_$4<const CommandHandlerPtr & a>},__shared_ptr} 
+The Road is: x
+insert:
+_M_get : &Base{Base{SymRegion{reg_$4<const CommandHandlerPtr & a>},__shared_ptr},__shared_ptr_access} NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+
+The Road is: x
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &Base{SymRegion{reg_$4<const CommandHandlerPtr & a>},__shared_ptr} 
+The Road is: x
+insert:
+_M_get : &Base{Base{SymRegion{reg_$4<const CommandHandlerPtr & a>},__shared_ptr},__shared_ptr_access} NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &Base{SymRegion{reg_$5<const CommandHandlerPtr & b>},__shared_ptr} 
+The Road is: x
+insert:
+_M_get : &Base{Base{SymRegion{reg_$5<const CommandHandlerPtr & b>},__shared_ptr},__shared_ptr_access} 
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+NowTime: 0
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+The Road is: x8
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &Base{SymRegion{reg_$4<const CommandHandlerPtr & a>},__shared_ptr} 
+The Road is: x
+insert:
+_M_get : &Base{Base{SymRegion{reg_$4<const CommandHandlerPtr & a>},__shared_ptr},__shared_ptr_access} NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &Base{SymRegion{reg_$5<const CommandHandlerPtr & b>},__shared_ptr} 
+The Road is: x
+insert:
+_M_get : &Base{Base{SymRegion{reg_$5<const CommandHandlerPtr & b>},__shared_ptr},__shared_ptr_access} 
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+NowTime: 0
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+The Road is: x8
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &Base{SymRegion{reg_$4<const CommandHandlerPtr & a>},__shared_ptr} 
+The Road is: x
+insert:
+_M_get : &Base{Base{SymRegion{reg_$4<const CommandHandlerPtr & a>},__shared_ptr},__shared_ptr_access} NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &Base{SymRegion{reg_$5<const CommandHandlerPtr & b>},__shared_ptr} 
+The Road is: x
+insert:
+_M_get : &Base{Base{SymRegion{reg_$5<const CommandHandlerPtr & b>},__shared_ptr},__shared_ptr_access} 
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+NowTime: 0
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+get : &Base{SymRegion{reg_$10<const CommandHandlerPtr & c>},__shared_ptr} 
+The Road is: x8
+insert:
+_M_get : &Base{Base{SymRegion{reg_$10<const CommandHandlerPtr & c>},__shared_ptr},__shared_ptr_access} 
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+NowTime: 0
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+The Road is: x88
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &Base{SymRegion{reg_$4<const CommandHandlerPtr & a>},__shared_ptr} 
+The Road is: x
+insert:
+_M_get : &Base{Base{SymRegion{reg_$4<const CommandHandlerPtr & a>},__shared_ptr},__shared_ptr_access} NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get : &Base{SymRegion{reg_$5<const CommandHandlerPtr & b>},__shared_ptr} 
+The Road is: x
+insert:
+_M_get : &Base{Base{SymRegion{reg_$5<const CommandHandlerPtr & b>},__shared_ptr},__shared_ptr_access} 
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+NowTime: 0
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+get : &Base{SymRegion{reg_$10<const CommandHandlerPtr & c>},__shared_ptr} 
+The Road is: x8
+insert:
+_M_get : &Base{Base{SymRegion{reg_$10<const CommandHandlerPtr & c>},__shared_ptr},__shared_ptr_access} 
+NowTime: 0
+
+NowTime: 0
+NowTime: 0
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+NowTime: 0
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+The Road is: x88
+
+
+
+
+Total paths analyzed: 1
+Total paths analyzed: 2
+Total paths analyzed: 2
+Total paths analyzed: 4
+Total paths analyzed: 4

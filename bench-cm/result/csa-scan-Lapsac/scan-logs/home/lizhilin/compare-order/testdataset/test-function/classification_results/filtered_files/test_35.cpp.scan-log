@@ -1,0 +1,510 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+insert:
+getFragmentInfo : &SymRegion{reg_$4<ExprType * a.Expr>} NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+insert:
+getFragmentInfo : &SymRegion{reg_$5<ExprType * b.Expr>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x888888888
+
+The Road is: x888888888
+NowTime: 0
+
+The Road is: x888888888
+
+The Road is: x888888888
+
+
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+insert:
+getFragmentInfo : &SymRegion{reg_$4<ExprType * a.Expr>} NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+insert:
+getFragmentInfo : &SymRegion{reg_$5<ExprType * b.Expr>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x888888888
+
+The Road is: x888888888
+NowTime: 0
+
+The Road is: x888888888
+
+The Road is: x888888888
+
+
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+insert:
+getFragmentInfo : &SymRegion{reg_$4<ExprType * a.Expr>} NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+insert:
+getFragmentInfo : &SymRegion{reg_$5<ExprType * b.Expr>} 
+
+NowTime: 0
+
+
+NowTime: 0
+
+The Road is: x888888888
+
+The Road is: x888888888
+NowTime: 0
+
+The Road is: x888888888
+
+The Road is: x888888888
+insert:
+getFragmentInfo : &SymRegion{reg_$16<ExprType * c.Expr>} 
+
+NowTime: 0
+
+
+NowTime: 0
+
+The Road is: x888888888888888
+
+The Road is: x888888888888888
+NowTime: 0
+
+The Road is: x888888888888888
+
+The Road is: x888888888888888
+
+
+
+
+
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+The Road is: x98888
+
+The Road is: x98888
+insert:
+getFragmentInfo : &SymRegion{reg_$5<ExprType * b.Expr>} NowTime: 0
+
+The Road is: x98888
+
+The Road is: x98888
+insert:
+getFragmentInfo : &SymRegion{reg_$6<ExprType * c.Expr>} 
+
+NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+insert:
+getFragmentInfo : &SymRegion{reg_$4<ExprType * a.Expr>} NowTime: 0
+
+The Road is: x888
+
+The Road is: x888
+insert:
+getFragmentInfo : &SymRegion{reg_$5<ExprType * b.Expr>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x888888888
+
+The Road is: x888888888
+NowTime: 0
+
+The Road is: x888888888
+
+The Road is: x888888888
+insert:
+getFragmentInfo : &SymRegion{reg_$6<ExprType * c.Expr>} 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98888888888
+
+The Road is: x98888888888
+insert:
+getFragmentInfo : &SymRegion{reg_$4<ExprType * a.Expr>} NowTime: 0
+
+The Road is: x98888888888
+
+The Road is: x98888888888
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x898888
+
+The Road is: x898888
+insert:
+getFragmentInfo : &SymRegion{reg_$5<ExprType * b.Expr>} NowTime: 0
+
+The Road is: x898888
+
+The Road is: x898888
+insert:
+getFragmentInfo : &SymRegion{reg_$6<ExprType * c.Expr>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x888888888888888
+
+The Road is: x888888888888888
+NowTime: 0
+
+The Road is: x888888888888888
+
+The Road is: x888888888888888
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88898888
+
+The Road is: x88898888
+NowTime: 0
+
+The Road is: x88898888
+
+The Road is: x88898888
+insert:
+getFragmentInfo : &SymRegion{reg_$6<ExprType * c.Expr>} 
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x888898888
+
+The Road is: x888898888
+NowTime: 0
+
+The Road is: x888898888
+
+The Road is: x888898888
+insert:
+getFragmentInfo : &SymRegion{reg_$6<ExprType * c.Expr>} NowTime: 0
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9888898888
+
+The Road is: x9888898888
+insert:
+getFragmentInfo : &SymRegion{reg_$4<ExprType * a.Expr>} NowTime: 0
+
+The Road is: x9888898888
+
+The Road is: x9888898888
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88898888888888
+
+The Road is: x88898888888888
+NowTime: 0
+
+The Road is: x88898888888888
+
+The Road is: x88898888888888
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98888898888
+
+The Road is: x98888898888
+insert:
+getFragmentInfo : &SymRegion{reg_$4<ExprType * a.Expr>} NowTime: 0
+
+The Road is: x98888898888
+
+The Road is: x98888898888
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88888898888
+
+The Road is: x88888898888
+NowTime: 0
+
+The Road is: x88888898888
+
+The Road is: x88888898888
+insert:
+getFragmentInfo : &SymRegion{reg_$6<ExprType * c.Expr>} 
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x888888888898888
+
+The Road is: x888888888898888
+NowTime: 0
+
+The Road is: x888888888898888
+
+The Road is: x888888888898888
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8898898888
+
+The Road is: x8898898888
+insert:
+getFragmentInfo : &SymRegion{reg_$4<ExprType * a.Expr>} NowTime: 0
+
+The Road is: x8898898888
+
+The Road is: x8898898888
+insert:
+getFragmentInfo : &SymRegion{reg_$6<ExprType * c.Expr>} 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8889898888
+
+The Road is: x8889898888
+NowTime: 0
+
+The Road is: x8889898888
+
+The Road is: x8889898888
+insert:
+getFragmentInfo : &SymRegion{reg_$6<ExprType * c.Expr>} 
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8889888898888
+
+The Road is: x8889888898888
+NowTime: 0
+
+The Road is: x8889888898888
+
+The Road is: x8889888898888
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88898888898888
+
+The Road is: x88898888898888
+NowTime: 0
+
+The Road is: x88898888898888
+
+The Road is: x88898888898888
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88889898888
+
+The Road is: x88889898888
+NowTime: 0
+
+The Road is: x88889898888
+
+The Road is: x88889898888
+insert:
+getFragmentInfo : &SymRegion{reg_$6<ExprType * c.Expr>} 
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88889888898888
+
+The Road is: x88889888898888
+NowTime: 0
+
+The Road is: x88889888898888
+
+The Road is: x88889888898888
+
+
+
+
+
+
+
+
+
+
+
+
+/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_35.cpp:36:9: warning: Violation of Consistency [CompareCheck.FunctionChecker]
+   36 |         ConsistencyChecker();
+      |         ^~~~~~~~~~~~~~~~~~~~
+1 warning generated.
+Total paths analyzed: 0
+Total paths analyzed: 0
+Total paths analyzed: 0
+Total paths analyzed: 1
+Total paths analyzed: 7
+Total paths analyzed: 0

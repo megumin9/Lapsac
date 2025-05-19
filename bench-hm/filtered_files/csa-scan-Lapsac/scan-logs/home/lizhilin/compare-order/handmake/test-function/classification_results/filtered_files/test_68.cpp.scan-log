@@ -1,0 +1,497 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+strlen : &SymRegion{reg_$5<char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,class testclass}.var4>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x99999
+
+The Road is: x99999
+NowTime: 0
+
+The Road is: x99999
+
+The Road is: x99999
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+strlen : &SymRegion{reg_$6<char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,class testclass}.var4>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+strlen : &SymRegion{reg_$8<char * Element{SymRegion{reg_$5<testclass * b>},0 S64b,class testclass}.var4>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x99988
+
+The Road is: x99988
+NowTime: 0
+
+The Road is: x99988
+
+The Road is: x99988
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+strlen : &SymRegion{reg_$6<char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,class testclass}.var4>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+strlen : &SymRegion{reg_$8<char * Element{SymRegion{reg_$5<testclass * b>},0 S64b,class testclass}.var4>} 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9988
+
+The Road is: x9988
+NowTime: 0
+
+The Road is: x9988
+
+The Road is: x9988
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+strlen : &SymRegion{reg_$6<char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,class testclass}.var4>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+strlen : &SymRegion{reg_$8<char * Element{SymRegion{reg_$5<testclass * b>},0 S64b,class testclass}.var4>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x99988
+
+The Road is: x99988
+NowTime: 0
+
+The Road is: x99988
+
+The Road is: x99988
+insert:
+strlen : &SymRegion{reg_$13<char * Element{SymRegion{reg_$12<testclass * c>},0 S64b,class testclass}.var4>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9998899988
+
+The Road is: x9998899988
+NowTime: 0
+
+The Road is: x9998899988
+
+The Road is: x9998899988
+
+
+
+
+
+
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+NowTime: 0
+
+The Road is: x988
+
+The Road is: x988
+insert:
+strlen : &SymRegion{reg_$13<char * Element{SymRegion{reg_$12<testclass * c>},0 S64b,class testclass}.var4>} 
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x99988988
+
+The Road is: x99988988
+NowTime: 0
+
+The Road is: x99988988
+
+The Road is: x99988988
+
+
+
+
+
+The Error Road is: x9998899988988
+The Error Road is: x99988988988
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x988988
+
+The Road is: x988988
+NowTime: 0
+
+The Road is: x988988
+
+The Road is: x988988
+
+
+
+
+
+The Error Road is: x9998898899988
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x98899988
+
+The Road is: x98899988
+NowTime: 0
+
+The Road is: x98899988
+
+The Road is: x98899988
+
+
+
+
+
+The Error Road is: x98898899988
+The Error Road is: x98899988988
+The Error Road is: x9889998899988
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+strlen : &SymRegion{reg_$6<char * Element{SymRegion{reg_$4<testclass * a>},0 S64b,class testclass}.var4>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+strlen : &SymRegion{reg_$8<char * Element{SymRegion{reg_$5<testclass * b>},0 S64b,class testclass}.var4>} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x99998
+
+The Road is: x99998
+NowTime: 0
+
+The Road is: x99998
+
+The Road is: x99998
+insert:
+strlen : &SymRegion{reg_$13<char * Element{SymRegion{reg_$12<testclass * c>},0 S64b,class testclass}.var4>} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9999899998
+
+The Road is: x9999899998
+NowTime: 0
+
+The Road is: x9999899998
+
+The Road is: x9999899998
+
+
+
+
+
+
+
+
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9988
+
+The Road is: x9988
+NowTime: 0
+
+The Road is: x9988
+
+The Road is: x9988
+insert:
+strlen : &SymRegion{reg_$13<char * Element{SymRegion{reg_$12<testclass * c>},0 S64b,class testclass}.var4>} 
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x999989988
+
+The Road is: x999989988
+NowTime: 0
+
+The Road is: x999989988
+
+The Road is: x999989988
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+insert:
+strlen : &SymRegion{reg_$13<char * Element{SymRegion{reg_$12<testclass * c>},0 S64b,class testclass}.var4>} 
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9999888
+
+The Road is: x9999888
+NowTime: 0
+
+The Road is: x9999888
+
+The Road is: x9999888
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x998888
+
+The Road is: x998888
+NowTime: 0
+
+The Road is: x998888
+
+The Road is: x998888
+
+
+
+
+
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x99889988
+
+The Road is: x99889988
+NowTime: 1
+
+The Road is: x99889988
+
+The Road is: x99889988
+
+
+
+
+
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x998899998
+
+The Road is: x998899998
+NowTime: 1
+
+The Road is: x998899998
+
+The Road is: x998899998
+
+
+
+
+
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x8888
+
+The Road is: x8888
+NowTime: 1
+
+The Road is: x8888
+
+The Road is: x8888
+
+
+
+
+
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x889988
+
+The Road is: x889988
+NowTime: 1
+
+The Road is: x889988
+
+The Road is: x889988
+
+
+
+
+
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x8899998
+
+The Road is: x8899998
+NowTime: 1
+
+The Road is: x8899998
+
+The Road is: x8899998
+
+
+
+
+
+Total paths analyzed: 2
+Total paths analyzed: 4
+Total paths analyzed: 4
+Total paths analyzed: 16
+Total paths analyzed: 28

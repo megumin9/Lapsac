@@ -1,0 +1,4 @@
+/home/lizhilin/compare-order/real-project/tensorflow/test-lambda/test_99.cpp:16:18: error: invalid operands to binary expression ('const nb::handle' and 'const nb::handle')
+   16 |   return a.first < b.first;
+      |          ~~~~~~~ ^ ~~~~~~~
+1 error generated.

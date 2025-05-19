@@ -1,0 +1,382 @@
+{
+    "/home/lizhilin/compare-order/real-project/openvino/src/core/src/pattern/matcher.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const ov::Output<ov::Node>& n1, const ov::Output<ov::Node>& n2",
+            "is_const": false,
+            "body": "return n1 < n2;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/openvino/src/core/reference/include/openvino/reference/experimental_detectron_topk_rois.hpp": [
+        {
+            "header": "bool lambda0",
+            "params": "size_t i1, size_t i2",
+            "is_const": false,
+            "body": "return input_probs[i1] > input_probs[i2];"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/openvino/src/core/reference/include/openvino/reference/detection_output.hpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const std::pair<dataType, std::pair<int, int>>& p1, const std::pair<dataType, std::pair<int, int>>& p2",
+            "is_const": false,
+            "body": "return (p1.first > p2.first) || (p1.first == p2.first && p1.second.second < p2.second.second);"
+        },
+        {
+            "header": "bool lambda1",
+            "params": "const std::pair<dataType, std::pair<int, int>>& p1,\n                             const std::pair<dataType, std::pair<int, int>>& p2",
+            "is_const": false,
+            "body": "return (p1.first > p2.first) ||\n                                     (p1.first == p2.first && p1.second.second < p2.second.second);"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/openvino/src/core/reference/src/op/experimental_detectron_roi_feature_extractor.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "int64_t i1, int64_t i2",
+            "is_const": false,
+            "body": "return ranks[i1] < ranks[i2];"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/openvino/src/core/reference/src/op/matrix_nms.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const BoxInfo& l, const BoxInfo& r",
+            "is_const": false,
+            "body": "return (l.score > r.score) || (l.score == r.score && l.batch_index < r.batch_index) ||\n                       (l.score == r.score && l.batch_index == r.batch_index && l.class_index < r.class_index) ||\n                       (l.score == r.score && l.batch_index == r.batch_index && l.class_index == r.class_index &&\n                        l.index < r.index);"
+        },
+        {
+            "header": "bool lambda1",
+            "params": "const BoxInfo& l, const BoxInfo& r",
+            "is_const": false,
+            "body": "return (l.class_index < r.class_index) ||\n                       (l.class_index == r.class_index && l.batch_index < r.batch_index) ||\n                       (l.class_index == r.class_index && l.batch_index == r.batch_index && l.score > r.score) ||\n                       (l.class_index == r.class_index && l.batch_index == r.batch_index && l.score == r.score &&\n                        l.index < r.index);"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/openvino/src/core/reference/src/op/multiclass_nms.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const BoxInfo& l, const BoxInfo& r",
+            "is_const": false,
+            "body": "return ((l.batch_index == r.batch_index) &&\n                ((l.score > r.score) || ((std::fabs(l.score - r.score) < 1e-6) && l.class_index < r.class_index) ||\n                 ((std::fabs(l.score - r.score) < 1e-6) && l.class_index == r.class_index && l.index < r.index)));"
+        },
+        {
+            "header": "bool lambda1",
+            "params": "const BoxInfo& l, const BoxInfo& r",
+            "is_const": false,
+            "body": "return (\n                    (l.batch_index == r.batch_index) &&\n                    ((l.class_index < r.class_index) || ((l.class_index == r.class_index) && l.score > r.score) ||\n                     ((std::fabs(l.score - r.score) <= 1e-6) && l.class_index == r.class_index && l.index < r.index)));"
+        },
+        {
+            "header": "bool lambda2",
+            "params": "const BoxInfo& l, const BoxInfo& r",
+            "is_const": false,
+            "body": "return (l.score > r.score) || (l.score == r.score && l.batch_index < r.batch_index) ||\n                       (l.score == r.score && l.batch_index == r.batch_index && l.class_index < r.class_index) ||\n                       (l.score == r.score && l.batch_index == r.batch_index && l.class_index == r.class_index &&\n                        l.index < r.index);"
+        },
+        {
+            "header": "bool lambda3",
+            "params": "const BoxInfo& l, const BoxInfo& r",
+            "is_const": false,
+            "body": "return (l.class_index < r.class_index) ||\n                       (l.class_index == r.class_index && l.batch_index < r.batch_index) ||\n                       (l.class_index == r.class_index && l.batch_index == r.batch_index && l.score > r.score) ||\n                       (l.class_index == r.class_index && l.batch_index == r.batch_index && l.score == r.score &&\n                        l.index < r.index);"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/openvino/src/core/reference/src/op/non_max_suppression.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const BoxInfo& l, const BoxInfo& r",
+            "is_const": false,
+            "body": "bool is_score_equal = std::fabs(l.score - r.score) < 1e-6;\n            return (l.score > r.score) || (is_score_equal && l.batch_index < r.batch_index) ||\n                   (is_score_equal && l.batch_index == r.batch_index && l.class_index < r.class_index) ||\n                   (is_score_equal && l.batch_index == r.batch_index && l.class_index == r.class_index &&\n                    l.index < r.index);"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/openvino/src/tests/functional/plugin/conformance/subgraphs_dumper/src/matchers/subgraph/repeat_pattern.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const ov::NodeVector& a, const ov::NodeVector& b",
+            "is_const": false,
+            "body": "return a.size() > b.size();"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/openvino/src/tests/functional/plugin/conformance/subgraphs_dumper/src/utils/model_comparator.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const std::vector<size_t>& a, const std::vector<size_t>& b",
+            "is_const": false,
+            "body": "return a.size() > b.size();"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/openvino/src/plugins/intel_npu/tools/single-image-test/yolo_helpers.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const sortableYoloBBox& a, const sortableYoloBBox& b",
+            "is_const": false,
+            "body": "float diff = a.probs[a.index][b.cclass] - b.probs[b.index][b.cclass];\n            return diff > 0;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/openvino/src/plugins/intel_npu/tools/single-image-test/main.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const std::pair<int, float>& a, const std::pair<int, float>& b",
+            "is_const": false,
+            "body": "return a.second > b.second;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/openvino/src/plugins/intel_npu/tests/unit/npuw/online_partitioning.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const ov::npuw::Group& g1, const ov::npuw::Group& g2",
+            "is_const": false,
+            "body": "return g1.all_layers.front() < g2.all_layers.front();"
+        },
+        {
+            "header": "bool lambda1",
+            "params": "const ov::npuw::Group& g1, const ov::npuw::Group& g2",
+            "is_const": false,
+            "body": "return g1.all_layers.front() < g2.all_layers.front();"
+        },
+        {
+            "header": "bool lambda2",
+            "params": "const auto& a, const auto& b",
+            "is_const": false,
+            "body": "return *a.begin() < *b.begin();"
+        },
+        {
+            "header": "bool lambda3",
+            "params": "const auto& a, const auto& b",
+            "is_const": false,
+            "body": "return *a.front().begin() < *b.front().begin();"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/openvino/src/plugins/intel_npu/src/plugin/npuw/partitioning/partitioning.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const PairNodePtr& p1, const PairNodePtr& p2",
+            "is_const": false,
+            "body": "NPUW_ASSERT(p1.first->get_friendly_name() != p2.first->get_friendly_name());\n                      return p1.first->get_friendly_name() < p2.first->get_friendly_name();"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/openvino/src/plugins/intel_npu/src/plugin/npuw/partitioning/online/snapshot.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const own::ade::NodeHandle& nh1, const own::ade::NodeHandle& nh2",
+            "is_const": false,
+            "body": "Group::GPtr g1 = m_graph->meta(nh1).get<Group::GPtr>();\n                          Group::GPtr g2 = m_graph->meta(nh2).get<Group::GPtr>();\n                          return g1->size() < g2->size();"
+        },
+        {
+            "header": "bool lambda1",
+            "params": "const Group::GPtr& gptr_a, const Group::GPtr& gptr_b",
+            "is_const": false,
+            "body": "return gptr_a->getId() > gptr_b->getId();"
+        },
+        {
+            "header": "bool lambda2",
+            "params": "const auto& a, const auto& b",
+            "is_const": false,
+            "body": "return a.first->getId() > b.first->getId();"
+        },
+        {
+            "header": "bool lambda3",
+            "params": "const auto& a, const auto& b",
+            "is_const": false,
+            "body": "if (a.size() == b.size()) {\n            if (a.empty()) {\n                return false;  \n            }\n            return a.at(0).first->getId() > b.at(0).first->getId();\n        }\n        return a.size() > b.size();"
+        },
+        {
+            "header": "bool lambda4",
+            "params": "const Group::GPtr& gptr_a, const Group::GPtr& gptr_b",
+            "is_const": false,
+            "body": "return gptr_a->getId() > gptr_b->getId();"
+        },
+        {
+            "header": "bool lambda5",
+            "params": "const auto& a, const auto& b",
+            "is_const": false,
+            "body": "if (a.size() == b.size()) {\n            if (a.empty()) {\n                return false;  \n            }\n            \n            \n            \n            \n            \n            \n            return a.at(0).first->getId() > b.at(0).first->getId();\n        }\n        \n        \n        return a.size() > b.size();"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/openvino/src/plugins/intel_npu/src/plugin/npuw/partitioning/online/graph.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const own::ade::NodeHandle& a, const own::ade::NodeHandle& b",
+            "is_const": false,
+            "body": "auto locked_graph = m_graph.lock();\n                      return locked_graph->meta(a).get<detail::CreateIdx>().m_idx <\n                             locked_graph->meta(b).get<detail::CreateIdx>().m_idx;"
+        },
+        {
+            "header": "bool lambda1",
+            "params": "const own::ade::NodeHandle& a, const own::ade::NodeHandle& b",
+            "is_const": false,
+            "body": "auto locked_graph = m_graph.lock();\n        return locked_graph->meta(a).get<detail::CreateIdx>().m_idx <\n               locked_graph->meta(b).get<detail::CreateIdx>().m_idx;"
+        },
+        {
+            "header": "bool lambda2",
+            "params": "const own::ade::NodeHandle& a, const own::ade::NodeHandle& b",
+            "is_const": false,
+            "body": "return this->meta(a).get<detail::CreateIdx>().m_idx < this->meta(b).get<detail::CreateIdx>().m_idx;"
+        },
+        {
+            "header": "bool lambda3",
+            "params": "const own::ade::NodeHandle& a, const own::ade::NodeHandle& b",
+            "is_const": false,
+            "body": "return this->meta(a).get<detail::CreateIdx>().m_idx < this->meta(b).get<detail::CreateIdx>().m_idx;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/openvino/src/plugins/intel_gpu/src/graph/program.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "std::shared_ptr<program_node> const& lhs, std::shared_ptr<program_node> const& rhs",
+            "is_const": false,
+            "body": "auto lhs_layout = lhs->get_output_layout();\n                    auto rhs_layout = rhs->get_output_layout();\n                    if (lhs_layout.is_dynamic() && lhs_layout.has_upper_bound()) {\n                        lhs_layout.set_tensor(lhs_layout.get_tensor());\n                    }\n                    if (rhs_layout.is_dynamic() && rhs_layout.has_upper_bound()) {\n                        rhs_layout.set_tensor(rhs_layout.get_tensor());\n                    }\n\n                    if (rhs_layout.is_dynamic() && !rhs_layout.has_upper_bound() && lhs_layout.is_dynamic() && !lhs_layout.has_upper_bound()) {\n                        return po.get_processing_number(lhs.get()) < po.get_processing_number(rhs.get());\n                    }\n\n                    if (rhs_layout.is_dynamic())\n                        return true;\n                    if (lhs_layout.is_dynamic())\n                        return false;\n\n                    return (lhs_layout.bytes_count() > rhs_layout.bytes_count());"
+        },
+        {
+            "header": "bool lambda1",
+            "params": "program_node* const& lhs, program_node* const& rhs",
+            "is_const": false,
+            "body": "return (lhs->get_output_layout().bytes_count() > rhs->get_output_layout().bytes_count());"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/openvino/src/plugins/intel_gpu/src/graph/graph_optimizer/oooq_memory_dependencies.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const std::pair<cldnn::program_node*, unsigned int>& a, const std::pair<cldnn::program_node*, unsigned int>& b",
+            "is_const": false,
+            "body": "return a.second < b.second;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/openvino/src/plugins/intel_gpu/src/graph/impls/onednn/utils.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "size_t ind_l, size_t ind_r",
+            "is_const": false,
+            "body": "return (strides[ind_l] > strides[ind_r]);"
+        },
+        {
+            "header": "bool lambda1",
+            "params": "const std::pair<int64_t, size_t>& first, const std::pair<int64_t, size_t>& second",
+            "is_const": false,
+            "body": "return first.first > second.first;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/openvino/src/plugins/intel_gpu/src/graph/impls/cpu/non_max_suppression.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const result_indices& l, const result_indices& r",
+            "is_const": false,
+            "body": "return (l.score > r.score) || (l.score == r.score && l.batch_index < r.batch_index) ||\n                   (l.score == r.score && l.batch_index == r.batch_index && l.class_index < r.class_index) ||\n                   (l.score == r.score && l.batch_index == r.batch_index && l.class_index == r.class_index &&\n                    l.box_index < r.box_index);"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/openvino/src/plugins/intel_cpu/tests/functional/custom/subgraph_tests/src/common/concat_multiple_query_sdp.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "VariableState& a, VariableState& b",
+            "is_const": false,
+            "body": "return a.get_name() > b.get_name();"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/openvino/src/plugins/intel_cpu/tests/functional/custom/subgraph_tests/src/common/concat_transpose_sdp_transpose.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "VariableState& a, VariableState& b",
+            "is_const": false,
+            "body": "return a.get_name() > b.get_name();"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/openvino/src/plugins/intel_cpu/src/memory_desc/dnnl_blocked_memory_desc.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "size_t ind_l, size_t ind_r",
+            "is_const": false,
+            "body": "return (blk_desc.strides[ind_l] > blk_desc.strides[ind_r]) ||\n               (blk_desc.strides[ind_l] == blk_desc.strides[ind_r] &&\n                outer_block_dims[ind_l] > outer_block_dims[ind_r]);"
+        },
+        {
+            "header": "bool lambda1",
+            "params": "size_t ind_l, size_t ind_r",
+            "is_const": false,
+            "body": "return (actualStrides[ind_l] > actualStrides[ind_r]) ||\n                             (actualStrides[ind_l] == actualStrides[ind_r] &&\n                              outer_block_dims[ind_l] > outer_block_dims[ind_r]);"
+        },
+        {
+            "header": "bool lambda2",
+            "params": "size_t ind_l, size_t ind_r",
+            "is_const": false,
+            "body": "return (refStrides[ind_l] > refStrides[ind_r]) ||\n                   (refStrides[ind_l] == refStrides[ind_r] && outer_block_dims[ind_l] > outer_block_dims[ind_r]);"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/openvino/src/plugins/intel_cpu/src/nodes/experimental_detectron_roifeatureextractor.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "size_t i1, size_t i2",
+            "is_const": false,
+            "body": "return ranks[i1] < ranks[i2];"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/openvino/src/plugins/proxy/src/plugin.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const std::pair<std::string, size_t>& v1, const std::pair<std::string, size_t>& v2",
+            "is_const": false,
+            "body": "return v1.second < v2.second;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/openvino/src/frontends/onnx/frontend/src/core/model.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const OperatorSetIdProto& lhs, const OperatorSetIdProto& rhs",
+            "is_const": false,
+            "body": "return lhs.version() > rhs.version();"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/openvino/src/inference/dev_api/openvino/runtime/memory_solver.hpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const Box& l, const Box& r",
+            "is_const": false,
+            "body": "return l.size > r.size;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/openvino/src/common/transformations/src/transformations/common_optimizations/interpolate_sequence_fusion.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const std::pair<int64_t, int64_t>& a, const std::pair<int64_t, int64_t>& b",
+            "is_const": false,
+            "body": "return a.first < b.first;"
+        },
+        {
+            "header": "bool lambda1",
+            "params": "const std::pair<int64_t, float>& a, const std::pair<int64_t, float>& b",
+            "is_const": false,
+            "body": "return a.first < b.first;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/openvino/src/common/transformations/src/transformations/common_optimizations/shared_ops_optimization.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const std::shared_ptr<ov::Node>& a, const std::shared_ptr<ov::Node>& b",
+            "is_const": false,
+            "body": "return index_map[a] < index_map[b];"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/openvino/src/common/transformations/src/transformations/common_optimizations/optimize_strided_slice.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "OutputToPatrition lhs, OutputToPatrition rhs",
+            "is_const": false,
+            "body": "return lhs.begin < rhs.begin;"
+        },
+        {
+            "header": "bool lambda1",
+            "params": "const SliceWithAttrs& lhs, const SliceWithAttrs& rhs",
+            "is_const": false,
+            "body": "if (lhs.attrs.start == rhs.attrs.start)\n                return lhs.attrs.stop < rhs.attrs.stop;\n            return lhs.attrs.start < rhs.attrs.start;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/openvino/src/common/snippets/src/lowered/loop_info.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "size_t l, size_t r",
+            "is_const": false,
+            "body": "const auto& expr_port_l = ports[l].get_expr_port();\n            const auto& expr_port_r = ports[r].get_expr_port();\n            if (expr_port_l->get_expr() == expr_port_r->get_expr())\n                return expr_port_l->get_index() < expr_port_r->get_index();\n            return expr_port_l->get_expr()->get_exec_num() < expr_port_r->get_expr()->get_exec_num();"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/openvino/src/common/snippets/src/lowered/pass/set_buffer_reg_group.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const BufferExpressionPtr& lhs, const BufferExpressionPtr& rhs",
+            "is_const": false,
+            "body": "return lhs->get_exec_num() < rhs->get_exec_num();"
+        }
+    ]
+}

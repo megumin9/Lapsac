@@ -1,0 +1,941 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+toMap : &a NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+__builtin_is_constant_evaluated : NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+
+The Road is: x9999
+insert:
+load : &Base{qstring_literal.str.ref.atomic._q_value,__atomic_base} 0 U32b 
+The Road is: x9999
+insert:
+loadRelaxed : &qstring_literal.str.ref.atomic._q_value 
+The Road is: x9999
+insert:
+loadRelaxed : &qstring_literal.str.ref.atomic 
+The Road is: x9999
+insert:
+isStatic : &qstring_literal.str.ref NowTime: 0
+
+The Road is: x9999
+
+The Road is: x9999
+insert:
+qt_assert : &Element{"str.ref.isStatic()",0 S64b,char} &Element{"/usr/include/x86_64-linux-gnu/qt5/QtCore/qstringliteral.h",0 S64b,char} 96 S32b 
+The Road is: x9999
+insert:
+data_ptr : &qstring_literal NowTime: 0
+
+The Road is: x9999
+
+The Road is: x9999
+insert:
+value : &temp_object{QMap<QString, QVariant>, S7905103} &temp_object{QString, S7906254} &temp_object{const class QVariant, S7906338} NowTime: 0
+
+The Road is: x9999
+
+The Road is: x9999
+insert:
+toDouble : &temp_object{const class QVariant, S7906304} 0 (Loc) NowTime: 0
+
+The Road is: x9999
+
+The Road is: x9999
+NowTime: 0
+NowTime: 0
+
+The Road is: x9999
+NowTime: 0
+
+The Road is: x9999
+NowTime: 0
+
+The Road is: x9999
+NowTime: 0
+
+The Road is: x9999
+NowTime: 0
+
+The Road is: x9999
+NowTime: 0
+NowTime: 0
+
+The Road is: x9999
+
+The Road is: x9999
+NowTime: 0
+
+The Road is: x999999
+
+The Road is: x999999
+
+The Road is: x99999999
+
+The Road is: x99999999
+
+The Road is: x99999999
+
+The Road is: x99999999
+NowTime: 0
+
+The Road is: x99999999
+
+The Road is: x99999999
+
+The Road is: x99999999
+NowTime: 0
+
+The Road is: x99999999
+
+The Road is: x99999999
+insert:
+value : &temp_object{QMap<QString, QVariant>, S7906382} &temp_object{QString, S7906950} &temp_object{const class QVariant, S7907012} NowTime: 0
+
+The Road is: x99999999
+
+The Road is: x99999999
+insert:
+toDouble : &temp_object{const class QVariant, S7907000} 0 (Loc) 
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+toMap : &a NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+__builtin_is_constant_evaluated : NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+
+The Road is: x9999
+insert:
+load : &Base{qstring_literal.str.ref.atomic._q_value,__atomic_base} 0 U32b 
+The Road is: x9999
+insert:
+loadRelaxed : &qstring_literal.str.ref.atomic._q_value 
+The Road is: x9999
+insert:
+loadRelaxed : &qstring_literal.str.ref.atomic 
+The Road is: x9999
+insert:
+isStatic : &qstring_literal.str.ref NowTime: 0
+
+The Road is: x9999
+
+The Road is: x9999
+insert:
+qt_assert : &Element{"str.ref.isStatic()",0 S64b,char} &Element{"/usr/include/x86_64-linux-gnu/qt5/QtCore/qstringliteral.h",0 S64b,char} 96 S32b 
+The Road is: x9999
+insert:
+data_ptr : &qstring_literal NowTime: 0
+
+The Road is: x9999
+
+The Road is: x9999
+insert:
+value : &temp_object{QMap<QString, QVariant>, S7905103} &temp_object{QString, S7906254} &temp_object{const class QVariant, S7906338} NowTime: 0
+
+The Road is: x9999
+
+The Road is: x9999
+insert:
+toDouble : &temp_object{const class QVariant, S7906304} 0 (Loc) NowTime: 0
+
+The Road is: x9999
+
+The Road is: x9999
+insert:
+toMap : &b NowTime: 0
+NowTime: 0
+
+The Road is: x9999
+NowTime: 0
+
+The Road is: x9999
+NowTime: 0
+
+The Road is: x9999
+NowTime: 0
+
+The Road is: x9999
+NowTime: 0
+
+The Road is: x9999
+NowTime: 0
+NowTime: 0
+
+The Road is: x9999
+
+The Road is: x9999
+NowTime: 0
+
+The Road is: x999999
+
+The Road is: x999999
+
+The Road is: x99999999
+
+The Road is: x99999999
+
+The Road is: x99999999
+
+The Road is: x99999999
+NowTime: 0
+
+The Road is: x99999999
+
+The Road is: x99999999
+
+The Road is: x99999999
+NowTime: 0
+
+The Road is: x99999999
+
+The Road is: x99999999
+insert:
+value : &temp_object{QMap<QString, QVariant>, S7906382} &temp_object{QString, S7906950} &temp_object{const class QVariant, S7907012} NowTime: 0
+
+The Road is: x99999999
+
+The Road is: x99999999
+insert:
+toDouble : &temp_object{const class QVariant, S7907000} 0 (Loc) 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x99999999
+
+The Road is: x99999999
+NowTime: 0
+NowTime: 0
+
+The Road is: x99999999
+NowTime: 0
+
+The Road is: x99999999
+NowTime: 0
+
+The Road is: x99999999
+NowTime: 0
+
+The Road is: x99999999
+NowTime: 0
+
+The Road is: x99999999
+NowTime: 0
+NowTime: 0
+
+The Road is: x99999999
+
+The Road is: x99999999
+NowTime: 0
+
+The Road is: x9999999999
+
+The Road is: x9999999999
+
+The Road is: x999999999999
+
+The Road is: x999999999999
+
+The Road is: x999999999999
+
+The Road is: x999999999999
+NowTime: 0
+
+The Road is: x999999999999
+
+The Road is: x999999999999
+
+The Road is: x999999999999
+NowTime: 0
+
+The Road is: x999999999999
+
+The Road is: x999999999999
+NowTime: 0
+
+The Road is: x999999999999
+
+The Road is: x999999999999
+NowTime: 0
+
+The Road is: x999999999999
+
+The Road is: x999999999999
+NowTime: 0
+NowTime: 0
+
+The Road is: x999999999999
+NowTime: 0
+
+The Road is: x999999999999
+NowTime: 0
+
+The Road is: x999999999999
+NowTime: 0
+
+The Road is: x999999999999
+NowTime: 0
+
+The Road is: x999999999999
+NowTime: 0
+NowTime: 0
+
+The Road is: x999999999999
+
+The Road is: x999999999999
+NowTime: 0
+
+The Road is: x99999999999999
+
+The Road is: x99999999999999
+
+The Road is: x9999999999999999
+
+The Road is: x9999999999999999
+
+The Road is: x9999999999999999
+
+The Road is: x9999999999999999
+NowTime: 1
+
+The Road is: x9999999999999999
+
+The Road is: x9999999999999999
+
+The Road is: x9999999999999999
+NowTime: 1
+
+The Road is: x9999999999999999
+
+The Road is: x9999999999999999
+NowTime: 1
+
+The Road is: x9999999999999999
+
+The Road is: x9999999999999999
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+toMap : &a NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+__builtin_is_constant_evaluated : NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+
+The Road is: x9999
+insert:
+load : &Base{qstring_literal.str.ref.atomic._q_value,__atomic_base} 0 U32b 
+The Road is: x9999
+insert:
+loadRelaxed : &qstring_literal.str.ref.atomic._q_value 
+The Road is: x9999
+insert:
+loadRelaxed : &qstring_literal.str.ref.atomic 
+The Road is: x9999
+insert:
+isStatic : &qstring_literal.str.ref NowTime: 0
+
+The Road is: x9999
+
+The Road is: x9999
+insert:
+qt_assert : &Element{"str.ref.isStatic()",0 S64b,char} &Element{"/usr/include/x86_64-linux-gnu/qt5/QtCore/qstringliteral.h",0 S64b,char} 96 S32b 
+The Road is: x9999
+insert:
+data_ptr : &qstring_literal NowTime: 0
+
+The Road is: x9999
+
+The Road is: x9999
+insert:
+value : &temp_object{QMap<QString, QVariant>, S7905103} &temp_object{QString, S7906254} &temp_object{const class QVariant, S7906338} NowTime: 0
+
+The Road is: x9999
+
+The Road is: x9999
+insert:
+toDouble : &temp_object{const class QVariant, S7906304} 0 (Loc) NowTime: 0
+
+The Road is: x9999
+
+The Road is: x9999
+insert:
+toMap : &b NowTime: 0
+NowTime: 0
+
+The Road is: x9999
+NowTime: 0
+
+The Road is: x9999
+NowTime: 0
+
+The Road is: x9999
+NowTime: 0
+
+The Road is: x9999
+NowTime: 0
+
+The Road is: x9999
+NowTime: 0
+NowTime: 0
+
+The Road is: x9999
+
+The Road is: x9999
+NowTime: 0
+
+The Road is: x999999
+
+The Road is: x999999
+
+The Road is: x99999999
+
+The Road is: x99999999
+
+The Road is: x99999999
+
+The Road is: x99999999
+NowTime: 0
+
+The Road is: x99999999
+
+The Road is: x99999999
+
+The Road is: x99999999
+NowTime: 0
+
+The Road is: x99999999
+
+The Road is: x99999999
+insert:
+value : &temp_object{QMap<QString, QVariant>, S7906382} &temp_object{QString, S7906950} &temp_object{const class QVariant, S7907012} NowTime: 0
+
+The Road is: x99999999
+
+The Road is: x99999999
+insert:
+toDouble : &temp_object{const class QVariant, S7907000} 0 (Loc) 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x99999999
+
+The Road is: x99999999
+NowTime: 0
+NowTime: 0
+
+The Road is: x99999999
+NowTime: 0
+
+The Road is: x99999999
+NowTime: 0
+
+The Road is: x99999999
+NowTime: 0
+
+The Road is: x99999999
+NowTime: 0
+
+The Road is: x99999999
+NowTime: 0
+NowTime: 0
+
+The Road is: x99999999
+
+The Road is: x99999999
+NowTime: 0
+
+The Road is: x9999999999
+
+The Road is: x9999999999
+
+The Road is: x999999999999
+
+The Road is: x999999999999
+
+The Road is: x999999999999
+
+The Road is: x999999999999
+NowTime: 0
+
+The Road is: x999999999999
+
+The Road is: x999999999999
+
+The Road is: x999999999999
+NowTime: 0
+
+The Road is: x999999999999
+
+The Road is: x999999999999
+NowTime: 0
+
+The Road is: x999999999999
+
+The Road is: x999999999999
+NowTime: 0
+
+The Road is: x999999999999
+
+The Road is: x999999999999
+NowTime: 0
+NowTime: 0
+
+The Road is: x999999999999
+NowTime: 0
+
+The Road is: x999999999999
+NowTime: 0
+
+The Road is: x999999999999
+NowTime: 0
+
+The Road is: x999999999999
+NowTime: 0
+
+The Road is: x999999999999
+NowTime: 0
+NowTime: 0
+
+The Road is: x999999999999
+
+The Road is: x999999999999
+NowTime: 0
+
+The Road is: x99999999999999
+
+The Road is: x99999999999999
+
+The Road is: x9999999999999999
+
+The Road is: x9999999999999999
+
+The Road is: x9999999999999999
+
+The Road is: x9999999999999999
+NowTime: 1
+
+The Road is: x9999999999999999
+
+The Road is: x9999999999999999
+
+The Road is: x9999999999999999
+NowTime: 1
+
+The Road is: x9999999999999999
+
+The Road is: x9999999999999999
+NowTime: 1
+
+The Road is: x9999999999999999
+
+The Road is: x9999999999999999
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+toMap : &a NowTime: 0
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+NowTime: 0
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+__builtin_is_constant_evaluated : NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+
+The Road is: x9999
+insert:
+load : &Base{qstring_literal.str.ref.atomic._q_value,__atomic_base} 0 U32b 
+The Road is: x9999
+insert:
+loadRelaxed : &qstring_literal.str.ref.atomic._q_value 
+The Road is: x9999
+insert:
+loadRelaxed : &qstring_literal.str.ref.atomic 
+The Road is: x9999
+insert:
+isStatic : &qstring_literal.str.ref NowTime: 0
+
+The Road is: x9999
+
+The Road is: x9999
+insert:
+qt_assert : &Element{"str.ref.isStatic()",0 S64b,char} &Element{"/usr/include/x86_64-linux-gnu/qt5/QtCore/qstringliteral.h",0 S64b,char} 96 S32b 
+The Road is: x9999
+insert:
+data_ptr : &qstring_literal NowTime: 0
+
+The Road is: x9999
+
+The Road is: x9999
+insert:
+value : &temp_object{QMap<QString, QVariant>, S7905103} &temp_object{QString, S7906254} &temp_object{const class QVariant, S7906338} NowTime: 0
+
+The Road is: x9999
+
+The Road is: x9999
+insert:
+toDouble : &temp_object{const class QVariant, S7906304} 0 (Loc) NowTime: 0
+
+The Road is: x9999
+
+The Road is: x9999
+insert:
+toMap : &b NowTime: 0
+NowTime: 0
+
+The Road is: x9999
+NowTime: 0
+
+The Road is: x9999
+NowTime: 0
+
+The Road is: x9999
+NowTime: 0
+
+The Road is: x9999
+NowTime: 0
+
+The Road is: x9999
+NowTime: 0
+NowTime: 0
+
+The Road is: x9999
+
+The Road is: x9999
+NowTime: 0
+
+The Road is: x999999
+
+The Road is: x999999
+
+The Road is: x99999999
+
+The Road is: x99999999
+
+The Road is: x99999999
+
+The Road is: x99999999
+NowTime: 0
+
+The Road is: x99999999
+
+The Road is: x99999999
+
+The Road is: x99999999
+NowTime: 0
+
+The Road is: x99999999
+
+The Road is: x99999999
+insert:
+value : &temp_object{QMap<QString, QVariant>, S7906382} &temp_object{QString, S7906950} &temp_object{const class QVariant, S7907012} NowTime: 0
+
+The Road is: x99999999
+
+The Road is: x99999999
+insert:
+toDouble : &temp_object{const class QVariant, S7907000} 0 (Loc) 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x99999999
+
+The Road is: x99999999
+NowTime: 0
+NowTime: 0
+
+The Road is: x99999999
+NowTime: 0
+
+The Road is: x99999999
+NowTime: 0
+
+The Road is: x99999999
+NowTime: 0
+
+The Road is: x99999999
+NowTime: 0
+
+The Road is: x99999999
+NowTime: 0
+NowTime: 0
+
+The Road is: x99999999
+
+The Road is: x99999999
+NowTime: 0
+
+The Road is: x9999999999
+
+The Road is: x9999999999
+
+The Road is: x999999999999
+
+The Road is: x999999999999
+
+The Road is: x999999999999
+
+The Road is: x999999999999
+NowTime: 0
+
+The Road is: x999999999999
+
+The Road is: x999999999999
+
+The Road is: x999999999999
+NowTime: 0
+
+The Road is: x999999999999
+
+The Road is: x999999999999
+NowTime: 0
+
+The Road is: x999999999999
+
+The Road is: x999999999999
+NowTime: 0
+
+The Road is: x999999999999
+
+The Road is: x999999999999
+insert:
+toMap : &c NowTime: 0
+NowTime: 0
+
+The Road is: x999999999999
+NowTime: 0
+
+The Road is: x999999999999
+NowTime: 0
+
+The Road is: x999999999999
+NowTime: 0
+
+The Road is: x999999999999
+NowTime: 0
+
+The Road is: x999999999999
+NowTime: 0
+NowTime: 0
+
+The Road is: x999999999999
+
+The Road is: x999999999999
+NowTime: 0
+
+The Road is: x99999999999999
+
+The Road is: x99999999999999
+
+The Road is: x9999999999999999
+
+The Road is: x9999999999999999
+
+The Road is: x9999999999999999
+
+The Road is: x9999999999999999
+NowTime: 1
+
+The Road is: x9999999999999999
+
+The Road is: x9999999999999999
+
+The Road is: x9999999999999999
+NowTime: 1
+
+The Road is: x9999999999999999
+
+The Road is: x9999999999999999
+NowTime: 2
+
+The Road is: x9999999999999999
+
+The Road is: x9999999999999999
+
+NowTime: 2
+
+NowTime: 2
+
+The Road is: x9999999999999999
+
+The Road is: x9999999999999999
+NowTime: 2
+NowTime: 2
+
+The Road is: x9999999999999999
+NowTime: 2
+
+The Road is: x9999999999999999
+NowTime: 2
+
+The Road is: x9999999999999999
+NowTime: 2
+
+The Road is: x9999999999999999
+NowTime: 2
+
+The Road is: x9999999999999999
+NowTime: 2
+NowTime: 2
+
+The Road is: x9999999999999999
+
+The Road is: x9999999999999999
+NowTime: 2
+
+The Road is: x999999999999999999
+
+The Road is: x999999999999999999
+
+The Road is: x99999999999999999999
+
+The Road is: x99999999999999999999
+
+The Road is: x99999999999999999999
+
+The Road is: x99999999999999999999
+NowTime: 4
+
+The Road is: x99999999999999999999
+
+The Road is: x99999999999999999999
+
+The Road is: x99999999999999999999
+NowTime: 6
+
+The Road is: x99999999999999999999
+
+The Road is: x99999999999999999999

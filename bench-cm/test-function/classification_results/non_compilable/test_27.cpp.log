@@ -1,0 +1,10 @@
+/home/lizhilin/compare-order/testdataset/test-function/test_27.cpp:4:24: error: declaration conflicts with target of using declaration already in scope
+    4 | namespace std { size_t strlen(const char*); }
+      |                        ^
+/usr/include/string.h:385:15: note: target of using declaration
+  385 | extern size_t strlen (const char *__s)
+      |               ^
+/usr/lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/cstring:88:11: note: using declaration
+   88 |   using ::strlen;
+      |           ^
+1 error generated.

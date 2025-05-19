@@ -1,0 +1,422 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get_name : &SymRegion{reg_$4<VariableState & a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+-----------------
+Now have get_name
+insert:
+compare : &temp_object{std::string, S6166721} &temp_object{std::string, S6166769} 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get_name : &SymRegion{reg_$4<VariableState & a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get_name : &SymRegion{reg_$5<VariableState & b>} NowTime: 0
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+Now have get_name
+Now have get_name
+insert:
+compare : &temp_object{std::string, S6166721} &temp_object{std::string, S6166769} 
+
+The Road is: x2
+-----------------
+Now have get_name
+Now have get_name
+insert:
+compare : &temp_object{std::string, S6166721} &temp_object{std::string, S6166769} 
+
+The Road is: x1
+-----------------
+Now have get_name
+Now have get_name
+insert:
+compare : &temp_object{std::string, S6166721} &temp_object{std::string, S6166769} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+-----------------
+Now have get_name
+Now have get_name
+Now have compare
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get_name : &SymRegion{reg_$4<VariableState & a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get_name : &SymRegion{reg_$5<VariableState & b>} NowTime: 0
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+Now have get_name
+Now have get_name
+insert:
+compare : &temp_object{std::string, S6166721} &temp_object{std::string, S6166769} 
+
+The Road is: x2
+-----------------
+Now have get_name
+Now have get_name
+insert:
+compare : &temp_object{std::string, S6166721} &temp_object{std::string, S6166769} 
+
+The Road is: x1
+-----------------
+Now have get_name
+Now have get_name
+insert:
+compare : &temp_object{std::string, S6166721} &temp_object{std::string, S6166769} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+-----------------
+Now have get_name
+Now have get_name
+Now have compare
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get_name : &SymRegion{reg_$4<VariableState & a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get_name : &SymRegion{reg_$5<VariableState & b>} NowTime: 0
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+Now have get_name
+Now have get_name
+insert:
+compare : &temp_object{std::string, S6166721} &temp_object{std::string, S6166769} 
+
+The Road is: x2
+-----------------
+Now have get_name
+Now have get_name
+insert:
+compare : &temp_object{std::string, S6166721} &temp_object{std::string, S6166769} 
+
+The Road is: x1
+-----------------
+Now have get_name
+Now have get_name
+insert:
+compare : &temp_object{std::string, S6166721} &temp_object{std::string, S6166769} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+insert:
+get_name : &SymRegion{reg_$19<VariableState & c>} NowTime: 0
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+-----------------
+Now have get_name
+Now have get_name
+Now have compare
+Now have get_name
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 0
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 0
+NowTime: 0
+
+The Road is: x188
+
+The Road is: x188
+-----------------
+Now have get_name
+Now have get_name
+Now have compare
+Now have get_name
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get_name : &SymRegion{reg_$4<VariableState & a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+get_name : &SymRegion{reg_$5<VariableState & b>} NowTime: 0
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+Now have get_name
+Now have get_name
+insert:
+compare : &temp_object{std::string, S6166721} &temp_object{std::string, S6166769} 
+
+The Road is: x2
+-----------------
+Now have get_name
+Now have get_name
+insert:
+compare : &temp_object{std::string, S6166721} &temp_object{std::string, S6166769} 
+
+The Road is: x1
+-----------------
+Now have get_name
+Now have get_name
+insert:
+compare : &temp_object{std::string, S6166721} &temp_object{std::string, S6166769} 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x28
+
+The Road is: x28
+NowTime: 0
+
+The Road is: x28
+
+The Road is: x28
+insert:
+get_name : &SymRegion{reg_$19<VariableState & c>} NowTime: 0
+NowTime: 0
+
+The Road is: x28
+
+The Road is: x28
+-----------------
+Now have get_name
+Now have get_name
+Now have compare
+Now have get_name
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x288
+
+The Road is: x288
+NowTime: 0
+
+The Road is: x288
+
+The Road is: x288
+NowTime: 0
+NowTime: 0
+
+The Road is: x288
+
+The Road is: x288
+-----------------
+Now have get_name
+Now have get_name
+Now have compare
+Now have get_name
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+insert:
+get_name : &SymRegion{reg_$19<VariableState & c>} NowTime: 0
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+-----------------
+Now have get_name
+Now have get_name
+Now have compare
+Now have get_name
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x088
+
+The Road is: x088
+NowTime: 0
+
+The Road is: x088
+
+The Road is: x088
+NowTime: 0
+NowTime: 0
+
+The Road is: x088
+
+The Road is: x088
+-----------------
+Now have get_name
+Now have get_name
+Now have compare
+Now have get_name
+
+Total paths analyzed: 0
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 0

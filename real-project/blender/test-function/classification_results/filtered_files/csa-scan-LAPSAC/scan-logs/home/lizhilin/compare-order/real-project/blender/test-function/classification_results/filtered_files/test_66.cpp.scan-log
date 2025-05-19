@@ -1,0 +1,192 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+-----------------
+insert:
+_comp : reg_$4<int a.second> reg_$4<int a.second> 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x0
+-----------------
+insert:
+_comp : reg_$4<int a.second> reg_$5<int b.second> 
+
+The Road is: x1
+-----------------
+insert:
+_comp : reg_$4<int a.second> reg_$5<int b.second> 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+-----------------
+Now have _comp
+insert:
+_comp : reg_$5<int b.second> reg_$4<int a.second> 
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x0
+-----------------
+insert:
+_comp : reg_$4<int a.second> reg_$5<int b.second> 
+
+The Road is: x1
+-----------------
+insert:
+_comp : reg_$4<int a.second> reg_$5<int b.second> 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+-----------------
+Now have _comp
+insert:
+_comp : reg_$5<int b.second> reg_$4<int a.second> 
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x0
+-----------------
+insert:
+_comp : reg_$4<int a.second> reg_$5<int b.second> 
+
+The Road is: x1
+-----------------
+insert:
+_comp : reg_$4<int a.second> reg_$5<int b.second> 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x180
+-----------------
+Now have _comp
+insert:
+_comp : reg_$5<int b.second> reg_$7<int c.second> 
+
+The Road is: x181
+-----------------
+Now have _comp
+insert:
+_comp : reg_$5<int b.second> reg_$7<int c.second> 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x1818
+
+The Road is: x1818
+-----------------
+Now have _comp
+Now have _comp
+insert:
+_comp : reg_$7<int c.second> reg_$4<int a.second> 
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x0
+-----------------
+insert:
+_comp : reg_$4<int a.second> reg_$5<int b.second> 
+
+The Road is: x1
+-----------------
+insert:
+_comp : reg_$4<int a.second> reg_$5<int b.second> 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x080
+-----------------
+Now have _comp
+insert:
+_comp : reg_$5<int b.second> reg_$7<int c.second> 
+
+The Road is: x081
+-----------------
+Now have _comp
+insert:
+_comp : reg_$5<int b.second> reg_$7<int c.second> 
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x0808
+
+The Road is: x0808
+-----------------
+Now have _comp
+Now have _comp
+insert:
+_comp : reg_$4<int a.second> reg_$7<int c.second> 
+
+Total paths analyzed: 0
+Total paths analyzed: 0
+Total paths analyzed: 0
+Total paths analyzed: 0
+Total paths analyzed: 0

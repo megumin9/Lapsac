@@ -1,0 +1,425 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+-----------------
+insert:
+axis_pt_cmp : reg_$6<int Element{SymRegion{reg_$5<struct EdgeGroupIsland * Element{SymRegion{reg_$4<EdgeGroupIsland * a>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.min_axis> reg_$6<int Element{SymRegion{reg_$5<struct EdgeGroupIsland * Element{SymRegion{reg_$4<EdgeGroupIsland * a>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.min_axis> 
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+-----------------
+Now have axis_pt_cmp
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x89
+
+The Road is: x89
+-----------------
+Now have axis_pt_cmp
+NowTime: 0
+
+The Road is: x898
+
+The Road is: x898
+-----------------
+Now have axis_pt_cmp
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+insert:
+axis_pt_cmp : reg_$8<int Element{SymRegion{reg_$6<struct EdgeGroupIsland * Element{SymRegion{reg_$4<EdgeGroupIsland * a>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.min_axis> reg_$9<int Element{SymRegion{reg_$7<struct EdgeGroupIsland * Element{SymRegion{reg_$5<EdgeGroupIsland * b>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.min_axis> 
+
+The Road is: x2
+-----------------
+insert:
+axis_pt_cmp : reg_$8<int Element{SymRegion{reg_$6<struct EdgeGroupIsland * Element{SymRegion{reg_$4<EdgeGroupIsland * a>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.min_axis> reg_$9<int Element{SymRegion{reg_$7<struct EdgeGroupIsland * Element{SymRegion{reg_$5<EdgeGroupIsland * b>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.min_axis> 
+
+The Road is: x1
+-----------------
+insert:
+axis_pt_cmp : reg_$8<int Element{SymRegion{reg_$6<struct EdgeGroupIsland * Element{SymRegion{reg_$4<EdgeGroupIsland * a>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.min_axis> reg_$9<int Element{SymRegion{reg_$7<struct EdgeGroupIsland * Element{SymRegion{reg_$5<EdgeGroupIsland * b>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.min_axis> 
+NowTime: 0
+
+The Road is: x28
+
+The Road is: x28
+-----------------
+Now have axis_pt_cmp
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x098
+
+The Road is: x098
+-----------------
+Now have axis_pt_cmp
+insert:
+axis_pt_cmp : reg_$9<int Element{SymRegion{reg_$7<struct EdgeGroupIsland * Element{SymRegion{reg_$5<EdgeGroupIsland * b>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.min_axis> reg_$8<int Element{SymRegion{reg_$6<struct EdgeGroupIsland * Element{SymRegion{reg_$4<EdgeGroupIsland * a>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.min_axis> 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+insert:
+axis_pt_cmp : reg_$8<int Element{SymRegion{reg_$6<struct EdgeGroupIsland * Element{SymRegion{reg_$4<EdgeGroupIsland * a>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.min_axis> reg_$9<int Element{SymRegion{reg_$7<struct EdgeGroupIsland * Element{SymRegion{reg_$5<EdgeGroupIsland * b>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.min_axis> 
+
+The Road is: x2
+-----------------
+insert:
+axis_pt_cmp : reg_$8<int Element{SymRegion{reg_$6<struct EdgeGroupIsland * Element{SymRegion{reg_$4<EdgeGroupIsland * a>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.min_axis> reg_$9<int Element{SymRegion{reg_$7<struct EdgeGroupIsland * Element{SymRegion{reg_$5<EdgeGroupIsland * b>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.min_axis> 
+
+The Road is: x1
+-----------------
+insert:
+axis_pt_cmp : reg_$8<int Element{SymRegion{reg_$6<struct EdgeGroupIsland * Element{SymRegion{reg_$4<EdgeGroupIsland * a>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.min_axis> reg_$9<int Element{SymRegion{reg_$7<struct EdgeGroupIsland * Element{SymRegion{reg_$5<EdgeGroupIsland * b>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.min_axis> 
+NowTime: 0
+
+The Road is: x28
+
+The Road is: x28
+-----------------
+Now have axis_pt_cmp
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x198
+
+The Road is: x198
+-----------------
+Now have axis_pt_cmp
+insert:
+axis_pt_cmp : reg_$9<int Element{SymRegion{reg_$7<struct EdgeGroupIsland * Element{SymRegion{reg_$5<EdgeGroupIsland * b>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.min_axis> reg_$8<int Element{SymRegion{reg_$6<struct EdgeGroupIsland * Element{SymRegion{reg_$4<EdgeGroupIsland * a>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.min_axis> 
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+insert:
+axis_pt_cmp : reg_$8<int Element{SymRegion{reg_$6<struct EdgeGroupIsland * Element{SymRegion{reg_$4<EdgeGroupIsland * a>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.min_axis> reg_$9<int Element{SymRegion{reg_$7<struct EdgeGroupIsland * Element{SymRegion{reg_$5<EdgeGroupIsland * b>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.min_axis> 
+
+The Road is: x2
+-----------------
+insert:
+axis_pt_cmp : reg_$8<int Element{SymRegion{reg_$6<struct EdgeGroupIsland * Element{SymRegion{reg_$4<EdgeGroupIsland * a>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.min_axis> reg_$9<int Element{SymRegion{reg_$7<struct EdgeGroupIsland * Element{SymRegion{reg_$5<EdgeGroupIsland * b>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.min_axis> 
+
+The Road is: x1
+-----------------
+insert:
+axis_pt_cmp : reg_$8<int Element{SymRegion{reg_$6<struct EdgeGroupIsland * Element{SymRegion{reg_$4<EdgeGroupIsland * a>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.min_axis> reg_$9<int Element{SymRegion{reg_$7<struct EdgeGroupIsland * Element{SymRegion{reg_$5<EdgeGroupIsland * b>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.min_axis> 
+NowTime: 0
+
+The Road is: x28
+
+The Road is: x28
+-----------------
+Now have axis_pt_cmp
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x098
+The road length:3
+The road length:3
+The road length:3
+
+The Road is: x0980
+-----------------
+Now have axis_pt_cmp
+insert:
+axis_pt_cmp : reg_$9<int Element{SymRegion{reg_$7<struct EdgeGroupIsland * Element{SymRegion{reg_$5<EdgeGroupIsland * b>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.min_axis> reg_$16<int Element{SymRegion{reg_$15<struct EdgeGroupIsland * Element{SymRegion{reg_$14<EdgeGroupIsland * c>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.min_axis> 
+
+The Road is: x0982
+-----------------
+Now have axis_pt_cmp
+insert:
+axis_pt_cmp : reg_$9<int Element{SymRegion{reg_$7<struct EdgeGroupIsland * Element{SymRegion{reg_$5<EdgeGroupIsland * b>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.min_axis> reg_$16<int Element{SymRegion{reg_$15<struct EdgeGroupIsland * Element{SymRegion{reg_$14<EdgeGroupIsland * c>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.min_axis> 
+
+The Road is: x0981
+-----------------
+Now have axis_pt_cmp
+insert:
+axis_pt_cmp : reg_$9<int Element{SymRegion{reg_$7<struct EdgeGroupIsland * Element{SymRegion{reg_$5<EdgeGroupIsland * b>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.min_axis> reg_$16<int Element{SymRegion{reg_$15<struct EdgeGroupIsland * Element{SymRegion{reg_$14<EdgeGroupIsland * c>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.min_axis> 
+NowTime: 0
+
+The Road is: x09828
+
+The Road is: x09828
+-----------------
+Now have axis_pt_cmp
+Now have axis_pt_cmp
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x098098
+
+The Road is: x098098
+-----------------
+Now have axis_pt_cmp
+Now have axis_pt_cmp
+insert:
+axis_pt_cmp : reg_$16<int Element{SymRegion{reg_$15<struct EdgeGroupIsland * Element{SymRegion{reg_$14<EdgeGroupIsland * c>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.min_axis> reg_$8<int Element{SymRegion{reg_$6<struct EdgeGroupIsland * Element{SymRegion{reg_$4<EdgeGroupIsland * a>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.min_axis> 
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+insert:
+axis_pt_cmp : reg_$8<int Element{SymRegion{reg_$6<struct EdgeGroupIsland * Element{SymRegion{reg_$4<EdgeGroupIsland * a>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.min_axis> reg_$9<int Element{SymRegion{reg_$7<struct EdgeGroupIsland * Element{SymRegion{reg_$5<EdgeGroupIsland * b>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.min_axis> 
+
+The Road is: x2
+-----------------
+insert:
+axis_pt_cmp : reg_$8<int Element{SymRegion{reg_$6<struct EdgeGroupIsland * Element{SymRegion{reg_$4<EdgeGroupIsland * a>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.min_axis> reg_$9<int Element{SymRegion{reg_$7<struct EdgeGroupIsland * Element{SymRegion{reg_$5<EdgeGroupIsland * b>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.min_axis> 
+
+The Road is: x1
+-----------------
+insert:
+axis_pt_cmp : reg_$8<int Element{SymRegion{reg_$6<struct EdgeGroupIsland * Element{SymRegion{reg_$4<EdgeGroupIsland * a>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.min_axis> reg_$9<int Element{SymRegion{reg_$7<struct EdgeGroupIsland * Element{SymRegion{reg_$5<EdgeGroupIsland * b>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.min_axis> 
+NowTime: 0
+
+The Road is: x28
+
+The Road is: x28
+-----------------
+Now have axis_pt_cmp
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x288
+The road length:3
+The road length:3
+The road length:3
+
+The Road is: x2880
+-----------------
+Now have axis_pt_cmp
+insert:
+axis_pt_cmp : reg_$9<int Element{SymRegion{reg_$7<struct EdgeGroupIsland * Element{SymRegion{reg_$5<EdgeGroupIsland * b>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.min_axis> reg_$16<int Element{SymRegion{reg_$15<struct EdgeGroupIsland * Element{SymRegion{reg_$14<EdgeGroupIsland * c>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.min_axis> 
+
+The Road is: x2882
+-----------------
+Now have axis_pt_cmp
+
+The Road is: x2881
+-----------------
+Now have axis_pt_cmp
+insert:
+axis_pt_cmp : reg_$9<int Element{SymRegion{reg_$7<struct EdgeGroupIsland * Element{SymRegion{reg_$5<EdgeGroupIsland * b>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.min_axis> reg_$16<int Element{SymRegion{reg_$15<struct EdgeGroupIsland * Element{SymRegion{reg_$14<EdgeGroupIsland * c>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.min_axis> 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x288198
+
+The Road is: x288198
+-----------------
+Now have axis_pt_cmp
+Now have axis_pt_cmp
+
+NowTime: 0
+
+The Road is: x28828
+The road length:5
+The road length:5
+The road length:5
+
+The Road is: x288280
+-----------------
+Now have axis_pt_cmp
+insert:
+axis_pt_cmp : reg_$12<int Element{SymRegion{reg_$7<struct EdgeGroupIsland * Element{SymRegion{reg_$5<EdgeGroupIsland * b>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.max_axis> reg_$19<int Element{SymRegion{reg_$15<struct EdgeGroupIsland * Element{SymRegion{reg_$14<EdgeGroupIsland * c>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.max_axis> 
+
+The Road is: x288282
+-----------------
+Now have axis_pt_cmp
+
+The Road is: x288281
+-----------------
+Now have axis_pt_cmp
+insert:
+axis_pt_cmp : reg_$12<int Element{SymRegion{reg_$7<struct EdgeGroupIsland * Element{SymRegion{reg_$5<EdgeGroupIsland * b>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.max_axis> reg_$19<int Element{SymRegion{reg_$15<struct EdgeGroupIsland * Element{SymRegion{reg_$14<EdgeGroupIsland * c>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.max_axis> 
+
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x198
+The road length:3
+The road length:3
+The road length:3
+
+The Road is: x1980
+-----------------
+Now have axis_pt_cmp
+insert:
+axis_pt_cmp : reg_$9<int Element{SymRegion{reg_$7<struct EdgeGroupIsland * Element{SymRegion{reg_$5<EdgeGroupIsland * b>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.min_axis> reg_$16<int Element{SymRegion{reg_$15<struct EdgeGroupIsland * Element{SymRegion{reg_$14<EdgeGroupIsland * c>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.min_axis> 
+
+The Road is: x1982
+-----------------
+Now have axis_pt_cmp
+insert:
+axis_pt_cmp : reg_$9<int Element{SymRegion{reg_$7<struct EdgeGroupIsland * Element{SymRegion{reg_$5<EdgeGroupIsland * b>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.min_axis> reg_$16<int Element{SymRegion{reg_$15<struct EdgeGroupIsland * Element{SymRegion{reg_$14<EdgeGroupIsland * c>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.min_axis> 
+
+The Road is: x1981
+-----------------
+Now have axis_pt_cmp
+insert:
+axis_pt_cmp : reg_$9<int Element{SymRegion{reg_$7<struct EdgeGroupIsland * Element{SymRegion{reg_$5<EdgeGroupIsland * b>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.min_axis> reg_$16<int Element{SymRegion{reg_$15<struct EdgeGroupIsland * Element{SymRegion{reg_$14<EdgeGroupIsland * c>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.min_axis> 
+NowTime: 1
+
+The Road is: x19828
+
+The Road is: x19828
+-----------------
+Now have axis_pt_cmp
+Now have axis_pt_cmp
+
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x2882818
+
+The Road is: x2882818
+-----------------
+Now have axis_pt_cmp
+Now have axis_pt_cmp
+NowTime: 2
+
+The Road is: x28828188
+
+The Road is: x28828188
+-----------------
+Now have axis_pt_cmp
+Now have axis_pt_cmp
+
+
+
+NowTime: 3
+
+NowTime: 3
+
+The Road is: x2882828
+
+The Road is: x2882828
+-----------------
+Now have axis_pt_cmp
+NowTime: 5
+
+The Road is: x28828288
+
+The Road is: x28828288
+-----------------
+Now have axis_pt_cmp
+
+
+
+
+NowTime: 7
+
+NowTime: 7
+
+The Road is: x198198
+
+The Road is: x198198
+-----------------
+Now have axis_pt_cmp
+Now have axis_pt_cmp
+insert:
+axis_pt_cmp : reg_$8<int Element{SymRegion{reg_$6<struct EdgeGroupIsland * Element{SymRegion{reg_$4<EdgeGroupIsland * a>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.min_axis> reg_$16<int Element{SymRegion{reg_$15<struct EdgeGroupIsland * Element{SymRegion{reg_$14<EdgeGroupIsland * c>},0 S64b,struct EdgeGroupIsland *}>},0 S64b,struct EdgeGroupIsland}.vert_span.min_axis> 
+
+
+
+NowTime: 7
+
+NowTime: 7
+
+The Road is: x198288
+
+The Road is: x198288
+-----------------
+Now have axis_pt_cmp
+Now have axis_pt_cmp
+
+Total paths analyzed: 2
+Total paths analyzed: 4
+Total paths analyzed: 4
+Total paths analyzed: 6
+Total paths analyzed: 8

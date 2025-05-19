@@ -1,0 +1,422 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+name : &SymRegion{reg_$4<Node * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+-----------------
+Now have name
+insert:
+compare : &temp_object{std::string, S6166723} &temp_object{std::string, S6166774} 
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+name : &SymRegion{reg_$4<Node * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+name : &SymRegion{reg_$5<Node * b>} NowTime: 0
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+Now have name
+Now have name
+insert:
+compare : &temp_object{std::string, S6166723} &temp_object{std::string, S6166774} 
+
+The Road is: x2
+-----------------
+Now have name
+Now have name
+insert:
+compare : &temp_object{std::string, S6166723} &temp_object{std::string, S6166774} 
+
+The Road is: x1
+-----------------
+Now have name
+Now have name
+insert:
+compare : &temp_object{std::string, S6166723} &temp_object{std::string, S6166774} 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+NowTime: 0
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+-----------------
+Now have name
+Now have name
+Now have compare
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+name : &SymRegion{reg_$4<Node * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+name : &SymRegion{reg_$5<Node * b>} NowTime: 0
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+Now have name
+Now have name
+insert:
+compare : &temp_object{std::string, S6166723} &temp_object{std::string, S6166774} 
+
+The Road is: x2
+-----------------
+Now have name
+Now have name
+insert:
+compare : &temp_object{std::string, S6166723} &temp_object{std::string, S6166774} 
+
+The Road is: x1
+-----------------
+Now have name
+Now have name
+insert:
+compare : &temp_object{std::string, S6166723} &temp_object{std::string, S6166774} 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+NowTime: 0
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+-----------------
+Now have name
+Now have name
+Now have compare
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+name : &SymRegion{reg_$4<Node * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+name : &SymRegion{reg_$5<Node * b>} NowTime: 0
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+Now have name
+Now have name
+insert:
+compare : &temp_object{std::string, S6166723} &temp_object{std::string, S6166774} 
+
+The Road is: x2
+-----------------
+Now have name
+Now have name
+insert:
+compare : &temp_object{std::string, S6166723} &temp_object{std::string, S6166774} 
+
+The Road is: x1
+-----------------
+Now have name
+Now have name
+insert:
+compare : &temp_object{std::string, S6166723} &temp_object{std::string, S6166774} 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+insert:
+name : &SymRegion{reg_$19<Node * c>} NowTime: 0
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+-----------------
+Now have name
+Now have name
+Now have compare
+Now have name
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x088
+
+The Road is: x088
+NowTime: 0
+
+The Road is: x088
+
+The Road is: x088
+NowTime: 0
+NowTime: 0
+
+The Road is: x088
+
+The Road is: x088
+-----------------
+Now have name
+Now have name
+Now have compare
+Now have name
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+name : &SymRegion{reg_$4<Node * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+name : &SymRegion{reg_$5<Node * b>} NowTime: 0
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+Now have name
+Now have name
+insert:
+compare : &temp_object{std::string, S6166723} &temp_object{std::string, S6166774} 
+
+The Road is: x2
+-----------------
+Now have name
+Now have name
+insert:
+compare : &temp_object{std::string, S6166723} &temp_object{std::string, S6166774} 
+
+The Road is: x1
+-----------------
+Now have name
+Now have name
+insert:
+compare : &temp_object{std::string, S6166723} &temp_object{std::string, S6166774} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+insert:
+name : &SymRegion{reg_$19<Node * c>} NowTime: 0
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+-----------------
+Now have name
+Now have name
+Now have compare
+Now have name
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 0
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 0
+NowTime: 0
+
+The Road is: x188
+
+The Road is: x188
+-----------------
+Now have name
+Now have name
+Now have compare
+Now have name
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x28
+
+The Road is: x28
+NowTime: 0
+
+The Road is: x28
+
+The Road is: x28
+insert:
+name : &SymRegion{reg_$19<Node * c>} NowTime: 0
+NowTime: 0
+
+The Road is: x28
+
+The Road is: x28
+-----------------
+Now have name
+Now have name
+Now have compare
+Now have name
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x288
+
+The Road is: x288
+NowTime: 0
+
+The Road is: x288
+
+The Road is: x288
+NowTime: 0
+NowTime: 0
+
+The Road is: x288
+
+The Road is: x288
+-----------------
+Now have name
+Now have name
+Now have compare
+Now have name
+
+Total paths analyzed: 0
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 0

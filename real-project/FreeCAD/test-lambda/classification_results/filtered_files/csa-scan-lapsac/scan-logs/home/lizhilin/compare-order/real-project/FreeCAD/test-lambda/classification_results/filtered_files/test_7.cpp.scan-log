@@ -1,0 +1,444 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getName : &a NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getName : &b NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+Now have getName
+Now have getName
+insert:
+strcmp : &SymRegion{conj_$7{const char *, LC2, S6166771, #1}} &SymRegion{conj_$11{const char *, LC2, S6166814, #1}} 
+
+The Road is: x2
+-----------------
+Now have getName
+Now have getName
+insert:
+strcmp : &SymRegion{conj_$7{const char *, LC2, S6166771, #1}} &SymRegion{conj_$11{const char *, LC2, S6166814, #1}} 
+
+The Road is: x1
+-----------------
+Now have getName
+Now have getName
+insert:
+strcmp : &SymRegion{conj_$7{const char *, LC2, S6166771, #1}} &SymRegion{conj_$11{const char *, LC2, S6166814, #1}} 
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getName : &a NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getName : &b NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+Now have getName
+Now have getName
+insert:
+strcmp : &SymRegion{conj_$7{const char *, LC3, S6166771, #1}} &SymRegion{conj_$11{const char *, LC3, S6166814, #1}} 
+
+The Road is: x2
+-----------------
+Now have getName
+Now have getName
+insert:
+strcmp : &SymRegion{conj_$7{const char *, LC3, S6166771, #1}} &SymRegion{conj_$11{const char *, LC3, S6166814, #1}} 
+
+The Road is: x1
+-----------------
+Now have getName
+Now have getName
+insert:
+strcmp : &SymRegion{conj_$7{const char *, LC3, S6166771, #1}} &SymRegion{conj_$11{const char *, LC3, S6166814, #1}} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+-----------------
+Now have getName
+Now have getName
+Now have strcmp
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x28
+
+The Road is: x28
+NowTime: 0
+
+The Road is: x28
+
+The Road is: x28
+NowTime: 0
+
+The Road is: x28
+
+The Road is: x28
+-----------------
+Now have getName
+Now have getName
+Now have strcmp
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getName : &a NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getName : &b NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+Now have getName
+Now have getName
+insert:
+strcmp : &SymRegion{conj_$7{const char *, LC6, S6166771, #1}} &SymRegion{conj_$11{const char *, LC6, S6166814, #1}} 
+
+The Road is: x2
+-----------------
+Now have getName
+Now have getName
+insert:
+strcmp : &SymRegion{conj_$7{const char *, LC6, S6166771, #1}} &SymRegion{conj_$11{const char *, LC6, S6166814, #1}} 
+
+The Road is: x1
+-----------------
+Now have getName
+Now have getName
+insert:
+strcmp : &SymRegion{conj_$7{const char *, LC6, S6166771, #1}} &SymRegion{conj_$11{const char *, LC6, S6166814, #1}} 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+-----------------
+Now have getName
+Now have getName
+Now have strcmp
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getName : &a NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getName : &b NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+Now have getName
+Now have getName
+insert:
+strcmp : &SymRegion{conj_$7{const char *, LC8, S6166771, #1}} &SymRegion{conj_$11{const char *, LC8, S6166814, #1}} 
+
+The Road is: x2
+-----------------
+Now have getName
+Now have getName
+insert:
+strcmp : &SymRegion{conj_$7{const char *, LC8, S6166771, #1}} &SymRegion{conj_$11{const char *, LC8, S6166814, #1}} 
+
+The Road is: x1
+-----------------
+Now have getName
+Now have getName
+insert:
+strcmp : &SymRegion{conj_$7{const char *, LC8, S6166771, #1}} &SymRegion{conj_$11{const char *, LC8, S6166814, #1}} 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+NowTime: 0
+
+The Road is: x08
+
+The Road is: x08
+-----------------
+Now have getName
+Now have getName
+Now have strcmp
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x088
+
+The Road is: x088
+NowTime: 0
+
+The Road is: x088
+
+The Road is: x088
+NowTime: 0
+
+The Road is: x088
+
+The Road is: x088
+-----------------
+Now have getName
+Now have getName
+Now have strcmp
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getName : &a NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+getName : &b NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+Now have getName
+Now have getName
+insert:
+strcmp : &SymRegion{conj_$7{const char *, LC11, S6166771, #1}} &SymRegion{conj_$11{const char *, LC11, S6166814, #1}} 
+
+The Road is: x2
+-----------------
+Now have getName
+Now have getName
+insert:
+strcmp : &SymRegion{conj_$7{const char *, LC11, S6166771, #1}} &SymRegion{conj_$11{const char *, LC11, S6166814, #1}} 
+
+The Road is: x1
+-----------------
+Now have getName
+Now have getName
+insert:
+strcmp : &SymRegion{conj_$7{const char *, LC11, S6166771, #1}} &SymRegion{conj_$11{const char *, LC11, S6166814, #1}} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+NowTime: 0
+
+The Road is: x18
+
+The Road is: x18
+-----------------
+Now have getName
+Now have getName
+Now have strcmp
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 0
+
+The Road is: x188
+
+The Road is: x188
+NowTime: 0
+
+The Road is: x188
+
+The Road is: x188
+-----------------
+Now have getName
+Now have getName
+Now have strcmp
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x28
+
+The Road is: x28
+NowTime: 0
+
+The Road is: x28
+
+The Road is: x28
+NowTime: 0
+
+The Road is: x28
+
+The Road is: x28
+-----------------
+Now have getName
+Now have getName
+Now have strcmp
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x288
+
+The Road is: x288
+NowTime: 0
+
+The Road is: x288
+
+The Road is: x288
+NowTime: 0
+
+The Road is: x288
+
+The Road is: x288
+-----------------
+Now have getName
+Now have getName
+Now have strcmp
+
+Total paths analyzed: 3
+Total paths analyzed: 4
+Total paths analyzed: 3
+Total paths analyzed: 3
+Total paths analyzed: 2
+Total paths analyzed: 0

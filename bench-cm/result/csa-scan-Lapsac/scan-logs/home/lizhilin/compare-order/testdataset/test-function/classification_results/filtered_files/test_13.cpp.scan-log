@@ -1,0 +1,2063 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+geographicalId : &SymRegion{reg_$4<const SiPixelCluster & a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+minPixelRow : &SymRegion{reg_$4<const SiPixelCluster & a>} NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+NowTime: 0
+
+The Road is: x999
+
+The Road is: x999
+NowTime: 0
+
+The Road is: x999
+
+The Road is: x999
+NowTime: 0
+
+The Road is: x9999
+
+The Road is: x9999
+insert:
+minPixelCol : &SymRegion{reg_$4<const SiPixelCluster & a>} NowTime: 0
+
+The Road is: x9999
+
+The Road is: x9999
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+geographicalId : &SymRegion{reg_$4<const SiPixelCluster & a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+geographicalId : &SymRegion{reg_$5<const SiPixelCluster & b>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+minPixelRow : &SymRegion{reg_$4<const SiPixelCluster & a>} NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+minPixelRow : &SymRegion{reg_$5<const SiPixelCluster & b>} NowTime: 0
+
+The Road is: x999
+
+The Road is: x999
+NowTime: 0
+
+The Road is: x999
+
+The Road is: x999
+NowTime: 0
+
+The Road is: x9999
+
+The Road is: x9999
+insert:
+minPixelCol : &SymRegion{reg_$4<const SiPixelCluster & a>} NowTime: 0
+
+The Road is: x9999
+
+The Road is: x9999
+insert:
+minPixelCol : &SymRegion{reg_$5<const SiPixelCluster & b>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x999988
+
+The Road is: x999988
+NowTime: 0
+
+The Road is: x999988
+
+The Road is: x999988
+NowTime: 0
+
+The Road is: x9999889
+
+The Road is: x9999889
+NowTime: 0
+
+The Road is: x9999889
+
+The Road is: x9999889
+NowTime: 0
+
+The Road is: x99998899
+
+The Road is: x99998899
+NowTime: 0
+
+The Road is: x99998899
+
+The Road is: x99998899
+NowTime: 0
+
+The Road is: x999988999
+
+The Road is: x999988999
+NowTime: 1
+
+The Road is: x999988999
+
+The Road is: x999988999
+NowTime: 1
+
+The Road is: x9999889999
+
+The Road is: x9999889999
+NowTime: 1
+
+The Road is: x9999889999
+
+The Road is: x9999889999
+
+
+
+
+
+
+NowTime: 2
+
+NowTime: 2
+
+The Road is: x9988
+
+The Road is: x9988
+NowTime: 2
+
+The Road is: x9988
+
+The Road is: x9988
+NowTime: 2
+
+The Road is: x99889
+
+The Road is: x99889
+NowTime: 2
+
+The Road is: x99889
+
+The Road is: x99889
+NowTime: 2
+
+The Road is: x998899
+
+The Road is: x998899
+NowTime: 2
+
+The Road is: x998899
+
+The Road is: x998899
+NowTime: 2
+
+The Road is: x9988999
+
+The Road is: x9988999
+NowTime: 3
+
+The Road is: x9988999
+
+The Road is: x9988999
+
+NowTime: 3
+
+NowTime: 3
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 3
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 3
+
+The Road is: x889
+
+The Road is: x889
+NowTime: 3
+
+The Road is: x889
+
+The Road is: x889
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+geographicalId : &SymRegion{reg_$4<const SiPixelCluster & a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+geographicalId : &SymRegion{reg_$5<const SiPixelCluster & b>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+minPixelRow : &SymRegion{reg_$4<const SiPixelCluster & a>} NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+minPixelRow : &SymRegion{reg_$5<const SiPixelCluster & b>} NowTime: 0
+
+The Road is: x999
+
+The Road is: x999
+NowTime: 0
+
+The Road is: x999
+
+The Road is: x999
+NowTime: 0
+
+The Road is: x9999
+
+The Road is: x9999
+insert:
+minPixelCol : &SymRegion{reg_$4<const SiPixelCluster & a>} NowTime: 0
+
+The Road is: x9999
+
+The Road is: x9999
+insert:
+minPixelCol : &SymRegion{reg_$5<const SiPixelCluster & b>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x999988
+
+The Road is: x999988
+NowTime: 0
+
+The Road is: x999988
+
+The Road is: x999988
+NowTime: 0
+
+The Road is: x9999889
+
+The Road is: x9999889
+NowTime: 0
+
+The Road is: x9999889
+
+The Road is: x9999889
+NowTime: 0
+
+The Road is: x99998899
+
+The Road is: x99998899
+NowTime: 0
+
+The Road is: x99998899
+
+The Road is: x99998899
+NowTime: 0
+
+The Road is: x999988999
+
+The Road is: x999988999
+NowTime: 1
+
+The Road is: x999988999
+
+The Road is: x999988999
+NowTime: 1
+
+The Road is: x9999889999
+
+The Road is: x9999889999
+NowTime: 1
+
+The Road is: x9999889999
+
+The Road is: x9999889999
+
+
+
+
+
+
+NowTime: 2
+
+NowTime: 2
+
+The Road is: x9988
+
+The Road is: x9988
+NowTime: 2
+
+The Road is: x9988
+
+The Road is: x9988
+NowTime: 2
+
+The Road is: x99889
+
+The Road is: x99889
+NowTime: 2
+
+The Road is: x99889
+
+The Road is: x99889
+NowTime: 2
+
+The Road is: x998899
+
+The Road is: x998899
+NowTime: 2
+
+The Road is: x998899
+
+The Road is: x998899
+NowTime: 2
+
+The Road is: x9988999
+
+The Road is: x9988999
+NowTime: 3
+
+The Road is: x9988999
+
+The Road is: x9988999
+
+NowTime: 3
+
+NowTime: 3
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 3
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 3
+
+The Road is: x889
+
+The Road is: x889
+NowTime: 3
+
+The Road is: x889
+
+The Road is: x889
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+geographicalId : &SymRegion{reg_$4<const SiPixelCluster & a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+geographicalId : &SymRegion{reg_$5<const SiPixelCluster & b>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+minPixelRow : &SymRegion{reg_$4<const SiPixelCluster & a>} NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+minPixelRow : &SymRegion{reg_$5<const SiPixelCluster & b>} NowTime: 0
+
+The Road is: x999
+
+The Road is: x999
+NowTime: 0
+
+The Road is: x999
+
+The Road is: x999
+NowTime: 0
+
+The Road is: x9999
+
+The Road is: x9999
+insert:
+minPixelCol : &SymRegion{reg_$4<const SiPixelCluster & a>} NowTime: 0
+
+The Road is: x9999
+
+The Road is: x9999
+insert:
+minPixelCol : &SymRegion{reg_$5<const SiPixelCluster & b>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x999988
+
+The Road is: x999988
+NowTime: 0
+
+The Road is: x999988
+
+The Road is: x999988
+insert:
+geographicalId : &SymRegion{reg_$46<const SiPixelCluster & c>} NowTime: 0
+
+The Road is: x9999889
+
+The Road is: x9999889
+NowTime: 0
+
+The Road is: x9999889
+
+The Road is: x9999889
+NowTime: 0
+
+The Road is: x99998899
+
+The Road is: x99998899
+NowTime: 0
+
+The Road is: x99998899
+
+The Road is: x99998899
+insert:
+minPixelRow : &SymRegion{reg_$46<const SiPixelCluster & c>} NowTime: 0
+
+The Road is: x999988999
+
+The Road is: x999988999
+NowTime: 0
+
+The Road is: x999988999
+
+The Road is: x999988999
+NowTime: 0
+
+The Road is: x9999889999
+
+The Road is: x9999889999
+NowTime: 1
+
+The Road is: x9999889999
+
+The Road is: x9999889999
+insert:
+minPixelCol : &SymRegion{reg_$46<const SiPixelCluster & c>} 
+
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x999988999988
+
+The Road is: x999988999988
+NowTime: 1
+
+The Road is: x999988999988
+
+The Road is: x999988999988
+NowTime: 2
+
+The Road is: x9999889999889
+
+The Road is: x9999889999889
+NowTime: 2
+
+The Road is: x9999889999889
+
+The Road is: x9999889999889
+NowTime: 3
+
+The Road is: x99998899998899
+
+The Road is: x99998899998899
+NowTime: 4
+
+The Road is: x99998899998899
+
+The Road is: x99998899998899
+NowTime: 4
+
+The Road is: x999988999988999
+
+The Road is: x999988999988999
+NowTime: 6
+
+The Road is: x999988999988999
+
+The Road is: x999988999988999
+NowTime: 7
+
+The Road is: x9999889999889999
+
+The Road is: x9999889999889999
+NowTime: 8
+
+The Road is: x9999889999889999
+
+The Road is: x9999889999889999
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NowTime: 10
+
+NowTime: 10
+
+The Road is: x9988
+
+The Road is: x9988
+NowTime: 10
+
+The Road is: x9988
+
+The Road is: x9988
+insert:
+geographicalId : &SymRegion{reg_$46<const SiPixelCluster & c>} 
+NowTime: 10
+
+The Road is: x99889
+
+The Road is: x99889
+NowTime: 10
+
+The Road is: x99889
+
+The Road is: x99889
+
+NowTime: 10
+
+The Road is: x998899
+
+The Road is: x998899
+NowTime: 10
+
+The Road is: x998899
+
+The Road is: x998899
+insert:
+minPixelRow : &SymRegion{reg_$46<const SiPixelCluster & c>} 
+NowTime: 10
+
+The Road is: x9988999
+
+The Road is: x9988999
+NowTime: 10
+
+The Road is: x9988999
+
+The Road is: x9988999
+
+NowTime: 10
+
+The Road is: x99889999
+
+The Road is: x99889999
+insert:
+minPixelCol : &SymRegion{reg_$5<const SiPixelCluster & b>} NowTime: 10
+
+The Road is: x99889999
+
+The Road is: x99889999
+insert:
+minPixelCol : &SymRegion{reg_$46<const SiPixelCluster & c>} 
+
+NowTime: 10
+
+NowTime: 10
+
+The Road is: x9999889988
+
+The Road is: x9999889988
+NowTime: 10
+
+The Road is: x9999889988
+
+The Road is: x9999889988
+
+NowTime: 11
+
+The Road is: x99998899889
+
+The Road is: x99998899889
+NowTime: 11
+
+The Road is: x99998899889
+
+The Road is: x99998899889
+
+NowTime: 11
+
+The Road is: x999988998899
+
+The Road is: x999988998899
+NowTime: 12
+
+The Road is: x999988998899
+
+The Road is: x999988998899
+
+NowTime: 12
+
+The Road is: x9999889988999
+
+The Road is: x9999889988999
+NowTime: 13
+
+The Road is: x9999889988999
+
+The Road is: x9999889988999
+
+NowTime: 14
+
+The Road is: x99998899889999
+
+The Road is: x99998899889999
+insert:
+minPixelCol : &SymRegion{reg_$46<const SiPixelCluster & c>} NowTime: 14
+
+The Road is: x99998899889999
+
+The Road is: x99998899889999
+
+
+The Error Road is: x9999889999889988
+NowTime: 15
+
+NowTime: 15
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 15
+
+The Road is: x88
+
+The Road is: x88
+insert:
+geographicalId : &SymRegion{reg_$46<const SiPixelCluster & c>} 
+NowTime: 15
+
+The Road is: x889
+
+The Road is: x889
+NowTime: 15
+
+The Road is: x889
+
+The Road is: x889
+
+NowTime: 15
+
+The Road is: x8899
+
+The Road is: x8899
+insert:
+minPixelRow : &SymRegion{reg_$5<const SiPixelCluster & b>} NowTime: 15
+
+The Road is: x8899
+
+The Road is: x8899
+insert:
+minPixelRow : &SymRegion{reg_$46<const SiPixelCluster & c>} 
+NowTime: 15
+
+The Road is: x88999
+
+The Road is: x88999
+NowTime: 15
+
+The Road is: x88999
+
+The Road is: x88999
+
+NowTime: 15
+
+The Road is: x889999
+
+The Road is: x889999
+insert:
+minPixelCol : &SymRegion{reg_$5<const SiPixelCluster & b>} NowTime: 15
+
+The Road is: x889999
+
+The Road is: x889999
+insert:
+minPixelCol : &SymRegion{reg_$46<const SiPixelCluster & c>} 
+
+NowTime: 15
+
+NowTime: 15
+
+The Road is: x99998888
+
+The Road is: x99998888
+NowTime: 15
+
+The Road is: x99998888
+
+The Road is: x99998888
+
+NowTime: 15
+
+The Road is: x999988889
+
+The Road is: x999988889
+NowTime: 15
+
+The Road is: x999988889
+
+The Road is: x999988889
+
+NowTime: 15
+
+The Road is: x9999888899
+
+The Road is: x9999888899
+insert:
+minPixelRow : &SymRegion{reg_$46<const SiPixelCluster & c>} NowTime: 15
+
+The Road is: x9999888899
+
+The Road is: x9999888899
+
+NowTime: 16
+
+The Road is: x99998888999
+
+The Road is: x99998888999
+NowTime: 16
+
+The Road is: x99998888999
+
+The Road is: x99998888999
+
+NowTime: 16
+
+The Road is: x999988889999
+
+The Road is: x999988889999
+insert:
+minPixelCol : &SymRegion{reg_$46<const SiPixelCluster & c>} NowTime: 17
+
+The Road is: x999988889999
+
+The Road is: x999988889999
+
+
+The Error Road is: x99998899998888
+The Error Road is: x999988998888
+NowTime: 17
+
+NowTime: 17
+
+The Road is: x998888
+
+The Road is: x998888
+NowTime: 17
+
+The Road is: x998888
+
+The Road is: x998888
+
+NowTime: 17
+
+The Road is: x9988889
+
+The Road is: x9988889
+NowTime: 17
+
+The Road is: x9988889
+
+The Road is: x9988889
+
+NowTime: 17
+
+The Road is: x99888899
+
+The Road is: x99888899
+insert:
+minPixelRow : &SymRegion{reg_$46<const SiPixelCluster & c>} NowTime: 17
+
+The Road is: x99888899
+
+The Road is: x99888899
+
+NowTime: 17
+
+The Road is: x998888999
+
+The Road is: x998888999
+NowTime: 18
+
+The Road is: x998888999
+
+The Road is: x998888999
+
+NowTime: 18
+
+The Road is: x9988889999
+
+The Road is: x9988889999
+insert:
+minPixelCol : &SymRegion{reg_$46<const SiPixelCluster & c>} NowTime: 18
+
+The Road is: x9988889999
+
+The Road is: x9988889999
+insert:
+minPixelCol : &SymRegion{reg_$4<const SiPixelCluster & a>} 
+
+The Error Road is: x99998899889988
+NowTime: 18
+
+NowTime: 18
+
+The Road is: x99889988
+
+The Road is: x99889988
+NowTime: 18
+
+The Road is: x99889988
+
+The Road is: x99889988
+
+NowTime: 18
+
+The Road is: x998899889
+
+The Road is: x998899889
+NowTime: 18
+
+The Road is: x998899889
+
+The Road is: x998899889
+
+NowTime: 19
+
+The Road is: x9988998899
+
+The Road is: x9988998899
+NowTime: 19
+
+The Road is: x9988998899
+
+The Road is: x9988998899
+
+NowTime: 19
+
+The Road is: x99889988999
+
+The Road is: x99889988999
+NowTime: 20
+
+The Road is: x99889988999
+
+The Road is: x99889988999
+
+NowTime: 20
+
+The Road is: x998899889999
+
+The Road is: x998899889999
+insert:
+minPixelCol : &SymRegion{reg_$46<const SiPixelCluster & c>} NowTime: 20
+
+The Road is: x998899889999
+
+The Road is: x998899889999
+insert:
+minPixelCol : &SymRegion{reg_$4<const SiPixelCluster & a>} 
+
+The Error Road is: x9999889988999988
+NowTime: 20
+
+NowTime: 20
+
+The Road is: x9988999988
+
+The Road is: x9988999988
+NowTime: 21
+
+The Road is: x9988999988
+
+The Road is: x9988999988
+
+NowTime: 21
+
+The Road is: x99889999889
+
+The Road is: x99889999889
+NowTime: 21
+
+The Road is: x99889999889
+
+The Road is: x99889999889
+
+NowTime: 22
+
+The Road is: x998899998899
+
+The Road is: x998899998899
+NowTime: 22
+
+The Road is: x998899998899
+
+The Road is: x998899998899
+
+NowTime: 23
+
+The Road is: x9988999988999
+
+The Road is: x9988999988999
+NowTime: 24
+
+The Road is: x9988999988999
+
+The Road is: x9988999988999
+
+NowTime: 24
+
+The Road is: x99889999889999
+
+The Road is: x99889999889999
+NowTime: 25
+
+The Road is: x99889999889999
+
+The Road is: x99889999889999
+insert:
+minPixelCol : &SymRegion{reg_$4<const SiPixelCluster & a>} 
+
+The Error Road is: x9999888888
+NowTime: 25
+
+NowTime: 25
+
+The Road is: x8888
+
+The Road is: x8888
+NowTime: 25
+
+The Road is: x8888
+
+The Road is: x8888
+
+NowTime: 25
+
+The Road is: x88889
+
+The Road is: x88889
+NowTime: 25
+
+The Road is: x88889
+
+The Road is: x88889
+
+NowTime: 26
+
+The Road is: x888899
+
+The Road is: x888899
+insert:
+minPixelRow : &SymRegion{reg_$46<const SiPixelCluster & c>} NowTime: 26
+
+The Road is: x888899
+
+The Road is: x888899
+insert:
+minPixelRow : &SymRegion{reg_$4<const SiPixelCluster & a>} 
+NowTime: 26
+
+The Road is: x8888999
+
+The Road is: x8888999
+NowTime: 26
+
+The Road is: x8888999
+
+The Road is: x8888999
+
+NowTime: 26
+
+The Road is: x88889999
+
+The Road is: x88889999
+insert:
+minPixelCol : &SymRegion{reg_$46<const SiPixelCluster & c>} NowTime: 26
+
+The Road is: x88889999
+
+The Road is: x88889999
+insert:
+minPixelCol : &SymRegion{reg_$4<const SiPixelCluster & a>} 
+
+The Error Road is: x999988889988
+NowTime: 26
+
+NowTime: 26
+
+The Road is: x889988
+
+The Road is: x889988
+NowTime: 26
+
+The Road is: x889988
+
+The Road is: x889988
+
+NowTime: 26
+
+The Road is: x8899889
+
+The Road is: x8899889
+NowTime: 26
+
+The Road is: x8899889
+
+The Road is: x8899889
+
+NowTime: 26
+
+The Road is: x88998899
+
+The Road is: x88998899
+NowTime: 26
+
+The Road is: x88998899
+
+The Road is: x88998899
+insert:
+minPixelRow : &SymRegion{reg_$4<const SiPixelCluster & a>} 
+NowTime: 26
+
+The Road is: x889988999
+
+The Road is: x889988999
+NowTime: 27
+
+The Road is: x889988999
+
+The Road is: x889988999
+
+NowTime: 27
+
+The Road is: x8899889999
+
+The Road is: x8899889999
+insert:
+minPixelCol : &SymRegion{reg_$46<const SiPixelCluster & c>} NowTime: 27
+
+The Road is: x8899889999
+
+The Road is: x8899889999
+insert:
+minPixelCol : &SymRegion{reg_$4<const SiPixelCluster & a>} 
+
+The Error Road is: x99998888999988
+NowTime: 27
+
+NowTime: 27
+
+The Road is: x88999988
+
+The Road is: x88999988
+NowTime: 27
+
+The Road is: x88999988
+
+The Road is: x88999988
+
+NowTime: 27
+
+The Road is: x889999889
+
+The Road is: x889999889
+NowTime: 27
+
+The Road is: x889999889
+
+The Road is: x889999889
+
+NowTime: 28
+
+The Road is: x8899998899
+
+The Road is: x8899998899
+NowTime: 28
+
+The Road is: x8899998899
+
+The Road is: x8899998899
+insert:
+minPixelRow : &SymRegion{reg_$4<const SiPixelCluster & a>} 
+NowTime: 28
+
+The Road is: x88999988999
+
+The Road is: x88999988999
+NowTime: 28
+
+The Road is: x88999988999
+
+The Road is: x88999988999
+
+NowTime: 29
+
+The Road is: x889999889999
+
+The Road is: x889999889999
+NowTime: 29
+
+The Road is: x889999889999
+
+The Road is: x889999889999
+insert:
+minPixelCol : &SymRegion{reg_$4<const SiPixelCluster & a>} 
+
+The Error Road is: x99888888
+The Error Road is: x9988889988
+The Error Road is: x998888999988
+The Error Road is: x9988998888
+The Error Road is: x99889988999988
+The Error Road is: x998899998888
+The Error Road is: x99889999889988
+The Error Road is: x9988999988999988
+The Error Road is: x88889988
+The Error Road is: x8888999988
+The Error Road is: x88998888
+The Error Road is: x8899889988
+The Error Road is: x889988999988
+The Error Road is: x8899998888
+The Error Road is: x889999889988
+The Error Road is: x88999988999988
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+geographicalId : &SymRegion{reg_$4<const SiPixelCluster & a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+geographicalId : &SymRegion{reg_$5<const SiPixelCluster & b>} NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x9
+
+The Road is: x9
+NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+minPixelRow : &SymRegion{reg_$4<const SiPixelCluster & a>} NowTime: 0
+
+The Road is: x99
+
+The Road is: x99
+insert:
+minPixelRow : &SymRegion{reg_$5<const SiPixelCluster & b>} NowTime: 0
+
+The Road is: x999
+
+The Road is: x999
+NowTime: 0
+
+The Road is: x999
+
+The Road is: x999
+NowTime: 0
+
+The Road is: x9999
+
+The Road is: x9999
+insert:
+minPixelCol : &SymRegion{reg_$4<const SiPixelCluster & a>} NowTime: 0
+
+The Road is: x9999
+
+The Road is: x9999
+insert:
+minPixelCol : &SymRegion{reg_$5<const SiPixelCluster & b>} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x999998
+
+The Road is: x999998
+NowTime: 0
+
+The Road is: x999998
+
+The Road is: x999998
+insert:
+geographicalId : &SymRegion{reg_$46<const SiPixelCluster & c>} NowTime: 0
+
+The Road is: x9999989
+
+The Road is: x9999989
+NowTime: 0
+
+The Road is: x9999989
+
+The Road is: x9999989
+NowTime: 0
+
+The Road is: x99999899
+
+The Road is: x99999899
+NowTime: 0
+
+The Road is: x99999899
+
+The Road is: x99999899
+insert:
+minPixelRow : &SymRegion{reg_$46<const SiPixelCluster & c>} NowTime: 0
+
+The Road is: x999998999
+
+The Road is: x999998999
+NowTime: 0
+
+The Road is: x999998999
+
+The Road is: x999998999
+NowTime: 0
+
+The Road is: x9999989999
+
+The Road is: x9999989999
+NowTime: 1
+
+The Road is: x9999989999
+
+The Road is: x9999989999
+insert:
+minPixelCol : &SymRegion{reg_$46<const SiPixelCluster & c>} 
+NowTime: 1
+
+NowTime: 1
+
+The Road is: x999998999998
+
+The Road is: x999998999998
+NowTime: 1
+
+The Road is: x999998999998
+
+The Road is: x999998999998
+NowTime: 2
+
+The Road is: x9999989999989
+
+The Road is: x9999989999989
+NowTime: 2
+
+The Road is: x9999989999989
+
+The Road is: x9999989999989
+NowTime: 3
+
+The Road is: x99999899999899
+
+The Road is: x99999899999899
+NowTime: 4
+
+The Road is: x99999899999899
+
+The Road is: x99999899999899
+NowTime: 4
+
+The Road is: x999998999998999
+
+The Road is: x999998999998999
+NowTime: 6
+
+The Road is: x999998999998999
+
+The Road is: x999998999998999
+NowTime: 7
+
+The Road is: x9999989999989999
+
+The Road is: x9999989999989999
+NowTime: 8
+
+The Road is: x9999989999989999
+
+The Road is: x9999989999989999
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NowTime: 10
+
+NowTime: 10
+
+The Road is: x99988
+
+The Road is: x99988
+NowTime: 10
+
+The Road is: x99988
+
+The Road is: x99988
+insert:
+geographicalId : &SymRegion{reg_$46<const SiPixelCluster & c>} 
+NowTime: 10
+
+The Road is: x999889
+
+The Road is: x999889
+NowTime: 10
+
+The Road is: x999889
+
+The Road is: x999889
+
+NowTime: 10
+
+The Road is: x9998899
+
+The Road is: x9998899
+NowTime: 10
+
+The Road is: x9998899
+
+The Road is: x9998899
+insert:
+minPixelRow : &SymRegion{reg_$46<const SiPixelCluster & c>} 
+NowTime: 10
+
+The Road is: x99988999
+
+The Road is: x99988999
+NowTime: 10
+
+The Road is: x99988999
+
+The Road is: x99988999
+
+NowTime: 11
+
+The Road is: x999889999
+
+The Road is: x999889999
+insert:
+minPixelCol : &SymRegion{reg_$5<const SiPixelCluster & b>} NowTime: 11
+
+The Road is: x999889999
+
+The Road is: x999889999
+insert:
+minPixelCol : &SymRegion{reg_$46<const SiPixelCluster & c>} 
+
+NowTime: 11
+
+NowTime: 11
+
+The Road is: x99999899988
+
+The Road is: x99999899988
+NowTime: 11
+
+The Road is: x99999899988
+
+The Road is: x99999899988
+
+NowTime: 11
+
+The Road is: x999998999889
+
+The Road is: x999998999889
+NowTime: 12
+
+The Road is: x999998999889
+
+The Road is: x999998999889
+
+NowTime: 12
+
+The Road is: x9999989998899
+
+The Road is: x9999989998899
+NowTime: 13
+
+The Road is: x9999989998899
+
+The Road is: x9999989998899
+
+NowTime: 14
+
+The Road is: x99999899988999
+
+The Road is: x99999899988999
+NowTime: 15
+
+The Road is: x99999899988999
+
+The Road is: x99999899988999
+
+NowTime: 16
+
+The Road is: x999998999889999
+
+The Road is: x999998999889999
+NowTime: 17
+
+The Road is: x999998999889999
+
+The Road is: x999998999889999
+insert:
+minPixelCol : &SymRegion{reg_$46<const SiPixelCluster & c>} 
+
+NowTime: 17
+
+NowTime: 17
+
+The Road is: x988
+
+The Road is: x988
+NowTime: 17
+
+The Road is: x988
+
+The Road is: x988
+insert:
+geographicalId : &SymRegion{reg_$46<const SiPixelCluster & c>} 
+NowTime: 17
+
+The Road is: x9889
+
+The Road is: x9889
+NowTime: 17
+
+The Road is: x9889
+
+The Road is: x9889
+
+NowTime: 17
+
+The Road is: x98899
+
+The Road is: x98899
+insert:
+minPixelRow : &SymRegion{reg_$5<const SiPixelCluster & b>} NowTime: 17
+
+The Road is: x98899
+
+The Road is: x98899
+insert:
+minPixelRow : &SymRegion{reg_$46<const SiPixelCluster & c>} 
+NowTime: 17
+
+The Road is: x988999
+
+The Road is: x988999
+NowTime: 17
+
+The Road is: x988999
+
+The Road is: x988999
+
+NowTime: 17
+
+The Road is: x9889999
+
+The Road is: x9889999
+insert:
+minPixelCol : &SymRegion{reg_$5<const SiPixelCluster & b>} NowTime: 17
+
+The Road is: x9889999
+
+The Road is: x9889999
+insert:
+minPixelCol : &SymRegion{reg_$46<const SiPixelCluster & c>} 
+
+NowTime: 17
+
+NowTime: 17
+
+The Road is: x999998988
+
+The Road is: x999998988
+NowTime: 17
+
+The Road is: x999998988
+
+The Road is: x999998988
+
+NowTime: 18
+
+The Road is: x9999989889
+
+The Road is: x9999989889
+NowTime: 18
+
+The Road is: x9999989889
+
+The Road is: x9999989889
+
+NowTime: 18
+
+The Road is: x99999898899
+
+The Road is: x99999898899
+NowTime: 19
+
+The Road is: x99999898899
+
+The Road is: x99999898899
+insert:
+minPixelRow : &SymRegion{reg_$46<const SiPixelCluster & c>} 
+NowTime: 19
+
+The Road is: x999998988999
+
+The Road is: x999998988999
+NowTime: 19
+
+The Road is: x999998988999
+
+The Road is: x999998988999
+
+NowTime: 20
+
+The Road is: x9999989889999
+
+The Road is: x9999989889999
+NowTime: 20
+
+The Road is: x9999989889999
+
+The Road is: x9999989889999
+insert:
+minPixelCol : &SymRegion{reg_$46<const SiPixelCluster & c>} 
+
+NowTime: 20
+
+NowTime: 20
+
+The Road is: x99988988
+
+The Road is: x99988988
+NowTime: 21
+
+The Road is: x99988988
+
+The Road is: x99988988
+
+NowTime: 21
+
+The Road is: x999889889
+
+The Road is: x999889889
+NowTime: 21
+
+The Road is: x999889889
+
+The Road is: x999889889
+
+NowTime: 21
+
+The Road is: x9998898899
+
+The Road is: x9998898899
+NowTime: 22
+
+The Road is: x9998898899
+
+The Road is: x9998898899
+insert:
+minPixelRow : &SymRegion{reg_$46<const SiPixelCluster & c>} 
+NowTime: 22
+
+The Road is: x99988988999
+
+The Road is: x99988988999
+NowTime: 22
+
+The Road is: x99988988999
+
+The Road is: x99988988999
+
+NowTime: 23
+
+The Road is: x999889889999
+
+The Road is: x999889889999
+insert:
+minPixelCol : &SymRegion{reg_$4<const SiPixelCluster & a>} NowTime: 23
+
+The Road is: x999889889999
+
+The Road is: x999889889999
+insert:
+minPixelCol : &SymRegion{reg_$46<const SiPixelCluster & c>} 
+
+NowTime: 23
+
+NowTime: 23
+
+The Road is: x9998899988
+
+The Road is: x9998899988
+NowTime: 23
+
+The Road is: x9998899988
+
+The Road is: x9998899988
+
+NowTime: 24
+
+The Road is: x99988999889
+
+The Road is: x99988999889
+NowTime: 24
+
+The Road is: x99988999889
+
+The Road is: x99988999889
+
+NowTime: 25
+
+The Road is: x999889998899
+
+The Road is: x999889998899
+NowTime: 25
+
+The Road is: x999889998899
+
+The Road is: x999889998899
+
+NowTime: 26
+
+The Road is: x9998899988999
+
+The Road is: x9998899988999
+NowTime: 27
+
+The Road is: x9998899988999
+
+The Road is: x9998899988999
+
+NowTime: 28
+
+The Road is: x99988999889999
+
+The Road is: x99988999889999
+insert:
+minPixelCol : &SymRegion{reg_$4<const SiPixelCluster & a>} NowTime: 28
+
+The Road is: x99988999889999
+
+The Road is: x99988999889999
+insert:
+minPixelCol : &SymRegion{reg_$46<const SiPixelCluster & c>} 
+
+NowTime: 28
+
+NowTime: 28
+
+The Road is: x99988999998
+
+The Road is: x99988999998
+NowTime: 28
+
+The Road is: x99988999998
+
+The Road is: x99988999998
+
+NowTime: 29
+
+The Road is: x999889999989
+
+The Road is: x999889999989
+NowTime: 29
+
+The Road is: x999889999989
+
+The Road is: x999889999989
+
+NowTime: 30
+
+The Road is: x9998899999899
+
+The Road is: x9998899999899
+NowTime: 31
+
+The Road is: x9998899999899
+
+The Road is: x9998899999899
+
+NowTime: 31
+
+The Road is: x99988999998999
+
+The Road is: x99988999998999
+NowTime: 32
+
+The Road is: x99988999998999
+
+The Road is: x99988999998999
+
+NowTime: 34
+
+The Road is: x999889999989999
+
+The Road is: x999889999989999
+insert:
+minPixelCol : &SymRegion{reg_$4<const SiPixelCluster & a>} NowTime: 34
+
+The Road is: x999889999989999
+
+The Road is: x999889999989999
+
+
+NowTime: 35
+
+NowTime: 35
+
+The Road is: x988988
+
+The Road is: x988988
+NowTime: 35
+
+The Road is: x988988
+
+The Road is: x988988
+
+NowTime: 35
+
+The Road is: x9889889
+
+The Road is: x9889889
+NowTime: 35
+
+The Road is: x9889889
+
+The Road is: x9889889
+
+NowTime: 35
+
+The Road is: x98898899
+
+The Road is: x98898899
+insert:
+minPixelRow : &SymRegion{reg_$4<const SiPixelCluster & a>} NowTime: 35
+
+The Road is: x98898899
+
+The Road is: x98898899
+insert:
+minPixelRow : &SymRegion{reg_$46<const SiPixelCluster & c>} 
+NowTime: 35
+
+The Road is: x988988999
+
+The Road is: x988988999
+NowTime: 36
+
+The Road is: x988988999
+
+The Road is: x988988999
+
+NowTime: 36
+
+The Road is: x9889889999
+
+The Road is: x9889889999
+insert:
+minPixelCol : &SymRegion{reg_$4<const SiPixelCluster & a>} NowTime: 36
+
+The Road is: x9889889999
+
+The Road is: x9889889999
+insert:
+minPixelCol : &SymRegion{reg_$46<const SiPixelCluster & c>} 
+
+NowTime: 36
+
+NowTime: 36
+
+The Road is: x98899988
+
+The Road is: x98899988
+NowTime: 36
+
+The Road is: x98899988
+
+The Road is: x98899988
+
+NowTime: 36
+
+The Road is: x988999889
+
+The Road is: x988999889
+NowTime: 37
+
+The Road is: x988999889
+
+The Road is: x988999889
+
+NowTime: 37
+
+The Road is: x9889998899
+
+The Road is: x9889998899
+insert:
+minPixelRow : &SymRegion{reg_$4<const SiPixelCluster & a>} NowTime: 37
+
+The Road is: x9889998899
+
+The Road is: x9889998899
+
+NowTime: 37
+
+The Road is: x98899988999
+
+The Road is: x98899988999
+NowTime: 38
+
+The Road is: x98899988999
+
+The Road is: x98899988999
+
+NowTime: 39
+
+The Road is: x988999889999
+
+The Road is: x988999889999
+insert:
+minPixelCol : &SymRegion{reg_$4<const SiPixelCluster & a>} NowTime: 39
+
+The Road is: x988999889999
+
+The Road is: x988999889999
+insert:
+minPixelCol : &SymRegion{reg_$46<const SiPixelCluster & c>} 
+
+NowTime: 39
+
+NowTime: 39
+
+The Road is: x988999998
+
+The Road is: x988999998
+NowTime: 39
+
+The Road is: x988999998
+
+The Road is: x988999998
+
+NowTime: 39
+
+The Road is: x9889999989
+
+The Road is: x9889999989
+NowTime: 39
+
+The Road is: x9889999989
+
+The Road is: x9889999989
+
+NowTime: 40
+
+The Road is: x98899999899
+
+The Road is: x98899999899
+insert:
+minPixelRow : &SymRegion{reg_$4<const SiPixelCluster & a>} NowTime: 40
+
+The Road is: x98899999899
+
+The Road is: x98899999899
+
+NowTime: 40
+
+The Road is: x988999998999
+
+The Road is: x988999998999
+NowTime: 41
+
+The Road is: x988999998999
+
+The Road is: x988999998999
+
+NowTime: 41
+
+The Road is: x9889999989999
+
+The Road is: x9889999989999
+insert:
+minPixelCol : &SymRegion{reg_$4<const SiPixelCluster & a>} NowTime: 41
+
+The Road is: x9889999989999
+
+The Road is: x9889999989999
+
+
+/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_13.cpp:46:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   46 |         SymmetryChecker();
+      |         ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_13.cpp:52:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   52 |         SymmetryChecker();
+      |         ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_13.cpp:58:9: warning: Violation of Anti-Reflexivity [CompareCheck.FunctionChecker]
+   58 |         ReflexivityChecker();
+      |         ^~~~~~~~~~~~~~~~~~~~
+3 warnings generated.
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 27
+Total paths analyzed: 27

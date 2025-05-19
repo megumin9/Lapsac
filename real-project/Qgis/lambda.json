@@ -1,0 +1,432 @@
+{
+    "/home/lizhilin/compare-order/real-project/QGIS/external/PDF4QT/Pdf4QtLibCore/sources/pdftextlayout.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const TextCharacter& l, const TextCharacter& r",
+            "is_const": false,
+            "body": "return l.position.x() < r.position.x();"
+        },
+        {
+            "header": "bool lambda1",
+            "params": "const TextCharacter& l, const TextCharacter& r",
+            "is_const": false,
+            "body": "return l.position.y() < r.position.y();"
+        },
+        {
+            "header": "bool lambda2",
+            "params": "const TextCharacter& l, const TextCharacter& r",
+            "is_const": false,
+            "body": "return l.position.x() < r.position.x();"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/QGIS/external/PDF4QT/Pdf4QtLibCore/sources/pdfxfaengine.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const auto* l, const auto* r",
+            "is_const": false,
+            "body": "return l->getOrder() < r->getOrder();"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/QGIS/external/inja/inja.hpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const LoopLevel::KeyValue& a, const LoopLevel::KeyValue& b",
+            "is_const": false,
+            "body": "return a.first < b.first;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/QGIS/external/pdal_wrench/tile/tile.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const FileInfo& f1, const FileInfo& f2",
+            "is_const": false,
+            "body": "return f1.numPoints > f2.numPoints;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/QGIS/external/untwine/epf/Epf.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const FileInfo& f1, const FileInfo& f2",
+            "is_const": false,
+            "body": "return f1.numPoints > f2.numPoints;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/QGIS/tests/src/core/testqgslayoutmap.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const QgsLabelPosition &a, const QgsLabelPosition &b",
+            "is_const": false,
+            "body": "return a.labelText.compare( b.labelText ) < 0;"
+        },
+        {
+            "header": "bool lambda1",
+            "params": "const QgsLabelPosition &a, const QgsLabelPosition &b",
+            "is_const": false,
+            "body": "return a.isUnplaced == b.isUnplaced ? a.labelText.compare( b.labelText ) < 0 : a.isUnplaced < b.isUnplaced;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/QGIS/tests/src/core/testqgslabelingengine.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const QgsLabelPosition &a, const QgsLabelPosition &b",
+            "is_const": false,
+            "body": "return a.labelText.compare( b.labelText ) < 0;"
+        },
+        {
+            "header": "bool lambda1",
+            "params": "const QgsLabelPosition &a, const QgsLabelPosition &b",
+            "is_const": false,
+            "body": "return a.isUnplaced == b.isUnplaced ? a.labelText.compare( b.labelText ) < 0 : a.isUnplaced < b.isUnplaced;"
+        },
+        {
+            "header": "bool lambda2",
+            "params": "const QgsLabelPosition &a, const QgsLabelPosition &b",
+            "is_const": false,
+            "body": "return a.labelText.compare( b.labelText ) < 0;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/QGIS/src/core/qgsfeaturepickermodelbase.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const QgsFeatureExpressionValuesGatherer::Entry & a, const QgsFeatureExpressionValuesGatherer::Entry & b",
+            "is_const": false,
+            "body": "return a.value.localeAwareCompare( b.value ) < 0;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/QGIS/src/core/qgsdatadefinedsizelegend.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const SizeClass & a, const SizeClass & b",
+            "is_const": false,
+            "body": "return a.size > b.size;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/QGIS/src/core/vector/qgsvectorlayerrenderer.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const QgsFeatureRendererGenerator * g1, const QgsFeatureRendererGenerator * g2",
+            "is_const": false,
+            "body": "return g1->level() < g2->level();"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/QGIS/src/core/proj/qgsellipsoidutils.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const EllipsoidDefinition & a, const EllipsoidDefinition & b",
+            "is_const": false,
+            "body": "return collator.compare( a.description, b.description ) < 0;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/QGIS/src/core/geometry/qgsgeometrycollection.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const QgsAbstractGeometry * a, const QgsAbstractGeometry * b",
+            "is_const": false,
+            "body": "return a->compareTo( b ) > 0;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/QGIS/src/core/geometry/qgspolyhedralsurface.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const QgsCurve * a, const QgsCurve * b",
+            "is_const": false,
+            "body": "return a->compareTo( b ) > 0;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/QGIS/src/core/geometry/qgsgeos.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const QPair< double, QgsPoint > &a, const QPair< double, QgsPoint > &b",
+            "is_const": false,
+            "body": "return a.first < b.first;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/QGIS/src/core/geometry/qgscurvepolygon.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const QgsCurve * a, const QgsCurve * b",
+            "is_const": false,
+            "body": "return a->compareTo( b ) > 0;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/QGIS/src/core/pal/layer.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "FeaturePart * a, FeaturePart * b",
+            "is_const": false,
+            "body": "return a->length() > b->length();"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/QGIS/src/core/providers/gdal/qgsgdalclouddataitems.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const QgsGdalUtils::VsiNetworkFileSystemDetails & a, const QgsGdalUtils::VsiNetworkFileSystemDetails & b",
+            "is_const": false,
+            "body": "return QString::localeAwareCompare( a.name, b.name ) < 0;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/QGIS/src/core/network/qgsnewsfeedparser.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const QString & a, const QString & b",
+            "is_const": false,
+            "body": "return a.toInt() < b.toInt();"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/QGIS/src/core/network/qgsrangerequestcache.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "QFileInfo & f1, QFileInfo & f2",
+            "is_const": false,
+            "body": "QDateTime t1 = f1.fileTime( QFile::FileTime::FileAccessTime );\n    if ( !t1.isValid() )\n      t1 = f1.fileTime( QFile::FileTime::FileBirthTime );\n    QDateTime t2 = f2.fileTime( QFile::FileTime::FileAccessTime );\n    if ( !t2.isValid() )\n      t2 = f2.fileTime( QFile::FileTime::FileBirthTime );\n    return t1 > t2;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/QGIS/src/core/tiledscene/qgsquantizedmeshtiles.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "uint32_t a, uint32_t b",
+            "is_const": false,
+            "body": "return mVertexCoords[a * 3 + 1] < mVertexCoords[b * 3 + 1];"
+        },
+        {
+            "header": "bool lambda1",
+            "params": "uint32_t a, uint32_t b",
+            "is_const": false,
+            "body": "return mVertexCoords[a * 3] > mVertexCoords[b * 3];"
+        },
+        {
+            "header": "bool lambda2",
+            "params": "uint32_t a, uint32_t b",
+            "is_const": false,
+            "body": "return mVertexCoords[a * 3 + 1] > mVertexCoords[b * 3 + 1];"
+        },
+        {
+            "header": "bool lambda3",
+            "params": "uint32_t a, uint32_t b",
+            "is_const": false,
+            "body": "return mVertexCoords[a * 3] < mVertexCoords[b * 3];"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/QGIS/src/core/tiledscene/qgstiledscenelayerrenderer.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const PrimitiveData & a, const PrimitiveData & b",
+            "is_const": false,
+            "body": "if ( qgsDoubleNear( a.z, b.z, 0.001 ) )\n    {\n      \n      if ( a.type == PrimitiveType::Line )\n        return false;\n      else if ( b.type == PrimitiveType::Line )\n        return true;\n    }\n    return a.z < b.z;"
+        },
+        {
+            "header": "bool lambda1",
+            "params": "const PrimitiveData & a, const PrimitiveData & b",
+            "is_const": false,
+            "body": "return a.z < b.z;"
+        },
+        {
+            "header": "bool lambda2",
+            "params": "const PrimitiveData & a, const PrimitiveData & b",
+            "is_const": false,
+            "body": "return a.z < b.z;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/QGIS/src/core/annotations/qgsannotationlayerrenderer.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const std::pair< QString, std::unique_ptr< QgsAnnotationItem > > &a,\n               const std::pair< QString, std::unique_ptr< QgsAnnotationItem > > &b",
+            "is_const": false,
+            "body": "return a.second->zIndex() < b.second->zIndex();"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/QGIS/src/core/pointcloud/qgspointcloudlayerrenderer.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "QPair<int, double> a, QPair<int, double> b",
+            "is_const": false,
+            "body": "return a.second < b.second;"
+        },
+        {
+            "header": "bool lambda1",
+            "params": "QPair<int, double> a, QPair<int, double> b",
+            "is_const": false,
+            "body": "return a.second > b.second;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/QGIS/src/core/expression/qgsexpressionfunction.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const QPair< QString, QString > &pair1,\n                   const QPair< QString, QString > &pair2",
+            "is_const": false,
+            "body": "return ( pair1.first.length() > pair2.first.length() );"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/QGIS/src/core/layout/qgscompositionconverter.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const QgsLayoutTableColumn & a, const QgsLayoutTableColumn & b",
+            "is_const": false,
+            "body": "return a.sortByRank() < b.sortByRank();"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/QGIS/src/core/layout/qgslayouttable.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const QgsLayoutTableColumn & a, const QgsLayoutTableColumn & b",
+            "is_const": false,
+            "body": "return a.sortByRank() < b.sortByRank();"
+        },
+        {
+            "header": "bool lambda1",
+            "params": "const QgsLayoutTableColumn & a, const QgsLayoutTableColumn & b",
+            "is_const": false,
+            "body": "return a.sortByRank() < b.sortByRank();"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/QGIS/src/app/browser/qgsinbuiltdataitemproviders.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const QString &a, const QString &b",
+            "is_const": false,
+            "body": "return a.compare( b, Qt::CaseInsensitive ) < 0;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/QGIS/src/app/layers/qgsapplayerhandling.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "QgsMapLayer *a, QgsMapLayer *b",
+            "is_const": false,
+            "body": "const static QMap<Qgis::LayerType, int> layerTypeOrdering = {\n        { Qgis::LayerType::Annotation, -1 },\n        { Qgis::LayerType::Vector, 0 },\n        { Qgis::LayerType::PointCloud, 1 },\n        { Qgis::LayerType::Mesh, 2 },\n        { Qgis::LayerType::VectorTile, 3 },\n        { Qgis::LayerType::Raster, 4 },\n        { Qgis::LayerType::Group, 5 },\n        { Qgis::LayerType::Plugin, 6 },\n      };\n\n      if ( a->type() == Qgis::LayerType::Vector && b->type() == Qgis::LayerType::Vector )\n      {\n        QgsVectorLayer *av = qobject_cast<QgsVectorLayer *>( a );\n        QgsVectorLayer *bv = qobject_cast<QgsVectorLayer *>( b );\n        return av->geometryType() > bv->geometryType();\n      }\n\n      return layerTypeOrdering.value( a->type() ) > layerTypeOrdering.value( b->type() );"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/QGIS/src/app/3d/qgs3dmapcanvaswidget.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "QAction *a, QAction *b",
+            "is_const": false,
+            "body": "return QString::localeAwareCompare( a->text(), b->text() ) < 0;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/QGIS/src/analysis/vector/qgsgeometrysnappersinglesource.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "AnchorAlongSegment p1, AnchorAlongSegment p2",
+            "is_const": false,
+            "body": "return p1.along < p2.along;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/QGIS/src/analysis/processing/qgsalgorithmgpsbabeltools.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const QString &a, const QString &b",
+            "is_const": false,
+            "body": "return a.compare( b, Qt::CaseInsensitive ) < 0;"
+        },
+        {
+            "header": "bool lambda1",
+            "params": "const QString &a, const QString &b",
+            "is_const": false,
+            "body": "return a.compare( b, Qt::CaseInsensitive ) < 0;"
+        },
+        {
+            "header": "bool lambda2",
+            "params": "const QString &a, const QString &b",
+            "is_const": false,
+            "body": "return a.compare( b, Qt::CaseInsensitive ) < 0;"
+        },
+        {
+            "header": "bool lambda3",
+            "params": "const QString &a, const QString &b",
+            "is_const": false,
+            "body": "return a.compare( b, Qt::CaseInsensitive ) < 0;"
+        },
+        {
+            "header": "bool lambda4",
+            "params": "const QString &a, const QString &b",
+            "is_const": false,
+            "body": "return a.compare( b, Qt::CaseInsensitive ) < 0;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/QGIS/src/providers/arcgisrest/qgsamsprovider.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const QVariant &a, const QVariant &b",
+            "is_const": false,
+            "body": "return a.toMap().value( QStringLiteral( \"resolution\" ) ).toDouble() > b.toMap().value( QStringLiteral( \"resolution\" ) ).toDouble();"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/QGIS/src/gui/qgsbrowserwidget.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "QgsDataItemGuiProvider *a, QgsDataItemGuiProvider *b",
+            "is_const": false,
+            "body": "return a->precedenceWhenPopulatingMenus() < b->precedenceWhenPopulatingMenus();"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/QGIS/src/gui/qgsstoredquerymanager.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const QueryDetails &a, const QueryDetails &b",
+            "is_const": false,
+            "body": "if ( a.name == b.name )\n      return a.backend == Qgis::QueryStorageBackend::CurrentProject;\n\n    return QString::localeAwareCompare( a.name, b.name ) < 0;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/QGIS/src/gui/providers/gdal/qgsgdalsourceselect.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const QgsGdalUtils::VsiNetworkFileSystemDetails &a, const QgsGdalUtils::VsiNetworkFileSystemDetails &b",
+            "is_const": false,
+            "body": "return QString::localeAwareCompare( a.name, b.name ) < 0;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/QGIS/src/gui/providers/gdal/qgsgdalclouddataitemguiprovider.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const QgsGdalUtils::VsiNetworkFileSystemDetails &a, const QgsGdalUtils::VsiNetworkFileSystemDetails &b",
+            "is_const": false,
+            "body": "return QString::localeAwareCompare( a.name, b.name ) < 0;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/QGIS/src/gui/providers/ogr/qgsogrsourceselect.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const QgsGdalUtils::VsiNetworkFileSystemDetails &a, const QgsGdalUtils::VsiNetworkFileSystemDetails &b",
+            "is_const": false,
+            "body": "return QString::localeAwareCompare( a.name, b.name ) < 0;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/QGIS/src/gui/processing/qgsprocessingmatrixmodelerwidget.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const QModelIndex &a, const QModelIndex &b",
+            "is_const": false,
+            "body": "return b < a;"
+        },
+        {
+            "header": "bool lambda1",
+            "params": "const QModelIndex &a, const QModelIndex &b",
+            "is_const": false,
+            "body": "return b < a;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/QGIS/src/gui/processing/models/qgsmodeldesignerdialog.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "QgsModelComponentGraphicItem *p1, QgsModelComponentGraphicItem *p2",
+            "is_const": false,
+            "body": "if ( dynamic_cast<QgsModelCommentGraphicItem *>( p1 ) )\n      return true;\n    else if ( dynamic_cast<QgsModelCommentGraphicItem *>( p2 ) )\n      return false;\n    else if ( dynamic_cast<QgsModelGroupBoxGraphicItem *>( p1 ) )\n      return true;\n    else if ( dynamic_cast<QgsModelGroupBoxGraphicItem *>( p2 ) )\n      return false;\n    else if ( dynamic_cast<QgsModelOutputGraphicItem *>( p1 ) )\n      return true;\n    else if ( dynamic_cast<QgsModelOutputGraphicItem *>( p2 ) )\n      return false;\n    else if ( dynamic_cast<QgsModelChildAlgorithmGraphicItem *>( p1 ) )\n      return true;\n    else if ( dynamic_cast<QgsModelChildAlgorithmGraphicItem *>( p2 ) )\n      return false;\n    return false;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/QGIS/src/gui/labeling/qgstabpositionwidget.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const QgsTextFormat::Tab &a, const QgsTextFormat::Tab &b",
+            "is_const": false,
+            "body": "return a.position() < b.position();"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/QGIS/src/3d/symbols/qgspolygon3dsymbol.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const Qt3DCore::QEntity *a, const Qt3DCore::QEntity *b",
+            "is_const": false,
+            "body": "return a->objectName() < b->objectName();"
+        }
+    ]
+}

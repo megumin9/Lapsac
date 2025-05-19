@@ -1,0 +1,64 @@
+{
+    "/home/lizhilin/compare-order/real-project/FreeCAD/src/Mod/Sketcher/Gui/Command.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const auto &a, const auto &b",
+            "is_const": false,
+            "body": "return QString::fromUtf8(a->Label.getValue()) < QString::fromUtf8(b->Label.getValue());"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/FreeCAD/src/Mod/Part/App/WireJoiner.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "int vA, int vB",
+            "is_const": false,
+            "body": "return vertices[vA] < vertices[vB];"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/FreeCAD/src/Mod/Fem/App/FemPostGroupExtension.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const App::DocumentObject* lhs, const App::DocumentObject* rhs",
+            "is_const": false,
+            "body": "int l = lhs->isDerivedFrom<FemPostFilter>() ? 0 : 1;\n                          int r = rhs->isDerivedFrom<FemPostFilter>() ? 0 : 1;\n                          return r < l;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/FreeCAD/src/Gui/OverlayManager.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "const QDockWidget *a, const QDockWidget *b",
+            "is_const": false,
+            "body": "return !a->visibleRegion().isEmpty() && b->visibleRegion().isEmpty();"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/FreeCAD/src/Gui/Tree.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "App::DocumentObject* a, App::DocumentObject* b",
+            "is_const": false,
+            "body": "auto vpA = dynamic_cast<Gui::ViewProviderDocumentObject*>(Gui::Application::Instance->getViewProvider(a));\n            auto vpB = dynamic_cast<Gui::ViewProviderDocumentObject*>(Gui::Application::Instance->getViewProvider(b));\n            if (vpA && vpB) {\n                return vpA->getTreeRank() < vpB->getTreeRank();\n            }\n            return false;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/FreeCAD/src/Gui/Dialogs/DlgAddPropertyVarSet.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "std::string& a, std::string& b",
+            "is_const": false,
+            "body": "if (a == GROUP_BASE) {\n            return false;\n        }\n        else if (b == GROUP_BASE) {\n            return true;\n        }\n        else {\n            return a < b;\n        }"
+        },
+        {
+            "header": "bool lambda1",
+            "params": "Base::Type a, Base::Type b",
+            "is_const": false,
+            "body": "return strcmp(a.getName(), b.getName()) < 0;"
+        }
+    ],
+    "/home/lizhilin/compare-order/real-project/FreeCAD/src/Gui/Dialogs/DlgAddProperty.cpp": [
+        {
+            "header": "bool lambda0",
+            "params": "Base::Type a, Base::Type b",
+            "is_const": false,
+            "body": "return strcmp(a.getName(), b.getName()) < 0;"
+        }
+    ]
+}

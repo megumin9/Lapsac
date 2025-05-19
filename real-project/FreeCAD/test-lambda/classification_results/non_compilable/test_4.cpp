@@ -1,0 +1,43 @@
+#include <bits/stdc++.h>
+#include <QtWidgets/QDockWidget>
+#include <QRegion>
+
+void NewTest();
+void ConsistencyChecker();
+void TransiveChecker();
+void SymmetryChecker();
+void ReflexivityChecker();
+
+bool lambda0(const QDockWidget *a, const QDockWidget *b) {
+    return !a->visibleRegion().isEmpty() && b->visibleRegion().isEmpty();
+}
+
+void test1(const QDockWidget* a, const QDockWidget* b, const QDockWidget* c){
+NewTest();
+if (!lambda0(a,b) && !lambda0(b,c) && lambda0(a,c)) 
+ConsistencyChecker();
+}
+
+void test2(const QDockWidget* a, const QDockWidget* b, const QDockWidget* c){
+NewTest();
+if (lambda0(a,b) && lambda0(b,c) && lambda0(c,a)) 
+TransiveChecker();
+}
+
+void test3_1(const QDockWidget* a, const QDockWidget* b){
+NewTest();
+if (lambda0(a,b) && lambda0(b,a))
+SymmetryChecker();
+}
+
+void test3_2(const QDockWidget* a, const QDockWidget* b){
+NewTest();
+if (lambda0(a,b) && lambda0(b,a))
+SymmetryChecker();
+}
+
+void test4(const QDockWidget* a){
+NewTest();
+if (lambda0(a, a)) 
+ReflexivityChecker();
+}

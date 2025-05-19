@@ -1,0 +1,505 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+insert:
+compare : &a lazyCompoundVal{0x55bb7b289d98,__str} 
+
+The Road is: x2
+-----------------
+insert:
+compare : &a lazyCompoundVal{0x55bb7b289d98,__str} 
+
+The Road is: x1
+-----------------
+insert:
+compare : &a lazyCompoundVal{0x55bb7b289d98,__str} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x19
+The road length:2
+The road length:2
+The road length:2
+
+The Road is: x190
+-----------------
+Now have compare
+insert:
+compare : &a lazyCompoundVal{0x55bb7b292048,__str} 
+
+The Road is: x192
+-----------------
+Now have compare
+insert:
+compare : &a lazyCompoundVal{0x55bb7b292048,__str} 
+
+The Road is: x191
+-----------------
+Now have compare
+insert:
+compare : &a lazyCompoundVal{0x55bb7b292048,__str} 
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x29
+The road length:2
+The road length:2
+The road length:2
+
+The Road is: x290
+-----------------
+Now have compare
+insert:
+compare : &a lazyCompoundVal{0x55bb7b292048,__str} 
+
+The Road is: x292
+-----------------
+Now have compare
+
+The Road is: x291
+-----------------
+Now have compare
+insert:
+compare : &a lazyCompoundVal{0x55bb7b292048,__str} 
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+insert:
+compare : &a lazyCompoundVal{0x55bb7a5c9f78,__str} 
+
+The Road is: x2
+-----------------
+insert:
+compare : &a lazyCompoundVal{0x55bb7a5c9f78,__str} 
+
+The Road is: x1
+-----------------
+insert:
+compare : &a lazyCompoundVal{0x55bb7a5c9f78,__str} 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x08
+The road length:2
+The road length:2
+The road length:2
+
+The Road is: x080
+-----------------
+Now have compare
+insert:
+compare : &a lazyCompoundVal{0x55bb7981d5c0,__str} 
+
+The Road is: x082
+-----------------
+Now have compare
+insert:
+compare : &a lazyCompoundVal{0x55bb7981d5c0,__str} 
+
+The Road is: x081
+-----------------
+Now have compare
+insert:
+compare : &a lazyCompoundVal{0x55bb7981d5c0,__str} 
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+insert:
+compare : &a lazyCompoundVal{0x55bb7a809660,__str} 
+
+The Road is: x2
+-----------------
+insert:
+compare : &a lazyCompoundVal{0x55bb7a809660,__str} 
+
+The Road is: x1
+-----------------
+insert:
+compare : &a lazyCompoundVal{0x55bb7a809660,__str} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x18
+The road length:2
+The road length:2
+The road length:2
+
+The Road is: x180
+-----------------
+Now have compare
+insert:
+compare : &a lazyCompoundVal{0x55bb7b297900,__str} 
+
+The Road is: x182
+-----------------
+Now have compare
+insert:
+compare : &a lazyCompoundVal{0x55bb7b297900,__str} 
+
+The Road is: x181
+-----------------
+Now have compare
+insert:
+compare : &a lazyCompoundVal{0x55bb7b297900,__str} 
+
+
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+insert:
+compare : &a lazyCompoundVal{0x55bb7a5eb0f8,__str} 
+
+The Road is: x2
+-----------------
+insert:
+compare : &a lazyCompoundVal{0x55bb7a5eb0f8,__str} 
+
+The Road is: x1
+-----------------
+insert:
+compare : &a lazyCompoundVal{0x55bb7a5eb0f8,__str} 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x08
+The road length:2
+The road length:2
+The road length:2
+
+The Road is: x080
+-----------------
+Now have compare
+insert:
+compare : &a lazyCompoundVal{0x55bb7981d650,__str} 
+
+The Road is: x082
+-----------------
+Now have compare
+insert:
+compare : &a lazyCompoundVal{0x55bb7981d650,__str} 
+
+The Road is: x081
+-----------------
+Now have compare
+insert:
+compare : &a lazyCompoundVal{0x55bb7981d650,__str} 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x0808
+The road length:4
+The road length:4
+The road length:4
+
+The Road is: x08080
+-----------------
+Now have compare
+Now have compare
+insert:
+compare : &a lazyCompoundVal{0x55bb7b2faca8,__str} 
+
+The Road is: x08082
+-----------------
+Now have compare
+Now have compare
+insert:
+compare : &a lazyCompoundVal{0x55bb7b2faca8,__str} 
+
+The Road is: x08081
+-----------------
+Now have compare
+Now have compare
+insert:
+compare : &a lazyCompoundVal{0x55bb7b2faca8,__str} 
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+The road length:0
+The road length:0
+The road length:0
+
+The Road is: x0
+-----------------
+insert:
+compare : &a lazyCompoundVal{0x55bb7ae17e70,__str} 
+
+The Road is: x2
+-----------------
+insert:
+compare : &a lazyCompoundVal{0x55bb7ae17e70,__str} 
+
+The Road is: x1
+-----------------
+insert:
+compare : &a lazyCompoundVal{0x55bb7ae17e70,__str} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x18
+The road length:2
+The road length:2
+The road length:2
+
+The Road is: x180
+-----------------
+Now have compare
+insert:
+compare : &a lazyCompoundVal{0x55bb7981d318,__str} 
+
+The Road is: x182
+-----------------
+Now have compare
+insert:
+compare : &a lazyCompoundVal{0x55bb7981d318,__str} 
+
+The Road is: x181
+-----------------
+Now have compare
+insert:
+compare : &a lazyCompoundVal{0x55bb7981d318,__str} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x1818
+The road length:4
+The road length:4
+The road length:4
+
+The Road is: x18180
+-----------------
+Now have compare
+Now have compare
+insert:
+compare : &a lazyCompoundVal{0x55bb7976eb88,__str} 
+
+The Road is: x18182
+-----------------
+Now have compare
+Now have compare
+insert:
+compare : &a lazyCompoundVal{0x55bb7976eb88,__str} 
+
+The Road is: x18181
+-----------------
+Now have compare
+Now have compare
+insert:
+compare : &a lazyCompoundVal{0x55bb7976eb88,__str} 
+
+
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x28
+The road length:2
+The road length:2
+The road length:2
+
+The Road is: x280
+-----------------
+Now have compare
+insert:
+compare : &a lazyCompoundVal{0x55bb7981d318,__str} 
+
+The Road is: x282
+-----------------
+Now have compare
+
+The Road is: x281
+-----------------
+Now have compare
+insert:
+compare : &a lazyCompoundVal{0x55bb7981d318,__str} 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x1828
+The road length:4
+The road length:4
+The road length:4
+
+The Road is: x18280
+-----------------
+Now have compare
+Now have compare
+insert:
+compare : &a lazyCompoundVal{0x55bb7976eb88,__str} 
+
+The Road is: x18282
+-----------------
+Now have compare
+Now have compare
+
+The Road is: x18281
+-----------------
+Now have compare
+Now have compare
+insert:
+compare : &a lazyCompoundVal{0x55bb7976eb88,__str} 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x2818
+The road length:4
+The road length:4
+The road length:4
+
+The Road is: x28180
+-----------------
+Now have compare
+Now have compare
+insert:
+compare : &a lazyCompoundVal{0x55bb7976eb88,__str} 
+
+The Road is: x28182
+-----------------
+Now have compare
+Now have compare
+
+The Road is: x28181
+-----------------
+Now have compare
+Now have compare
+insert:
+compare : &a lazyCompoundVal{0x55bb7976eb88,__str} 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x2828
+The road length:4
+The road length:4
+The road length:4
+
+The Road is: x28280
+-----------------
+Now have compare
+insert:
+compare : &a lazyCompoundVal{0x55bb7976eb88,__str} 
+
+The Road is: x28282
+-----------------
+Now have compare
+
+The Road is: x28281
+-----------------
+Now have compare
+insert:
+compare : &a lazyCompoundVal{0x55bb7976eb88,__str} 
+
+
+
+Total paths analyzed: 3
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 4

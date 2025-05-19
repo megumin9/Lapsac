@@ -1,0 +1,308 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+shape : &SymRegion{reg_$4<const HloInstruction * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+ShapeSizeInBytes : &SymRegion{conj_$8{const Shape &, LC2, S6166818, #1}} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+shape : &SymRegion{reg_$4<const HloInstruction * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+ShapeSizeInBytes : &SymRegion{conj_$9{const Shape &, LC4, S6166818, #1}} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+shape : &SymRegion{reg_$5<const HloInstruction * b>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+ShapeSizeInBytes : &SymRegion{conj_$17{const Shape &, LC4, S6166894, #1}} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+shape : &SymRegion{reg_$4<const HloInstruction * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+ShapeSizeInBytes : &SymRegion{conj_$9{const Shape &, LC7, S6166818, #1}} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+shape : &SymRegion{reg_$5<const HloInstruction * b>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+ShapeSizeInBytes : &SymRegion{conj_$17{const Shape &, LC7, S6166894, #1}} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+shape : &SymRegion{reg_$4<const HloInstruction * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+ShapeSizeInBytes : &SymRegion{conj_$9{const Shape &, LC9, S6166818, #1}} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+shape : &SymRegion{reg_$5<const HloInstruction * b>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+ShapeSizeInBytes : &SymRegion{conj_$17{const Shape &, LC9, S6166894, #1}} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+shape : &SymRegion{reg_$22<const HloInstruction * c>} NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+ShapeSizeInBytes : &SymRegion{conj_$34{const Shape &, LC10, S6166894, #1}} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+shape : &SymRegion{reg_$4<const HloInstruction * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+ShapeSizeInBytes : &SymRegion{conj_$9{const Shape &, LC12, S6166818, #1}} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+shape : &SymRegion{reg_$5<const HloInstruction * b>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+ShapeSizeInBytes : &SymRegion{conj_$17{const Shape &, LC12, S6166894, #1}} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+shape : &SymRegion{reg_$22<const HloInstruction * c>} NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+ShapeSizeInBytes : &SymRegion{conj_$34{const Shape &, LC13, S6166894, #1}} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+
+
+
+Total paths analyzed: 0
+Total paths analyzed: 0
+Total paths analyzed: 0
+Total paths analyzed: 1
+Total paths analyzed: 1

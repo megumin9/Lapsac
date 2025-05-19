@@ -1,0 +1,190 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+parsed_name : &SymRegion{reg_$4<Device * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+parsed_name : &SymRegion{reg_$4<Device * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+parsed_name : &SymRegion{reg_$5<Device * b>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+parsed_name : &SymRegion{reg_$4<Device * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+parsed_name : &SymRegion{reg_$5<Device * b>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+parsed_name : &SymRegion{reg_$4<Device * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+parsed_name : &SymRegion{reg_$5<Device * b>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+parsed_name : &SymRegion{reg_$18<Device * c>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+parsed_name : &SymRegion{reg_$4<Device * a>} NowTime: 0
+
+The Road is: x
+
+The Road is: x
+insert:
+parsed_name : &SymRegion{reg_$5<Device * b>} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+NowTime: 0
+
+The Road is: x8
+
+The Road is: x8
+insert:
+parsed_name : &SymRegion{reg_$18<Device * c>} 
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+NowTime: 0
+
+The Road is: x88
+
+The Road is: x88
+
+
+
+
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 1
+Total paths analyzed: 1

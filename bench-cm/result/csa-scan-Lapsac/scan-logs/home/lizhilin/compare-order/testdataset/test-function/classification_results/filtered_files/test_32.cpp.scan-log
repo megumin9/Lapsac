@@ -1,0 +1,2252 @@
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x999
+The road length:3
+The road length:3
+The road length:3
+
+The Road is: x9990
+-----------------
+insert:
+compareByFileAndOffset : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$5<const void * b>} 
+
+The Road is: x9992
+-----------------
+insert:
+compareByFileAndOffset : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$5<const void * b>} 
+
+The Road is: x9991
+-----------------
+insert:
+compareByFileAndOffset : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$5<const void * b>} 
+
+NowTime: 0
+
+The Road is: x99929
+The road length:5
+The road length:5
+The road length:5
+
+The Road is: x999290
+-----------------
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+The Road is: x999292
+-----------------
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+The Road is: x999291
+-----------------
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9992908999
+
+The Road is: x9992908999
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+NowTime: 0
+
+The Road is: x99929089999
+
+The Road is: x99929089999
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+The Road is: x98999
+The road length:5
+The road length:5
+The road length:5
+
+The Road is: x989990
+-----------------
+insert:
+compareByFileAndOffset : &SymRegion{reg_$5<const void * b>} &SymRegion{reg_$4<const void * a>} 
+
+The Road is: x989992
+-----------------
+insert:
+compareByFileAndOffset : &SymRegion{reg_$5<const void * b>} &SymRegion{reg_$4<const void * a>} 
+
+The Road is: x989991
+-----------------
+insert:
+compareByFileAndOffset : &SymRegion{reg_$5<const void * b>} &SymRegion{reg_$4<const void * a>} 
+
+
+NowTime: 0
+
+The Road is: x9899929
+The road length:7
+The road length:7
+The road length:7
+
+The Road is: x98999290
+-----------------
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+The Road is: x98999292
+-----------------
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+The Road is: x98999291
+-----------------
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x999088999
+
+The Road is: x999088999
+-----------------
+Now have compareByFileAndOffset
+insert:
+compareByFileAndOffset : &SymRegion{reg_$5<const void * b>} &SymRegion{reg_$4<const void * a>} 
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x999
+The road length:3
+The road length:3
+The road length:3
+
+The Road is: x9990
+-----------------
+insert:
+compareByFileAndOffset : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$5<const void * b>} 
+
+The Road is: x9992
+-----------------
+insert:
+compareByFileAndOffset : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$5<const void * b>} 
+
+The Road is: x9991
+-----------------
+insert:
+compareByFileAndOffset : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$5<const void * b>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x999188999
+
+The Road is: x999188999
+-----------------
+Now have compareByFileAndOffset
+insert:
+compareByFileAndOffset : &SymRegion{reg_$5<const void * b>} &SymRegion{reg_$4<const void * a>} 
+
+
+
+NowTime: 0
+
+The Road is: x99929
+The road length:5
+The road length:5
+The road length:5
+
+The Road is: x999290
+-----------------
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+The Road is: x999292
+-----------------
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+The Road is: x999291
+-----------------
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+
+
+
+
+
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+The Road is: x9992918999
+
+The Road is: x9992918999
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+NowTime: 0
+
+The Road is: x99929189999
+
+The Road is: x99929189999
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+
+NowTime: 0
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+The Road is: x998999
+The road length:6
+The road length:6
+The road length:6
+
+The Road is: x9989990
+-----------------
+insert:
+compareByFileAndOffset : &SymRegion{reg_$5<const void * b>} &SymRegion{reg_$4<const void * a>} 
+
+The Road is: x9989992
+-----------------
+insert:
+compareByFileAndOffset : &SymRegion{reg_$5<const void * b>} &SymRegion{reg_$4<const void * a>} 
+
+The Road is: x9989991
+-----------------
+insert:
+compareByFileAndOffset : &SymRegion{reg_$5<const void * b>} &SymRegion{reg_$4<const void * a>} 
+NowTime: 0
+
+The Road is: x99899929
+The road length:8
+The road length:8
+The road length:8
+
+The Road is: x998999290
+-----------------
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+The Road is: x998999292
+-----------------
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+The Road is: x998999291
+-----------------
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+
+
+
+
+
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x999
+The road length:3
+The road length:3
+The road length:3
+
+The Road is: x9990
+-----------------
+insert:
+compareByFileAndOffset : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$5<const void * b>} 
+
+The Road is: x9992
+-----------------
+insert:
+compareByFileAndOffset : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$5<const void * b>} 
+
+The Road is: x9991
+-----------------
+insert:
+compareByFileAndOffset : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$5<const void * b>} 
+
+NowTime: 0
+
+The Road is: x99929
+The road length:5
+The road length:5
+The road length:5
+
+The Road is: x999290
+-----------------
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+The Road is: x999292
+-----------------
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+The Road is: x999291
+-----------------
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9992908999
+The road length:10
+The road length:10
+The road length:10
+
+The Road is: x99929089990
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+insert:
+compareByFileAndOffset : &SymRegion{reg_$5<const void * b>} &SymRegion{reg_$18<const void * c>} 
+
+The Road is: x99929089992
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+
+The Road is: x99929089991
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+insert:
+compareByFileAndOffset : &SymRegion{reg_$5<const void * b>} &SymRegion{reg_$18<const void * c>} 
+
+NowTime: 0
+
+The Road is: x999290899929
+
+The Road is: x999290899929
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x9992908999298999
+
+The Road is: x9992908999298999
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+NowTime: 0
+
+The Road is: x99929089992989999
+
+The Road is: x99929089992989999
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+
+
+
+
+
+
+
+
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+The Road is: x988999
+The road length:6
+The road length:6
+The road length:6
+
+The Road is: x9889990
+-----------------
+insert:
+compareByFileAndOffset : &SymRegion{reg_$5<const void * b>} &SymRegion{reg_$18<const void * c>} 
+
+The Road is: x9889992
+-----------------
+insert:
+compareByFileAndOffset : &SymRegion{reg_$5<const void * b>} &SymRegion{reg_$18<const void * c>} 
+
+The Road is: x9889991
+-----------------
+insert:
+compareByFileAndOffset : &SymRegion{reg_$5<const void * b>} &SymRegion{reg_$18<const void * c>} 
+NowTime: 0
+
+The Road is: x98899929
+The road length:8
+The road length:8
+The road length:8
+
+The Road is: x988999290
+-----------------
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+The Road is: x988999292
+-----------------
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+The Road is: x988999291
+-----------------
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+
+
+
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+The Road is: x999290898999
+The road length:12
+The road length:12
+The road length:12
+
+The Road is: x9992908989990
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+insert:
+compareByFileAndOffset : &SymRegion{reg_$18<const void * c>} &SymRegion{reg_$4<const void * a>} 
+
+The Road is: x9992908989992
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+
+The Road is: x9992908989991
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+insert:
+compareByFileAndOffset : &SymRegion{reg_$18<const void * c>} &SymRegion{reg_$4<const void * a>} 
+
+
+NowTime: 0
+
+The Road is: x99929089899929
+
+The Road is: x99929089899929
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+
+
+
+The Error Road is: x999290899929898
+
+The Error Road is: x99929089898
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+The Road is: x98999
+The road length:5
+The road length:5
+The road length:5
+
+The Road is: x989990
+-----------------
+insert:
+compareByFileAndOffset : &SymRegion{reg_$5<const void * b>} &SymRegion{reg_$18<const void * c>} 
+
+The Road is: x989992
+-----------------
+insert:
+compareByFileAndOffset : &SymRegion{reg_$5<const void * b>} &SymRegion{reg_$18<const void * c>} 
+
+The Road is: x989991
+-----------------
+insert:
+compareByFileAndOffset : &SymRegion{reg_$5<const void * b>} &SymRegion{reg_$18<const void * c>} 
+NowTime: 0
+
+The Road is: x9899929
+The road length:7
+The road length:7
+The road length:7
+
+The Road is: x98999290
+-----------------
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+The Road is: x98999292
+-----------------
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+The Road is: x98999291
+-----------------
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+
+
+
+
+The Error Road is: x999290898999088
+NowTime: 0
+
+
+NowTime: 0
+
+The Road is: x999088999
+The road length:9
+The road length:9
+The road length:9
+
+The Road is: x9990889990
+-----------------
+Now have compareByFileAndOffset
+insert:
+compareByFileAndOffset : &SymRegion{reg_$5<const void * b>} &SymRegion{reg_$18<const void * c>} 
+
+The Road is: x9990889992
+-----------------
+Now have compareByFileAndOffset
+insert:
+compareByFileAndOffset : &SymRegion{reg_$5<const void * b>} &SymRegion{reg_$18<const void * c>} 
+
+The Road is: x9990889991
+-----------------
+Now have compareByFileAndOffset
+insert:
+compareByFileAndOffset : &SymRegion{reg_$5<const void * b>} &SymRegion{reg_$18<const void * c>} 
+NowTime: 0
+
+The Road is: x99908899929
+The road length:11
+The road length:11
+The road length:11
+
+The Road is: x999088999290
+-----------------
+Now have compareByFileAndOffset
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+The Road is: x999088999292
+-----------------
+Now have compareByFileAndOffset
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+The Road is: x999088999291
+-----------------
+Now have compareByFileAndOffset
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+
+
+NowTime: 0
+
+
+
+
+
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+The Road is: x9992908999088999
+
+The Road is: x9992908999088999
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+Now have compareByFileAndOffset
+insert:
+compareByFileAndOffset : &SymRegion{reg_$18<const void * c>} &SymRegion{reg_$4<const void * a>} 
+
+The Error Road is: x999290898999298
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+The Road is: x9898999
+The road length:7
+The road length:7
+The road length:7
+
+The Road is: x98989990
+-----------------
+insert:
+compareByFileAndOffset : &SymRegion{reg_$18<const void * c>} &SymRegion{reg_$4<const void * a>} 
+
+The Road is: x98989992
+-----------------
+insert:
+compareByFileAndOffset : &SymRegion{reg_$18<const void * c>} &SymRegion{reg_$4<const void * a>} 
+
+The Road is: x98989991
+-----------------
+insert:
+compareByFileAndOffset : &SymRegion{reg_$18<const void * c>} &SymRegion{reg_$4<const void * a>} 
+NowTime: 0
+
+The Road is: x989899929
+The road length:9
+The road length:9
+The road length:9
+
+The Road is: x9898999290
+-----------------
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+The Road is: x9898999292
+-----------------
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+The Road is: x9898999291
+-----------------
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+
+
+
+
+The Error Road is: x999290898988
+
+
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+The Road is: x989992908999
+The road length:12
+The road length:12
+The road length:12
+
+The Road is: x9899929089990
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+insert:
+compareByFileAndOffset : &SymRegion{reg_$18<const void * c>} &SymRegion{reg_$4<const void * a>} 
+
+The Road is: x9899929089992
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+
+The Road is: x9899929089991
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+insert:
+compareByFileAndOffset : &SymRegion{reg_$18<const void * c>} &SymRegion{reg_$4<const void * a>} 
+NowTime: 0
+
+The Road is: x98999290899929
+
+The Road is: x98999290899929
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+
+
+
+
+
+The Error Road is: x988999290898
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+The Road is: x98988999
+The road length:8
+The road length:8
+The road length:8
+
+The Road is: x989889990
+-----------------
+insert:
+compareByFileAndOffset : &SymRegion{reg_$18<const void * c>} &SymRegion{reg_$4<const void * a>} 
+
+The Road is: x989889992
+-----------------
+insert:
+compareByFileAndOffset : &SymRegion{reg_$18<const void * c>} &SymRegion{reg_$4<const void * a>} 
+
+The Road is: x989889991
+-----------------
+insert:
+compareByFileAndOffset : &SymRegion{reg_$18<const void * c>} &SymRegion{reg_$4<const void * a>} 
+NowTime: 0
+
+The Road is: x9898899929
+The road length:10
+The road length:10
+The road length:10
+
+The Road is: x98988999290
+-----------------
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+The Road is: x98988999292
+-----------------
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+The Road is: x98988999291
+-----------------
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+
+
+
+
+
+
+The Error Road is: x999290899908898
+NowTime: 0
+
+
+NowTime: 0
+
+The Road is: x9990889992908999
+
+The Road is: x9990889992908999
+-----------------
+Now have compareByFileAndOffset
+Now have compareByFileAndOffset
+Now have compare
+insert:
+compareByFileAndOffset : &SymRegion{reg_$18<const void * c>} &SymRegion{reg_$4<const void * a>} 
+
+
+
+The Error Road is: x98989992908
+NowTime: 0
+
+
+
+The Error Road is: x9898999088
+NowTime: 0
+
+
+NowTime: 0
+
+The Road is: x99908898999
+The road length:11
+The road length:11
+The road length:11
+
+The Road is: x999088989990
+-----------------
+Now have compareByFileAndOffset
+insert:
+compareByFileAndOffset : &SymRegion{reg_$18<const void * c>} &SymRegion{reg_$4<const void * a>} 
+
+The Road is: x999088989992
+-----------------
+Now have compareByFileAndOffset
+insert:
+compareByFileAndOffset : &SymRegion{reg_$18<const void * c>} &SymRegion{reg_$4<const void * a>} 
+
+The Road is: x999088989991
+-----------------
+Now have compareByFileAndOffset
+insert:
+compareByFileAndOffset : &SymRegion{reg_$18<const void * c>} &SymRegion{reg_$4<const void * a>} 
+NowTime: 0
+
+The Road is: x9990889899929
+The road length:13
+The road length:13
+The road length:13
+
+The Road is: x99908898999290
+-----------------
+Now have compareByFileAndOffset
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+The Road is: x99908898999292
+-----------------
+Now have compareByFileAndOffset
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+The Road is: x99908898999291
+-----------------
+Now have compareByFileAndOffset
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+
+
+
+
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+The Road is: x98999088999
+The road length:11
+The road length:11
+The road length:11
+
+The Road is: x989990889990
+-----------------
+Now have compareByFileAndOffset
+insert:
+compareByFileAndOffset : &SymRegion{reg_$18<const void * c>} &SymRegion{reg_$4<const void * a>} 
+
+The Road is: x989990889992
+-----------------
+Now have compareByFileAndOffset
+insert:
+compareByFileAndOffset : &SymRegion{reg_$18<const void * c>} &SymRegion{reg_$4<const void * a>} 
+
+The Road is: x989990889991
+-----------------
+Now have compareByFileAndOffset
+insert:
+compareByFileAndOffset : &SymRegion{reg_$18<const void * c>} &SymRegion{reg_$4<const void * a>} 
+NowTime: 0
+
+The Road is: x9899908899929
+The road length:13
+The road length:13
+The road length:13
+
+The Road is: x98999088999290
+-----------------
+Now have compareByFileAndOffset
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+The Road is: x98999088999292
+-----------------
+Now have compareByFileAndOffset
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+The Road is: x98999088999291
+-----------------
+Now have compareByFileAndOffset
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+
+
+
+
+
+NowTime: 1
+
+
+NowTime: 1
+
+The Road is: x999088999088999
+
+The Road is: x999088999088999
+-----------------
+Now have compareByFileAndOffset
+Now have compareByFileAndOffset
+insert:
+compareByFileAndOffset : &SymRegion{reg_$18<const void * c>} &SymRegion{reg_$4<const void * a>} 
+The Error Road is: x989992908999298
+
+
+
+The Error Road is: x989992908999088
+
+
+
+
+
+The Error Road is: x989889992908
+The Error Road is: x98988999088
+The Error Road is: x98999290898
+The Error Road is: x999088999290898
+The Error Road is: x999088989992908
+The Error Road is: x99908898999088
+The Error Road is: x98899908898
+The Error Road is: x989990889992908
+The Error Road is: x9990889898
+The Error Road is: x98999088999088
+The Error Road is: x99908898988
+The Error Road is: x9899908898
+The Error Road is: x99908899908898
+NewTest: 
+NowTime: 0
+
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x999
+The road length:3
+The road length:3
+The road length:3
+
+The Road is: x9990
+-----------------
+insert:
+compareByFileAndOffset : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$5<const void * b>} 
+
+The Road is: x9992
+-----------------
+insert:
+compareByFileAndOffset : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$5<const void * b>} 
+
+The Road is: x9991
+-----------------
+insert:
+compareByFileAndOffset : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$5<const void * b>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x999188999
+The road length:9
+The road length:9
+The road length:9
+
+The Road is: x9991889990
+-----------------
+Now have compareByFileAndOffset
+insert:
+compareByFileAndOffset : &SymRegion{reg_$5<const void * b>} &SymRegion{reg_$7<const void * c>} 
+
+The Road is: x9991889992
+-----------------
+Now have compareByFileAndOffset
+insert:
+compareByFileAndOffset : &SymRegion{reg_$5<const void * b>} &SymRegion{reg_$7<const void * c>} 
+
+The Road is: x9991889991
+-----------------
+Now have compareByFileAndOffset
+insert:
+compareByFileAndOffset : &SymRegion{reg_$5<const void * b>} &SymRegion{reg_$7<const void * c>} 
+
+NowTime: 0
+
+NowTime: 0
+
+The Road is: x999188999188999
+
+The Road is: x999188999188999
+-----------------
+Now have compareByFileAndOffset
+Now have compareByFileAndOffset
+insert:
+compareByFileAndOffset : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$7<const void * c>} 
+
+
+
+
+NowTime: 0
+
+The Road is: x99918899929
+The road length:11
+The road length:11
+The road length:11
+
+The Road is: x999188999290
+-----------------
+Now have compareByFileAndOffset
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+The Road is: x999188999292
+-----------------
+Now have compareByFileAndOffset
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+The Road is: x999188999291
+-----------------
+Now have compareByFileAndOffset
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+
+
+
+
+
+NowTime: 0
+
+The Road is: x99929
+The road length:5
+The road length:5
+The road length:5
+
+The Road is: x999290
+-----------------
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+The Road is: x999292
+-----------------
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+The Road is: x999291
+-----------------
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+
+
+
+
+
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+The Road is: x9992918999
+The road length:10
+The road length:10
+The road length:10
+
+The Road is: x99929189990
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+insert:
+compareByFileAndOffset : &SymRegion{reg_$5<const void * b>} &SymRegion{reg_$7<const void * c>} 
+
+The Road is: x99929189992
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+
+The Road is: x99929189991
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+insert:
+compareByFileAndOffset : &SymRegion{reg_$5<const void * b>} &SymRegion{reg_$7<const void * c>} 
+NowTime: 0
+
+The Road is: x999291899929
+
+The Road is: x999291899929
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+
+
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+The Road is: x9991889992918999
+
+The Road is: x9991889992918999
+-----------------
+Now have compareByFileAndOffset
+Now have compareByFileAndOffset
+Now have compare
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+The Road is: x9992928999
+The road length:10
+The road length:10
+The road length:10
+
+The Road is: x99929289990
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+insert:
+compareByFileAndOffset : &SymRegion{reg_$5<const void * b>} &SymRegion{reg_$7<const void * c>} 
+
+The Road is: x99929289992
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+
+The Road is: x99929289991
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+insert:
+compareByFileAndOffset : &SymRegion{reg_$5<const void * b>} &SymRegion{reg_$7<const void * c>} 
+NowTime: 0
+
+The Road is: x999292899929
+
+The Road is: x999292899929
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+The Road is: x9991889992928999
+
+The Road is: x9991889992928999
+-----------------
+Now have compareByFileAndOffset
+Now have compareByFileAndOffset
+Now have compare
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+The Road is: x88999
+The road length:5
+The road length:5
+The road length:5
+
+The Road is: x889990
+-----------------
+insert:
+compareByFileAndOffset : &SymRegion{reg_$5<const void * b>} &SymRegion{reg_$7<const void * c>} 
+
+The Road is: x889992
+-----------------
+insert:
+compareByFileAndOffset : &SymRegion{reg_$5<const void * b>} &SymRegion{reg_$7<const void * c>} 
+
+The Road is: x889991
+-----------------
+insert:
+compareByFileAndOffset : &SymRegion{reg_$5<const void * b>} &SymRegion{reg_$7<const void * c>} 
+NowTime: 0
+
+The Road is: x8899929
+The road length:7
+The road length:7
+The road length:7
+
+The Road is: x88999290
+-----------------
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+The Road is: x88999292
+-----------------
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+The Road is: x88999291
+-----------------
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+The Road is: x99918888999
+The road length:11
+The road length:11
+The road length:11
+
+The Road is: x999188889990
+-----------------
+Now have compareByFileAndOffset
+insert:
+compareByFileAndOffset : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$7<const void * c>} 
+
+The Road is: x999188889992
+-----------------
+Now have compareByFileAndOffset
+insert:
+compareByFileAndOffset : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$7<const void * c>} 
+
+The Road is: x999188889991
+-----------------
+Now have compareByFileAndOffset
+insert:
+compareByFileAndOffset : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$7<const void * c>} 
+NowTime: 0
+
+The Road is: x9991888899929
+The road length:13
+The road length:13
+The road length:13
+
+The Road is: x99918888999290
+-----------------
+Now have compareByFileAndOffset
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+The Road is: x99918888999292
+-----------------
+Now have compareByFileAndOffset
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+The Road is: x99918888999291
+-----------------
+Now have compareByFileAndOffset
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+
+
+
+
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+The Road is: x999291888999
+The road length:12
+The road length:12
+The road length:12
+
+The Road is: x9992918889990
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+insert:
+compareByFileAndOffset : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$7<const void * c>} 
+
+The Road is: x9992918889992
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+
+The Road is: x9992918889991
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+insert:
+compareByFileAndOffset : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$7<const void * c>} 
+NowTime: 0
+
+The Road is: x99929188899929
+
+The Road is: x99929188899929
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+
+
+NowTime: 0
+
+
+NowTime: 0
+
+The Road is: x998999
+The road length:6
+The road length:6
+The road length:6
+
+The Road is: x9989990
+-----------------
+insert:
+compareByFileAndOffset : &SymRegion{reg_$5<const void * b>} &SymRegion{reg_$7<const void * c>} 
+
+The Road is: x9989992
+-----------------
+insert:
+compareByFileAndOffset : &SymRegion{reg_$5<const void * b>} &SymRegion{reg_$7<const void * c>} 
+
+The Road is: x9989991
+-----------------
+insert:
+compareByFileAndOffset : &SymRegion{reg_$5<const void * b>} &SymRegion{reg_$7<const void * c>} 
+NowTime: 0
+
+The Road is: x99899929
+The road length:8
+The road length:8
+The road length:8
+
+The Road is: x998999290
+-----------------
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+The Road is: x998999292
+-----------------
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+The Road is: x998999291
+-----------------
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+
+
+
+
+
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+The Road is: x9992918999298999
+
+The Road is: x9992918999298999
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+NowTime: 0
+
+The Road is: x99929189992989999
+
+The Road is: x99929189992989999
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+
+
+
+
+NowTime: 0
+
+
+
+
+NowTime: 0
+
+The Road is: x999188998999
+The road length:12
+The road length:12
+The road length:12
+
+The Road is: x9991889989990
+-----------------
+Now have compareByFileAndOffset
+insert:
+compareByFileAndOffset : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$7<const void * c>} 
+
+The Road is: x9991889989992
+-----------------
+Now have compareByFileAndOffset
+insert:
+compareByFileAndOffset : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$7<const void * c>} 
+
+The Road is: x9991889989991
+-----------------
+Now have compareByFileAndOffset
+insert:
+compareByFileAndOffset : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$7<const void * c>} 
+NowTime: 0
+
+The Road is: x99918899899929
+The road length:14
+The road length:14
+The road length:14
+
+The Road is: x999188998999290
+-----------------
+Now have compareByFileAndOffset
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+The Road is: x999188998999292
+-----------------
+Now have compareByFileAndOffset
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+The Road is: x999188998999291
+-----------------
+Now have compareByFileAndOffset
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+
+
+
+
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+The Road is: x9992918999188999
+
+The Road is: x9992918999188999
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+Now have compareByFileAndOffset
+
+
+
+
+NowTime: 0
+
+
+
+NowTime: 0
+
+The Road is: x9992918998999
+The road length:13
+The road length:13
+The road length:13
+
+The Road is: x99929189989990
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+insert:
+compareByFileAndOffset : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$7<const void * c>} 
+
+The Road is: x99929189989992
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+
+The Road is: x99929189989991
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+insert:
+compareByFileAndOffset : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$7<const void * c>} 
+NowTime: 1
+
+The Road is: x999291899899929
+
+The Road is: x999291899899929
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+
+
+
+NowTime: 1
+
+
+NowTime: 1
+
+The Road is: x999292888999
+The road length:12
+The road length:12
+The road length:12
+
+The Road is: x9992928889990
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+insert:
+compareByFileAndOffset : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$7<const void * c>} 
+
+The Road is: x9992928889992
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+
+The Road is: x9992928889991
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+insert:
+compareByFileAndOffset : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$7<const void * c>} 
+NowTime: 1
+
+The Road is: x99929288899929
+
+The Road is: x99929288899929
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+
+
+
+NowTime: 1
+
+
+
+NowTime: 1
+
+The Road is: x9992928999298999
+
+The Road is: x9992928999298999
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+NowTime: 1
+
+The Road is: x99929289992989999
+
+The Road is: x99929289992989999
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+
+
+
+NowTime: 1
+
+
+
+
+NowTime: 1
+
+
+
+NowTime: 1
+
+
+
+NowTime: 2
+
+The Road is: x9992928999188999
+
+The Road is: x9992928999188999
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+Now have compareByFileAndOffset
+
+
+NowTime: 2
+
+
+
+NowTime: 2
+
+The Road is: x9992928998999
+The road length:13
+The road length:13
+The road length:13
+
+The Road is: x99929289989990
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+insert:
+compareByFileAndOffset : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$7<const void * c>} 
+
+The Road is: x99929289989992
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+
+The Road is: x99929289989991
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+insert:
+compareByFileAndOffset : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$7<const void * c>} 
+NowTime: 2
+
+The Road is: x999292899899929
+
+The Road is: x999292899899929
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+
+
+
+
+NowTime: 2
+
+
+
+NowTime: 2
+
+
+NowTime: 2
+
+The Road is: x889992918999
+The road length:12
+The road length:12
+The road length:12
+
+The Road is: x8899929189990
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+insert:
+compareByFileAndOffset : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$7<const void * c>} 
+
+The Road is: x8899929189992
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+
+The Road is: x8899929189991
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+insert:
+compareByFileAndOffset : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$7<const void * c>} 
+NowTime: 2
+
+The Road is: x88999291899929
+
+The Road is: x88999291899929
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+
+
+
+
+NowTime: 2
+
+
+NowTime: 2
+
+The Road is: x889992928999
+The road length:12
+The road length:12
+The road length:12
+
+The Road is: x8899929289990
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+insert:
+compareByFileAndOffset : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$7<const void * c>} 
+
+The Road is: x8899929289992
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+
+The Road is: x8899929289991
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+insert:
+compareByFileAndOffset : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$7<const void * c>} 
+NowTime: 2
+
+The Road is: x88999292899929
+
+The Road is: x88999292899929
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+
+
+
+NowTime: 2
+
+
+
+
+NowTime: 2
+
+
+NowTime: 2
+
+The Road is: x99888999
+The road length:8
+The road length:8
+The road length:8
+
+The Road is: x998889990
+-----------------
+insert:
+compareByFileAndOffset : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$7<const void * c>} 
+
+The Road is: x998889992
+-----------------
+insert:
+compareByFileAndOffset : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$7<const void * c>} 
+
+The Road is: x998889991
+-----------------
+insert:
+compareByFileAndOffset : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$7<const void * c>} 
+NowTime: 3
+
+The Road is: x9988899929
+The road length:10
+The road length:10
+The road length:10
+
+The Road is: x99888999290
+-----------------
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+The Road is: x99888999292
+-----------------
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+The Road is: x99888999291
+-----------------
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+
+
+
+
+NowTime: 3
+
+
+
+NowTime: 3
+
+The Road is: x9989992918999
+The road length:13
+The road length:13
+The road length:13
+
+The Road is: x99899929189990
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+insert:
+compareByFileAndOffset : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$7<const void * c>} 
+
+The Road is: x99899929189992
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+
+The Road is: x99899929189991
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+insert:
+compareByFileAndOffset : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$7<const void * c>} 
+NowTime: 3
+
+The Road is: x998999291899929
+
+The Road is: x998999291899929
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+
+
+
+NowTime: 3
+
+
+
+NowTime: 3
+
+The Road is: x9989992928999
+The road length:13
+The road length:13
+The road length:13
+
+The Road is: x99899929289990
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+insert:
+compareByFileAndOffset : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$7<const void * c>} 
+
+The Road is: x99899929289992
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+
+The Road is: x99899929289991
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+insert:
+compareByFileAndOffset : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$7<const void * c>} 
+NowTime: 3
+
+The Road is: x998999292899929
+
+The Road is: x998999292899929
+-----------------
+Now have compareByFileAndOffset
+Now have compare
+
+
+
+NowTime: 3
+
+
+NowTime: 3
+
+The Road is: x88999188999
+The road length:11
+The road length:11
+The road length:11
+
+The Road is: x889991889990
+-----------------
+Now have compareByFileAndOffset
+insert:
+compareByFileAndOffset : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$7<const void * c>} 
+
+The Road is: x889991889992
+-----------------
+Now have compareByFileAndOffset
+insert:
+compareByFileAndOffset : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$7<const void * c>} 
+
+The Road is: x889991889991
+-----------------
+Now have compareByFileAndOffset
+insert:
+compareByFileAndOffset : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$7<const void * c>} 
+NowTime: 4
+
+The Road is: x8899918899929
+The road length:13
+The road length:13
+The road length:13
+
+The Road is: x88999188999290
+-----------------
+Now have compareByFileAndOffset
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+The Road is: x88999188999292
+-----------------
+Now have compareByFileAndOffset
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+The Road is: x88999188999291
+-----------------
+Now have compareByFileAndOffset
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+
+
+
+
+NowTime: 4
+
+
+NowTime: 4
+
+The Road is: x88998999
+The road length:8
+The road length:8
+The road length:8
+
+The Road is: x889989990
+-----------------
+insert:
+compareByFileAndOffset : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$7<const void * c>} 
+
+The Road is: x889989992
+-----------------
+insert:
+compareByFileAndOffset : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$7<const void * c>} 
+
+The Road is: x889989991
+-----------------
+insert:
+compareByFileAndOffset : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$7<const void * c>} 
+NowTime: 4
+
+The Road is: x8899899929
+The road length:10
+The road length:10
+The road length:10
+
+The Road is: x88998999290
+-----------------
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+The Road is: x88998999292
+-----------------
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+The Road is: x88998999291
+-----------------
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+
+
+
+
+NowTime: 4
+
+
+
+
+NowTime: 4
+
+
+
+NowTime: 4
+
+The Road is: x998999188999
+The road length:12
+The road length:12
+The road length:12
+
+The Road is: x9989991889990
+-----------------
+Now have compareByFileAndOffset
+insert:
+compareByFileAndOffset : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$7<const void * c>} 
+
+The Road is: x9989991889992
+-----------------
+Now have compareByFileAndOffset
+insert:
+compareByFileAndOffset : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$7<const void * c>} 
+
+The Road is: x9989991889991
+-----------------
+Now have compareByFileAndOffset
+insert:
+compareByFileAndOffset : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$7<const void * c>} 
+NowTime: 4
+
+The Road is: x99899918899929
+The road length:14
+The road length:14
+The road length:14
+
+The Road is: x998999188999290
+-----------------
+Now have compareByFileAndOffset
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+The Road is: x998999188999292
+-----------------
+Now have compareByFileAndOffset
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+The Road is: x998999188999291
+-----------------
+Now have compareByFileAndOffset
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+
+
+
+
+NowTime: 4
+
+
+
+NowTime: 4
+
+The Road is: x998998999
+The road length:9
+The road length:9
+The road length:9
+
+The Road is: x9989989990
+-----------------
+insert:
+compareByFileAndOffset : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$7<const void * c>} 
+
+The Road is: x9989989992
+-----------------
+insert:
+compareByFileAndOffset : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$7<const void * c>} 
+
+The Road is: x9989989991
+-----------------
+insert:
+compareByFileAndOffset : &SymRegion{reg_$4<const void * a>} &SymRegion{reg_$7<const void * c>} 
+NowTime: 5
+
+The Road is: x99899899929
+The road length:11
+The road length:11
+The road length:11
+
+The Road is: x998998999290
+-----------------
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+The Road is: x998998999292
+-----------------
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+The Road is: x998998999291
+-----------------
+Now have compareByFileAndOffset
+insert:
+compare : &str1 &str2 
+
+
+
+
+
+NowTime: 5
+
+
+
+
+
+
+
+
+
+
+
+
+
+/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_32.cpp:31:9: warning: Violation of Consistency [CompareCheck.FunctionChecker]
+   31 |         ConsistencyChecker();
+      |         ^~~~~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_32.cpp:37:9: warning: Violation of Transitivity [CompareCheck.FunctionChecker]
+   37 |         TransiveChecker();
+      |         ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_32.cpp:43:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   43 |         SymmetryChecker();
+      |         ^~~~~~~~~~~~~~~~~
+/home/lizhilin/compare-order/testdataset/test-function/classification_results/filtered_files/test_32.cpp:49:9: warning: Violation of Anti-Symetry [CompareCheck.FunctionChecker]
+   49 |         SymmetryChecker();
+      |         ^~~~~~~~~~~~~~~~~
+4 warnings generated.
+Total paths analyzed: 0
+Total paths analyzed: 8
+Total paths analyzed: 6
+Total paths analyzed: 29
+Total paths analyzed: 50

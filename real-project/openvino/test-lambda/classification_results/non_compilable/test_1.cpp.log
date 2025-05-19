@@ -1,0 +1,11 @@
+/home/lizhilin/compare-order/real-project/openvino/test-lambda/classification_results/non_compilable/test_1.cpp:1:1: error: unknown type name 'To'
+    1 | To fix the compilation error caused by the missing operator< for `ov::Output<ov::Node>`, we need to define this operator within the `ov` namespace. Here's the corrected code:
+      | ^
+/home/lizhilin/compare-order/real-project/openvino/test-lambda/classification_results/non_compilable/test_1.cpp:1:7: error: expected ';' after top level declarator
+    1 | To fix the compilation error caused by the missing operator< for `ov::Output<ov::Node>`, we need to define this operator within the `ov` namespace. Here's the corrected code:
+      |       ^
+      |       ;
+/home/lizhilin/compare-order/real-project/openvino/test-lambda/classification_results/non_compilable/test_1.cpp:1:153: warning: missing terminating ' character [-Winvalid-pp-token]
+    1 | To fix the compilation error caused by the missing operator< for `ov::Output<ov::Node>`, we need to define this operator within the `ov` namespace. Here's the corrected code:
+      |                                                                                                                                                         ^
+1 warning and 2 errors generated.
