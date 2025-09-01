@@ -1,0 +1,7 @@
+//https://github.com/facebook/hhvm/commit/0343b23155206a0b567bb4f2d72e4d8db26dadf7
+
+bool compare_11(const Entry& a, const Entry& b) {
+  if (b.funcId == InvalidFuncId) return a.funcId != InvalidFuncId;
+  if (a.funcId == InvalidFuncId) return false;
+  return a.count > b.count;
+}

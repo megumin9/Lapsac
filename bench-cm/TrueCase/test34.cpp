@@ -1,19 +1,24 @@
 // https://github.com/blender/blender/commit/50f2857b1a844b3173c4ea6ad3b294c51c6781b6
 
-// Violation of Transitivity
-
 bool compare_34(ID* a, ID* b) {
+  
+    
     int* order_a = id_order_get(a);
     int* order_b = id_order_get(b);
 
     if (order_a && order_b) {
         if (*order_a < *order_b) {
-            return true;  
+            return true;
         }
         if (*order_a > *order_b) {
-            return false; 
+            return false;
         }
+    }else if (order_a || order_b){
+      if (order_a)
+        return true;
+      if (order_b)
+        return false;
     }
-
-    return strcmp(a->name, b->name) < 0; 
+    
+    return strcmp(a->name, b->name) < 0;
 }
